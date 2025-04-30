@@ -18,19 +18,33 @@ const headers = {
     'Sec-Ch-Ua-Platform': '"Windows"'
 };
 
-function randomDelay(min, max) {
-    return Math.floor(Math.random() * (max - min + 1) + min);
-}
+const states = [
+    { name: 'Berlin', plz: '14193' },
+    { name: 'Nordrhein-Westfalen', plz: '40213' },
+    { name: 'Hamburg', plz: '20095' },
+    { name: 'Baden-Württemberg', plz: '70173' },
+    { name: 'Bayern', plz: '80331' },
+    { name: 'Brandenburg', plz: '14467' },
+    { name: 'Bremen', plz: '28195' },
+    { name: 'Hessen', plz: '60311' },
+    { name: 'Mecklenburg-Vorpommern', plz: '19053' },
+    { name: 'Niedersachsen', plz: '30159' },
+    { name: 'Rheinland-Pfalz', plz: '55116' },
+    { name: 'Saarland', plz: '66111' },
+    { name: 'Sachsen', plz: '01067' },
+    { name: 'Sachsen-Anhalt', plz: '39104' },
+    { name: 'Schleswig-Holstein', plz: '24103' },
+    { name: 'Thüringen', plz: '99084' }
+];
 
-async function getPharmacies() {
+async function getPharmaciesForState(state) {
     try {
-        const url = 'https://www.aponet.de/apotheke/notdienstsuche?tx_aponetpharmacy_search%5Baction%5D=result&tx_aponetpharmacy_search%5Bcontroller%5D=Search&tx_aponetpharmacy_search%5Bsearch%5D%5Bplzort%5D=14193+Berlin+Dahlem&tx_aponetpharmacy_search%5Bsearch%5D%5Bdate%5D=&tx_aponetpharmacy_search%5Bsearch%5D%5Bstreet%5D=&tx_aponetpharmacy_search%5Bsearch%5D%5Bradius%5D=25&tx_aponetpharmacy_search%5Bsearch%5D%5Blat%5D=&tx_aponetpharmacy_search%5Bsearch%5D%5Blng%5D=&tx_aponetpharmacy_search%5Btoken%5D=216823d96ea25c051509d935955c130fbc72680fc1d3040fe3f8ca0e25f9cd02&type=1981';
+        const url = `https://www.aponet.de/apotheke/notdienstsuche?tx_aponetpharmacy_search%5Baction%5D=result&tx_aponetpharmacy_search%5Bcontroller%5D=Search&tx_aponetpharmacy_search%5Bsearch%5D%5Bplzort%5D=${state.plz}&tx_aponetpharmacy_search%5Bsearch%5D%5Bdate%5D=&tx_aponetpharmacy_search%5Bsearch%5D%5Bstreet%5D=&tx_aponetpharmacy_search%5Bsearch%5D%5Bradius%5D=25&tx_aponetpharmacy_search%5Bsearch%5D%5Blat%5D=&tx_aponetpharmacy_search%5Bsearch%5D%5Blng%5D=&tx_aponetpharmacy_search%5Btoken%5D=216823d96ea25c051509d935955c130fbc72680fc1d3040fe3f8ca0e25f9cd02&type=1981`;
         
         const response = await axios.get(url, { headers });
         const data = response.data;
         
-        const pharmacies = data.results.apotheken.apotheke.map(pharmacy => ({
-            il: 'Berlin',
+        return data.results.apotheken.apotheke.map(pharmacy => ({
             eczaneAdi: pharmacy.name,
             adres: `${pharmacy.strasse}, ${pharmacy.plz} ${pharmacy.ort}`,
             telefon: pharmacy.telefon,
@@ -39,12 +53,24 @@ async function getPharmacies() {
             mesafe: `${parseFloat(pharmacy.distanz).toFixed(1)} km`
         }));
         
-        fs.writeFileSync('eczaneler.json', JSON.stringify(pharmacies, null, 2), 'utf8');
-        console.log('Eczane bilgileri eczaneler.json dosyasına kaydedildi.');
-        
     } catch (error) {
-        console.error('Hata:', error.message);
+        console.error(`${state.name} için hata:`, error.message);
+        return [];
     }
 }
 
-getPharmacies();
+async function getAllPharmacies() {
+    const allPharmacies = {};
+    
+    for (const state of states) {
+        console.log(`${state.name} için eczane bilgileri çekiliyor...`);
+        const pharmacies = await getPharmaciesForState(state);
+        allPharmacies[state.name] = pharmacies;
+        console.log(`${state.name} için ${pharmacies.length} eczane bulundu.`);
+    }
+    
+    fs.writeFileSync('eczaneler.json', JSON.stringify(allPharmacies, null, 2), 'utf8');
+    console.log('Tüm eczane bilgileri eczaneler.json dosyasına kaydedildi.');
+}
+
+getAllPharmacies();
