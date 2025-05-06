@@ -105,14 +105,6 @@
       "mesafe": "10.0 km"
     },
     {
-      "eczaneAdi": "Konradin-Apotheke",
-      "adres": "Friedrich-Karl-Str. 23, 12103 Berlin",
-      "telefon": "+49 30 7525717",
-      "enlem": "52.455936",
-      "boylam": "13.3792964",
-      "mesafe": "10.0 km"
-    },
-    {
       "eczaneAdi": "Primus-Apotheke",
       "adres": "Aroser Allee 122, 13407 Berlin",
       "telefon": "+49 30 4955033",
@@ -199,6 +191,14 @@
       "enlem": "52.5816529",
       "boylam": "13.4045212",
       "mesafe": "15.9 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Fennpfuhl",
+      "adres": "Franz-Jacob-Str. 10, 10369 Berlin",
+      "telefon": "+49 30 97105429",
+      "enlem": "52.5279279",
+      "boylam": "13.4677274",
+      "mesafe": "16.4 km"
     }
   ],
   "Nordrhein-Westfalen": [
@@ -963,14 +963,6 @@
       "mesafe": "21.6 km"
     },
     {
-      "eczaneAdi": "Konradin-Apotheke",
-      "adres": "Friedrich-Karl-Str. 23, 12103 Berlin",
-      "telefon": "+49 30 7525717",
-      "enlem": "52.455936",
-      "boylam": "13.3792964",
-      "mesafe": "21.9 km"
-    },
-    {
       "eczaneAdi": "Apotheke ALT-LICHTENRADE",
       "adres": "Groß-Ziethener Str. 35, 12309 Berlin",
       "telefon": "+49 30 76766480",
@@ -1321,52 +1313,28 @@
       "mesafe": "7.5 km"
     },
     {
+      "eczaneAdi": "Diana-Apotheke",
+      "adres": "Hauptstr. 13, 23996 Bad Kleinen",
+      "telefon": "+49 38423 319",
+      "enlem": "53.7688492",
+      "boylam": "11.469892",
+      "mesafe": "16.0 km"
+    },
+    {
+      "eczaneAdi": "Hubertus-Apotheke",
+      "adres": "Amtsstraße 7, 19089 Crivitz",
+      "telefon": "+49 3863 55700",
+      "enlem": "53.5748618",
+      "boylam": "11.6510362",
+      "mesafe": "17.4 km"
+    },
+    {
       "eczaneAdi": "Löwen-Apotheke",
       "adres": "Spiegelberg 2, 19243 Wittenburg",
       "telefon": "+49 38852 52772",
       "enlem": "53.5120203",
       "boylam": "11.0723759",
       "mesafe": "25.6 km"
-    },
-    {
-      "eczaneAdi": "Stadt-Apotheke",
-      "adres": "Wismarsche Str. 36, 23936 Grevesmühlen",
-      "telefon": "+49 3881 2346",
-      "enlem": "53.8645865",
-      "boylam": "11.1888676",
-      "mesafe": "29.8 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Platz des Friedens",
-      "adres": "R.-Breitscheid-Str. 17, 23968 Wismar",
-      "telefon": "+49 3841 609826",
-      "enlem": "53.89996",
-      "boylam": "11.42181",
-      "mesafe": "30.1 km"
-    },
-    {
-      "eczaneAdi": "Lewitz-Apotheke",
-      "adres": "Wabeler Str. 10, 19306 Neustadt-Glewe",
-      "telefon": "+49 38757 20050",
-      "enlem": "53.3780602",
-      "boylam": "11.5924347",
-      "mesafe": "30.7 km"
-    },
-    {
-      "eczaneAdi": "Apotheke im Parchim-Center",
-      "adres": "Ludwigsluster Str. 29, 19370 Parchim",
-      "telefon": "+49 3871 81355",
-      "enlem": "53.4277888",
-      "boylam": "11.8290776",
-      "mesafe": "36.0 km"
-    },
-    {
-      "eczaneAdi": "Wandels Apotheke EKZ Grönauer Heide",
-      "adres": "Grönauer Heide 3, 23627 Groß Grönau",
-      "telefon": "+49 4509 79940",
-      "enlem": "53.8127",
-      "boylam": "10.73909",
-      "mesafe": "48.4 km"
     }
   ],
   "Niedersachsen": [
