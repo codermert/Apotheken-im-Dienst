@@ -3,7 +3,7 @@ name: Eczane Bot
 on:
   schedule:
     - cron: '*/5 * * * *'  # Her 5 dakikada bir çalışır
-  workflow_dispatch:  
+  workflow_dispatch:  # Manuel tetikleme için
 
 jobs:
   run-bot:
@@ -26,10 +26,13 @@ jobs:
         
     - name: Install ChromeDriver
       run: |
-        CHROME_VERSION=$(google-chrome --version | awk '{print $3}' | cut -d. -f1)
-        CHROMEDRIVER_VERSION=$(curl -s "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION")
-        curl -L -o chromedriver.zip "https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_VERSION/chromedriver_linux64.zip"
-        unzip chromedriver.zip
+        CHROME_VERSION=$(google-chrome --version | cut -d ' ' -f 3 | cut -d '.' -f 1)
+        echo "Chrome Version: $CHROME_VERSION"
+        wget -q "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION" -O chrome_version.txt
+        CHROMEDRIVER_VERSION=$(cat chrome_version.txt)
+        echo "ChromeDriver Version: $CHROMEDRIVER_VERSION"
+        wget -q "https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_VERSION/chromedriver_linux64.zip"
+        unzip -q chromedriver_linux64.zip
         chmod +x chromedriver
         sudo mv chromedriver /usr/local/bin/
         
