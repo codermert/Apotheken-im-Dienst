@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 13
+            "anzahl": 7
         },
         "quota": {
-            "verwendet": "127846"
+            "verwendet": "184755"
         },
         "apotheken": {
             "apotheke": [
@@ -55,23 +55,23 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Eichen-Apotheke",
+                    "name": "Apotheke zum Klostersee",
                     "kammer": "akmv",
-                    "id": "175442",
-                    "apo_id": "akmv175442",
-                    "strasse": "Basepohler Str. 11",
-                    "plz": "17153",
-                    "ort": "Reuterstadt Stavenhagen",
-                    "distanz": "23.43323386059",
-                    "longitude": "12.9068062",
-                    "latitude": "53.6976622",
-                    "telefon": "+49 39954 30778",
+                    "id": "171923",
+                    "apo_id": "akmv171923",
+                    "strasse": "Schloßstr. 60",
+                    "plz": "17159",
+                    "ort": "Dargun",
+                    "distanz": "22.969634493090002",
+                    "longitude": "12.8547925",
+                    "latitude": "53.8972319",
+                    "telefon": "+49 39959 20372",
                     "fax": [],
                     "email": [],
                     "startdatum": "18.05.2025",
-                    "startzeit": "10:00",
+                    "startzeit": "11:00",
                     "enddatum": "18.05.2025",
-                    "endzeit": "11:00"
+                    "endzeit": "12:00"
                 },
                 {
                     "name": "Apotheke am Petershof",
@@ -112,63 +112,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Stadt Apotheke Malchow",
-                    "kammer": "akmv",
-                    "id": "173878",
-                    "apo_id": "akmv173878",
-                    "strasse": "Güstrower Straße 25",
-                    "plz": "17213",
-                    "ort": "Malchow",
-                    "distanz": "34.572889820620006",
-                    "longitude": "12.4256345",
-                    "latitude": "53.4759312",
-                    "telefon": "+49 39932 19373",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "18.05.2025",
-                    "startzeit": "10:00",
-                    "enddatum": "18.05.2025",
-                    "endzeit": "11:00"
-                },
-                {
-                    "name": "Adler-Apotheke",
-                    "kammer": "akmv",
-                    "id": "173198",
-                    "apo_id": "akmv173198",
-                    "strasse": "Markt 8",
-                    "plz": "18258",
-                    "ort": "Schwaan",
-                    "distanz": "35.941774879570005",
-                    "longitude": "12.1068944",
-                    "latitude": "53.9393783",
-                    "telefon": "+49 3844 813696",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "18.05.2025",
-                    "startzeit": "10:00",
-                    "enddatum": "18.05.2025",
-                    "endzeit": "11:00"
-                },
-                {
-                    "name": "Rats-Apotheke",
-                    "kammer": "akmv",
-                    "id": "172688",
-                    "apo_id": "akmv172688",
-                    "strasse": "Lange Straße 37",
-                    "plz": "18246",
-                    "ort": "Bützow",
-                    "distanz": "39.854572889210004",
-                    "longitude": "11.9836702",
-                    "latitude": "53.8477457",
-                    "telefon": "+49 38461 3791",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "18.05.2025",
-                    "startzeit": "10:00",
-                    "enddatum": "18.05.2025",
-                    "endzeit": "11:00"
-                },
-                {
                     "name": "Marien-Apotheke",
                     "kammer": "akmv",
                     "id": "171855",
@@ -186,44 +129,6 @@
                     "startzeit": "08:00",
                     "enddatum": "19.05.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Müritz-Apotheke",
-                    "kammer": "akmv",
-                    "id": "174048",
-                    "apo_id": "akmv174048",
-                    "strasse": "Hohe Straße 36",
-                    "plz": "17207",
-                    "ort": "Röbel",
-                    "distanz": "44.50407116596",
-                    "longitude": "12.6052544",
-                    "latitude": "53.37403",
-                    "telefon": "+49 39931 50133",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "18.05.2025",
-                    "startzeit": "10:00",
-                    "enddatum": "18.05.2025",
-                    "endzeit": "11:00"
-                },
-                {
-                    "name": "Bären-Apotheke",
-                    "kammer": "akmv",
-                    "id": "177023",
-                    "apo_id": "akmv177023",
-                    "strasse": "Jahnstr. 17",
-                    "plz": "17087",
-                    "ort": "Altentreptow",
-                    "distanz": "45.16809143296",
-                    "longitude": "13.2450552",
-                    "latitude": "53.6893167",
-                    "telefon": "+49 3961 216540",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "18.05.2025",
-                    "startzeit": "10:00",
-                    "enddatum": "18.05.2025",
-                    "endzeit": "11:00"
                 },
                 {
                     "name": "Fritz-Reuter-Apotheke",
@@ -262,25 +167,6 @@
                     "startzeit": "08:00",
                     "enddatum": "19.05.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Alaska-Apotheke",
-                    "kammer": "akmv",
-                    "id": "175204",
-                    "apo_id": "akmv175204",
-                    "strasse": "An der Brücke 1",
-                    "plz": "19386",
-                    "ort": "Lübz",
-                    "distanz": "49.26192615195",
-                    "longitude": "12.0398246",
-                    "latitude": "53.4661651",
-                    "telefon": "+49 38731 5040",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "18.05.2025",
-                    "startzeit": "10:00",
-                    "enddatum": "18.05.2025",
-                    "endzeit": "11:00"
                 }
             ]
         }
