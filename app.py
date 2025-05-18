@@ -78,11 +78,8 @@ def main():
         print("Mevcut eczaneler.json dosyası bulunamadı veya geçersiz. Yeni dosya oluşturulacak.")
     
     for state in states:
-        # Eğer bu eyalet için veri zaten varsa, atla
-        if state['name'] in all_pharmacies and all_pharmacies[state['name']]:
-            print(f"{state['name']} için veri zaten mevcut. Atlanıyor.")
-            continue
-            
+        # Her eyalet için veriyi her zaman güncelle
+        print(f"{state['name']} için veri zaten mevcut. Güncelleniyor.")
         pharmacies = get_pharmacies_for_state(state)
         all_pharmacies[state['name']] = pharmacies
         
