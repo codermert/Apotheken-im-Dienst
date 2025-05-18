@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "311125"
+            "verwendet": "316558"
         },
         "apotheken": {
             "apotheke": [
@@ -53,6 +53,25 @@
                     "startzeit": "08:00",
                     "enddatum": "19.05.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Eichen-Apotheke",
+                    "kammer": "akmv",
+                    "id": "175442",
+                    "apo_id": "akmv175442",
+                    "strasse": "Basepohler Str. 11",
+                    "plz": "17153",
+                    "ort": "Reuterstadt Stavenhagen",
+                    "distanz": "23.43323386059",
+                    "longitude": "12.9068062",
+                    "latitude": "53.6976622",
+                    "telefon": "+49 39954 30778",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "18.05.2025",
+                    "endzeit": "18:00"
                 },
                 {
                     "name": "Apotheke am Petershof",
@@ -91,6 +110,25 @@
                     "startzeit": "08:00",
                     "enddatum": "19.05.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Weiden-Apotheke",
+                    "kammer": "akmv",
+                    "id": "171447",
+                    "apo_id": "akmv171447",
+                    "strasse": "John Brinckmann Str. 10 a",
+                    "plz": "18190",
+                    "ort": "Sanitz",
+                    "distanz": "36.09963410576",
+                    "longitude": "12.37375",
+                    "latitude": "54.07518",
+                    "telefon": "+49 38209 288",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "18.05.2025",
+                    "endzeit": "18:00"
                 },
                 {
                     "name": "Marien-Apotheke",
