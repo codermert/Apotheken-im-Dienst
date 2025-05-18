@@ -1,0 +1,117 @@
+{
+    "alerts": [],
+    "settings": {
+        "interface": "emergency",
+        "singleViewUid": "261"
+    },
+    "args": {
+        "action": "result",
+        "controller": "Search",
+        "search": {
+            "date": "",
+            "lat": "",
+            "lng": "",
+            "plzort": "Rheinland-Pfalz",
+            "radius": "25",
+            "street": ""
+        },
+        "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
+    },
+    "results": {
+        "parameter": {
+            "plzort": "Rheinland-Pfalz",
+            "strasse": [],
+            "radius": "25.0",
+            "longitude": "7.310645999999999",
+            "latitude": "49.953159899999996",
+            "limit": [],
+            "datum": []
+        },
+        "statistik": {
+            "anzahl": 4
+        },
+        "quota": {
+            "verwendet": "128404"
+        },
+        "apotheken": {
+            "apotheke": [
+                {
+                    "name": "Dr. Hückstädt's-Apotheke",
+                    "kammer": "lakrlp",
+                    "id": "50588",
+                    "apo_id": "lakrlp50588",
+                    "strasse": "Zur alten Schanze 2",
+                    "plz": "56856",
+                    "ort": "Zell",
+                    "distanz": "13.805205369449999",
+                    "longitude": "7.15849",
+                    "latitude": "50.0292",
+                    "telefon": "+49 6542 960442",
+                    "fax": "+49 6542 960436",
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Einhorn-Apotheke",
+                    "kammer": "lakrlp",
+                    "id": "21612",
+                    "apo_id": "lakrlp21612",
+                    "strasse": "Hauptstr. 51",
+                    "plz": "54486",
+                    "ort": "Mülheim",
+                    "distanz": "22.02851335698",
+                    "longitude": "7.0103929",
+                    "latitude": "49.9123965",
+                    "telefon": "+49 6534 338",
+                    "fax": "+49 6534 8806",
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Marien-Apotheke",
+                    "kammer": "lakrlp",
+                    "id": "22409",
+                    "apo_id": "lakrlp22409",
+                    "strasse": "Ravenéstr. 12",
+                    "plz": "56812",
+                    "ort": "Cochem",
+                    "distanz": "24.10365493616",
+                    "longitude": "7.1664121",
+                    "latitude": "50.1489516",
+                    "telefon": "+49 2671 4257",
+                    "fax": "+49 2671 5213",
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Apotheke im Globus",
+                    "kammer": "lakrlp",
+                    "id": "22674",
+                    "apo_id": "lakrlp22674",
+                    "strasse": "Zwischen Wasser 13",
+                    "plz": "55743",
+                    "ort": "Idar-Oberstein",
+                    "distanz": "25.42344948258",
+                    "longitude": "7.395239",
+                    "latitude": "49.7312284",
+                    "telefon": "+49 6784 903366",
+                    "fax": "+49 6784 903299",
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:30"
+                }
+            ]
+        }
+    }
+}

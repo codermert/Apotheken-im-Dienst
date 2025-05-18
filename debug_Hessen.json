@@ -1,0 +1,190 @@
+{
+    "alerts": [],
+    "settings": {
+        "interface": "emergency",
+        "singleViewUid": "261"
+    },
+    "args": {
+        "action": "result",
+        "controller": "Search",
+        "search": {
+            "date": "",
+            "lat": "",
+            "lng": "",
+            "plzort": "Hessen",
+            "radius": "25",
+            "street": ""
+        },
+        "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
+    },
+    "results": {
+        "parameter": {
+            "plzort": "Hessen",
+            "strasse": [],
+            "radius": "25.0",
+            "longitude": "9.028464699999999",
+            "latitude": "50.6080651",
+            "limit": [],
+            "datum": [],
+            "alternative": [
+                {
+                    "latitude": "52.0141926",
+                    "longitude": "10.7792508",
+                    "plz": "38835",
+                    "ort": "Hessen"
+                },
+                {
+                    "latitude": "49.5654303",
+                    "longitude": "9.0707016",
+                    "plz": "64754",
+                    "ort": "Hesseneck"
+                },
+                {
+                    "latitude": "49.5743828",
+                    "longitude": "9.0897492",
+                    "plz": "64754",
+                    "ort": "Hesseneck",
+                    "teilort": "Hesselbach"
+                },
+                {
+                    "latitude": "49.5533024",
+                    "longitude": "9.0901539",
+                    "plz": "64754",
+                    "ort": "Hesseneck",
+                    "teilort": "Hoheroth"
+                },
+                {
+                    "latitude": "49.5355221",
+                    "longitude": "9.076781",
+                    "plz": "64754",
+                    "ort": "Hesseneck",
+                    "teilort": "Kailbach"
+                },
+                {
+                    "latitude": "49.5654303",
+                    "longitude": "9.0707016",
+                    "plz": "64754",
+                    "ort": "Hesseneck",
+                    "teilort": "Schöllenbach"
+                },
+                {
+                    "latitude": "49.69089",
+                    "longitude": "7.9589962",
+                    "plz": "67294",
+                    "ort": "Hessenhütte"
+                },
+                {
+                    "latitude": "48.4363299",
+                    "longitude": "9.7748614",
+                    "plz": "89143",
+                    "ort": "Hinterer Hessenhof"
+                },
+                {
+                    "latitude": "49.8673718",
+                    "longitude": "9.6111669",
+                    "plz": "97828",
+                    "ort": "Hessenmühle"
+                },
+                {
+                    "latitude": "50.7537299",
+                    "longitude": "12.3713558",
+                    "plz": "08439",
+                    "ort": "Langenhessen"
+                },
+                {
+                    "latitude": "52.0058506",
+                    "longitude": "10.8037843",
+                    "plz": "38835",
+                    "ort": "Hessen",
+                    "teilort": "Hessenbau"
+                }
+            ]
+        },
+        "statistik": {
+            "anzahl": 4
+        },
+        "quota": {
+            "verwendet": "127620"
+        },
+        "apotheken": {
+            "apotheke": [
+                {
+                    "name": "Bahnhof Apotheke",
+                    "kammer": "lakh",
+                    "id": "689",
+                    "apo_id": "lakh689",
+                    "strasse": "Bahnhofstr. 6",
+                    "plz": "35305",
+                    "ort": "Grünberg",
+                    "distanz": "5.18189595891",
+                    "longitude": "8.9590098",
+                    "latitude": "50.59337",
+                    "telefon": "+49 6401 91230",
+                    "fax": "+49 6401 912323",
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Haupt Apotheke",
+                    "kammer": "lakh",
+                    "id": "1315",
+                    "apo_id": "lakh1315",
+                    "strasse": "Neustadt 9",
+                    "plz": "35260",
+                    "ort": "Stadtallendorf",
+                    "distanz": "18.4862484748",
+                    "longitude": "8.960348",
+                    "latitude": "50.7685126",
+                    "telefon": "+49 6429 391",
+                    "fax": "+49 6429 1279",
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Apotheke am Ludwigsplatz",
+                    "kammer": "lakh",
+                    "id": "628",
+                    "apo_id": "lakh628",
+                    "strasse": "Ludwigsplatz 11",
+                    "plz": "35390",
+                    "ort": "Gießen",
+                    "distanz": "24.8424244287",
+                    "longitude": "8.6798832",
+                    "latitude": "50.5827102",
+                    "telefon": "+49 641 975880",
+                    "fax": "+49 641 975885",
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Apotheke in Grebenhain",
+                    "kammer": "lakh",
+                    "id": "1668",
+                    "apo_id": "lakh1668",
+                    "strasse": "Hauptstraße 37",
+                    "plz": "36355",
+                    "ort": "Grebenhain",
+                    "distanz": "25.38528037595",
+                    "longitude": "9.3336549",
+                    "latitude": "50.48863",
+                    "telefon": "+49 6644 286",
+                    "fax": "+49 6644 919177",
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                }
+            ]
+        }
+    }
+}

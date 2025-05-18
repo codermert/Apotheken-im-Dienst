@@ -1,0 +1,649 @@
+{
+    "alerts": [],
+    "settings": {
+        "interface": "emergency",
+        "singleViewUid": "261"
+    },
+    "args": {
+        "action": "result",
+        "controller": "Search",
+        "search": {
+            "date": "",
+            "lat": "",
+            "lng": "",
+            "plzort": "Brandenburg",
+            "radius": "25",
+            "street": ""
+        },
+        "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
+    },
+    "results": {
+        "parameter": {
+            "plzort": "Brandenburg",
+            "strasse": [],
+            "radius": "25.0",
+            "longitude": "13.2461296",
+            "latitude": "52.8455492",
+            "limit": [],
+            "datum": [],
+            "alternative": [
+                {
+                    "latitude": "52.4103105",
+                    "longitude": "12.5522004",
+                    "plz": "14770",
+                    "ort": "Brandenburg"
+                },
+                {
+                    "latitude": "52.3951394",
+                    "longitude": "12.5085743",
+                    "plz": "14770",
+                    "ort": "Brandenburg",
+                    "teilort": "Neuendorf"
+                },
+                {
+                    "latitude": "52.4436082",
+                    "longitude": "12.5139972",
+                    "plz": "14770",
+                    "ort": "Brandenburg",
+                    "teilort": "Nord"
+                },
+                {
+                    "latitude": "52.4083081",
+                    "longitude": "12.531516",
+                    "plz": "14772",
+                    "ort": "Brandenburg",
+                    "teilort": "Altstadt"
+                },
+                {
+                    "latitude": "52.4371996",
+                    "longitude": "12.5250229",
+                    "plz": "14772",
+                    "ort": "Brandenburg",
+                    "teilort": "Butterlake"
+                },
+                {
+                    "latitude": "52.4240011",
+                    "longitude": "12.5180172",
+                    "plz": "14772",
+                    "ort": "Brandenburg",
+                    "teilort": "Görden"
+                },
+                {
+                    "latitude": "52.4436082",
+                    "longitude": "12.5139972",
+                    "plz": "14772",
+                    "ort": "Brandenburg",
+                    "teilort": "Nord"
+                },
+                {
+                    "latitude": "52.4121098",
+                    "longitude": "12.5230174",
+                    "plz": "14772",
+                    "ort": "Brandenburg",
+                    "teilort": "Walzwerksiedlung"
+                },
+                {
+                    "latitude": "52.3843985",
+                    "longitude": "12.4294969",
+                    "plz": "14774",
+                    "ort": "Brandenburg"
+                },
+                {
+                    "latitude": "52.3774817",
+                    "longitude": "12.4210793",
+                    "plz": "14774",
+                    "ort": "Brandenburg",
+                    "teilort": "Kirchmöser"
+                },
+                {
+                    "latitude": "52.3829",
+                    "longitude": "12.4410982",
+                    "plz": "14774",
+                    "ort": "Brandenburg",
+                    "teilort": "Kirchmöser Ost"
+                },
+                {
+                    "latitude": "52.3251423",
+                    "longitude": "12.4418626",
+                    "plz": "14774",
+                    "ort": "Brandenburg",
+                    "teilort": "Mahlenzien"
+                },
+                {
+                    "latitude": "52.4345021",
+                    "longitude": "12.40553",
+                    "plz": "14774",
+                    "ort": "Brandenburg",
+                    "teilort": "Neu Plaue"
+                },
+                {
+                    "latitude": "52.4098113",
+                    "longitude": "12.4507119",
+                    "plz": "14774",
+                    "ort": "Brandenburg",
+                    "teilort": "Plauer Hof"
+                },
+                {
+                    "latitude": "52.3753076",
+                    "longitude": "12.5802862",
+                    "plz": "14776",
+                    "ort": "Brandenburg"
+                },
+                {
+                    "latitude": "52.3814124",
+                    "longitude": "12.5293126",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Eigene Scholle"
+                },
+                {
+                    "latitude": "52.4433999",
+                    "longitude": "12.6182016",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Fuchsbruch"
+                },
+                {
+                    "latitude": "52.4240011",
+                    "longitude": "12.5180172",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Görden"
+                },
+                {
+                    "latitude": "52.3681478",
+                    "longitude": "12.5478387",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Göttin"
+                },
+                {
+                    "latitude": "52.3774817",
+                    "longitude": "12.4210793",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Kirchmöser"
+                },
+                {
+                    "latitude": "52.4361085",
+                    "longitude": "12.6287057",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Klein Kreutz"
+                },
+                {
+                    "latitude": "52.3688177",
+                    "longitude": "12.4688243",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Malge Zeltplatz"
+                },
+                {
+                    "latitude": "52.4031673",
+                    "longitude": "12.5937311",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Neu Schmerzke"
+                },
+                {
+                    "latitude": "52.3624202",
+                    "longitude": "12.59249",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Paterdamm"
+                },
+                {
+                    "latitude": "52.4266115",
+                    "longitude": "12.5785865",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Pfänderbucht"
+                },
+                {
+                    "latitude": "52.4072383",
+                    "longitude": "12.4140466",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Plaue"
+                },
+                {
+                    "latitude": "52.4430984",
+                    "longitude": "12.6563868",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Saaringen"
+                },
+                {
+                    "latitude": "52.3889707",
+                    "longitude": "12.5947923",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Schmerzke"
+                },
+                {
+                    "latitude": "52.3560107",
+                    "longitude": "12.4730061",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Wendgräben"
+                },
+                {
+                    "latitude": "52.3726503",
+                    "longitude": "12.5055885",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Wilhelmsdorf"
+                },
+                {
+                    "latitude": "52.4130917",
+                    "longitude": "12.6128326",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Wust"
+                },
+                {
+                    "latitude": "53.5545426",
+                    "longitude": "13.2350643",
+                    "plz": "17033",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Broda"
+                },
+                {
+                    "latitude": "53.526389",
+                    "longitude": "13.2837715",
+                    "plz": "17033",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Fünfeichen"
+                },
+                {
+                    "latitude": "53.5570802",
+                    "longitude": "13.2604881",
+                    "plz": "17033",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Jahnviertel"
+                },
+                {
+                    "latitude": "53.5558301",
+                    "longitude": "13.2722242",
+                    "plz": "17033",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Katharinenviertel"
+                },
+                {
+                    "latitude": "53.570802",
+                    "longitude": "13.2630961",
+                    "plz": "17033",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Reitbahnviertel"
+                },
+                {
+                    "latitude": "53.5594895",
+                    "longitude": "13.2445791",
+                    "plz": "17033",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Stadtgebiet West"
+                },
+                {
+                    "latitude": "53.5183104",
+                    "longitude": "13.2623137",
+                    "plz": "17033",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Tannenkrug"
+                },
+                {
+                    "latitude": "53.5678807",
+                    "longitude": "13.2074191",
+                    "plz": "17033",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Weitin"
+                },
+                {
+                    "latitude": "53.5880908",
+                    "longitude": "13.300364",
+                    "plz": "17034",
+                    "ort": "Neubrandenburg"
+                },
+                {
+                    "latitude": "53.5757897",
+                    "longitude": "13.2719275",
+                    "plz": "17034",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Brauereiviertel"
+                },
+                {
+                    "latitude": "53.5774503",
+                    "longitude": "13.2815322",
+                    "plz": "17034",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Datzeberg"
+                },
+                {
+                    "latitude": "53.5822877",
+                    "longitude": "13.2861727",
+                    "plz": "17034",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Datzeviertel"
+                },
+                {
+                    "latitude": "53.585491",
+                    "longitude": "13.2743736",
+                    "plz": "17034",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Eschenhof"
+                },
+                {
+                    "latitude": "53.5655894",
+                    "longitude": "13.2801113",
+                    "plz": "17034",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Ihlenfelder Vorstadt"
+                },
+                {
+                    "latitude": "53.5700917",
+                    "longitude": "13.2733664",
+                    "plz": "17034",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Industriegelände"
+                },
+                {
+                    "latitude": "53.56599",
+                    "longitude": "13.2890595",
+                    "plz": "17034",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Industrieviertel"
+                },
+                {
+                    "latitude": "53.5756989",
+                    "longitude": "13.2945634",
+                    "plz": "17034",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Monckeshof"
+                },
+                {
+                    "latitude": "53.570802",
+                    "longitude": "13.2630961",
+                    "plz": "17034",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Reitbahnviertel"
+                },
+                {
+                    "latitude": "53.5715924",
+                    "longitude": "13.2777011",
+                    "plz": "17034",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Reitbahnweg"
+                },
+                {
+                    "latitude": "53.5661075",
+                    "longitude": "13.261936",
+                    "plz": "17034",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Vogelviertel"
+                },
+                {
+                    "latitude": "53.5525979",
+                    "longitude": "13.33756",
+                    "plz": "17036",
+                    "ort": "Neubrandenburg"
+                },
+                {
+                    "latitude": "53.5369087",
+                    "longitude": "13.3169565",
+                    "plz": "17036",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Carlshöhe"
+                },
+                {
+                    "latitude": "53.5470892",
+                    "longitude": "13.304357",
+                    "plz": "17036",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Fritscheshof"
+                },
+                {
+                    "latitude": "53.5571603",
+                    "longitude": "13.329511",
+                    "plz": "17036",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Küssow"
+                },
+                {
+                    "latitude": "53.5433914",
+                    "longitude": "13.2942666",
+                    "plz": "17036",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Ost"
+                },
+                {
+                    "latitude": "53.55419",
+                    "longitude": "13.292369",
+                    "plz": "17036",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Oststadt"
+                },
+                {
+                    "latitude": "53.5607875",
+                    "longitude": "13.2597776",
+                    "plz": "17033",
+                    "ort": "Neubrandenburg"
+                },
+                {
+                    "latitude": "53.5589927",
+                    "longitude": "13.2595708",
+                    "plz": "17033",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Innenstadt"
+                },
+                {
+                    "latitude": "53.5354015",
+                    "longitude": "13.2647779",
+                    "plz": "17033",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Lindenberg"
+                },
+                {
+                    "latitude": "53.5472922",
+                    "longitude": "13.2599845",
+                    "plz": "17033",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Südstadt"
+                },
+                {
+                    "latitude": "53.5553921",
+                    "longitude": "13.259283",
+                    "plz": "17033",
+                    "ort": "Neubrandenburg",
+                    "teilort": "Zentrum"
+                },
+                {
+                    "latitude": "52.4083081",
+                    "longitude": "12.531516",
+                    "plz": "14770",
+                    "ort": "Brandenburg",
+                    "teilort": "Altstadt"
+                },
+                {
+                    "latitude": "52.4534085",
+                    "longitude": "12.5277119",
+                    "plz": "14772",
+                    "ort": "Brandenburg"
+                },
+                {
+                    "latitude": "52.4482017",
+                    "longitude": "12.5185118",
+                    "plz": "14772",
+                    "ort": "Brandenburg",
+                    "teilort": "Bohnenland"
+                },
+                {
+                    "latitude": "52.4245989",
+                    "longitude": "12.5284133",
+                    "plz": "14772",
+                    "ort": "Brandenburg",
+                    "teilort": "Hohenstücken"
+                },
+                {
+                    "latitude": "52.3366175",
+                    "longitude": "12.46261",
+                    "plz": "14774",
+                    "ort": "Brandenburg",
+                    "teilort": "Görisgräben"
+                },
+                {
+                    "latitude": "52.3851121",
+                    "longitude": "12.4311157",
+                    "plz": "14774",
+                    "ort": "Brandenburg",
+                    "teilort": "Kirchmöser West"
+                },
+                {
+                    "latitude": "52.4072383",
+                    "longitude": "12.4140466",
+                    "plz": "14774",
+                    "ort": "Brandenburg",
+                    "teilort": "Plaue"
+                },
+                {
+                    "latitude": "52.4128175",
+                    "longitude": "12.5613015",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Dom"
+                },
+                {
+                    "latitude": "52.4159386",
+                    "longitude": "12.6427531",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Gollwitz"
+                },
+                {
+                    "latitude": "52.4245989",
+                    "longitude": "12.5284133",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Hohenstücken"
+                },
+                {
+                    "latitude": "52.4214125",
+                    "longitude": "12.5736942",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Krakauer Vorstadt"
+                },
+                {
+                    "latitude": "52.4179023",
+                    "longitude": "12.5689907",
+                    "plz": "14776",
+                    "ort": "Brandenburg",
+                    "teilort": "Neustadt"
+                }
+            ]
+        },
+        "statistik": {
+            "anzahl": 5
+        },
+        "quota": {
+            "verwendet": "127091"
+        },
+        "apotheken": {
+            "apotheke": [
+                {
+                    "name": "Askania-Apotheke",
+                    "kammer": "lakbb",
+                    "id": "458",
+                    "apo_id": "lakbb458",
+                    "strasse": "Berliner Straße 119",
+                    "plz": "16515",
+                    "ort": "Oranienburg",
+                    "distanz": "12.191458375969999",
+                    "longitude": "13.2412399",
+                    "latitude": "52.736035",
+                    "telefon": "03301  / 543 80",
+                    "fax": "03301 / 546 96",
+                    "email": "askania-apotheke@t-online.de",
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Greifen-Apotheke",
+                    "kammer": "lakbb",
+                    "id": "400",
+                    "apo_id": "lakbb400",
+                    "strasse": "Amtswallstraße 1",
+                    "plz": "16792",
+                    "ort": "Zehdenick",
+                    "distanz": "16.14511057831",
+                    "longitude": "13.3339695",
+                    "latitude": "52.9805621",
+                    "telefon": "+49 3307 310172",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Akazien Apotheke",
+                    "kammer": "lakbb",
+                    "id": "104",
+                    "apo_id": "lakbb104",
+                    "strasse": "Waldstraße 56",
+                    "plz": "16761",
+                    "ort": "Hennigsdorf",
+                    "distanz": "22.31057542152",
+                    "longitude": "13.1991106",
+                    "latitude": "52.6471022",
+                    "telefon": "03302 800 655",
+                    "fax": "03302 272 763",
+                    "email": "akazien_apotheke@t-online.de",
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Steinbock Apotheke Schildow",
+                    "kammer": "lakbb",
+                    "id": "653",
+                    "apo_id": "lakbb653",
+                    "strasse": "Bahnhofstraße 5b",
+                    "plz": "16552",
+                    "ort": "Mühlenbecker Land - OT Schildow",
+                    "distanz": "24.81145586826",
+                    "longitude": "13.3749982",
+                    "latitude": "52.6367557",
+                    "telefon": "+49 33056 270004",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke Schönow",
+                    "kammer": "lakbb",
+                    "id": "256",
+                    "apo_id": "lakbb256",
+                    "strasse": "Dorfstraße 4",
+                    "plz": "16321",
+                    "ort": "Bernau bei Berlin",
+                    "distanz": "27.22400574388",
+                    "longitude": "13.5373192",
+                    "latitude": "52.6763001",
+                    "telefon": "03338 / 704 230",
+                    "fax": "03338 / 704 232",
+                    "email": "Info@apotheke-schoenow.de",
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                }
+            ]
+        }
+    }
+}

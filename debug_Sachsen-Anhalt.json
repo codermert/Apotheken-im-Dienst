@@ -1,0 +1,155 @@
+{
+    "alerts": [],
+    "settings": {
+        "interface": "emergency",
+        "singleViewUid": "261"
+    },
+    "args": {
+        "action": "result",
+        "controller": "Search",
+        "search": {
+            "date": "",
+            "lat": "",
+            "lng": "",
+            "plzort": "Sachsen-Anhalt",
+            "radius": "25",
+            "street": ""
+        },
+        "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
+    },
+    "results": {
+        "parameter": {
+            "plzort": "Sachsen-Anhalt",
+            "strasse": [],
+            "radius": "25.0",
+            "longitude": "11.7003344",
+            "latitude": "52.008906499999995",
+            "limit": [],
+            "datum": []
+        },
+        "statistik": {
+            "anzahl": 6
+        },
+        "quota": {
+            "verwendet": "129125"
+        },
+        "apotheken": {
+            "apotheke": [
+                {
+                    "name": "Hufeland-Apotheke",
+                    "kammer": "aksa",
+                    "id": "85",
+                    "apo_id": "aksa85",
+                    "strasse": "Genthiner Str. 18",
+                    "plz": "39114",
+                    "ort": "Magdeburg",
+                    "distanz": "12.31269342369",
+                    "longitude": "11.6642689",
+                    "latitude": "52.1173082",
+                    "telefon": "+49 391 857425",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Schloß-Apotheke",
+                    "kammer": "aksa",
+                    "id": "460",
+                    "apo_id": "aksa460",
+                    "strasse": "Schloßstr. 93",
+                    "plz": "39240",
+                    "ort": "Calbe",
+                    "distanz": "12.644843254969999",
+                    "longitude": "11.7778796",
+                    "latitude": "51.9058541",
+                    "telefon": "+49 39291 2691",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Altstadt Apotheke OHG",
+                    "kammer": "aksa",
+                    "id": "494",
+                    "apo_id": "aksa494",
+                    "strasse": "Otto-von-Guericke-Straße 111",
+                    "plz": "39104",
+                    "ort": "Magdeburg",
+                    "distanz": "13.285269207519999",
+                    "longitude": "11.6275618",
+                    "latitude": "52.1195598",
+                    "telefon": "+49 391 5616377",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Moritz-Apotheke",
+                    "kammer": "aksa",
+                    "id": "685",
+                    "apo_id": "aksa685",
+                    "strasse": "Schnarsleber Str. 11",
+                    "plz": "39167",
+                    "ort": "Niederndodeleben",
+                    "distanz": "19.7173640954",
+                    "longitude": "11.50095",
+                    "latitude": "52.1366",
+                    "telefon": "+49 39204 82427",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Rote Apotheke",
+                    "kammer": "aksa",
+                    "id": "234",
+                    "apo_id": "aksa234",
+                    "strasse": "Friedensallee 3a",
+                    "plz": "06406",
+                    "ort": "Bernburg",
+                    "distanz": "23.890896850689998",
+                    "longitude": "11.7412",
+                    "latitude": "51.79568",
+                    "telefon": "+49 3471 372072",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Rats- und Stadtapotheke",
+                    "kammer": "aksa",
+                    "id": "173",
+                    "apo_id": "aksa173",
+                    "strasse": "Alte Brücke 37",
+                    "plz": "39261",
+                    "ort": "Zerbst",
+                    "distanz": "26.87094818348",
+                    "longitude": "12.08505",
+                    "latitude": "51.96529",
+                    "telefon": "+49 3923 2462",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                }
+            ]
+        }
+    }
+}

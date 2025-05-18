@@ -1,0 +1,3584 @@
+{
+    "alerts": [],
+    "settings": {
+        "interface": "emergency",
+        "singleViewUid": "261"
+    },
+    "args": {
+        "action": "result",
+        "controller": "Search",
+        "search": {
+            "date": "",
+            "lat": "",
+            "lng": "",
+            "plzort": "Hamburg",
+            "radius": "25",
+            "street": ""
+        },
+        "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
+    },
+    "results": {
+        "parameter": {
+            "plzort": "Hamburg",
+            "strasse": [],
+            "radius": "25.0",
+            "longitude": "10.000653999999999",
+            "latitude": "53.550340999999996",
+            "limit": [],
+            "datum": [],
+            "alternative": [
+                {
+                    "latitude": "53.5128614",
+                    "longitude": "9.9122958",
+                    "plz": "20095",
+                    "ort": "Hamburg",
+                    "teilort": "Altenwerder"
+                },
+                {
+                    "latitude": "53.5530681",
+                    "longitude": "9.9911573",
+                    "plz": "20095",
+                    "ort": "Hamburg",
+                    "teilort": "Hamburg-Altstadt"
+                },
+                {
+                    "latitude": "53.5477892",
+                    "longitude": "10.0189823",
+                    "plz": "20095",
+                    "ort": "Hamburg",
+                    "teilort": "Klostertor"
+                },
+                {
+                    "latitude": "53.5550822",
+                    "longitude": "10.0156278",
+                    "plz": "20095",
+                    "ort": "Hamburg",
+                    "teilort": "St. Georg"
+                },
+                {
+                    "latitude": "53.5442678",
+                    "longitude": "10.0249718",
+                    "plz": "20097",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5658725",
+                    "longitude": "9.9061894",
+                    "plz": "22761",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5646494",
+                    "longitude": "9.9017917",
+                    "plz": "22761",
+                    "ort": "Hamburg",
+                    "teilort": "Bahrenfeld"
+                },
+                {
+                    "latitude": "53.5541686",
+                    "longitude": "9.9029878",
+                    "plz": "22763",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5564979",
+                    "longitude": "9.8898577",
+                    "plz": "22763",
+                    "ort": "Hamburg",
+                    "teilort": "Othmarschen"
+                },
+                {
+                    "latitude": "53.5542007",
+                    "longitude": "9.9284296",
+                    "plz": "22763",
+                    "ort": "Hamburg",
+                    "teilort": "Ottensen"
+                },
+                {
+                    "latitude": "53.5548685",
+                    "longitude": "9.9376836",
+                    "plz": "22765",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5511821",
+                    "longitude": "9.9405525",
+                    "plz": "22765",
+                    "ort": "Hamburg",
+                    "teilort": "Altona-Altstadt"
+                },
+                {
+                    "latitude": "53.5680783",
+                    "longitude": "9.9479988",
+                    "plz": "22765",
+                    "ort": "Hamburg",
+                    "teilort": "Altona-Nord"
+                },
+                {
+                    "latitude": "53.5542007",
+                    "longitude": "9.9284296",
+                    "plz": "22765",
+                    "ort": "Hamburg",
+                    "teilort": "Ottensen"
+                },
+                {
+                    "latitude": "53.5484785",
+                    "longitude": "9.9465689",
+                    "plz": "22767",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5511821",
+                    "longitude": "9.9405525",
+                    "plz": "22767",
+                    "ort": "Hamburg",
+                    "teilort": "Altona-Altstadt"
+                },
+                {
+                    "latitude": "53.5542007",
+                    "longitude": "9.9284296",
+                    "plz": "22767",
+                    "ort": "Hamburg",
+                    "teilort": "Ottensen"
+                },
+                {
+                    "latitude": "53.5572886",
+                    "longitude": "9.9667767",
+                    "plz": "22767",
+                    "ort": "Hamburg",
+                    "teilort": "St. Pauli"
+                },
+                {
+                    "latitude": "53.5663585",
+                    "longitude": "9.9499773",
+                    "plz": "22769",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5511821",
+                    "longitude": "9.9405525",
+                    "plz": "22769",
+                    "ort": "Hamburg",
+                    "teilort": "Altona-Altstadt"
+                },
+                {
+                    "latitude": "53.5680783",
+                    "longitude": "9.9479988",
+                    "plz": "22769",
+                    "ort": "Hamburg",
+                    "teilort": "Altona-Nord"
+                },
+                {
+                    "latitude": "53.5646494",
+                    "longitude": "9.9017917",
+                    "plz": "22769",
+                    "ort": "Hamburg",
+                    "teilort": "Bahrenfeld"
+                },
+                {
+                    "latitude": "53.5757416",
+                    "longitude": "9.9537005",
+                    "plz": "22769",
+                    "ort": "Hamburg",
+                    "teilort": "Eimsbüttel"
+                },
+                {
+                    "latitude": "53.5572886",
+                    "longitude": "9.9667767",
+                    "plz": "22769",
+                    "ort": "Hamburg",
+                    "teilort": "St. Pauli"
+                },
+                {
+                    "latitude": "53.5907225",
+                    "longitude": "9.9304171",
+                    "plz": "22769",
+                    "ort": "Hamburg",
+                    "teilort": "Stellingen"
+                },
+                {
+                    "latitude": "53.5477892",
+                    "longitude": "10.0189823",
+                    "plz": "20097",
+                    "ort": "Hamburg",
+                    "teilort": "Klostertor"
+                },
+                {
+                    "latitude": "53.5550822",
+                    "longitude": "10.0156278",
+                    "plz": "20097",
+                    "ort": "Hamburg",
+                    "teilort": "St. Georg"
+                },
+                {
+                    "latitude": "53.5559583",
+                    "longitude": "10.0161674",
+                    "plz": "20099",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5530681",
+                    "longitude": "9.9911573",
+                    "plz": "20099",
+                    "ort": "Hamburg",
+                    "teilort": "Hamburg-Altstadt"
+                },
+                {
+                    "latitude": "53.5550822",
+                    "longitude": "10.0156278",
+                    "plz": "20099",
+                    "ort": "Hamburg",
+                    "teilort": "St. Georg"
+                },
+                {
+                    "latitude": "53.5743693",
+                    "longitude": "9.9713722",
+                    "plz": "20144",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5757416",
+                    "longitude": "9.9537005",
+                    "plz": "20144",
+                    "ort": "Hamburg",
+                    "teilort": "Eimsbüttel"
+                },
+                {
+                    "latitude": "53.5767081",
+                    "longitude": "9.988846",
+                    "plz": "20144",
+                    "ort": "Hamburg",
+                    "teilort": "Harvestehude"
+                },
+                {
+                    "latitude": "53.5829017",
+                    "longitude": "9.9746188",
+                    "plz": "20144",
+                    "ort": "Hamburg",
+                    "teilort": "Hoheluft-Ost"
+                },
+                {
+                    "latitude": "53.5669674",
+                    "longitude": "9.9885043",
+                    "plz": "20144",
+                    "ort": "Hamburg",
+                    "teilort": "Rotherbaum"
+                },
+                {
+                    "latitude": "53.5643716",
+                    "longitude": "9.9801676",
+                    "plz": "20146",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5767081",
+                    "longitude": "9.988846",
+                    "plz": "20146",
+                    "ort": "Hamburg",
+                    "teilort": "Harvestehude"
+                },
+                {
+                    "latitude": "53.5669674",
+                    "longitude": "9.9885043",
+                    "plz": "20146",
+                    "ort": "Hamburg",
+                    "teilort": "Rotherbaum"
+                },
+                {
+                    "latitude": "53.56787",
+                    "longitude": "9.9908695",
+                    "plz": "20148",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5767081",
+                    "longitude": "9.988846",
+                    "plz": "20148",
+                    "ort": "Hamburg",
+                    "teilort": "Harvestehude"
+                },
+                {
+                    "latitude": "53.5669674",
+                    "longitude": "9.9885043",
+                    "plz": "20148",
+                    "ort": "Hamburg",
+                    "teilort": "Rotherbaum"
+                },
+                {
+                    "latitude": "53.5795701",
+                    "longitude": "9.9880816",
+                    "plz": "20149",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5767081",
+                    "longitude": "9.988846",
+                    "plz": "20149",
+                    "ort": "Hamburg",
+                    "teilort": "Harvestehude"
+                },
+                {
+                    "latitude": "53.5669674",
+                    "longitude": "9.9885043",
+                    "plz": "20149",
+                    "ort": "Hamburg",
+                    "teilort": "Rotherbaum"
+                },
+                {
+                    "latitude": "53.5952274",
+                    "longitude": "9.9881086",
+                    "plz": "20249",
+                    "ort": "Hamburg",
+                    "teilort": "Eppendorf"
+                },
+                {
+                    "latitude": "53.5767081",
+                    "longitude": "9.988846",
+                    "plz": "20249",
+                    "ort": "Hamburg",
+                    "teilort": "Harvestehude"
+                },
+                {
+                    "latitude": "53.5937223",
+                    "longitude": "10.0003034",
+                    "plz": "20249",
+                    "ort": "Hamburg",
+                    "teilort": "Winterhude"
+                },
+                {
+                    "latitude": "53.5949712",
+                    "longitude": "9.9778743",
+                    "plz": "20251",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5952274",
+                    "longitude": "9.9881086",
+                    "plz": "20251",
+                    "ort": "Hamburg",
+                    "teilort": "Eppendorf"
+                },
+                {
+                    "latitude": "53.5829017",
+                    "longitude": "9.9746188",
+                    "plz": "20251",
+                    "ort": "Hamburg",
+                    "teilort": "Hoheluft-Ost"
+                },
+                {
+                    "latitude": "53.57336",
+                    "longitude": "9.9474592",
+                    "plz": "20253",
+                    "ort": "Hamburg",
+                    "teilort": "Eimsbüttel"
+                },
+                {
+                    "latitude": "53.5829017",
+                    "longitude": "9.9746188",
+                    "plz": "20253",
+                    "ort": "Hamburg",
+                    "teilort": "Hoheluft-Ost"
+                },
+                {
+                    "latitude": "53.5797089",
+                    "longitude": "9.9668306",
+                    "plz": "20253",
+                    "ort": "Hamburg",
+                    "teilort": "Hoheluft-West"
+                },
+                {
+                    "latitude": "53.5996679",
+                    "longitude": "9.9582241",
+                    "plz": "20253",
+                    "ort": "Hamburg",
+                    "teilort": "Lokstedt"
+                },
+                {
+                    "latitude": "53.5757416",
+                    "longitude": "9.9537005",
+                    "plz": "20255",
+                    "ort": "Hamburg",
+                    "teilort": "Eimsbüttel"
+                },
+                {
+                    "latitude": "53.5996679",
+                    "longitude": "9.9582241",
+                    "plz": "20255",
+                    "ort": "Hamburg",
+                    "teilort": "Lokstedt"
+                },
+                {
+                    "latitude": "53.5907225",
+                    "longitude": "9.9304171",
+                    "plz": "20255",
+                    "ort": "Hamburg",
+                    "teilort": "Stellingen"
+                },
+                {
+                    "latitude": "53.5781605",
+                    "longitude": "9.9412719",
+                    "plz": "20257",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5757416",
+                    "longitude": "9.9537005",
+                    "plz": "20257",
+                    "ort": "Hamburg",
+                    "teilort": "Eimsbüttel"
+                },
+                {
+                    "latitude": "53.5663692",
+                    "longitude": "9.9605803",
+                    "plz": "20259",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5548418",
+                    "longitude": "9.9898892",
+                    "plz": "20354",
+                    "ort": "Hamburg",
+                    "teilort": "Neustadt"
+                },
+                {
+                    "latitude": "53.5669674",
+                    "longitude": "9.9885043",
+                    "plz": "20354",
+                    "ort": "Hamburg",
+                    "teilort": "Rotherbaum"
+                },
+                {
+                    "latitude": "53.5580578",
+                    "longitude": "9.9784678",
+                    "plz": "20355",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5548418",
+                    "longitude": "9.9898892",
+                    "plz": "20355",
+                    "ort": "Hamburg",
+                    "teilort": "Neustadt"
+                },
+                {
+                    "latitude": "53.5491677",
+                    "longitude": "9.9737734",
+                    "plz": "20357",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5511821",
+                    "longitude": "9.9405525",
+                    "plz": "20357",
+                    "ort": "Hamburg",
+                    "teilort": "Altona-Altstadt"
+                },
+                {
+                    "latitude": "53.5757416",
+                    "longitude": "9.9537005",
+                    "plz": "20357",
+                    "ort": "Hamburg",
+                    "teilort": "Eimsbüttel"
+                },
+                {
+                    "latitude": "53.5669674",
+                    "longitude": "9.9885043",
+                    "plz": "20357",
+                    "ort": "Hamburg",
+                    "teilort": "Rotherbaum"
+                },
+                {
+                    "latitude": "53.5510699",
+                    "longitude": "9.9632783",
+                    "plz": "20359",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5511821",
+                    "longitude": "9.9405525",
+                    "plz": "20359",
+                    "ort": "Hamburg",
+                    "teilort": "Altona-Altstadt"
+                },
+                {
+                    "latitude": "53.5572886",
+                    "longitude": "9.9667767",
+                    "plz": "20359",
+                    "ort": "Hamburg",
+                    "teilort": "St. Pauli"
+                },
+                {
+                    "latitude": "53.54337",
+                    "longitude": "9.9845473",
+                    "plz": "20457",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.548222",
+                    "longitude": "9.9327463",
+                    "plz": "20457",
+                    "ort": "Hamburg",
+                    "teilort": "Altona"
+                },
+                {
+                    "latitude": "53.5530681",
+                    "longitude": "9.9911573",
+                    "plz": "20457",
+                    "ort": "Hamburg",
+                    "teilort": "Hamburg-Altstadt"
+                },
+                {
+                    "latitude": "53.5246408",
+                    "longitude": "9.9999436",
+                    "plz": "20457",
+                    "ort": "Hamburg",
+                    "teilort": "Klein Grasbrook"
+                },
+                {
+                    "latitude": "53.5246408",
+                    "longitude": "9.9999436",
+                    "plz": "20457",
+                    "ort": "Hamburg",
+                    "teilort": "Kleiner Grasbrook"
+                },
+                {
+                    "latitude": "53.5477892",
+                    "longitude": "10.0189823",
+                    "plz": "20457",
+                    "ort": "Hamburg",
+                    "teilort": "Klostertor"
+                },
+                {
+                    "latitude": "53.5548418",
+                    "longitude": "9.9898892",
+                    "plz": "20457",
+                    "ort": "Hamburg",
+                    "teilort": "Neustadt"
+                },
+                {
+                    "latitude": "53.5326702",
+                    "longitude": "9.9692318",
+                    "plz": "20457",
+                    "ort": "Hamburg",
+                    "teilort": "Steinwerder"
+                },
+                {
+                    "latitude": "53.5455716",
+                    "longitude": "9.9736565",
+                    "plz": "20459",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5530681",
+                    "longitude": "9.9911573",
+                    "plz": "20459",
+                    "ort": "Hamburg",
+                    "teilort": "Hamburg-Altstadt"
+                },
+                {
+                    "latitude": "53.552459",
+                    "longitude": "10.0070663",
+                    "plz": "20459",
+                    "ort": "Hamburg",
+                    "teilort": "Mitte"
+                },
+                {
+                    "latitude": "53.5548418",
+                    "longitude": "9.9898892",
+                    "plz": "20459",
+                    "ort": "Hamburg",
+                    "teilort": "Neustadt"
+                },
+                {
+                    "latitude": "53.5572886",
+                    "longitude": "9.9667767",
+                    "plz": "20459",
+                    "ort": "Hamburg",
+                    "teilort": "St. Pauli"
+                },
+                {
+                    "latitude": "53.5574702",
+                    "longitude": "10.0464566",
+                    "plz": "20535",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5520903",
+                    "longitude": "10.0348643",
+                    "plz": "20535",
+                    "ort": "Hamburg",
+                    "teilort": "Borgfelde"
+                },
+                {
+                    "latitude": "53.5600877",
+                    "longitude": "10.0548472",
+                    "plz": "20535",
+                    "ort": "Hamburg",
+                    "teilort": "Hamm-Nord"
+                },
+                {
+                    "latitude": "53.5467686",
+                    "longitude": "10.0446579",
+                    "plz": "20537",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5520903",
+                    "longitude": "10.0348643",
+                    "plz": "20537",
+                    "ort": "Hamburg",
+                    "teilort": "Borgfelde"
+                },
+                {
+                    "latitude": "53.5536611",
+                    "longitude": "10.0497481",
+                    "plz": "20537",
+                    "ort": "Hamburg",
+                    "teilort": "Hamm"
+                },
+                {
+                    "latitude": "53.5536611",
+                    "longitude": "10.0497481",
+                    "plz": "20537",
+                    "ort": "Hamburg",
+                    "teilort": "Hamm-Mitte"
+                },
+                {
+                    "latitude": "53.5460793",
+                    "longitude": "10.0242523",
+                    "plz": "20537",
+                    "ort": "Hamburg",
+                    "teilort": "Hammerbrook"
+                },
+                {
+                    "latitude": "53.5350808",
+                    "longitude": "10.0428593",
+                    "plz": "20539",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5292811",
+                    "longitude": "9.9868675",
+                    "plz": "20539",
+                    "ort": "Hamburg",
+                    "teilort": "Freihafen-Süd"
+                },
+                {
+                    "latitude": "53.5246408",
+                    "longitude": "9.9999436",
+                    "plz": "20539",
+                    "ort": "Hamburg",
+                    "teilort": "Kleiner Grasbrook"
+                },
+                {
+                    "latitude": "53.5235876",
+                    "longitude": "10.0163473",
+                    "plz": "20539",
+                    "ort": "Hamburg",
+                    "teilort": "Veddel"
+                },
+                {
+                    "latitude": "53.4982916",
+                    "longitude": "10.012687",
+                    "plz": "20539",
+                    "ort": "Hamburg",
+                    "teilort": "Wilhelmsburg"
+                },
+                {
+                    "latitude": "53.4849691",
+                    "longitude": "10.2119317",
+                    "plz": "21029",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.4275593",
+                    "longitude": "10.2688228",
+                    "plz": "21029",
+                    "ort": "Hamburg",
+                    "teilort": "Altengamme"
+                },
+                {
+                    "latitude": "53.4901488",
+                    "longitude": "10.2088471",
+                    "plz": "21029",
+                    "ort": "Hamburg",
+                    "teilort": "Bergedorf"
+                },
+                {
+                    "latitude": "53.5339316",
+                    "longitude": "9.7755719",
+                    "plz": "21029",
+                    "ort": "Hamburg",
+                    "teilort": "Cranz"
+                },
+                {
+                    "latitude": "53.4523406",
+                    "longitude": "10.2320226",
+                    "plz": "21029",
+                    "ort": "Hamburg",
+                    "teilort": "Curslack"
+                },
+                {
+                    "latitude": "53.5092783",
+                    "longitude": "10.2035411",
+                    "plz": "21031",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.4901488",
+                    "longitude": "10.2088471",
+                    "plz": "21031",
+                    "ort": "Hamburg",
+                    "teilort": "Bergedorf"
+                },
+                {
+                    "latitude": "53.5170699",
+                    "longitude": "10.1494469",
+                    "plz": "21031",
+                    "ort": "Hamburg",
+                    "teilort": "Boberg"
+                },
+                {
+                    "latitude": "53.4953011",
+                    "longitude": "10.2056095",
+                    "plz": "21031",
+                    "ort": "Hamburg",
+                    "teilort": "Lohbrügge"
+                },
+                {
+                    "latitude": "53.50777",
+                    "longitude": "10.1778385",
+                    "plz": "21033",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.4901488",
+                    "longitude": "10.2088471",
+                    "plz": "21033",
+                    "ort": "Hamburg",
+                    "teilort": "Bergedorf"
+                },
+                {
+                    "latitude": "53.5026995",
+                    "longitude": "10.139977",
+                    "plz": "21033",
+                    "ort": "Hamburg",
+                    "teilort": "Billwerder"
+                },
+                {
+                    "latitude": "53.4953011",
+                    "longitude": "10.2056095",
+                    "plz": "21033",
+                    "ort": "Hamburg",
+                    "teilort": "Lohbrügge"
+                },
+                {
+                    "latitude": "53.4910798",
+                    "longitude": "10.1322518",
+                    "plz": "21035",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.4898277",
+                    "longitude": "10.1594743",
+                    "plz": "21035",
+                    "ort": "Hamburg",
+                    "teilort": "Allermöhe"
+                },
+                {
+                    "latitude": "53.4901488",
+                    "longitude": "10.2088471",
+                    "plz": "21035",
+                    "ort": "Hamburg",
+                    "teilort": "Bergedorf"
+                },
+                {
+                    "latitude": "53.5026995",
+                    "longitude": "10.139977",
+                    "plz": "21035",
+                    "ort": "Hamburg",
+                    "teilort": "Billwerder"
+                },
+                {
+                    "latitude": "53.476069",
+                    "longitude": "10.1031498",
+                    "plz": "21037",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.4096206",
+                    "longitude": "10.2413396",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Achterdeich"
+                },
+                {
+                    "latitude": "53.4822291",
+                    "longitude": "10.1209294",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Allermöhe"
+                },
+                {
+                    "latitude": "53.4523406",
+                    "longitude": "10.2320226",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Curslack"
+                },
+                {
+                    "latitude": "53.4398875",
+                    "longitude": "10.129347",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Fünfhausen"
+                },
+                {
+                    "latitude": "53.4068919",
+                    "longitude": "10.1946378",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Grünerdeich"
+                },
+                {
+                    "latitude": "53.433089",
+                    "longitude": "10.186337",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Hitscherberg"
+                },
+                {
+                    "latitude": "53.4394911",
+                    "longitude": "10.1699424",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Holaake"
+                },
+                {
+                    "latitude": "53.4198906",
+                    "longitude": "10.1528283",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Howe"
+                },
+                {
+                    "latitude": "53.4444299",
+                    "longitude": "10.1286725",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Kirchwerder"
+                },
+                {
+                    "latitude": "53.4420784",
+                    "longitude": "10.1896286",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Kälbersteert"
+                },
+                {
+                    "latitude": "53.4449923",
+                    "longitude": "10.2292257",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Neuengamme"
+                },
+                {
+                    "latitude": "53.4721401",
+                    "longitude": "10.0761522",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Ochsenwerder"
+                },
+                {
+                    "latitude": "53.4815816",
+                    "longitude": "10.0972502",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Ost"
+                },
+                {
+                    "latitude": "53.4002919",
+                    "longitude": "10.2305297",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Ost Krauel"
+                },
+                {
+                    "latitude": "53.4053801",
+                    "longitude": "10.1675412",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Sande"
+                },
+                {
+                    "latitude": "53.4449816",
+                    "longitude": "10.1610391",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Seefeld"
+                },
+                {
+                    "latitude": "53.4952797",
+                    "longitude": "10.0831669",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Tatenberg"
+                },
+                {
+                    "latitude": "53.4279398",
+                    "longitude": "10.1195534",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Warwisch"
+                },
+                {
+                    "latitude": "53.4262894",
+                    "longitude": "10.1440599",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Wraust"
+                },
+                {
+                    "latitude": "53.4572779",
+                    "longitude": "10.1900333",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Wulfshof"
+                },
+                {
+                    "latitude": "53.4523888",
+                    "longitude": "10.2335334",
+                    "plz": "21039",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.4595804",
+                    "longitude": "10.2352332",
+                    "plz": "21039",
+                    "ort": "Hamburg",
+                    "teilort": "Achterschlag"
+                },
+                {
+                    "latitude": "53.4901488",
+                    "longitude": "10.2088471",
+                    "plz": "21039",
+                    "ort": "Hamburg",
+                    "teilort": "Bergedorf"
+                },
+                {
+                    "latitude": "53.4523406",
+                    "longitude": "10.2320226",
+                    "plz": "21039",
+                    "ort": "Hamburg",
+                    "teilort": "Curslack"
+                },
+                {
+                    "latitude": "53.4449923",
+                    "longitude": "10.2292257",
+                    "plz": "21039",
+                    "ort": "Hamburg",
+                    "teilort": "Neuengamme"
+                },
+                {
+                    "latitude": "53.4538882",
+                    "longitude": "9.9730719",
+                    "plz": "21073",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.4607798",
+                    "longitude": "9.979619",
+                    "plz": "21073",
+                    "ort": "Hamburg",
+                    "teilort": "Harburg"
+                },
+                {
+                    "latitude": "53.4651701",
+                    "longitude": "9.9626038",
+                    "plz": "21073",
+                    "ort": "Hamburg",
+                    "teilort": "Heimfeld"
+                },
+                {
+                    "latitude": "53.4559821",
+                    "longitude": "9.9309837",
+                    "plz": "21075",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.4562016",
+                    "longitude": "9.9569381",
+                    "plz": "21075",
+                    "ort": "Hamburg",
+                    "teilort": "Eißendorf"
+                },
+                {
+                    "latitude": "53.472092",
+                    "longitude": "9.885514",
+                    "plz": "21075",
+                    "ort": "Hamburg",
+                    "teilort": "Hausbruch"
+                },
+                {
+                    "latitude": "53.4651701",
+                    "longitude": "9.9626038",
+                    "plz": "21075",
+                    "ort": "Hamburg",
+                    "teilort": "Heimfeld"
+                },
+                {
+                    "latitude": "53.4562016",
+                    "longitude": "9.9569381",
+                    "plz": "21077",
+                    "ort": "Hamburg",
+                    "teilort": "Eißendorf"
+                },
+                {
+                    "latitude": "53.4319209",
+                    "longitude": "9.983576",
+                    "plz": "21077",
+                    "ort": "Hamburg",
+                    "teilort": "Langenbek"
+                },
+                {
+                    "latitude": "53.4395393",
+                    "longitude": "9.960994",
+                    "plz": "21077",
+                    "ort": "Hamburg",
+                    "teilort": "Marmstorf"
+                },
+                {
+                    "latitude": "53.43775",
+                    "longitude": "10.0037118",
+                    "plz": "21077",
+                    "ort": "Hamburg",
+                    "teilort": "Rönneburg"
+                },
+                {
+                    "latitude": "53.4473812",
+                    "longitude": "9.9903389",
+                    "plz": "21077",
+                    "ort": "Hamburg",
+                    "teilort": "Wilstorf"
+                },
+                {
+                    "latitude": "53.5135726",
+                    "longitude": "9.929266",
+                    "plz": "21079",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.4506589",
+                    "longitude": "10.0118327",
+                    "plz": "21079",
+                    "ort": "Hamburg",
+                    "teilort": "Gut Moor"
+                },
+                {
+                    "latitude": "53.4607798",
+                    "longitude": "9.979619",
+                    "plz": "21079",
+                    "ort": "Hamburg",
+                    "teilort": "Harburg"
+                },
+                {
+                    "latitude": "53.4651701",
+                    "longitude": "9.9626038",
+                    "plz": "21079",
+                    "ort": "Hamburg",
+                    "teilort": "Heimfeld"
+                },
+                {
+                    "latitude": "53.4319209",
+                    "longitude": "9.983576",
+                    "plz": "21079",
+                    "ort": "Hamburg",
+                    "teilort": "Langenbek"
+                },
+                {
+                    "latitude": "53.4628519",
+                    "longitude": "10.0050338",
+                    "plz": "21079",
+                    "ort": "Hamburg",
+                    "teilort": "Neuland"
+                },
+                {
+                    "latitude": "53.43775",
+                    "longitude": "10.0037118",
+                    "plz": "21079",
+                    "ort": "Hamburg",
+                    "teilort": "Rönneburg"
+                },
+                {
+                    "latitude": "53.4473812",
+                    "longitude": "9.9903389",
+                    "plz": "21079",
+                    "ort": "Hamburg",
+                    "teilort": "Wilstorf"
+                },
+                {
+                    "latitude": "53.4853704",
+                    "longitude": "9.9632693",
+                    "plz": "21107",
+                    "ort": "Hamburg",
+                    "teilort": "Hohe Schaar"
+                },
+                {
+                    "latitude": "53.5131716",
+                    "longitude": "9.9774786",
+                    "plz": "21107",
+                    "ort": "Hamburg",
+                    "teilort": "Reiherstieg"
+                },
+                {
+                    "latitude": "53.5326702",
+                    "longitude": "9.9692318",
+                    "plz": "21107",
+                    "ort": "Hamburg",
+                    "teilort": "Steinwerder"
+                },
+                {
+                    "latitude": "53.4982916",
+                    "longitude": "10.012687",
+                    "plz": "21107",
+                    "ort": "Hamburg",
+                    "teilort": "Wilhelmsburg"
+                },
+                {
+                    "latitude": "53.5255818",
+                    "longitude": "9.992866",
+                    "plz": "21109",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5292811",
+                    "longitude": "9.9868675",
+                    "plz": "21109",
+                    "ort": "Hamburg",
+                    "teilort": "Freihafen-West"
+                },
+                {
+                    "latitude": "53.514471",
+                    "longitude": "10.0317616",
+                    "plz": "21109",
+                    "ort": "Hamburg",
+                    "teilort": "Georgswerder"
+                },
+                {
+                    "latitude": "53.5235876",
+                    "longitude": "10.0163473",
+                    "plz": "21109",
+                    "ort": "Hamburg",
+                    "teilort": "Veddel"
+                },
+                {
+                    "latitude": "53.4982916",
+                    "longitude": "10.012687",
+                    "plz": "21109",
+                    "ort": "Hamburg",
+                    "teilort": "Wilhelmsburg"
+                },
+                {
+                    "latitude": "53.5345784",
+                    "longitude": "9.8798932",
+                    "plz": "21129",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5128614",
+                    "longitude": "9.9122958",
+                    "plz": "21129",
+                    "ort": "Hamburg",
+                    "teilort": "Altenwerder"
+                },
+                {
+                    "latitude": "53.5339316",
+                    "longitude": "9.7755719",
+                    "plz": "21129",
+                    "ort": "Hamburg",
+                    "teilort": "Cranz"
+                },
+                {
+                    "latitude": "53.5333223",
+                    "longitude": "9.8780136",
+                    "plz": "21129",
+                    "ort": "Hamburg",
+                    "teilort": "Finkenwerder"
+                },
+                {
+                    "latitude": "53.5072084",
+                    "longitude": "9.8456201",
+                    "plz": "21129",
+                    "ort": "Hamburg",
+                    "teilort": "Francop"
+                },
+                {
+                    "latitude": "53.5313713",
+                    "longitude": "9.6777077",
+                    "plz": "21129",
+                    "ort": "Hamburg",
+                    "teilort": "Gem Jork"
+                },
+                {
+                    "latitude": "53.4919786",
+                    "longitude": "9.8022008",
+                    "plz": "21129",
+                    "ort": "Hamburg",
+                    "teilort": "Hinterdeich"
+                },
+                {
+                    "latitude": "53.4994792",
+                    "longitude": "9.8836973",
+                    "plz": "21129",
+                    "ort": "Hamburg",
+                    "teilort": "Hohenwisch"
+                },
+                {
+                    "latitude": "53.4894211",
+                    "longitude": "9.94254",
+                    "plz": "21129",
+                    "ort": "Hamburg",
+                    "teilort": "Moorburg"
+                },
+                {
+                    "latitude": "53.5136689",
+                    "longitude": "9.8114279",
+                    "plz": "21129",
+                    "ort": "Hamburg",
+                    "teilort": "Neuenfelde"
+                },
+                {
+                    "latitude": "53.521572",
+                    "longitude": "9.8132895",
+                    "plz": "21129",
+                    "ort": "Hamburg",
+                    "teilort": "Rosengarten"
+                },
+                {
+                    "latitude": "53.5194226",
+                    "longitude": "9.7788544",
+                    "plz": "21129",
+                    "ort": "Hamburg",
+                    "teilort": "Seehof"
+                },
+                {
+                    "latitude": "53.512578",
+                    "longitude": "9.8236856",
+                    "plz": "21129",
+                    "ort": "Hamburg",
+                    "teilort": "Vierzigstücken"
+                },
+                {
+                    "latitude": "53.5244591",
+                    "longitude": "9.9018636",
+                    "plz": "21129",
+                    "ort": "Hamburg",
+                    "teilort": "Waltershof"
+                },
+                {
+                    "latitude": "53.5122785",
+                    "longitude": "9.8583904",
+                    "plz": "21147",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.472092",
+                    "longitude": "9.885514",
+                    "plz": "21147",
+                    "ort": "Hamburg",
+                    "teilort": "Hausbruch"
+                },
+                {
+                    "latitude": "53.4684786",
+                    "longitude": "9.8227863",
+                    "plz": "21147",
+                    "ort": "Hamburg",
+                    "teilort": "Neugr.-Fischbek"
+                },
+                {
+                    "latitude": "53.4780707",
+                    "longitude": "9.8670959",
+                    "plz": "21147",
+                    "ort": "Hamburg",
+                    "teilort": "Neugraben-Fischbek"
+                },
+                {
+                    "latitude": "53.4753785",
+                    "longitude": "9.8665922",
+                    "plz": "21147",
+                    "ort": "Hamburg",
+                    "teilort": "Neuwiedenthal"
+                },
+                {
+                    "latitude": "53.4664925",
+                    "longitude": "9.8468881",
+                    "plz": "21149",
+                    "ort": "Hamburg",
+                    "teilort": "Fischbek"
+                },
+                {
+                    "latitude": "53.472092",
+                    "longitude": "9.885514",
+                    "plz": "21149",
+                    "ort": "Hamburg",
+                    "teilort": "Hausbruch"
+                },
+                {
+                    "latitude": "53.4715995",
+                    "longitude": "9.8544244",
+                    "plz": "21149",
+                    "ort": "Hamburg",
+                    "teilort": "Neugraben-Fischbek"
+                },
+                {
+                    "latitude": "53.5778722",
+                    "longitude": "10.0831489",
+                    "plz": "22041",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5865694",
+                    "longitude": "10.1260735",
+                    "plz": "22041",
+                    "ort": "Hamburg",
+                    "teilort": "Tonndorf"
+                },
+                {
+                    "latitude": "53.5717099",
+                    "longitude": "10.0660168",
+                    "plz": "22041",
+                    "ort": "Hamburg",
+                    "teilort": "Wandsbek"
+                },
+                {
+                    "latitude": "53.5715977",
+                    "longitude": "10.1362538",
+                    "plz": "22043",
+                    "ort": "Hamburg",
+                    "teilort": "Jenfeld"
+                },
+                {
+                    "latitude": "53.5865694",
+                    "longitude": "10.1260735",
+                    "plz": "22043",
+                    "ort": "Hamburg",
+                    "teilort": "Tonndorf"
+                },
+                {
+                    "latitude": "53.5837719",
+                    "longitude": "10.124149",
+                    "plz": "22045",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5715977",
+                    "longitude": "10.1362538",
+                    "plz": "22045",
+                    "ort": "Hamburg",
+                    "teilort": "Jenfeld"
+                },
+                {
+                    "latitude": "53.592169",
+                    "longitude": "10.0880592",
+                    "plz": "22047",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6125702",
+                    "longitude": "10.0797225",
+                    "plz": "22047",
+                    "ort": "Hamburg",
+                    "teilort": "Bramfeld"
+                },
+                {
+                    "latitude": "53.5865694",
+                    "longitude": "10.1260735",
+                    "plz": "22047",
+                    "ort": "Hamburg",
+                    "teilort": "Tonndorf"
+                },
+                {
+                    "latitude": "53.5717099",
+                    "longitude": "10.0660168",
+                    "plz": "22047",
+                    "ort": "Hamburg",
+                    "teilort": "Wandsbek"
+                },
+                {
+                    "latitude": "53.5797676",
+                    "longitude": "10.0666643",
+                    "plz": "22049",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5717099",
+                    "longitude": "10.0660168",
+                    "plz": "22049",
+                    "ort": "Hamburg",
+                    "teilort": "Wandsbek"
+                },
+                {
+                    "latitude": "53.5700597",
+                    "longitude": "10.0389742",
+                    "plz": "22081",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5721424",
+                    "longitude": "10.0158706",
+                    "plz": "22081",
+                    "ort": "Hamburg",
+                    "teilort": "Uhlenhorst"
+                },
+                {
+                    "latitude": "53.578358",
+                    "longitude": "10.0288568",
+                    "plz": "22083",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5802695",
+                    "longitude": "10.0092696",
+                    "plz": "22085",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5739794",
+                    "longitude": "10.0329308",
+                    "plz": "22085",
+                    "ort": "Hamburg",
+                    "teilort": "Barmbek-Süd"
+                },
+                {
+                    "latitude": "53.5721424",
+                    "longitude": "10.0158706",
+                    "plz": "22085",
+                    "ort": "Hamburg",
+                    "teilort": "Uhlenhorst"
+                },
+                {
+                    "latitude": "53.5648577",
+                    "longitude": "10.0239555",
+                    "plz": "22087",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5652423",
+                    "longitude": "10.0454493",
+                    "plz": "22087",
+                    "ort": "Hamburg",
+                    "teilort": "Eilbek"
+                },
+                {
+                    "latitude": "53.5600877",
+                    "longitude": "10.0548472",
+                    "plz": "22087",
+                    "ort": "Hamburg",
+                    "teilort": "Hamm-Nord"
+                },
+                {
+                    "latitude": "53.5639924",
+                    "longitude": "10.0254304",
+                    "plz": "22087",
+                    "ort": "Hamburg",
+                    "teilort": "Hohenfelde"
+                },
+                {
+                    "latitude": "53.5721424",
+                    "longitude": "10.0158706",
+                    "plz": "22087",
+                    "ort": "Hamburg",
+                    "teilort": "Uhlenhorst"
+                },
+                {
+                    "latitude": "53.5655681",
+                    "longitude": "10.051151",
+                    "plz": "22089",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5652423",
+                    "longitude": "10.0454493",
+                    "plz": "22089",
+                    "ort": "Hamburg",
+                    "teilort": "Eilbek"
+                },
+                {
+                    "latitude": "53.5600877",
+                    "longitude": "10.0548472",
+                    "plz": "22089",
+                    "ort": "Hamburg",
+                    "teilort": "Hamm-Nord"
+                },
+                {
+                    "latitude": "53.5639924",
+                    "longitude": "10.0254304",
+                    "plz": "22089",
+                    "ort": "Hamburg",
+                    "teilort": "Hohenfelde"
+                },
+                {
+                    "latitude": "53.5665775",
+                    "longitude": "10.0754057",
+                    "plz": "22089",
+                    "ort": "Hamburg",
+                    "teilort": "Marienthal"
+                },
+                {
+                    "latitude": "53.5717099",
+                    "longitude": "10.0660168",
+                    "plz": "22089",
+                    "ort": "Hamburg",
+                    "teilort": "Wandsbek"
+                },
+                {
+                    "latitude": "53.5490716",
+                    "longitude": "10.0914496",
+                    "plz": "22111",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5393512",
+                    "longitude": "10.1037523",
+                    "plz": "22111",
+                    "ort": "Hamburg",
+                    "teilort": "Billstedt"
+                },
+                {
+                    "latitude": "53.5548525",
+                    "longitude": "10.0863505",
+                    "plz": "22111",
+                    "ort": "Hamburg",
+                    "teilort": "Horn"
+                },
+                {
+                    "latitude": "53.514979",
+                    "longitude": "10.08305",
+                    "plz": "22113",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.4822291",
+                    "longitude": "10.1209294",
+                    "plz": "22113",
+                    "ort": "Hamburg",
+                    "teilort": "Allermöhe"
+                },
+                {
+                    "latitude": "53.5286183",
+                    "longitude": "10.0741377",
+                    "plz": "22113",
+                    "ort": "Hamburg",
+                    "teilort": "Billbrook"
+                },
+                {
+                    "latitude": "53.5393512",
+                    "longitude": "10.1037523",
+                    "plz": "22113",
+                    "ort": "Hamburg",
+                    "teilort": "Billstedt"
+                },
+                {
+                    "latitude": "53.5026995",
+                    "longitude": "10.139977",
+                    "plz": "22113",
+                    "ort": "Hamburg",
+                    "teilort": "Billwerder"
+                },
+                {
+                    "latitude": "53.5548525",
+                    "longitude": "10.0863505",
+                    "plz": "22113",
+                    "ort": "Hamburg",
+                    "teilort": "Horn"
+                },
+                {
+                    "latitude": "53.4953011",
+                    "longitude": "10.2056095",
+                    "plz": "22113",
+                    "ort": "Hamburg",
+                    "teilort": "Lohbrügge"
+                },
+                {
+                    "latitude": "53.5062778",
+                    "longitude": "10.0773123",
+                    "plz": "22113",
+                    "ort": "Hamburg",
+                    "teilort": "Moorfleet"
+                },
+                {
+                    "latitude": "53.5314782",
+                    "longitude": "10.1423512",
+                    "plz": "22115",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.4953011",
+                    "longitude": "10.2056095",
+                    "plz": "22115",
+                    "ort": "Hamburg",
+                    "teilort": "Lohbrügge"
+                },
+                {
+                    "latitude": "53.5513691",
+                    "longitude": "10.1338526",
+                    "plz": "22117",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5431723",
+                    "longitude": "10.1456517",
+                    "plz": "22117",
+                    "ort": "Hamburg",
+                    "teilort": "Öjendorf"
+                },
+                {
+                    "latitude": "53.56067",
+                    "longitude": "10.0963509",
+                    "plz": "22119",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5548525",
+                    "longitude": "10.0863505",
+                    "plz": "22119",
+                    "ort": "Hamburg",
+                    "teilort": "Horn"
+                },
+                {
+                    "latitude": "53.6026617",
+                    "longitude": "10.1579904",
+                    "plz": "22143",
+                    "ort": "Hamburg",
+                    "teilort": "Rahlstedt"
+                },
+                {
+                    "latitude": "53.6299593",
+                    "longitude": "10.1767503",
+                    "plz": "22145",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6026617",
+                    "longitude": "10.1579904",
+                    "plz": "22145",
+                    "ort": "Hamburg",
+                    "teilort": "Rahlstedt"
+                },
+                {
+                    "latitude": "53.6079711",
+                    "longitude": "10.1353455",
+                    "plz": "22147",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6026617",
+                    "longitude": "10.1579904",
+                    "plz": "22147",
+                    "ort": "Hamburg",
+                    "teilort": "Rahlstedt"
+                },
+                {
+                    "latitude": "53.5913684",
+                    "longitude": "10.1726404",
+                    "plz": "22149",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5865694",
+                    "longitude": "10.1260735",
+                    "plz": "22149",
+                    "ort": "Hamburg",
+                    "teilort": "Tonndorf"
+                },
+                {
+                    "latitude": "53.6125702",
+                    "longitude": "10.0797225",
+                    "plz": "22159",
+                    "ort": "Hamburg",
+                    "teilort": "Bramfeld"
+                },
+                {
+                    "latitude": "53.6108683",
+                    "longitude": "10.108249",
+                    "plz": "22159",
+                    "ort": "Hamburg",
+                    "teilort": "Farmsen"
+                },
+                {
+                    "latitude": "53.6538602",
+                    "longitude": "10.1116394",
+                    "plz": "22159",
+                    "ort": "Hamburg",
+                    "teilort": "Sasel"
+                },
+                {
+                    "latitude": "53.5865694",
+                    "longitude": "10.1260735",
+                    "plz": "22159",
+                    "ort": "Hamburg",
+                    "teilort": "Tonndorf"
+                },
+                {
+                    "latitude": "53.6236712",
+                    "longitude": "10.0858468",
+                    "plz": "22175",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6125702",
+                    "longitude": "10.0797225",
+                    "plz": "22175",
+                    "ort": "Hamburg",
+                    "teilort": "Bramfeld"
+                },
+                {
+                    "latitude": "53.6130718",
+                    "longitude": "10.0674467",
+                    "plz": "22177",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6066585",
+                    "longitude": "10.0561243",
+                    "plz": "22177",
+                    "ort": "Hamburg",
+                    "teilort": "Steilshoop"
+                },
+                {
+                    "latitude": "53.6066692",
+                    "longitude": "10.0793358",
+                    "plz": "22179",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6125702",
+                    "longitude": "10.0797225",
+                    "plz": "22179",
+                    "ort": "Hamburg",
+                    "teilort": "Bramfeld"
+                },
+                {
+                    "latitude": "53.6071601",
+                    "longitude": "10.0189733",
+                    "plz": "22297",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.608558",
+                    "longitude": "10.0099171",
+                    "plz": "22297",
+                    "ort": "Hamburg",
+                    "teilort": "Alsterdorf"
+                },
+                {
+                    "latitude": "53.5874075",
+                    "longitude": "10.0471041",
+                    "plz": "22297",
+                    "ort": "Hamburg",
+                    "teilort": "Barmbek-Nord"
+                },
+                {
+                    "latitude": "53.6078003",
+                    "longitude": "9.9777934",
+                    "plz": "22297",
+                    "ort": "Hamburg",
+                    "teilort": "Groß Borstel"
+                },
+                {
+                    "latitude": "53.6673587",
+                    "longitude": "10.1263523",
+                    "plz": "22297",
+                    "ort": "Hamburg",
+                    "teilort": "Nord"
+                },
+                {
+                    "latitude": "53.5937223",
+                    "longitude": "10.0003034",
+                    "plz": "22297",
+                    "ort": "Hamburg",
+                    "teilort": "Winterhude"
+                },
+                {
+                    "latitude": "53.5983603",
+                    "longitude": "9.9975694",
+                    "plz": "22299",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5937223",
+                    "longitude": "10.0003034",
+                    "plz": "22299",
+                    "ort": "Hamburg",
+                    "teilort": "Winterhude"
+                },
+                {
+                    "latitude": "53.5839695",
+                    "longitude": "10.0032711",
+                    "plz": "22301",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5937223",
+                    "longitude": "10.0003034",
+                    "plz": "22301",
+                    "ort": "Hamburg",
+                    "teilort": "Winterhude"
+                },
+                {
+                    "latitude": "53.5937703",
+                    "longitude": "10.014072",
+                    "plz": "22303",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5874075",
+                    "longitude": "10.0471041",
+                    "plz": "22303",
+                    "ort": "Hamburg",
+                    "teilort": "Barmbek-Nord"
+                },
+                {
+                    "latitude": "53.5937223",
+                    "longitude": "10.0003034",
+                    "plz": "22303",
+                    "ort": "Hamburg",
+                    "teilort": "Winterhude"
+                },
+                {
+                    "latitude": "53.5862704",
+                    "longitude": "10.0456562",
+                    "plz": "22305",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5874075",
+                    "longitude": "10.0471041",
+                    "plz": "22305",
+                    "ort": "Hamburg",
+                    "teilort": "Barmbek-Nord"
+                },
+                {
+                    "latitude": "53.5739794",
+                    "longitude": "10.0329308",
+                    "plz": "22305",
+                    "ort": "Hamburg",
+                    "teilort": "Barmbek-Süd"
+                },
+                {
+                    "latitude": "53.5937223",
+                    "longitude": "10.0003034",
+                    "plz": "22305",
+                    "ort": "Hamburg",
+                    "teilort": "Winterhude"
+                },
+                {
+                    "latitude": "53.5943681",
+                    "longitude": "10.045854",
+                    "plz": "22307",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5874075",
+                    "longitude": "10.0471041",
+                    "plz": "22307",
+                    "ort": "Hamburg",
+                    "teilort": "Barmbek-Nord"
+                },
+                {
+                    "latitude": "53.6087714",
+                    "longitude": "10.0446579",
+                    "plz": "22309",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5874075",
+                    "longitude": "10.0471041",
+                    "plz": "22309",
+                    "ort": "Hamburg",
+                    "teilort": "Barmbek-Nord"
+                },
+                {
+                    "latitude": "53.6125702",
+                    "longitude": "10.0797225",
+                    "plz": "22309",
+                    "ort": "Hamburg",
+                    "teilort": "Bramfeld"
+                },
+                {
+                    "latitude": "53.619388",
+                    "longitude": "10.034001",
+                    "plz": "22309",
+                    "ort": "Hamburg",
+                    "teilort": "Ohlsdorf"
+                },
+                {
+                    "latitude": "53.6066585",
+                    "longitude": "10.0561243",
+                    "plz": "22309",
+                    "ort": "Hamburg",
+                    "teilort": "Steilshoop"
+                },
+                {
+                    "latitude": "53.6084726",
+                    "longitude": "9.9766692",
+                    "plz": "22335",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.62797",
+                    "longitude": "10.0088739",
+                    "plz": "22335",
+                    "ort": "Hamburg",
+                    "teilort": "Flughafen"
+                },
+                {
+                    "latitude": "53.6344707",
+                    "longitude": "10.0168059",
+                    "plz": "22335",
+                    "ort": "Hamburg",
+                    "teilort": "Fuhlsbüttel"
+                },
+                {
+                    "latitude": "53.619388",
+                    "longitude": "10.034001",
+                    "plz": "22335",
+                    "ort": "Hamburg",
+                    "teilort": "Ohlsdorf"
+                },
+                {
+                    "latitude": "53.6132585",
+                    "longitude": "10.0387674",
+                    "plz": "22337",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.619388",
+                    "longitude": "10.034001",
+                    "plz": "22337",
+                    "ort": "Hamburg",
+                    "teilort": "Ohlsdorf"
+                },
+                {
+                    "latitude": "53.6411623",
+                    "longitude": "10.0454673",
+                    "plz": "22339",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.644681",
+                    "longitude": "10.0517176",
+                    "plz": "22339",
+                    "ort": "Hamburg",
+                    "teilort": "Hummelsbüttel"
+                },
+                {
+                    "latitude": "53.6518614",
+                    "longitude": "10.1516412",
+                    "plz": "22359",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6026617",
+                    "longitude": "10.1579904",
+                    "plz": "22359",
+                    "ort": "Hamburg",
+                    "teilort": "Rahlstedt"
+                },
+                {
+                    "latitude": "53.6511578",
+                    "longitude": "10.1670916",
+                    "plz": "22359",
+                    "ort": "Hamburg",
+                    "teilort": "Volksdorf"
+                },
+                {
+                    "latitude": "53.6125702",
+                    "longitude": "10.0797225",
+                    "plz": "22391",
+                    "ort": "Hamburg",
+                    "teilort": "Bramfeld"
+                },
+                {
+                    "latitude": "53.619388",
+                    "longitude": "10.034001",
+                    "plz": "22391",
+                    "ort": "Hamburg",
+                    "teilort": "Ohlsdorf"
+                },
+                {
+                    "latitude": "53.656088",
+                    "longitude": "10.0899028",
+                    "plz": "22391",
+                    "ort": "Hamburg",
+                    "teilort": "Poppenbüttel"
+                },
+                {
+                    "latitude": "53.6538602",
+                    "longitude": "10.1116394",
+                    "plz": "22391",
+                    "ort": "Hamburg",
+                    "teilort": "Sasel"
+                },
+                {
+                    "latitude": "53.6503582",
+                    "longitude": "10.1168465",
+                    "plz": "22393",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6125702",
+                    "longitude": "10.0797225",
+                    "plz": "22393",
+                    "ort": "Hamburg",
+                    "teilort": "Bramfeld"
+                },
+                {
+                    "latitude": "53.6538602",
+                    "longitude": "10.1116394",
+                    "plz": "22393",
+                    "ort": "Hamburg",
+                    "teilort": "Sasel"
+                },
+                {
+                    "latitude": "53.6406398",
+                    "longitude": "10.083014",
+                    "plz": "22393",
+                    "ort": "Hamburg",
+                    "teilort": "Wellingsbüttel"
+                },
+                {
+                    "latitude": "53.6710617",
+                    "longitude": "10.1234025",
+                    "plz": "22395",
+                    "ort": "Hamburg",
+                    "teilort": "Bergstedt"
+                },
+                {
+                    "latitude": "53.656088",
+                    "longitude": "10.0899028",
+                    "plz": "22395",
+                    "ort": "Hamburg",
+                    "teilort": "Poppenbüttel"
+                },
+                {
+                    "latitude": "53.6951416",
+                    "longitude": "10.1376208",
+                    "plz": "22395",
+                    "ort": "Hamburg",
+                    "teilort": "Wohldorf-Ohlstedt"
+                },
+                {
+                    "latitude": "53.7041607",
+                    "longitude": "10.1273505",
+                    "plz": "22397",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6863922",
+                    "longitude": "10.1050923",
+                    "plz": "22397",
+                    "ort": "Hamburg",
+                    "teilort": "Lemsahl-Mellingstedt"
+                },
+                {
+                    "latitude": "53.66876",
+                    "longitude": "10.0718534",
+                    "plz": "22399",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.644681",
+                    "longitude": "10.0517176",
+                    "plz": "22399",
+                    "ort": "Hamburg",
+                    "teilort": "Hummelsbüttel"
+                },
+                {
+                    "latitude": "53.656088",
+                    "longitude": "10.0899028",
+                    "plz": "22399",
+                    "ort": "Hamburg",
+                    "teilort": "Poppenbüttel"
+                },
+                {
+                    "latitude": "53.6512484",
+                    "longitude": "10.0184697",
+                    "plz": "22415",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.644681",
+                    "longitude": "10.0517176",
+                    "plz": "22415",
+                    "ort": "Hamburg",
+                    "teilort": "Hummelsbüttel"
+                },
+                {
+                    "latitude": "53.6465095",
+                    "longitude": "10.0122104",
+                    "plz": "22415",
+                    "ort": "Hamburg",
+                    "teilort": "Langenhorn"
+                },
+                {
+                    "latitude": "53.644681",
+                    "longitude": "10.0517176",
+                    "plz": "22417",
+                    "ort": "Hamburg",
+                    "teilort": "Hummelsbüttel"
+                },
+                {
+                    "latitude": "53.6808583",
+                    "longitude": "10.0176603",
+                    "plz": "22419",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6465095",
+                    "longitude": "10.0122104",
+                    "plz": "22419",
+                    "ort": "Hamburg",
+                    "teilort": "Langenhorn"
+                },
+                {
+                    "latitude": "53.6210683",
+                    "longitude": "9.9693757",
+                    "plz": "22453",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6344707",
+                    "longitude": "10.0168059",
+                    "plz": "22453",
+                    "ort": "Hamburg",
+                    "teilort": "Fuhlsbüttel"
+                },
+                {
+                    "latitude": "53.6078003",
+                    "longitude": "9.9777934",
+                    "plz": "22453",
+                    "ort": "Hamburg",
+                    "teilort": "Groß Borstel"
+                },
+                {
+                    "latitude": "53.5996679",
+                    "longitude": "9.9582241",
+                    "plz": "22453",
+                    "ort": "Hamburg",
+                    "teilort": "Lokstedt"
+                },
+                {
+                    "latitude": "53.6184705",
+                    "longitude": "9.9519379",
+                    "plz": "22453",
+                    "ort": "Hamburg",
+                    "teilort": "Niendorf"
+                },
+                {
+                    "latitude": "53.6410504",
+                    "longitude": "9.9471715",
+                    "plz": "22455",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6184705",
+                    "longitude": "9.9519379",
+                    "plz": "22455",
+                    "ort": "Hamburg",
+                    "teilort": "Niendorf"
+                },
+                {
+                    "latitude": "53.6324977",
+                    "longitude": "9.9210911",
+                    "plz": "22455",
+                    "ort": "Hamburg",
+                    "teilort": "Schnelsen"
+                },
+                {
+                    "latitude": "53.6378513",
+                    "longitude": "9.9029878",
+                    "plz": "22457",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6074108",
+                    "longitude": "9.9058656",
+                    "plz": "22457",
+                    "ort": "Hamburg",
+                    "teilort": "Eidelstedt"
+                },
+                {
+                    "latitude": "53.6184705",
+                    "longitude": "9.9519379",
+                    "plz": "22457",
+                    "ort": "Hamburg",
+                    "teilort": "Niendorf"
+                },
+                {
+                    "latitude": "53.6324977",
+                    "longitude": "9.9210911",
+                    "plz": "22457",
+                    "ort": "Hamburg",
+                    "teilort": "Schnelsen"
+                },
+                {
+                    "latitude": "53.6455606",
+                    "longitude": "9.9396621",
+                    "plz": "22459",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6184705",
+                    "longitude": "9.9519379",
+                    "plz": "22459",
+                    "ort": "Hamburg",
+                    "teilort": "Niendorf"
+                },
+                {
+                    "latitude": "53.6324977",
+                    "longitude": "9.9210911",
+                    "plz": "22459",
+                    "ort": "Hamburg",
+                    "teilort": "Schnelsen"
+                },
+                {
+                    "latitude": "53.6199588",
+                    "longitude": "9.8861885",
+                    "plz": "22523",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6074108",
+                    "longitude": "9.9058656",
+                    "plz": "22523",
+                    "ort": "Hamburg",
+                    "teilort": "Eidelstedt"
+                },
+                {
+                    "latitude": "53.5737605",
+                    "longitude": "9.9244726",
+                    "plz": "22525",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5646494",
+                    "longitude": "9.9017917",
+                    "plz": "22525",
+                    "ort": "Hamburg",
+                    "teilort": "Bahrenfeld"
+                },
+                {
+                    "latitude": "53.6074108",
+                    "longitude": "9.9058656",
+                    "plz": "22525",
+                    "ort": "Hamburg",
+                    "teilort": "Eidelstedt"
+                },
+                {
+                    "latitude": "53.5757416",
+                    "longitude": "9.9537005",
+                    "plz": "22525",
+                    "ort": "Hamburg",
+                    "teilort": "Eimsbüttel"
+                },
+                {
+                    "latitude": "53.5925693",
+                    "longitude": "9.8728066",
+                    "plz": "22525",
+                    "ort": "Hamburg",
+                    "teilort": "Lurup"
+                },
+                {
+                    "latitude": "53.5907225",
+                    "longitude": "9.9304171",
+                    "plz": "22525",
+                    "ort": "Hamburg",
+                    "teilort": "Stellingen"
+                },
+                {
+                    "latitude": "53.5926708",
+                    "longitude": "9.9294818",
+                    "plz": "22527",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5757416",
+                    "longitude": "9.9537005",
+                    "plz": "22527",
+                    "ort": "Hamburg",
+                    "teilort": "Eimsbüttel"
+                },
+                {
+                    "latitude": "53.5996679",
+                    "longitude": "9.9582241",
+                    "plz": "22527",
+                    "ort": "Hamburg",
+                    "teilort": "Lokstedt"
+                },
+                {
+                    "latitude": "53.5727726",
+                    "longitude": "9.9471715",
+                    "plz": "22529",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5952274",
+                    "longitude": "9.9881086",
+                    "plz": "22529",
+                    "ort": "Hamburg",
+                    "teilort": "Eppendorf"
+                },
+                {
+                    "latitude": "53.5797089",
+                    "longitude": "9.9668306",
+                    "plz": "22529",
+                    "ort": "Hamburg",
+                    "teilort": "Hoheluft-West"
+                },
+                {
+                    "latitude": "53.5996679",
+                    "longitude": "9.9582241",
+                    "plz": "22529",
+                    "ort": "Hamburg",
+                    "teilort": "Lokstedt"
+                },
+                {
+                    "latitude": "53.5907225",
+                    "longitude": "9.9304171",
+                    "plz": "22529",
+                    "ort": "Hamburg",
+                    "teilort": "Stellingen"
+                },
+                {
+                    "latitude": "53.5930711",
+                    "longitude": "9.873589",
+                    "plz": "22547",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6074108",
+                    "longitude": "9.9058656",
+                    "plz": "22547",
+                    "ort": "Hamburg",
+                    "teilort": "Eidelstedt"
+                },
+                {
+                    "latitude": "53.5925693",
+                    "longitude": "9.8728066",
+                    "plz": "22547",
+                    "ort": "Hamburg",
+                    "teilort": "Lurup"
+                },
+                {
+                    "latitude": "53.5895588",
+                    "longitude": "9.8583904",
+                    "plz": "22549",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5646494",
+                    "longitude": "9.9017917",
+                    "plz": "22549",
+                    "ort": "Hamburg",
+                    "teilort": "Bahrenfeld"
+                },
+                {
+                    "latitude": "53.5739794",
+                    "longitude": "9.8467532",
+                    "plz": "22549",
+                    "ort": "Hamburg",
+                    "teilort": "Osdorf"
+                },
+                {
+                    "latitude": "53.5868576",
+                    "longitude": "9.8643799",
+                    "plz": "22549",
+                    "ort": "Hamburg",
+                    "teilort": "West"
+                },
+                {
+                    "latitude": "53.580371",
+                    "longitude": "9.7510024",
+                    "plz": "22559",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5629615",
+                    "longitude": "9.8140898",
+                    "plz": "22587",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5637681",
+                    "longitude": "9.8276876",
+                    "plz": "22587",
+                    "ort": "Hamburg",
+                    "teilort": "Dockenhuden"
+                },
+                {
+                    "latitude": "53.5532924",
+                    "longitude": "9.8446308",
+                    "plz": "22587",
+                    "ort": "Hamburg",
+                    "teilort": "Nienstedten"
+                },
+                {
+                    "latitude": "53.5821222",
+                    "longitude": "9.7549235",
+                    "plz": "22587",
+                    "ort": "Hamburg",
+                    "teilort": "Rissen"
+                },
+                {
+                    "latitude": "53.5796822",
+                    "longitude": "9.8010497",
+                    "plz": "22587",
+                    "ort": "Hamburg",
+                    "teilort": "Sülldorf"
+                },
+                {
+                    "latitude": "53.562812",
+                    "longitude": "9.8122912",
+                    "plz": "22589",
+                    "ort": "Hamburg",
+                    "teilort": "Blankenese"
+                },
+                {
+                    "latitude": "53.5739794",
+                    "longitude": "9.8467532",
+                    "plz": "22589",
+                    "ort": "Hamburg",
+                    "teilort": "Osdorf"
+                },
+                {
+                    "latitude": "53.5796822",
+                    "longitude": "9.8010497",
+                    "plz": "22589",
+                    "ort": "Hamburg",
+                    "teilort": "Sülldorf"
+                },
+                {
+                    "latitude": "53.5646494",
+                    "longitude": "9.9017917",
+                    "plz": "22605",
+                    "ort": "Hamburg",
+                    "teilort": "Bahrenfeld"
+                },
+                {
+                    "latitude": "53.5656695",
+                    "longitude": "9.8778517",
+                    "plz": "22605",
+                    "ort": "Hamburg",
+                    "teilort": "Groß Flottbek"
+                },
+                {
+                    "latitude": "53.5660701",
+                    "longitude": "9.877582",
+                    "plz": "22607",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5646494",
+                    "longitude": "9.9017917",
+                    "plz": "22607",
+                    "ort": "Hamburg",
+                    "teilort": "Bahrenfeld"
+                },
+                {
+                    "latitude": "53.5532924",
+                    "longitude": "9.8446308",
+                    "plz": "22607",
+                    "ort": "Hamburg",
+                    "teilort": "Nienstedten"
+                },
+                {
+                    "latitude": "53.5564979",
+                    "longitude": "9.8898577",
+                    "plz": "22607",
+                    "ort": "Hamburg",
+                    "teilort": "Othmarschen"
+                },
+                {
+                    "latitude": "53.5656695",
+                    "longitude": "9.8778517",
+                    "plz": "22609",
+                    "ort": "Hamburg",
+                    "teilort": "Groß Flottbek"
+                },
+                {
+                    "latitude": "53.5739794",
+                    "longitude": "9.8467532",
+                    "plz": "22609",
+                    "ort": "Hamburg",
+                    "teilort": "Osdorf"
+                },
+                {
+                    "latitude": "53.5564979",
+                    "longitude": "9.8898577",
+                    "plz": "22609",
+                    "ort": "Hamburg",
+                    "teilort": "Othmarschen"
+                },
+                {
+                    "latitude": "53.9215493",
+                    "longitude": "8.4942185",
+                    "plz": "27499",
+                    "ort": "Hamburg-Insel Neuwerk"
+                },
+                {
+                    "latitude": "53.9583299",
+                    "longitude": "8.4194399",
+                    "plz": "27499",
+                    "ort": "Hamburg-Insel Neuwerk",
+                    "teilort": "Nigehörn"
+                },
+                {
+                    "latitude": "53.9619385",
+                    "longitude": "8.4527777",
+                    "plz": "27499",
+                    "ort": "Hamburg-Insel Neuwerk",
+                    "teilort": "Scharhörn"
+                },
+                {
+                    "latitude": "53.5885712",
+                    "longitude": "9.9867686",
+                    "plz": "20249",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5829017",
+                    "longitude": "9.9746188",
+                    "plz": "20249",
+                    "ort": "Hamburg",
+                    "teilort": "Hoheluft-Ost"
+                },
+                {
+                    "latitude": "53.608558",
+                    "longitude": "10.0099171",
+                    "plz": "20251",
+                    "ort": "Hamburg",
+                    "teilort": "Alsterdorf"
+                },
+                {
+                    "latitude": "53.5842684",
+                    "longitude": "9.9639618",
+                    "plz": "20253",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5767081",
+                    "longitude": "9.988846",
+                    "plz": "20253",
+                    "ort": "Hamburg",
+                    "teilort": "Harvestehude"
+                },
+                {
+                    "latitude": "53.5852721",
+                    "longitude": "9.950472",
+                    "plz": "20255",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5797089",
+                    "longitude": "9.9668306",
+                    "plz": "20255",
+                    "ort": "Hamburg",
+                    "teilort": "Hoheluft-West"
+                },
+                {
+                    "latitude": "53.5680783",
+                    "longitude": "9.9479988",
+                    "plz": "20257",
+                    "ort": "Hamburg",
+                    "teilort": "Altona-Nord"
+                },
+                {
+                    "latitude": "53.5757416",
+                    "longitude": "9.9537005",
+                    "plz": "20259",
+                    "ort": "Hamburg",
+                    "teilort": "Eimsbüttel"
+                },
+                {
+                    "latitude": "53.5562682",
+                    "longitude": "9.9844663",
+                    "plz": "20354",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5572886",
+                    "longitude": "9.9667767",
+                    "plz": "20354",
+                    "ort": "Hamburg",
+                    "teilort": "St. Pauli"
+                },
+                {
+                    "latitude": "53.5572886",
+                    "longitude": "9.9667767",
+                    "plz": "20355",
+                    "ort": "Hamburg",
+                    "teilort": "St. Pauli"
+                },
+                {
+                    "latitude": "53.5680783",
+                    "longitude": "9.9479988",
+                    "plz": "20357",
+                    "ort": "Hamburg",
+                    "teilort": "Altona-Nord"
+                },
+                {
+                    "latitude": "53.5572886",
+                    "longitude": "9.9667767",
+                    "plz": "20357",
+                    "ort": "Hamburg",
+                    "teilort": "St. Pauli"
+                },
+                {
+                    "latitude": "53.5548418",
+                    "longitude": "9.9898892",
+                    "plz": "20359",
+                    "ort": "Hamburg",
+                    "teilort": "Neustadt"
+                },
+                {
+                    "latitude": "53.5472815",
+                    "longitude": "10.0560793",
+                    "plz": "20537",
+                    "ort": "Hamburg",
+                    "teilort": "Hamm-Süd"
+                },
+                {
+                    "latitude": "53.5377799",
+                    "longitude": "10.0414473",
+                    "plz": "20539",
+                    "ort": "Hamburg",
+                    "teilort": "Billwerder-Ausschlag"
+                },
+                {
+                    "latitude": "53.5347494",
+                    "longitude": "10.0417711",
+                    "plz": "20539",
+                    "ort": "Hamburg",
+                    "teilort": "Rothenburgsort"
+                },
+                {
+                    "latitude": "53.4011015",
+                    "longitude": "10.1721008",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Lütjenburg"
+                },
+                {
+                    "latitude": "53.4165783",
+                    "longitude": "10.2220311",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Ohe"
+                },
+                {
+                    "latitude": "53.4687677",
+                    "longitude": "10.1502742",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Reitbrook"
+                },
+                {
+                    "latitude": "53.4875108",
+                    "longitude": "10.0562861",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "Spadenland"
+                },
+                {
+                    "latitude": "53.40219",
+                    "longitude": "10.2170309",
+                    "plz": "21037",
+                    "ort": "Hamburg",
+                    "teilort": "West Krauel"
+                },
+                {
+                    "latitude": "53.4275593",
+                    "longitude": "10.2688228",
+                    "plz": "21039",
+                    "ort": "Hamburg",
+                    "teilort": "Altengamme"
+                },
+                {
+                    "latitude": "53.4562016",
+                    "longitude": "9.9569381",
+                    "plz": "21073",
+                    "ort": "Hamburg",
+                    "teilort": "Eißendorf"
+                },
+                {
+                    "latitude": "53.4473812",
+                    "longitude": "9.9903389",
+                    "plz": "21073",
+                    "ort": "Hamburg",
+                    "teilort": "Wilstorf"
+                },
+                {
+                    "latitude": "53.4607798",
+                    "longitude": "9.979619",
+                    "plz": "21075",
+                    "ort": "Hamburg",
+                    "teilort": "Harburg"
+                },
+                {
+                    "latitude": "53.4280791",
+                    "longitude": "9.9363706",
+                    "plz": "21077",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.4254802",
+                    "longitude": "9.9317661",
+                    "plz": "21077",
+                    "ort": "Hamburg",
+                    "teilort": "Lürade"
+                },
+                {
+                    "latitude": "53.4243012",
+                    "longitude": "9.9766602",
+                    "plz": "21077",
+                    "ort": "Hamburg",
+                    "teilort": "Sinstorf"
+                },
+                {
+                    "latitude": "53.4767701",
+                    "longitude": "9.9193734",
+                    "plz": "21079",
+                    "ort": "Hamburg",
+                    "teilort": "Bostelbek"
+                },
+                {
+                    "latitude": "53.472092",
+                    "longitude": "9.885514",
+                    "plz": "21079",
+                    "ort": "Hamburg",
+                    "teilort": "Hausbruch"
+                },
+                {
+                    "latitude": "53.4894211",
+                    "longitude": "9.94254",
+                    "plz": "21079",
+                    "ort": "Hamburg",
+                    "teilort": "Moorburg"
+                },
+                {
+                    "latitude": "53.4243012",
+                    "longitude": "9.9766602",
+                    "plz": "21079",
+                    "ort": "Hamburg",
+                    "teilort": "Sinstorf"
+                },
+                {
+                    "latitude": "53.520369",
+                    "longitude": "9.9761656",
+                    "plz": "21107",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5062725",
+                    "longitude": "9.9441677",
+                    "plz": "21107",
+                    "ort": "Hamburg",
+                    "teilort": "Kattwyk"
+                },
+                {
+                    "latitude": "53.4789806",
+                    "longitude": "9.8607017",
+                    "plz": "21147",
+                    "ort": "Hamburg",
+                    "teilort": "Neugraben"
+                },
+                {
+                    "latitude": "53.4636817",
+                    "longitude": "9.8618978",
+                    "plz": "21149",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.4684786",
+                    "longitude": "9.8227863",
+                    "plz": "21149",
+                    "ort": "Hamburg",
+                    "teilort": "Neugr.-Fischbek"
+                },
+                {
+                    "latitude": "53.5665775",
+                    "longitude": "10.0754057",
+                    "plz": "22041",
+                    "ort": "Hamburg",
+                    "teilort": "Marienthal"
+                },
+                {
+                    "latitude": "53.5705724",
+                    "longitude": "10.0920522",
+                    "plz": "22043",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5665775",
+                    "longitude": "10.0754057",
+                    "plz": "22043",
+                    "ort": "Hamburg",
+                    "teilort": "Marienthal"
+                },
+                {
+                    "latitude": "53.5865694",
+                    "longitude": "10.1260735",
+                    "plz": "22045",
+                    "ort": "Hamburg",
+                    "teilort": "Tonndorf"
+                },
+                {
+                    "latitude": "53.5940692",
+                    "longitude": "10.0835536",
+                    "plz": "22047",
+                    "ort": "Hamburg",
+                    "teilort": "Hinschenfelde"
+                },
+                {
+                    "latitude": "53.5827789",
+                    "longitude": "10.0674287",
+                    "plz": "22049",
+                    "ort": "Hamburg",
+                    "teilort": "Dulsberg"
+                },
+                {
+                    "latitude": "53.54897",
+                    "longitude": "9.9933696",
+                    "plz": "20095",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.549889",
+                    "longitude": "9.9984867",
+                    "plz": "20095",
+                    "ort": "Hamburg",
+                    "teilort": "Altstadt"
+                },
+                {
+                    "latitude": "53.4789806",
+                    "longitude": "9.8607017",
+                    "plz": "20095",
+                    "ort": "Hamburg",
+                    "teilort": "Neugraben"
+                },
+                {
+                    "latitude": "53.5460793",
+                    "longitude": "10.0242523",
+                    "plz": "20097",
+                    "ort": "Hamburg",
+                    "teilort": "Hammerbrook"
+                },
+                {
+                    "latitude": "53.5739794",
+                    "longitude": "10.0329308",
+                    "plz": "22081",
+                    "ort": "Hamburg",
+                    "teilort": "Barmbek-Süd"
+                },
+                {
+                    "latitude": "53.5739794",
+                    "longitude": "10.0329308",
+                    "plz": "22083",
+                    "ort": "Hamburg",
+                    "teilort": "Barmbek-Süd"
+                },
+                {
+                    "latitude": "53.5393512",
+                    "longitude": "10.1037523",
+                    "plz": "22115",
+                    "ort": "Hamburg",
+                    "teilort": "Billstedt"
+                },
+                {
+                    "latitude": "53.5393512",
+                    "longitude": "10.1037523",
+                    "plz": "22117",
+                    "ort": "Hamburg",
+                    "teilort": "Billstedt"
+                },
+                {
+                    "latitude": "53.5393512",
+                    "longitude": "10.1037523",
+                    "plz": "22119",
+                    "ort": "Hamburg",
+                    "teilort": "Billstedt"
+                },
+                {
+                    "latitude": "53.6166621",
+                    "longitude": "10.1627478",
+                    "plz": "22143",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6045081",
+                    "longitude": "10.1193196",
+                    "plz": "22145",
+                    "ort": "Hamburg",
+                    "teilort": "Farmsen-Berne"
+                },
+                {
+                    "latitude": "53.6026617",
+                    "longitude": "10.1579904",
+                    "plz": "22149",
+                    "ort": "Hamburg",
+                    "teilort": "Rahlstedt"
+                },
+                {
+                    "latitude": "53.6109697",
+                    "longitude": "10.0961531",
+                    "plz": "22159",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6045081",
+                    "longitude": "10.1193196",
+                    "plz": "22159",
+                    "ort": "Hamburg",
+                    "teilort": "Farmsen-Berne"
+                },
+                {
+                    "latitude": "53.6303592",
+                    "longitude": "10.1374499",
+                    "plz": "22175",
+                    "ort": "Hamburg",
+                    "teilort": "Berne"
+                },
+                {
+                    "latitude": "53.6125702",
+                    "longitude": "10.0797225",
+                    "plz": "22177",
+                    "ort": "Hamburg",
+                    "teilort": "Bramfeld"
+                },
+                {
+                    "latitude": "53.608558",
+                    "longitude": "10.0099171",
+                    "plz": "22335",
+                    "ort": "Hamburg",
+                    "teilort": "Alsterdorf"
+                },
+                {
+                    "latitude": "53.6078003",
+                    "longitude": "9.9777934",
+                    "plz": "22335",
+                    "ort": "Hamburg",
+                    "teilort": "Groß Borstel"
+                },
+                {
+                    "latitude": "53.608558",
+                    "longitude": "10.0099171",
+                    "plz": "22337",
+                    "ort": "Hamburg",
+                    "teilort": "Alsterdorf"
+                },
+                {
+                    "latitude": "53.6344707",
+                    "longitude": "10.0168059",
+                    "plz": "22339",
+                    "ort": "Hamburg",
+                    "teilort": "Fuhlsbüttel"
+                },
+                {
+                    "latitude": "53.6710617",
+                    "longitude": "10.1234025",
+                    "plz": "22359",
+                    "ort": "Hamburg",
+                    "teilort": "Bergstedt"
+                },
+                {
+                    "latitude": "53.6380593",
+                    "longitude": "10.0877534",
+                    "plz": "22391",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.644681",
+                    "longitude": "10.0517176",
+                    "plz": "22391",
+                    "ort": "Hamburg",
+                    "teilort": "Hummelsbüttel"
+                },
+                {
+                    "latitude": "53.6406398",
+                    "longitude": "10.083014",
+                    "plz": "22391",
+                    "ort": "Hamburg",
+                    "teilort": "Wellingsbüttel"
+                },
+                {
+                    "latitude": "53.656088",
+                    "longitude": "10.0899028",
+                    "plz": "22393",
+                    "ort": "Hamburg",
+                    "teilort": "Poppenbüttel"
+                },
+                {
+                    "latitude": "53.6673587",
+                    "longitude": "10.129347",
+                    "plz": "22395",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6538602",
+                    "longitude": "10.1116394",
+                    "plz": "22395",
+                    "ort": "Hamburg",
+                    "teilort": "Sasel"
+                },
+                {
+                    "latitude": "53.7050604",
+                    "longitude": "10.1065492",
+                    "plz": "22397",
+                    "ort": "Hamburg",
+                    "teilort": "Duvenstedt"
+                },
+                {
+                    "latitude": "53.6951416",
+                    "longitude": "10.1376208",
+                    "plz": "22397",
+                    "ort": "Hamburg",
+                    "teilort": "Wohldorf-Ohlstedt"
+                },
+                {
+                    "latitude": "53.6863922",
+                    "longitude": "10.1050923",
+                    "plz": "22399",
+                    "ort": "Hamburg",
+                    "teilort": "Lemsahl-Mellingstedt"
+                },
+                {
+                    "latitude": "53.6344707",
+                    "longitude": "10.0168059",
+                    "plz": "22415",
+                    "ort": "Hamburg",
+                    "teilort": "Fuhlsbüttel"
+                },
+                {
+                    "latitude": "53.6779606",
+                    "longitude": "10.0463576",
+                    "plz": "22417",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.6465095",
+                    "longitude": "10.0122104",
+                    "plz": "22417",
+                    "ort": "Hamburg",
+                    "teilort": "Langenhorn"
+                },
+                {
+                    "latitude": "53.6074108",
+                    "longitude": "9.9058656",
+                    "plz": "22527",
+                    "ort": "Hamburg",
+                    "teilort": "Eidelstedt"
+                },
+                {
+                    "latitude": "53.5907225",
+                    "longitude": "9.9304171",
+                    "plz": "22527",
+                    "ort": "Hamburg",
+                    "teilort": "Stellingen"
+                },
+                {
+                    "latitude": "53.6078003",
+                    "longitude": "9.9777934",
+                    "plz": "22529",
+                    "ort": "Hamburg",
+                    "teilort": "Groß Borstel"
+                },
+                {
+                    "latitude": "53.6184705",
+                    "longitude": "9.9519379",
+                    "plz": "22529",
+                    "ort": "Hamburg",
+                    "teilort": "Niendorf"
+                },
+                {
+                    "latitude": "53.5646494",
+                    "longitude": "9.9017917",
+                    "plz": "22547",
+                    "ort": "Hamburg",
+                    "teilort": "Bahrenfeld"
+                },
+                {
+                    "latitude": "53.5739794",
+                    "longitude": "9.8467532",
+                    "plz": "22547",
+                    "ort": "Hamburg",
+                    "teilort": "Osdorf"
+                },
+                {
+                    "latitude": "53.5925693",
+                    "longitude": "9.8728066",
+                    "plz": "22549",
+                    "ort": "Hamburg",
+                    "teilort": "Lurup"
+                },
+                {
+                    "latitude": "53.5821222",
+                    "longitude": "9.7549235",
+                    "plz": "22559",
+                    "ort": "Hamburg",
+                    "teilort": "Rissen"
+                },
+                {
+                    "latitude": "53.562812",
+                    "longitude": "9.8122912",
+                    "plz": "22587",
+                    "ort": "Hamburg",
+                    "teilort": "Blankenese"
+                },
+                {
+                    "latitude": "53.5739794",
+                    "longitude": "9.8467532",
+                    "plz": "22587",
+                    "ort": "Hamburg",
+                    "teilort": "Osdorf"
+                },
+                {
+                    "latitude": "53.5799599",
+                    "longitude": "9.8143956",
+                    "plz": "22589",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5771887",
+                    "longitude": "9.8180019",
+                    "plz": "22589",
+                    "ort": "Hamburg",
+                    "teilort": "Iserbrook"
+                },
+                {
+                    "latitude": "53.5507706",
+                    "longitude": "9.8771863",
+                    "plz": "22605",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5564979",
+                    "longitude": "9.8898577",
+                    "plz": "22605",
+                    "ort": "Hamburg",
+                    "teilort": "Othmarschen"
+                },
+                {
+                    "latitude": "53.5656695",
+                    "longitude": "9.8778517",
+                    "plz": "22607",
+                    "ort": "Hamburg",
+                    "teilort": "Groß Flottbek"
+                },
+                {
+                    "latitude": "53.5689702",
+                    "longitude": "9.8488936",
+                    "plz": "22609",
+                    "ort": "Hamburg"
+                },
+                {
+                    "latitude": "53.5532924",
+                    "longitude": "9.8446308",
+                    "plz": "22609",
+                    "ort": "Hamburg",
+                    "teilort": "Nienstedten"
+                }
+            ]
+        },
+        "statistik": {
+            "anzahl": 20
+        },
+        "quota": {
+            "verwendet": "126327"
+        },
+        "apotheken": {
+            "apotheke": [
+                {
+                    "name": "An der Alster Apotheke",
+                    "kammer": "akh",
+                    "id": "12021",
+                    "apo_id": "akh12021",
+                    "strasse": "Ballindamm 40",
+                    "plz": "20095",
+                    "ort": "Hamburg",
+                    "distanz": "0.41298297358999997",
+                    "longitude": "9.99483",
+                    "latitude": "53.55166",
+                    "telefon": "+49 40 41423561",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Bettin's Apotheke",
+                    "kammer": "akh",
+                    "id": "10181",
+                    "apo_id": "akh10181",
+                    "strasse": "Maria-Louisen-Straße 1",
+                    "plz": "22301",
+                    "ort": "Hamburg",
+                    "distanz": "3.7869196401600003",
+                    "longitude": "9.9963908",
+                    "latitude": "53.5842716",
+                    "telefon": "+49 40 481094",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Victoria-Apotheke",
+                    "kammer": "akh",
+                    "id": "10027",
+                    "apo_id": "akh10027",
+                    "strasse": "Bahrenfelder Straße 69",
+                    "plz": "22765",
+                    "ort": "Hamburg",
+                    "distanz": "4.68883021733",
+                    "longitude": "9.9299219",
+                    "latitude": "53.5510781",
+                    "telefon": "+49 40 3900730",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Apotheke am Zoll",
+                    "kammer": "akh",
+                    "id": "10138",
+                    "apo_id": "akh10138",
+                    "strasse": "Alter Teichweg 7",
+                    "plz": "22081",
+                    "ort": "Hamburg",
+                    "distanz": "4.77542682282",
+                    "longitude": "10.04744",
+                    "latitude": "53.58298",
+                    "telefon": "+49 40 2993330",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Eichen Apotheke Lokstedt",
+                    "kammer": "akh",
+                    "id": "10760",
+                    "apo_id": "akh10760",
+                    "strasse": "Hugh-Greene-Weg 2 - 6",
+                    "plz": "22529",
+                    "ort": "Hamburg",
+                    "distanz": "6.140492774739999",
+                    "longitude": "9.9471295",
+                    "latitude": "53.5953855",
+                    "telefon": "+49 40 54752112",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Jenfelder-Apotheke",
+                    "kammer": "akh",
+                    "id": "10175",
+                    "apo_id": "akh10175",
+                    "strasse": "Rodigallee 248",
+                    "plz": "22043",
+                    "ort": "Hamburg",
+                    "distanz": "8.54635592479",
+                    "longitude": "10.1249835",
+                    "latitude": "53.5707613",
+                    "telefon": "+49 40 68949313",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Damian-Apotheke am Sand",
+                    "kammer": "akh",
+                    "id": "10361",
+                    "apo_id": "akh10361",
+                    "strasse": "Sand 35",
+                    "plz": "21073",
+                    "ort": "Hamburg",
+                    "distanz": "10.008063019409999",
+                    "longitude": "9.9791138",
+                    "latitude": "53.4613395",
+                    "telefon": "+49 40 777929",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Heiligen-Geist-Apotheke",
+                    "kammer": "akh",
+                    "id": "10351",
+                    "apo_id": "akh10351",
+                    "strasse": "Poppenbütteler Weg 194",
+                    "plz": "22399",
+                    "ort": "Hamburg",
+                    "distanz": "12.53428194053",
+                    "longitude": "10.078234",
+                    "latitude": "53.6530728",
+                    "telefon": "+49 40 6024070",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Sülldorfer Apotheke",
+                    "kammer": "akh",
+                    "id": "10235",
+                    "apo_id": "akh10235",
+                    "strasse": "Sülldorfer Landstraße 206",
+                    "plz": "22589",
+                    "ort": "Hamburg",
+                    "distanz": "14.066534846669999",
+                    "longitude": "9.79462",
+                    "latitude": "53.58083",
+                    "telefon": "+49 40 875211",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Rosen-Apotheke",
+                    "kammer": "aksh",
+                    "id": "10410",
+                    "apo_id": "aksh10410",
+                    "strasse": "Hauptstr. 82",
+                    "plz": "25462",
+                    "ort": "Rellingen",
+                    "distanz": "16.19081018816",
+                    "longitude": "9.82887",
+                    "latitude": "53.65389",
+                    "telefon": "+49 4101 22833",
+                    "fax": "+49 4101 204426",
+                    "email": "service@aporell.de",
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Ärztehaus-Apotheke Neu Wulmstorf",
+                    "kammer": "aknds",
+                    "id": "1359",
+                    "apo_id": "aknds1359",
+                    "strasse": "Bahnhofstr. 26",
+                    "plz": "21629",
+                    "ort": "Neu Wulmstorf",
+                    "distanz": "16.63170567138",
+                    "longitude": "9.7932616",
+                    "latitude": "53.4663963",
+                    "telefon": "+49 40 70013830",
+                    "fax": "+49 40 700138321",
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Moorbek-Apotheke",
+                    "kammer": "aksh",
+                    "id": "10613",
+                    "apo_id": "aksh10613",
+                    "strasse": "Rathausallee 35-39",
+                    "plz": "22846",
+                    "ort": "Norderstedt",
+                    "distanz": "17.48028318994",
+                    "longitude": "9.9899815",
+                    "latitude": "53.7072711",
+                    "telefon": "040-5227552",
+                    "fax": "040-5261798",
+                    "email": "info@moorbek-apotheke.de",
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Neue Apotheke im Casinopark",
+                    "kammer": "aksh",
+                    "id": "10478",
+                    "apo_id": "aksh10478",
+                    "strasse": "Am Casinopark 14",
+                    "plz": "21465",
+                    "ort": "Wentorf",
+                    "distanz": "18.070678995639998",
+                    "longitude": "10.25354",
+                    "latitude": "53.48993",
+                    "telefon": "+49 40 7202360",
+                    "fax": "+49 40 72977259",
+                    "email": "neue-apotheke.wentorf@gmx.de",
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Holsten-Apotheke",
+                    "kammer": "aksh",
+                    "id": "10787",
+                    "apo_id": "aksh10787",
+                    "strasse": "Rissener Str. 105",
+                    "plz": "22880",
+                    "ort": "Wedel",
+                    "distanz": "18.70733765425",
+                    "longitude": "9.724222",
+                    "latitude": "53.5846011",
+                    "telefon": "04103-7019113",
+                    "fax": "04103-7019115",
+                    "email": "info@holstenapotheke-wedel.de",
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Adler-Apotheke",
+                    "kammer": "aksh",
+                    "id": "10002",
+                    "apo_id": "aksh10002",
+                    "strasse": "Hagener Allee 16",
+                    "plz": "22926",
+                    "ort": "Ahrensburg",
+                    "distanz": "20.74881699797",
+                    "longitude": "10.23857",
+                    "latitude": "53.67174",
+                    "telefon": "+49 4102 52274",
+                    "fax": "+49 4102 59987",
+                    "email": "service@adler-apotheke.de",
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Altländer Apotheke Jork",
+                    "kammer": "aknds",
+                    "id": "1298",
+                    "apo_id": "aknds1298",
+                    "strasse": "Am Gräfengericht 9",
+                    "plz": "21635",
+                    "ort": "Jork",
+                    "distanz": "21.27249178638",
+                    "longitude": "9.6810532",
+                    "latitude": "53.5332743",
+                    "telefon": "+49 4162 8787",
+                    "fax": "+49 4162 6786",
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "PHARMAZEUTIX Apotheke auf dem Rhen",
+                    "kammer": "aksh",
+                    "id": "10150",
+                    "apo_id": "aksh10150",
+                    "strasse": "Wilstedter Str. 45",
+                    "plz": "24558",
+                    "ort": "Henstedt-Ulzburg",
+                    "distanz": "22.64125326357",
+                    "longitude": "9.9974",
+                    "latitude": "53.75376",
+                    "telefon": "+49 4193 7376",
+                    "fax": "+49 4193 77181",
+                    "email": "rhenapo@pharmazeutix.de",
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "wir leben-Apotheke im Luhepark",
+                    "kammer": "aknds",
+                    "id": "6737",
+                    "apo_id": "aknds6737",
+                    "strasse": "Löhnfeld 10",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "24.61644853109",
+                    "longitude": "10.1955",
+                    "latitude": "53.3622",
+                    "telefon": "+49 4171 605770",
+                    "fax": "+49 4171 6057719",
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Sonnen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1169",
+                    "apo_id": "aknds1169",
+                    "strasse": "Dibberser Mühlenweg 1 a",
+                    "plz": "21244",
+                    "ort": "Buchholz in der Nordheide",
+                    "distanz": "25.571057374339997",
+                    "longitude": "9.8745667",
+                    "latitude": "53.3332641",
+                    "telefon": "+49 4181 31743",
+                    "fax": "+49 4181 281541",
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Pluspunkt Apotheke Uetersen",
+                    "kammer": "aksh",
+                    "id": "10809",
+                    "apo_id": "aksh10809",
+                    "strasse": "Großer Sand 12",
+                    "plz": "25436",
+                    "ort": "Uetersen",
+                    "distanz": "26.63632712764",
+                    "longitude": "9.6655415",
+                    "latitude": "53.6829075",
+                    "telefon": "04122-9278270",
+                    "fax": "04122-9278271",
+                    "email": "uetersen@pluspunkt-apotheke.de",
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                }
+            ]
+        }
+    }
+}

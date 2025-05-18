@@ -1,0 +1,1448 @@
+{
+    "alerts": [],
+    "settings": {
+        "interface": "emergency",
+        "singleViewUid": "261"
+    },
+    "args": {
+        "action": "result",
+        "controller": "Search",
+        "search": {
+            "date": "",
+            "lat": "",
+            "lng": "",
+            "plzort": "Bremen",
+            "radius": "25",
+            "street": ""
+        },
+        "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
+    },
+    "results": {
+        "parameter": {
+            "plzort": "Bremen",
+            "strasse": [],
+            "radius": "25.0",
+            "longitude": "8.6932343",
+            "latitude": "53.144869",
+            "limit": [],
+            "datum": [],
+            "alternative": [
+                {
+                    "latitude": "53.0811178",
+                    "longitude": "8.8078569",
+                    "plz": "28195",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0784221",
+                    "longitude": "8.8048621",
+                    "plz": "28195",
+                    "ort": "Bremen",
+                    "teilort": "Altstadt"
+                },
+                {
+                    "latitude": "53.0820199",
+                    "longitude": "8.8108516",
+                    "plz": "28195",
+                    "ort": "Bremen",
+                    "teilort": "Bahnhofsvorstadt"
+                },
+                {
+                    "latitude": "53.0751589",
+                    "longitude": "8.8046643",
+                    "plz": "28195",
+                    "ort": "Bremen",
+                    "teilort": "Mitte"
+                },
+                {
+                    "latitude": "53.1070076",
+                    "longitude": "8.7240491",
+                    "plz": "28197",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.1168323",
+                    "longitude": "8.6938499",
+                    "plz": "28197",
+                    "ort": "Bremen",
+                    "teilort": "Hasenbüren"
+                },
+                {
+                    "latitude": "53.0810205",
+                    "longitude": "8.7794563",
+                    "plz": "28197",
+                    "ort": "Bremen",
+                    "teilort": "Hohentorshafen"
+                },
+                {
+                    "latitude": "53.1014194",
+                    "longitude": "8.7351467",
+                    "plz": "28197",
+                    "ort": "Bremen",
+                    "teilort": "Neustädter Hafen"
+                },
+                {
+                    "latitude": "53.0909214",
+                    "longitude": "8.7555613",
+                    "plz": "28197",
+                    "ort": "Bremen",
+                    "teilort": "Rablinghausen"
+                },
+                {
+                    "latitude": "53.1111321",
+                    "longitude": "8.708347",
+                    "plz": "28197",
+                    "ort": "Bremen",
+                    "teilort": "Seehausen"
+                },
+                {
+                    "latitude": "53.0917802",
+                    "longitude": "8.6683361",
+                    "plz": "28197",
+                    "ort": "Bremen",
+                    "teilort": "Strom"
+                },
+                {
+                    "latitude": "53.0812204",
+                    "longitude": "8.7730262",
+                    "plz": "28197",
+                    "ort": "Bremen",
+                    "teilort": "Woltmershausen"
+                },
+                {
+                    "latitude": "53.07122",
+                    "longitude": "8.7840608",
+                    "plz": "28199",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0750994",
+                    "longitude": "8.7964625",
+                    "plz": "28199",
+                    "ort": "Bremen",
+                    "teilort": "Alte Neustadt"
+                },
+                {
+                    "latitude": "53.0730193",
+                    "longitude": "8.7884495",
+                    "plz": "28199",
+                    "ort": "Bremen",
+                    "teilort": "Hohentor"
+                },
+                {
+                    "latitude": "53.0667188",
+                    "longitude": "8.7810571",
+                    "plz": "28199",
+                    "ort": "Bremen",
+                    "teilort": "Neuenland"
+                },
+                {
+                    "latitude": "53.0667188",
+                    "longitude": "8.8019573",
+                    "plz": "28201",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0676213",
+                    "longitude": "8.8094577",
+                    "plz": "28201",
+                    "ort": "Bremen",
+                    "teilort": "Buntentor"
+                },
+                {
+                    "latitude": "53.0586177",
+                    "longitude": "8.8139543",
+                    "plz": "28201",
+                    "ort": "Bremen",
+                    "teilort": "Huckelriede"
+                },
+                {
+                    "latitude": "53.0434218",
+                    "longitude": "8.8483443",
+                    "plz": "28201",
+                    "ort": "Bremen",
+                    "teilort": "Süd"
+                },
+                {
+                    "latitude": "53.0739216",
+                    "longitude": "8.8213557",
+                    "plz": "28203",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0775199",
+                    "longitude": "8.8362395",
+                    "plz": "28203",
+                    "ort": "Bremen",
+                    "teilort": "Fesenfeld"
+                },
+                {
+                    "latitude": "53.0775199",
+                    "longitude": "8.818361",
+                    "plz": "28203",
+                    "ort": "Bremen",
+                    "teilort": "Ostertor"
+                },
+                {
+                    "latitude": "53.0704203",
+                    "longitude": "8.8482544",
+                    "plz": "28205",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0740189",
+                    "longitude": "8.8556289",
+                    "plz": "28205",
+                    "ort": "Bremen",
+                    "teilort": "Hulsberg"
+                },
+                {
+                    "latitude": "53.068621",
+                    "longitude": "8.8526521",
+                    "plz": "28205",
+                    "ort": "Bremen",
+                    "teilort": "Peterswerder"
+                },
+                {
+                    "latitude": "53.0703717",
+                    "longitude": "8.8348905",
+                    "plz": "28205",
+                    "ort": "Bremen",
+                    "teilort": "Östliche Vorstadt"
+                },
+                {
+                    "latitude": "53.0704203",
+                    "longitude": "8.8601434",
+                    "plz": "28207",
+                    "ort": "Bremen",
+                    "teilort": "Hastedt"
+                },
+                {
+                    "latitude": "53.0869192",
+                    "longitude": "8.8184509",
+                    "plz": "28209",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0910187",
+                    "longitude": "8.8257624",
+                    "plz": "28209",
+                    "ort": "Bremen",
+                    "teilort": "Bürgerpark"
+                },
+                {
+                    "latitude": "53.0884208",
+                    "longitude": "8.8194581",
+                    "plz": "28209",
+                    "ort": "Bremen",
+                    "teilort": "Bürgerweide"
+                },
+                {
+                    "latitude": "53.0859416",
+                    "longitude": "8.8496034",
+                    "plz": "28209",
+                    "ort": "Bremen",
+                    "teilort": "Schwachhausen"
+                },
+                {
+                    "latitude": "53.0821226",
+                    "longitude": "8.8511502",
+                    "plz": "28211",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0812204",
+                    "longitude": "8.8496394",
+                    "plz": "28211",
+                    "ort": "Bremen",
+                    "teilort": "Gete"
+                },
+                {
+                    "latitude": "53.0982174",
+                    "longitude": "8.8466536",
+                    "plz": "28213",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.1018082",
+                    "longitude": "8.8406462",
+                    "plz": "28213",
+                    "ort": "Bremen",
+                    "teilort": "Neu Schwachhausen"
+                },
+                {
+                    "latitude": "53.0964084",
+                    "longitude": "8.8018584",
+                    "plz": "28215",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0820199",
+                    "longitude": "8.8108516",
+                    "plz": "28215",
+                    "ort": "Bremen",
+                    "teilort": "Bahnhofsvorstadt"
+                },
+                {
+                    "latitude": "53.0919206",
+                    "longitude": "8.8108606",
+                    "plz": "28215",
+                    "ort": "Bremen",
+                    "teilort": "Findorff-Bürgerweide"
+                },
+                {
+                    "latitude": "53.0982174",
+                    "longitude": "8.8048621",
+                    "plz": "28215",
+                    "ort": "Bremen",
+                    "teilort": "Regensburger Straße"
+                },
+                {
+                    "latitude": "53.1424093",
+                    "longitude": "8.9346343",
+                    "plz": "28215",
+                    "ort": "Bremen",
+                    "teilort": "Timmersloh"
+                },
+                {
+                    "latitude": "53.0954201",
+                    "longitude": "8.7794563",
+                    "plz": "28217",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0891175",
+                    "longitude": "8.7794473",
+                    "plz": "28217",
+                    "ort": "Bremen",
+                    "teilort": "Hafen-Süd"
+                },
+                {
+                    "latitude": "53.0954093",
+                    "longitude": "8.7824511",
+                    "plz": "28217",
+                    "ort": "Bremen",
+                    "teilort": "Steffensweg"
+                },
+                {
+                    "latitude": "53.0901221",
+                    "longitude": "8.7943581",
+                    "plz": "28217",
+                    "ort": "Bremen",
+                    "teilort": "Utbremen"
+                },
+                {
+                    "latitude": "53.093719",
+                    "longitude": "8.7973618",
+                    "plz": "28217",
+                    "ort": "Bremen",
+                    "teilort": "Westend"
+                },
+                {
+                    "latitude": "53.0603202",
+                    "longitude": "8.7646625",
+                    "plz": "28219",
+                    "ort": "Bremen",
+                    "teilort": "Grolland"
+                },
+                {
+                    "latitude": "53.1188078",
+                    "longitude": "8.7972629",
+                    "plz": "28219",
+                    "ort": "Bremen",
+                    "teilort": "Hohweg"
+                },
+                {
+                    "latitude": "53.0254188",
+                    "longitude": "8.8245483",
+                    "plz": "28219",
+                    "ort": "Bremen",
+                    "teilort": "In den Hufen"
+                },
+                {
+                    "latitude": "53.0909214",
+                    "longitude": "8.7555613",
+                    "plz": "28219",
+                    "ort": "Bremen",
+                    "teilort": "Rablinghausen"
+                },
+                {
+                    "latitude": "53.1160119",
+                    "longitude": "8.7842587",
+                    "plz": "28219",
+                    "ort": "Bremen",
+                    "teilort": "Schönebeck"
+                },
+                {
+                    "latitude": "53.1026505",
+                    "longitude": "8.7856167",
+                    "plz": "28219",
+                    "ort": "Bremen",
+                    "teilort": "Walle"
+                },
+                {
+                    "latitude": "53.1539086",
+                    "longitude": "8.7050734",
+                    "plz": "28237",
+                    "ort": "Bremen",
+                    "teilort": "Burg-Grambke"
+                },
+                {
+                    "latitude": "53.1170104",
+                    "longitude": "8.7554624",
+                    "plz": "28237",
+                    "ort": "Bremen",
+                    "teilort": "Hafen-Nord"
+                },
+                {
+                    "latitude": "53.1188078",
+                    "longitude": "8.7972629",
+                    "plz": "28237",
+                    "ort": "Bremen",
+                    "teilort": "Hohweg"
+                },
+                {
+                    "latitude": "53.1322073",
+                    "longitude": "8.7269629",
+                    "plz": "28237",
+                    "ort": "Bremen",
+                    "teilort": "Industriehäfen"
+                },
+                {
+                    "latitude": "53.1393074",
+                    "longitude": "8.6924739",
+                    "plz": "28237",
+                    "ort": "Bremen",
+                    "teilort": "Klöckner-Hütte"
+                },
+                {
+                    "latitude": "53.1304105",
+                    "longitude": "8.7344633",
+                    "plz": "28239",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.1539086",
+                    "longitude": "8.7050734",
+                    "plz": "28239",
+                    "ort": "Bremen",
+                    "teilort": "Burg-Grambke"
+                },
+                {
+                    "latitude": "53.1358115",
+                    "longitude": "8.7343643",
+                    "plz": "28239",
+                    "ort": "Bremen",
+                    "teilort": "Oslebshausen"
+                },
+                {
+                    "latitude": "53.0567205",
+                    "longitude": "8.7318642",
+                    "plz": "28259",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0603202",
+                    "longitude": "8.7393556",
+                    "plz": "28259",
+                    "ort": "Bremen",
+                    "teilort": "Brokhuchting"
+                },
+                {
+                    "latitude": "53.0603202",
+                    "longitude": "8.7646625",
+                    "plz": "28259",
+                    "ort": "Bremen",
+                    "teilort": "Grolland"
+                },
+                {
+                    "latitude": "53.0595581",
+                    "longitude": "8.7382494",
+                    "plz": "28259",
+                    "ort": "Bremen",
+                    "teilort": "Huchting"
+                },
+                {
+                    "latitude": "53.04772",
+                    "longitude": "8.7393466",
+                    "plz": "28259",
+                    "ort": "Bremen",
+                    "teilort": "Kirchhuchting"
+                },
+                {
+                    "latitude": "53.0585204",
+                    "longitude": "8.7244538",
+                    "plz": "28259",
+                    "ort": "Bremen",
+                    "teilort": "Mittelshuchting"
+                },
+                {
+                    "latitude": "53.0480011",
+                    "longitude": "8.7221875",
+                    "plz": "28259",
+                    "ort": "Bremen",
+                    "teilort": "Sodenmatt"
+                },
+                {
+                    "latitude": "53.0362193",
+                    "longitude": "8.8170569",
+                    "plz": "28277",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0317199",
+                    "longitude": "8.8155641",
+                    "plz": "28277",
+                    "ort": "Bremen",
+                    "teilort": "Kattenesch"
+                },
+                {
+                    "latitude": "53.04792",
+                    "longitude": "8.8244584",
+                    "plz": "28277",
+                    "ort": "Bremen",
+                    "teilort": "Kattenturm"
+                },
+                {
+                    "latitude": "53.0398207",
+                    "longitude": "8.8423369",
+                    "plz": "28279",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0326176",
+                    "longitude": "8.8483443",
+                    "plz": "28279",
+                    "ort": "Bremen",
+                    "teilort": "Arsten"
+                },
+                {
+                    "latitude": "53.04792",
+                    "longitude": "8.8587495",
+                    "plz": "28279",
+                    "ort": "Bremen",
+                    "teilort": "Habenhausen"
+                },
+                {
+                    "latitude": "53.04792",
+                    "longitude": "8.8244584",
+                    "plz": "28279",
+                    "ort": "Bremen",
+                    "teilort": "Kattenturm"
+                },
+                {
+                    "latitude": "53.036241",
+                    "longitude": "8.8267696",
+                    "plz": "28279",
+                    "ort": "Bremen",
+                    "teilort": "Obervieland"
+                },
+                {
+                    "latitude": "53.040821",
+                    "longitude": "8.9392478",
+                    "plz": "28307",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0426216",
+                    "longitude": "8.9169356",
+                    "plz": "28307",
+                    "ort": "Bremen",
+                    "teilort": "Arbergen"
+                },
+                {
+                    "latitude": "53.0111311",
+                    "longitude": "8.9229431",
+                    "plz": "28307",
+                    "ort": "Bremen",
+                    "teilort": "Grummenstreek"
+                },
+                {
+                    "latitude": "53.0381174",
+                    "longitude": "8.9422425",
+                    "plz": "28307",
+                    "ort": "Bremen",
+                    "teilort": "Mahndorf"
+                },
+                {
+                    "latitude": "53.0638925",
+                    "longitude": "8.9438883",
+                    "plz": "28307",
+                    "ort": "Bremen",
+                    "teilort": "Osterholz"
+                },
+                {
+                    "latitude": "53.0551205",
+                    "longitude": "8.8974383",
+                    "plz": "28309",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0381174",
+                    "longitude": "8.9422425",
+                    "plz": "28309",
+                    "ort": "Bremen",
+                    "teilort": "Mahndorf"
+                },
+                {
+                    "latitude": "53.0659191",
+                    "longitude": "8.8959364",
+                    "plz": "28309",
+                    "ort": "Bremen",
+                    "teilort": "Sebaldsbrück"
+                },
+                {
+                    "latitude": "53.0660217",
+                    "longitude": "8.9452373",
+                    "plz": "28325",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0895226",
+                    "longitude": "8.936253",
+                    "plz": "28325",
+                    "ort": "Bremen",
+                    "teilort": "Oberneuland"
+                },
+                {
+                    "latitude": "53.06152",
+                    "longitude": "8.9392388",
+                    "plz": "28325",
+                    "ort": "Bremen",
+                    "teilort": "Tenever"
+                },
+                {
+                    "latitude": "53.0767203",
+                    "longitude": "8.9183385",
+                    "plz": "28327",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.069518",
+                    "longitude": "8.9302276",
+                    "plz": "28327",
+                    "ort": "Bremen",
+                    "teilort": "Ellener Feld"
+                },
+                {
+                    "latitude": "53.0839214",
+                    "longitude": "8.8869342",
+                    "plz": "28329",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0803183",
+                    "longitude": "8.8720415",
+                    "plz": "28329",
+                    "ort": "Bremen",
+                    "teilort": "Gartenstadt Vahr"
+                },
+                {
+                    "latitude": "53.0767203",
+                    "longitude": "8.9019439",
+                    "plz": "28329",
+                    "ort": "Bremen",
+                    "teilort": "Neue Vahr"
+                },
+                {
+                    "latitude": "53.0794215",
+                    "longitude": "8.9063326",
+                    "plz": "28329",
+                    "ort": "Bremen",
+                    "teilort": "Neue Vahr Südost"
+                },
+                {
+                    "latitude": "53.0821226",
+                    "longitude": "8.8914398",
+                    "plz": "28329",
+                    "ort": "Bremen",
+                    "teilort": "Neue Vahr Südwest"
+                },
+                {
+                    "latitude": "53.0659191",
+                    "longitude": "8.8959364",
+                    "plz": "28329",
+                    "ort": "Bremen",
+                    "teilort": "Sebaldsbrück"
+                },
+                {
+                    "latitude": "53.0802102",
+                    "longitude": "8.889902",
+                    "plz": "28329",
+                    "ort": "Bremen",
+                    "teilort": "Vahr"
+                },
+                {
+                    "latitude": "53.1156124",
+                    "longitude": "8.9157395",
+                    "plz": "28355",
+                    "ort": "Bremen",
+                    "teilort": "Kattrepel"
+                },
+                {
+                    "latitude": "53.0884208",
+                    "longitude": "8.9138419",
+                    "plz": "28355",
+                    "ort": "Bremen",
+                    "teilort": "Ost"
+                },
+                {
+                    "latitude": "53.1127083",
+                    "longitude": "8.8913499",
+                    "plz": "28357",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.1198117",
+                    "longitude": "8.8211579",
+                    "plz": "28357",
+                    "ort": "Bremen",
+                    "teilort": "Blockland"
+                },
+                {
+                    "latitude": "53.1208102",
+                    "longitude": "8.901836",
+                    "plz": "28357",
+                    "ort": "Bremen",
+                    "teilort": "Lehesterdeich"
+                },
+                {
+                    "latitude": "53.1369121",
+                    "longitude": "8.8599366",
+                    "plz": "28357",
+                    "ort": "Bremen",
+                    "teilort": "Oberblockland"
+                },
+                {
+                    "latitude": "53.146908",
+                    "longitude": "8.9421436",
+                    "plz": "28357",
+                    "ort": "Bremen",
+                    "teilort": "Verenmoor"
+                },
+                {
+                    "latitude": "53.0947181",
+                    "longitude": "8.8794429",
+                    "plz": "28359",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.1042811",
+                    "longitude": "8.8882562",
+                    "plz": "28359",
+                    "ort": "Bremen",
+                    "teilort": "Horn-Lehe"
+                },
+                {
+                    "latitude": "53.1064083",
+                    "longitude": "8.8794519",
+                    "plz": "28359",
+                    "ort": "Bremen",
+                    "teilort": "Lehe"
+                },
+                {
+                    "latitude": "53.1698094",
+                    "longitude": "8.6848657",
+                    "plz": "28717",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.1779112",
+                    "longitude": "8.6952798",
+                    "plz": "28717",
+                    "ort": "Bremen",
+                    "teilort": "Lesum"
+                },
+                {
+                    "latitude": "53.1653077",
+                    "longitude": "8.6683811",
+                    "plz": "28717",
+                    "ort": "Bremen",
+                    "teilort": "St. Magnus"
+                },
+                {
+                    "latitude": "53.1198117",
+                    "longitude": "8.8211579",
+                    "plz": "28719",
+                    "ort": "Bremen",
+                    "teilort": "Blockland"
+                },
+                {
+                    "latitude": "53.1703323",
+                    "longitude": "8.712223",
+                    "plz": "28719",
+                    "ort": "Bremen",
+                    "teilort": "Burgdamm"
+                },
+                {
+                    "latitude": "53.1565079",
+                    "longitude": "8.7372601",
+                    "plz": "28719",
+                    "ort": "Bremen",
+                    "teilort": "Grambkermoor"
+                },
+                {
+                    "latitude": "53.1545018",
+                    "longitude": "8.680468",
+                    "plz": "28719",
+                    "ort": "Bremen",
+                    "teilort": "Klein-Dunge"
+                },
+                {
+                    "latitude": "53.1347",
+                    "longitude": "8.641986",
+                    "plz": "28719",
+                    "ort": "Bremen",
+                    "teilort": "Niederbüren"
+                },
+                {
+                    "latitude": "53.1861085",
+                    "longitude": "8.7116834",
+                    "plz": "28719",
+                    "ort": "Bremen",
+                    "teilort": "Nord"
+                },
+                {
+                    "latitude": "53.1574085",
+                    "longitude": "8.762657",
+                    "plz": "28719",
+                    "ort": "Bremen",
+                    "teilort": "Wummensiede"
+                },
+                {
+                    "latitude": "53.1804121",
+                    "longitude": "8.6054736",
+                    "plz": "28755",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.189498",
+                    "longitude": "8.6337842",
+                    "plz": "28755",
+                    "ort": "Bremen",
+                    "teilort": "Aumund-Hammersbeck"
+                },
+                {
+                    "latitude": "53.1858014",
+                    "longitude": "8.57835",
+                    "plz": "28755",
+                    "ort": "Bremen",
+                    "teilort": "Blumenthal"
+                },
+                {
+                    "latitude": "53.179512",
+                    "longitude": "8.6024698",
+                    "plz": "28755",
+                    "ort": "Bremen",
+                    "teilort": "Fähr-Lobbendorf"
+                },
+                {
+                    "latitude": "53.1709792",
+                    "longitude": "8.6275789",
+                    "plz": "28755",
+                    "ort": "Bremen",
+                    "teilort": "Vegesack"
+                },
+                {
+                    "latitude": "53.173308",
+                    "longitude": "8.6413835",
+                    "plz": "28757",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.189498",
+                    "longitude": "8.6337842",
+                    "plz": "28757",
+                    "ort": "Bremen",
+                    "teilort": "Aumund-Hammersbeck"
+                },
+                {
+                    "latitude": "53.179512",
+                    "longitude": "8.6024698",
+                    "plz": "28757",
+                    "ort": "Bremen",
+                    "teilort": "Fähr-Lobbendorf"
+                },
+                {
+                    "latitude": "53.1823092",
+                    "longitude": "8.6473819",
+                    "plz": "28757",
+                    "ort": "Bremen",
+                    "teilort": "Schönebeck"
+                },
+                {
+                    "latitude": "53.1653077",
+                    "longitude": "8.6683811",
+                    "plz": "28757",
+                    "ort": "Bremen",
+                    "teilort": "St. Magnus"
+                },
+                {
+                    "latitude": "53.1709792",
+                    "longitude": "8.6275789",
+                    "plz": "28757",
+                    "ort": "Bremen",
+                    "teilort": "Vegesack"
+                },
+                {
+                    "latitude": "53.1679118",
+                    "longitude": "8.6563841",
+                    "plz": "28759",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.1679118",
+                    "longitude": "8.6369768",
+                    "plz": "28759",
+                    "ort": "Bremen",
+                    "teilort": "Grohn"
+                },
+                {
+                    "latitude": "53.1823092",
+                    "longitude": "8.6473819",
+                    "plz": "28759",
+                    "ort": "Bremen",
+                    "teilort": "Schönebeck"
+                },
+                {
+                    "latitude": "53.1653077",
+                    "longitude": "8.6683811",
+                    "plz": "28759",
+                    "ort": "Bremen",
+                    "teilort": "St. Magnus"
+                },
+                {
+                    "latitude": "53.1709792",
+                    "longitude": "8.6275789",
+                    "plz": "28759",
+                    "ort": "Bremen",
+                    "teilort": "Vegesack"
+                },
+                {
+                    "latitude": "53.2035004",
+                    "longitude": "8.5288963",
+                    "plz": "28777",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.1858014",
+                    "longitude": "8.57835",
+                    "plz": "28777",
+                    "ort": "Bremen",
+                    "teilort": "Blumenthal"
+                },
+                {
+                    "latitude": "53.2070016",
+                    "longitude": "8.5243997",
+                    "plz": "28777",
+                    "ort": "Bremen",
+                    "teilort": "Farge"
+                },
+                {
+                    "latitude": "53.2058004",
+                    "longitude": "8.5787907",
+                    "plz": "28777",
+                    "ort": "Bremen",
+                    "teilort": "Lüssum-Bockhorn"
+                },
+                {
+                    "latitude": "53.2177997",
+                    "longitude": "8.5123038",
+                    "plz": "28777",
+                    "ort": "Bremen",
+                    "teilort": "Rekum"
+                },
+                {
+                    "latitude": "53.1955003",
+                    "longitude": "8.5485015",
+                    "plz": "28777",
+                    "ort": "Bremen",
+                    "teilort": "Rönnebeck"
+                },
+                {
+                    "latitude": "53.1874018",
+                    "longitude": "8.5634932",
+                    "plz": "28779",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.2089998",
+                    "longitude": "8.5768032",
+                    "plz": "28779",
+                    "ort": "Bremen",
+                    "teilort": "Bockhom"
+                },
+                {
+                    "latitude": "53.171141",
+                    "longitude": "8.7244088",
+                    "plz": "28779",
+                    "ort": "Bremen",
+                    "teilort": "Burglesum"
+                },
+                {
+                    "latitude": "53.0679779",
+                    "longitude": "8.8016156",
+                    "plz": "28199",
+                    "ort": "Bremen",
+                    "teilort": "Neustadt"
+                },
+                {
+                    "latitude": "53.0622226",
+                    "longitude": "8.8064539",
+                    "plz": "28201",
+                    "ort": "Bremen",
+                    "teilort": "Gartenstadt Süd"
+                },
+                {
+                    "latitude": "53.0676213",
+                    "longitude": "8.7989626",
+                    "plz": "28201",
+                    "ort": "Bremen",
+                    "teilort": "Südervorstadt"
+                },
+                {
+                    "latitude": "53.0739216",
+                    "longitude": "8.8272642",
+                    "plz": "28203",
+                    "ort": "Bremen",
+                    "teilort": "Steintor"
+                },
+                {
+                    "latitude": "53.1024075",
+                    "longitude": "8.8036481",
+                    "plz": "28205",
+                    "ort": "Bremen",
+                    "teilort": "In den Hufen"
+                },
+                {
+                    "latitude": "53.069518",
+                    "longitude": "8.8586506",
+                    "plz": "28207",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0883182",
+                    "longitude": "8.818262",
+                    "plz": "28209",
+                    "ort": "Bremen",
+                    "teilort": "Barkhof"
+                },
+                {
+                    "latitude": "53.0862224",
+                    "longitude": "8.8202765",
+                    "plz": "28209",
+                    "ort": "Bremen",
+                    "teilort": "Bürgerweide/Barkhof"
+                },
+                {
+                    "latitude": "53.0893174",
+                    "longitude": "8.8705396",
+                    "plz": "28211",
+                    "ort": "Bremen",
+                    "teilort": "Radio Bremen"
+                },
+                {
+                    "latitude": "53.0946209",
+                    "longitude": "8.8570498",
+                    "plz": "28213",
+                    "ort": "Bremen",
+                    "teilort": "Riensberg"
+                },
+                {
+                    "latitude": "53.0945399",
+                    "longitude": "8.8078389",
+                    "plz": "28215",
+                    "ort": "Bremen",
+                    "teilort": "Findorff"
+                },
+                {
+                    "latitude": "53.0254188",
+                    "longitude": "8.8245483",
+                    "plz": "28215",
+                    "ort": "Bremen",
+                    "teilort": "In den Hufen"
+                },
+                {
+                    "latitude": "53.1000209",
+                    "longitude": "8.8152583",
+                    "plz": "28215",
+                    "ort": "Bremen",
+                    "teilort": "Weidedamm"
+                },
+                {
+                    "latitude": "53.0954201",
+                    "longitude": "8.7734488",
+                    "plz": "28217",
+                    "ort": "Bremen",
+                    "teilort": "Handelshäfen"
+                },
+                {
+                    "latitude": "53.1026127",
+                    "longitude": "8.7853559",
+                    "plz": "28219",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.1132104",
+                    "longitude": "8.7839619",
+                    "plz": "28219",
+                    "ort": "Bremen",
+                    "teilort": "Hoheweg"
+                },
+                {
+                    "latitude": "53.103509",
+                    "longitude": "8.7943671",
+                    "plz": "28219",
+                    "ort": "Bremen",
+                    "teilort": "Osterfeuerberg"
+                },
+                {
+                    "latitude": "53.0954093",
+                    "longitude": "8.7824511",
+                    "plz": "28219",
+                    "ort": "Bremen",
+                    "teilort": "Steffensweg"
+                },
+                {
+                    "latitude": "53.1438118",
+                    "longitude": "8.6864665",
+                    "plz": "28237",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.1349806",
+                    "longitude": "8.7404078",
+                    "plz": "28237",
+                    "ort": "Bremen",
+                    "teilort": "Gröpelingen"
+                },
+                {
+                    "latitude": "53.0892201",
+                    "longitude": "8.8078479",
+                    "plz": "28237",
+                    "ort": "Bremen",
+                    "teilort": "In den Wischen"
+                },
+                {
+                    "latitude": "53.1143116",
+                    "longitude": "8.7628638",
+                    "plz": "28237",
+                    "ort": "Bremen",
+                    "teilort": "Lindenhof"
+                },
+                {
+                    "latitude": "53.1259101",
+                    "longitude": "8.7583582",
+                    "plz": "28239",
+                    "ort": "Bremen",
+                    "teilort": "Ohlenhof"
+                },
+                {
+                    "latitude": "53.0611687",
+                    "longitude": "8.8863407",
+                    "plz": "28309",
+                    "ort": "Bremen",
+                    "teilort": "Hemelingen"
+                },
+                {
+                    "latitude": "53.0696206",
+                    "longitude": "8.948241",
+                    "plz": "28325",
+                    "ort": "Bremen",
+                    "teilort": "Ellenerbrok-Schevemoor"
+                },
+                {
+                    "latitude": "53.0767203",
+                    "longitude": "8.9258389",
+                    "plz": "28327",
+                    "ort": "Bremen",
+                    "teilort": "Blockdiek"
+                },
+                {
+                    "latitude": "53.0794215",
+                    "longitude": "8.9063326",
+                    "plz": "28327",
+                    "ort": "Bremen",
+                    "teilort": "Neue Vahr Südost"
+                },
+                {
+                    "latitude": "53.0893174",
+                    "longitude": "8.8929507",
+                    "plz": "28329",
+                    "ort": "Bremen",
+                    "teilort": "Neue Vahr Nord"
+                },
+                {
+                    "latitude": "53.0893174",
+                    "longitude": "8.8705396",
+                    "plz": "28329",
+                    "ort": "Bremen",
+                    "teilort": "Radio Bremen"
+                },
+                {
+                    "latitude": "53.0920178",
+                    "longitude": "8.9138419",
+                    "plz": "28355",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.0895226",
+                    "longitude": "8.936253",
+                    "plz": "28355",
+                    "ort": "Bremen",
+                    "teilort": "Oberneuland"
+                },
+                {
+                    "latitude": "53.1244099",
+                    "longitude": "8.9092374",
+                    "plz": "28357",
+                    "ort": "Bremen",
+                    "teilort": "Borgfeld"
+                },
+                {
+                    "latitude": "53.1602125",
+                    "longitude": "8.8093588",
+                    "plz": "28357",
+                    "ort": "Bremen",
+                    "teilort": "Niederblockland"
+                },
+                {
+                    "latitude": "53.0920178",
+                    "longitude": "8.8959364",
+                    "plz": "28359",
+                    "ort": "Bremen",
+                    "teilort": "Horn"
+                },
+                {
+                    "latitude": "53.1703323",
+                    "longitude": "8.712223",
+                    "plz": "28717",
+                    "ort": "Bremen",
+                    "teilort": "Burgdamm"
+                },
+                {
+                    "latitude": "53.1779112",
+                    "longitude": "8.6982656",
+                    "plz": "28719",
+                    "ort": "Bremen"
+                },
+                {
+                    "latitude": "53.1539086",
+                    "longitude": "8.7050734",
+                    "plz": "28719",
+                    "ort": "Bremen",
+                    "teilort": "Burg-Grambke"
+                },
+                {
+                    "latitude": "53.1544101",
+                    "longitude": "8.6490817",
+                    "plz": "28719",
+                    "ort": "Bremen",
+                    "teilort": "Lesumbrok"
+                },
+                {
+                    "latitude": "53.1508075",
+                    "longitude": "8.6475798",
+                    "plz": "28719",
+                    "ort": "Bremen",
+                    "teilort": "Werderland"
+                },
+                {
+                    "latitude": "53.1858014",
+                    "longitude": "8.57835",
+                    "plz": "28779",
+                    "ort": "Bremen",
+                    "teilort": "Blumenthal"
+                },
+                {
+                    "latitude": "53.2028001",
+                    "longitude": "8.5827927",
+                    "plz": "28779",
+                    "ort": "Bremen",
+                    "teilort": "Lüssum-Bockhorn"
+                }
+            ]
+        },
+        "statistik": {
+            "anzahl": 9
+        },
+        "quota": {
+            "verwendet": "127371"
+        },
+        "apotheken": {
+            "apotheke": [
+                {
+                    "name": "Rotdorn-Apotheke",
+                    "kammer": "akbr",
+                    "id": "10155",
+                    "apo_id": "akbr10155",
+                    "strasse": "Rotdornallee 55",
+                    "plz": "28717",
+                    "ort": "Bremen",
+                    "distanz": "3.50058468971",
+                    "longitude": "8.6856299",
+                    "latitude": "53.17599",
+                    "telefon": "+49 421 632830",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Neptun Apotheke",
+                    "kammer": "akbr",
+                    "id": "10120",
+                    "apo_id": "akbr10120",
+                    "strasse": "Elisabethstr. 41",
+                    "plz": "28217",
+                    "ort": "Bremen",
+                    "distanz": "8.10052660216",
+                    "longitude": "8.7836791",
+                    "latitude": "53.0965196",
+                    "telefon": "+49 421 383138",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Heide-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1747",
+                    "apo_id": "aknds1747",
+                    "strasse": "Schönemoorer Landstr. 6",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "9.2016662908",
+                    "longitude": "8.6217333",
+                    "latitude": "53.0742622",
+                    "telefon": "+49 4221 43949",
+                    "fax": "+49 4221 44049",
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Stern-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1373",
+                    "apo_id": "aknds1373",
+                    "strasse": "Poststr. 4-6",
+                    "plz": "27711",
+                    "ort": "Osterholz-Scharmbeck",
+                    "distanz": "11.38424595449",
+                    "longitude": "8.7848145",
+                    "latitude": "53.2311143",
+                    "telefon": "+49 4791 980333",
+                    "fax": "+49 4791 980335",
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "10:00",
+                    "enddatum": "18.05.2025",
+                    "endzeit": "12:00"
+                },
+                {
+                    "name": "Hanseaten-Apotheke",
+                    "kammer": "akbr",
+                    "id": "10072",
+                    "apo_id": "akbr10072",
+                    "strasse": "Schwachhauser Heerstr. 71-73",
+                    "plz": "28211",
+                    "ort": "Bremen",
+                    "distanz": "11.87312982951",
+                    "longitude": "8.8367537",
+                    "latitude": "53.0822167",
+                    "telefon": "+49 421 343199",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Moorkamp-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1673",
+                    "apo_id": "aknds1673",
+                    "strasse": "Brendelweg 5",
+                    "plz": "27755",
+                    "ort": "Delmenhorst",
+                    "distanz": "13.37795548676",
+                    "longitude": "8.6228754",
+                    "latitude": "53.032369",
+                    "telefon": "+49 4221 25055",
+                    "fax": "+49 4221 25056",
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Alte Apotheke",
+                    "kammer": "aknds",
+                    "id": "1311",
+                    "apo_id": "aknds1311",
+                    "strasse": "Hauptstr. 72",
+                    "plz": "28865",
+                    "ort": "Lilienthal",
+                    "distanz": "14.407043900189999",
+                    "longitude": "8.9084804",
+                    "latitude": "53.1418439",
+                    "telefon": "+49 4298 91640",
+                    "fax": "+49 4298 916420",
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Arsterdamm-Apotheke",
+                    "kammer": "akbr",
+                    "id": "10015",
+                    "apo_id": "akbr10015",
+                    "strasse": "Arsterdamm 136",
+                    "plz": "28279",
+                    "ort": "Bremen",
+                    "distanz": "15.62963879353",
+                    "longitude": "8.8405895",
+                    "latitude": "53.0359889",
+                    "telefon": "+49 421 825577",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Waldecksche Apotheke",
+                    "kammer": "aknds",
+                    "id": "1055",
+                    "apo_id": "aknds1055",
+                    "strasse": "Bremer Str. 7",
+                    "plz": "28816",
+                    "ort": "Stuhr",
+                    "distanz": "16.063243107959998",
+                    "longitude": "8.7891545",
+                    "latitude": "53.0125904",
+                    "telefon": "+49 421 895809",
+                    "fax": "+49 421 8062321",
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                }
+            ]
+        }
+    }
+}

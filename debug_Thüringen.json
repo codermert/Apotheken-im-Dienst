@@ -1,0 +1,180 @@
+{
+    "alerts": [],
+    "settings": {
+        "interface": "emergency",
+        "singleViewUid": "261"
+    },
+    "args": {
+        "action": "result",
+        "controller": "Search",
+        "search": {
+            "date": "",
+            "lat": "",
+            "lng": "",
+            "plzort": "Thüringen",
+            "radius": "25",
+            "street": ""
+        },
+        "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
+    },
+    "results": {
+        "parameter": {
+            "plzort": "Thüringen",
+            "strasse": [],
+            "radius": "25.0",
+            "longitude": "11.037783899999999",
+            "latitude": "50.9014721",
+            "limit": [],
+            "datum": [],
+            "alternative": {
+                "latitude": "51.2703905",
+                "longitude": "10.8135959",
+                "plz": "99713",
+                "ort": "Thüringenhausen"
+            }
+        },
+        "statistik": {
+            "anzahl": 7
+        },
+        "quota": {
+            "verwendet": "129968"
+        },
+        "apotheken": {
+            "apotheke": [
+                {
+                    "name": "Theater-Apotheke",
+                    "kammer": "lakt",
+                    "id": "367",
+                    "apo_id": "lakt367",
+                    "strasse": "Dalbergsweg 9",
+                    "plz": "99084",
+                    "ort": "Erfurt",
+                    "distanz": "7.81386179811",
+                    "longitude": "11.0228492",
+                    "latitude": "50.9710741",
+                    "telefon": "+49 361 2258820",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Lilien-Apotheke",
+                    "kammer": "lakt",
+                    "id": "3991",
+                    "apo_id": "lakt3991",
+                    "strasse": "Domplatz 6/9",
+                    "plz": "99084",
+                    "ort": "Erfurt",
+                    "distanz": "8.54898929134",
+                    "longitude": "11.0248279",
+                    "latitude": "50.9778817",
+                    "telefon": "+49 361 6003742",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Schloss-Apotheke",
+                    "kammer": "lakt",
+                    "id": "1743",
+                    "apo_id": "lakt1743",
+                    "strasse": "Schloßstraße 3",
+                    "plz": "99310",
+                    "ort": "Arnstadt",
+                    "distanz": "9.80342010547",
+                    "longitude": "10.94893",
+                    "latitude": "50.8336171",
+                    "telefon": "+49 3628 589858",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Burgenland-Apotheke",
+                    "kammer": "lakt",
+                    "id": "4226",
+                    "apo_id": "lakt4226",
+                    "strasse": "Am Oberried 6",
+                    "plz": "99869",
+                    "ort": "Drei Gleichen OT Günthersleben",
+                    "distanz": "19.11504713136",
+                    "longitude": "10.7661",
+                    "latitude": "50.89867",
+                    "telefon": "+49 36256 80329",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke Remda",
+                    "kammer": "lakt",
+                    "id": "644",
+                    "apo_id": "lakt644",
+                    "strasse": "Remdaer Markt 3",
+                    "plz": "07407",
+                    "ort": "Rudolstadt, OT Remda",
+                    "distanz": "20.7578816422",
+                    "longitude": "11.2279641",
+                    "latitude": "50.7589547",
+                    "telefon": "+49 36744 22223",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke am Klinikum",
+                    "kammer": "lakt",
+                    "id": "605",
+                    "apo_id": "lakt605",
+                    "strasse": "Henry-van-de-Velde-Str. 1/3",
+                    "plz": "99425",
+                    "ort": "Weimar",
+                    "distanz": "20.946708099250003",
+                    "longitude": "11.3201475",
+                    "latitude": "50.9615882",
+                    "telefon": "+49 3643 776260",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Schloss-Apotheke",
+                    "kammer": "lakt",
+                    "id": "4033",
+                    "apo_id": "lakt4033",
+                    "strasse": "Lange Straße 64a",
+                    "plz": "99189",
+                    "ort": "Gebesee",
+                    "distanz": "25.000843450069997",
+                    "longitude": "10.93321",
+                    "latitude": "51.1163",
+                    "telefon": "+49 36201 580985",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                }
+            ]
+        }
+    }
+}

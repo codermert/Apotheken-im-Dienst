@@ -1,0 +1,174 @@
+{
+    "alerts": [],
+    "settings": {
+        "interface": "emergency",
+        "singleViewUid": "261"
+    },
+    "args": {
+        "action": "result",
+        "controller": "Search",
+        "search": {
+            "date": "",
+            "lat": "",
+            "lng": "",
+            "plzort": "Schleswig-Holstein",
+            "radius": "25",
+            "street": ""
+        },
+        "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
+    },
+    "results": {
+        "parameter": {
+            "plzort": "Schleswig-Holstein",
+            "strasse": [],
+            "radius": "25.0",
+            "longitude": "9.8220089",
+            "latitude": "54.1853998",
+            "limit": [],
+            "datum": []
+        },
+        "statistik": {
+            "anzahl": 7
+        },
+        "quota": {
+            "verwendet": "129407"
+        },
+        "apotheken": {
+            "apotheke": [
+                {
+                    "name": "Klaus-Groth-Apotheke",
+                    "kammer": "aksh",
+                    "id": "10562",
+                    "apo_id": "aksh10562",
+                    "strasse": "Bahnhofstr. 55",
+                    "plz": "24582",
+                    "ort": "Bordesholm",
+                    "distanz": "14.23756140102",
+                    "longitude": "10.03912",
+                    "latitude": "54.17351",
+                    "telefon": "+49 4322 5886",
+                    "fax": "+49 4322 5851",
+                    "email": "info@klaus-groth-apotheke.de",
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Freesen Apotheke",
+                    "kammer": "aksh",
+                    "id": "10735",
+                    "apo_id": "aksh10735",
+                    "strasse": "Wasbeker Str. 330",
+                    "plz": "24537",
+                    "ort": "Neumünster",
+                    "distanz": "14.83473049163",
+                    "longitude": "9.9392887",
+                    "latitude": "54.0713028",
+                    "telefon": "04321-49490",
+                    "fax": "04321-9668829",
+                    "email": "info@freesenapotheke.de",
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Kgl. priv. Apotheke Böttcher von 1834",
+                    "kammer": "aksh",
+                    "id": "10155",
+                    "apo_id": "aksh10155",
+                    "strasse": "Lindenstr. 22",
+                    "plz": "24594",
+                    "ort": "Hohenwestedt",
+                    "distanz": "15.311477513269999",
+                    "longitude": "9.65164",
+                    "latitude": "54.09098",
+                    "telefon": "04871-626",
+                    "fax": "04871-4186",
+                    "email": "hohenwestedt@boettcher-apotheken.de",
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Stop-Apotheke",
+                    "kammer": "aksh",
+                    "id": "10506",
+                    "apo_id": "aksh10506",
+                    "strasse": "Eckernförder Str. 48c",
+                    "plz": "24768",
+                    "ort": "Rendsburg",
+                    "distanz": "17.76805913953",
+                    "longitude": "9.65481",
+                    "latitude": "54.31147",
+                    "telefon": "+49 4331 71204",
+                    "fax": "+49 4331 77854",
+                    "email": "team@stop-apotheke.de",
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Citti-Park Apotheke",
+                    "kammer": "aksh",
+                    "id": "10780",
+                    "apo_id": "aksh10780",
+                    "strasse": "Mühlendamm 1",
+                    "plz": "24113",
+                    "ort": "Kiel",
+                    "distanz": "22.946792399499998",
+                    "longitude": "10.0989206",
+                    "latitude": "54.3126897",
+                    "telefon": "0431-2403630",
+                    "fax": "0431-2403632",
+                    "email": "teamcp@apotheke-kiel.de",
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke am ZOB",
+                    "kammer": "aksh",
+                    "id": "10538",
+                    "apo_id": "aksh10538",
+                    "strasse": "Auguste-Viktoria-Str. 14",
+                    "plz": "24103",
+                    "ort": "Kiel",
+                    "distanz": "24.976251103129997",
+                    "longitude": "10.1327645",
+                    "latitude": "54.3166824",
+                    "telefon": "0431-62177",
+                    "fax": "0431-676273",
+                    "email": "apoamzob@t-online.de",
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Berg-Apotheke",
+                    "kammer": "aksh",
+                    "id": "10430",
+                    "apo_id": "aksh10430",
+                    "strasse": "Am Markt 3",
+                    "plz": "25560",
+                    "ort": "Schenefeld",
+                    "distanz": "27.0086157145",
+                    "longitude": "9.4829839",
+                    "latitude": "54.04681",
+                    "telefon": "04892-346",
+                    "fax": "04892-1656",
+                    "email": "info@bergapo.net",
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                }
+            ]
+        }
+    }
+}

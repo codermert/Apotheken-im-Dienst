@@ -1,0 +1,524 @@
+{
+    "alerts": [],
+    "settings": {
+        "interface": "emergency",
+        "singleViewUid": "261"
+    },
+    "args": {
+        "action": "result",
+        "controller": "Search",
+        "search": {
+            "date": "",
+            "lat": "",
+            "lng": "",
+            "plzort": "Sachsen",
+            "radius": "25",
+            "street": ""
+        },
+        "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
+    },
+    "results": {
+        "parameter": {
+            "plzort": "Sachsen",
+            "strasse": [],
+            "radius": "25.0",
+            "longitude": "13.4585052",
+            "latitude": "50.9295798",
+            "limit": [],
+            "datum": [],
+            "alternative": [
+                {
+                    "latitude": "51.2879983",
+                    "longitude": "11.1596009",
+                    "plz": "06578",
+                    "ort": "Sachsenburg"
+                },
+                {
+                    "latitude": "53.9617321",
+                    "longitude": "9.3261719",
+                    "plz": "25554",
+                    "ort": "Neuendorf-Sachsenbande"
+                },
+                {
+                    "latitude": "53.9432521",
+                    "longitude": "9.3396707",
+                    "plz": "25554",
+                    "ort": "Neuendorf-Sachsenbande",
+                    "teilort": "Averfleth"
+                },
+                {
+                    "latitude": "53.9473013",
+                    "longitude": "9.3515328",
+                    "plz": "25554",
+                    "ort": "Neuendorf-Sachsenbande",
+                    "teilort": "Dückerstieg"
+                },
+                {
+                    "latitude": "53.9410288",
+                    "longitude": "9.3662637",
+                    "plz": "25554",
+                    "ort": "Neuendorf-Sachsenbande",
+                    "teilort": "Hackeboe; Gem Sachsenbande"
+                },
+                {
+                    "latitude": "53.9555677",
+                    "longitude": "9.3198767",
+                    "plz": "25554",
+                    "ort": "Neuendorf-Sachsenbande",
+                    "teilort": "Hinter Neuendorf"
+                },
+                {
+                    "latitude": "53.961711",
+                    "longitude": "9.3261629",
+                    "plz": "25554",
+                    "ort": "Neuendorf-Sachsenbande",
+                    "teilort": "Neuendorf"
+                },
+                {
+                    "latitude": "53.9599491",
+                    "longitude": "9.349869",
+                    "plz": "25554",
+                    "ort": "Neuendorf-Sachsenbande",
+                    "teilort": "Sachsenbande"
+                },
+                {
+                    "latitude": "53.9578907",
+                    "longitude": "9.3727388",
+                    "plz": "25554",
+                    "ort": "Neuendorf-Sachsenbande",
+                    "teilort": "Vorder Neuendorf"
+                },
+                {
+                    "latitude": "52.3955784",
+                    "longitude": "9.2655576",
+                    "plz": "31553",
+                    "ort": "Sachsenhagen"
+                },
+                {
+                    "latitude": "51.8672407",
+                    "longitude": "11.8796517",
+                    "plz": "39240",
+                    "ort": "Sachsendorf"
+                },
+                {
+                    "latitude": "48.9594502",
+                    "longitude": "9.0646672",
+                    "plz": "74343",
+                    "ort": "Sachsenheim"
+                },
+                {
+                    "latitude": "49.0113625",
+                    "longitude": "9.0034593",
+                    "plz": "74343",
+                    "ort": "Sachsenheim",
+                    "teilort": "Bromberg"
+                },
+                {
+                    "latitude": "48.9488971",
+                    "longitude": "9.0843983",
+                    "plz": "74343",
+                    "ort": "Sachsenheim",
+                    "teilort": "Egartenhof"
+                },
+                {
+                    "latitude": "48.9562674",
+                    "longitude": "9.0420582",
+                    "plz": "74343",
+                    "ort": "Sachsenheim",
+                    "teilort": "Eichwald"
+                },
+                {
+                    "latitude": "48.9594502",
+                    "longitude": "9.0646672",
+                    "plz": "74343",
+                    "ort": "Sachsenheim",
+                    "teilort": "Großsachsenheim"
+                },
+                {
+                    "latitude": "48.9991683",
+                    "longitude": "9.0214907",
+                    "plz": "74343",
+                    "ort": "Sachsenheim",
+                    "teilort": "Hohenhaslach"
+                },
+                {
+                    "latitude": "49.0238191",
+                    "longitude": "8.9197865",
+                    "plz": "74343",
+                    "ort": "Sachsenheim",
+                    "teilort": "Häfnerhaslach"
+                },
+                {
+                    "latitude": "49.0018587",
+                    "longitude": "8.995968",
+                    "plz": "74343",
+                    "ort": "Sachsenheim",
+                    "teilort": "Kelterle"
+                },
+                {
+                    "latitude": "49.0188003",
+                    "longitude": "8.9612632",
+                    "plz": "74343",
+                    "ort": "Sachsenheim",
+                    "teilort": "Kirbachhof"
+                },
+                {
+                    "latitude": "48.9685429",
+                    "longitude": "9.0708095",
+                    "plz": "74343",
+                    "ort": "Sachsenheim",
+                    "teilort": "Kleinsachsenheim"
+                },
+                {
+                    "latitude": "49.0211122",
+                    "longitude": "8.983971",
+                    "plz": "74343",
+                    "ort": "Sachsenheim",
+                    "teilort": "Ochsenbach"
+                },
+                {
+                    "latitude": "48.9867587",
+                    "longitude": "9.0373638",
+                    "plz": "74343",
+                    "ort": "Sachsenheim",
+                    "teilort": "Rechentshofen"
+                },
+                {
+                    "latitude": "49.0177209",
+                    "longitude": "8.9970112",
+                    "plz": "74343",
+                    "ort": "Sachsenheim",
+                    "teilort": "Spielberg"
+                },
+                {
+                    "latitude": "47.8132223",
+                    "longitude": "11.6377162",
+                    "plz": "83679",
+                    "ort": "Sachsenkam",
+                    "teilort": "Reutberg"
+                },
+                {
+                    "latitude": "49.2893507",
+                    "longitude": "10.6589935",
+                    "plz": "91623",
+                    "ort": "Sachsen"
+                },
+                {
+                    "latitude": "49.2753414",
+                    "longitude": "10.6471314",
+                    "plz": "91623",
+                    "ort": "Sachsen",
+                    "teilort": "Büchenmühle"
+                },
+                {
+                    "latitude": "49.2934918",
+                    "longitude": "10.6381922",
+                    "plz": "91623",
+                    "ort": "Sachsen",
+                    "teilort": "Hirschbronn"
+                },
+                {
+                    "latitude": "49.3092198",
+                    "longitude": "10.65438",
+                    "plz": "91623",
+                    "ort": "Sachsen",
+                    "teilort": "Neukirchen"
+                },
+                {
+                    "latitude": "49.2638223",
+                    "longitude": "10.6406383",
+                    "plz": "91623",
+                    "ort": "Sachsen",
+                    "teilort": "Ratzenwinden"
+                },
+                {
+                    "latitude": "49.2809209",
+                    "longitude": "10.662339",
+                    "plz": "91623",
+                    "ort": "Sachsen",
+                    "teilort": "Rutzendorf"
+                },
+                {
+                    "latitude": "49.2811322",
+                    "longitude": "10.6365105",
+                    "plz": "91623",
+                    "ort": "Sachsen",
+                    "teilort": "Steinbach"
+                },
+                {
+                    "latitude": "49.2599429",
+                    "longitude": "10.6520238",
+                    "plz": "91623",
+                    "ort": "Sachsen",
+                    "teilort": "Steinhof"
+                },
+                {
+                    "latitude": "49.2809209",
+                    "longitude": "10.662339",
+                    "plz": "91623",
+                    "ort": "Sachsen",
+                    "teilort": "Untere Walkmühle"
+                },
+                {
+                    "latitude": "50.4471489",
+                    "longitude": "10.9482963",
+                    "plz": "98678",
+                    "ort": "Sachsenbrunn"
+                },
+                {
+                    "latitude": "50.4326521",
+                    "longitude": "10.9656802",
+                    "plz": "98678",
+                    "ort": "Sachsenbrunn",
+                    "teilort": "Tossenthal"
+                },
+                {
+                    "latitude": "50.4208785",
+                    "longitude": "10.957883",
+                    "plz": "98678",
+                    "ort": "Sachsenbrunn",
+                    "teilort": "Weitesfeld"
+                },
+                {
+                    "latitude": "51.0438207",
+                    "longitude": "11.3663639",
+                    "plz": "99439",
+                    "ort": "Sachsenhausen"
+                },
+                {
+                    "latitude": "53.9636474",
+                    "longitude": "9.2999207",
+                    "plz": "25554",
+                    "ort": "Neuendorf-Sachsenbande",
+                    "teilort": "Achterhörn"
+                },
+                {
+                    "latitude": "53.9380326",
+                    "longitude": "9.3480164",
+                    "plz": "25554",
+                    "ort": "Neuendorf-Sachsenbande",
+                    "teilort": "Goldbogen"
+                },
+                {
+                    "latitude": "53.9506303",
+                    "longitude": "9.3251557",
+                    "plz": "25554",
+                    "ort": "Neuendorf-Sachsenbande",
+                    "teilort": "Krützfleth"
+                },
+                {
+                    "latitude": "53.9798497",
+                    "longitude": "9.3017193",
+                    "plz": "25554",
+                    "ort": "Neuendorf-Sachsenbande",
+                    "teilort": "Stadtmoor"
+                },
+                {
+                    "latitude": "51.8809106",
+                    "longitude": "11.8790132",
+                    "plz": "39240",
+                    "ort": "Sachsendorf",
+                    "teilort": "Patzetz"
+                },
+                {
+                    "latitude": "52.3871924",
+                    "longitude": "9.223991",
+                    "plz": "31553",
+                    "ort": "Sachsenhagen",
+                    "teilort": "Nienbrügge"
+                },
+                {
+                    "latitude": "47.8063973",
+                    "longitude": "11.6435618",
+                    "plz": "83679",
+                    "ort": "Sachsenkam"
+                },
+                {
+                    "latitude": "49.2846696",
+                    "longitude": "10.6375627",
+                    "plz": "91623",
+                    "ort": "Sachsen",
+                    "teilort": "Alberndorf"
+                },
+                {
+                    "latitude": "49.2983479",
+                    "longitude": "10.6728341",
+                    "plz": "91623",
+                    "ort": "Sachsen",
+                    "teilort": "Milmersdorf"
+                },
+                {
+                    "latitude": "49.2809209",
+                    "longitude": "10.662339",
+                    "plz": "91623",
+                    "ort": "Sachsen",
+                    "teilort": "Obere Walkmühle"
+                },
+                {
+                    "latitude": "49.2809209",
+                    "longitude": "10.662339",
+                    "plz": "91623",
+                    "ort": "Sachsen",
+                    "teilort": "Rutzendorfer Mühle"
+                },
+                {
+                    "latitude": "49.2852387",
+                    "longitude": "10.6688681",
+                    "plz": "91623",
+                    "ort": "Sachsen",
+                    "teilort": "Volkersdorf"
+                },
+                {
+                    "latitude": "50.445992",
+                    "longitude": "10.9534314",
+                    "plz": "98678",
+                    "ort": "Sachsenbrunn",
+                    "teilort": "Sachsendorf"
+                }
+            ]
+        },
+        "statistik": {
+            "anzahl": 7
+        },
+        "quota": {
+            "verwendet": "128915"
+        },
+        "apotheken": {
+            "apotheke": [
+                {
+                    "name": "Pluspunkt-Apotheke am Erbischen Tor",
+                    "kammer": "slak",
+                    "id": "785",
+                    "apo_id": "slak785",
+                    "strasse": "Erbische Straße 16 - 18",
+                    "plz": "09599",
+                    "ort": "Freiberg",
+                    "distanz": "8.13701168259",
+                    "longitude": "13.344604",
+                    "latitude": "50.9166469",
+                    "telefon": "+49 3731 33503",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Grund-Apotheke",
+                    "kammer": "slak",
+                    "id": "821",
+                    "apo_id": "slak821",
+                    "strasse": "An der Spinnerei 8",
+                    "plz": "01705",
+                    "ort": "Freital",
+                    "distanz": "12.6911573028",
+                    "longitude": "13.62265",
+                    "latitude": "50.97717",
+                    "telefon": "+49 351 6441490",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke am Brühl",
+                    "kammer": "slak",
+                    "id": "591",
+                    "apo_id": "slak591",
+                    "strasse": "Langestraße 5",
+                    "plz": "09569",
+                    "ort": "Oederan",
+                    "distanz": "21.89999580458",
+                    "longitude": "13.16748",
+                    "latitude": "50.85974",
+                    "telefon": "+49 37292 4139",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Stadt-Apotheke",
+                    "kammer": "slak",
+                    "id": "317",
+                    "apo_id": "slak317",
+                    "strasse": "Bahnhofstraße 19",
+                    "plz": "01445",
+                    "ort": "Radebeul",
+                    "distanz": "23.0030500128",
+                    "longitude": "13.629278",
+                    "latitude": "51.1060785",
+                    "telefon": "+49 351 8304168",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Brücken-Apotheke",
+                    "kammer": "slak",
+                    "id": "854",
+                    "apo_id": "slak854",
+                    "strasse": "Dresdner Straße 26",
+                    "plz": "04741",
+                    "ort": "Roßwein",
+                    "distanz": "24.41085961986",
+                    "longitude": "13.21124",
+                    "latitude": "51.08389",
+                    "telefon": "+49 34322 42005",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Augustus-Apotheke",
+                    "kammer": "slak",
+                    "id": "299",
+                    "apo_id": "slak299",
+                    "strasse": "Gerichtsstraße 1",
+                    "plz": "01069",
+                    "ort": "Dresden",
+                    "distanz": "24.62807185683",
+                    "longitude": "13.751227",
+                    "latitude": "51.0515564",
+                    "telefon": "+49 351 449140",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke am Wilden Mann",
+                    "kammer": "slak",
+                    "id": "1138",
+                    "apo_id": "slak1138",
+                    "strasse": "Großenhainer Straße 186",
+                    "plz": "01129",
+                    "ort": "Dresden",
+                    "distanz": "25.91649490279",
+                    "longitude": "13.71996",
+                    "latitude": "51.0941",
+                    "telefon": "+49 351 3239823",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:00"
+                }
+            ]
+        }
+    }
+}
