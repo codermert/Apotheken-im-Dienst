@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "14938"
+            "verwendet": "15331"
         },
         "apotheken": {
             "apotheke": [
@@ -1422,6 +1422,25 @@
                     "startzeit": "09:00",
                     "enddatum": "19.05.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Sonnen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1632",
+                    "apo_id": "aknds1632",
+                    "strasse": "Breite Str. 56",
+                    "plz": "26919",
+                    "ort": "Brake",
+                    "distanz": "24.75118083984",
+                    "longitude": "8.4790649",
+                    "latitude": "53.326394",
+                    "telefon": "+49 4401 4485",
+                    "fax": "+49 4401 5668",
+                    "email": [],
+                    "startdatum": "19.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "20.05.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }

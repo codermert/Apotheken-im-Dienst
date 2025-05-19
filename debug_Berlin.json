@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 37
+            "anzahl": 34
         },
         "quota": {
-            "verwendet": "14773"
+            "verwendet": "15190"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,25 +5762,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Steinbock Apotheke Schildow",
-                    "kammer": "lakbb",
-                    "id": "653",
-                    "apo_id": "lakbb653",
-                    "strasse": "Bahnhofstraße 5b",
-                    "plz": "16552",
-                    "ort": "Mühlenbecker Land - OT Schildow",
-                    "distanz": "13.35524852805",
-                    "longitude": "13.3749982",
-                    "latitude": "52.6367557",
-                    "telefon": "+49 33056 270004",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "18.05.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "19.05.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Apotheke im Wegedorn-Zentrum",
                     "kammer": "akb",
                     "id": "110303",
@@ -5792,6 +5773,25 @@
                     "longitude": "13.5276603",
                     "latitude": "52.4246728",
                     "telefon": "+49 30 67197428",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.05.2025",
+                    "endzeit": "08:59"
+                },
+                {
+                    "name": "Schloß-Apotheke",
+                    "kammer": "akb",
+                    "id": "100513",
+                    "apo_id": "akb100513",
+                    "strasse": "Rudower Str. 13",
+                    "plz": "12557",
+                    "ort": "Berlin",
+                    "distanz": "14.58905971125",
+                    "longitude": "13.5672086",
+                    "latitude": "52.4440189",
+                    "telefon": "+49 30 65880970",
                     "fax": [],
                     "email": [],
                     "startdatum": "18.05.2025",
