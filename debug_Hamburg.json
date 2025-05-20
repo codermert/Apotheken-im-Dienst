@@ -3194,7 +3194,7 @@
             "anzahl": 16
         },
         "quota": {
-            "verwendet": "17320"
+            "verwendet": "18983"
         },
         "apotheken": {
             "apotheke": [
@@ -3370,25 +3370,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Niedersachsen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1419",
-                    "apo_id": "aknds1419",
-                    "strasse": "Kürbsweg 8",
-                    "plz": "21217",
-                    "ort": "Seevetal",
-                    "distanz": "14.39666943502",
-                    "longitude": "10.0228494",
-                    "latitude": "53.4216647",
-                    "telefon": "+49 40 7686722",
-                    "fax": "+49 40 7685173",
-                    "email": [],
-                    "startdatum": "19.05.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "20.05.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Bach Apotheke",
                     "kammer": "aksh",
                     "id": "10794",
@@ -3482,6 +3463,25 @@
                     "startzeit": "08:00",
                     "enddatum": "21.05.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Markt-Apotheke im Schanzenhof",
+                    "kammer": "aknds",
+                    "id": "1514",
+                    "apo_id": "aknds1514",
+                    "strasse": "Schanzenring 6",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "24.91904319162",
+                    "longitude": "10.2096115",
+                    "latitude": "53.3643894",
+                    "telefon": "+49 4171 653304",
+                    "fax": "+49 4171 653306",
+                    "email": [],
+                    "startdatum": "20.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "21.05.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Elbmarsch-Apotheke",
