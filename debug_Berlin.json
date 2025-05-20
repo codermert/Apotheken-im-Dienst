@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 34
+            "anzahl": 38
         },
         "quota": {
-            "verwendet": "16198"
+            "verwendet": "17264"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,6 +5762,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Dorf-Apotheke",
+                    "kammer": "lakbb",
+                    "id": "446",
+                    "apo_id": "lakbb446",
+                    "strasse": "Dorfstraße 17",
+                    "plz": "16356",
+                    "ort": "Ahrensfelde",
+                    "distanz": "14.103945313390001",
+                    "longitude": "13.5740345",
+                    "latitude": "52.5746579",
+                    "telefon": "+49 30 93772171",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "20.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "21.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Sonnen-Apotheke",
                     "kammer": "akb",
                     "id": "100548",
@@ -5779,25 +5798,6 @@
                     "startzeit": "09:00",
                     "enddatum": "20.05.2025",
                     "endzeit": "08:59"
-                },
-                {
-                    "name": "Stadt-Apotheke",
-                    "kammer": "lakbb",
-                    "id": "284",
-                    "apo_id": "lakbb284",
-                    "strasse": "Ruhlsdorfer Straße 3",
-                    "plz": "14513",
-                    "ort": "Teltow",
-                    "distanz": "15.388441346859999",
-                    "longitude": "13.268184",
-                    "latitude": "52.4000311",
-                    "telefon": "+49 3328 41332",
-                    "fax": "+49 3328 41364",
-                    "email": "info@apotheke-teltow.com",
-                    "startdatum": "19.05.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "20.05.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }
