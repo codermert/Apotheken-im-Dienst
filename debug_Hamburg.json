@@ -3194,7 +3194,7 @@
             "anzahl": 18
         },
         "quota": {
-            "verwendet": "14563"
+            "verwendet": "15826"
         },
         "apotheken": {
             "apotheke": [
@@ -3408,6 +3408,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Linden-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1454",
+                    "apo_id": "aknds1454",
+                    "strasse": "Harburger Str. 28 a",
+                    "plz": "21435",
+                    "ort": "Stelle",
+                    "distanz": "19.62766191653",
+                    "longitude": "10.1049754",
+                    "latitude": "53.385335",
+                    "telefon": "+49 4174 2335",
+                    "fax": "+49 4174 4840",
+                    "email": [],
+                    "startdatum": "21.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "22.05.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Eulen-Apotheke",
                     "kammer": "aksh",
                     "id": "10544",
@@ -3444,25 +3463,6 @@
                     "startzeit": "08:00",
                     "enddatum": "22.05.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Markt-Apotheke im Schanzenhof",
-                    "kammer": "aknds",
-                    "id": "1514",
-                    "apo_id": "aknds1514",
-                    "strasse": "Schanzenring 6",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "24.91904319162",
-                    "longitude": "10.2096115",
-                    "latitude": "53.3643894",
-                    "telefon": "+49 4171 653304",
-                    "fax": "+49 4171 653306",
-                    "email": [],
-                    "startdatum": "20.05.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "21.05.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Apotheke Lütjensee",
