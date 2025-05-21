@@ -693,14 +693,6 @@
       "mesafe": "13.3 km"
     },
     {
-      "eczaneAdi": "Apotheke am famila",
-      "adres": "Markt 5, 27777 Ganderkesee",
-      "telefon": "+49 4222 9473270",
-      "enlem": "53.03462",
-      "boylam": "8.54525",
-      "mesafe": "15.8 km"
-    },
-    {
       "eczaneAdi": "Eichen-Apotheke",
       "adres": "Hauptstr. 99, 28876 Oyten",
       "telefon": "+49 4207 1251",
@@ -874,27 +866,35 @@
     },
     {
       "eczaneAdi": "Schloss-Apotheke",
-      "adres": "Schlossstraße 23, 17159 Dargun",
-      "telefon": "+49 39959 337177",
-      "enlem": "53.8985743",
-      "boylam": "12.8515406",
-      "mesafe": "22.9 km"
-    },
-    {
-      "eczaneAdi": "Fritz-Reuter-Apotheke",
-      "adres": "Am Markt 16, 17153 Reuterstadt Stavenhagen",
-      "telefon": "+49 39954 21082",
-      "enlem": "53.6957432",
-      "boylam": "12.9085263",
-      "mesafe": "23.6 km"
-    },
-    {
-      "eczaneAdi": "Schloss-Apotheke",
       "adres": "Mühlenstr. 1, 18273 Güstrow",
       "telefon": "+49 3843 682307",
       "enlem": "53.7938495",
       "boylam": "12.1770443",
       "mesafe": "26.4 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Kietz",
+      "adres": "Kietzstr. 13 b, 17192 Waren",
+      "telefon": "+49 3991 15080",
+      "enlem": "53.5145114",
+      "boylam": "12.6813827",
+      "mesafe": "29.7 km"
+    },
+    {
+      "eczaneAdi": "Marien-Apotheke",
+      "adres": "Am Postberg 1, 17121 Loitz",
+      "telefon": "+49 39998 10381",
+      "enlem": "53.9737119",
+      "boylam": "13.129453",
+      "mesafe": "42.7 km"
+    },
+    {
+      "eczaneAdi": "Rosen-Apotheke",
+      "adres": "Schulenburgstr. 20, 18069 Rostock",
+      "telefon": "+49 381 8096280",
+      "enlem": "54.10064",
+      "boylam": "12.07688",
+      "mesafe": "49.0 km"
     }
   ],
   "Niedersachsen": [
