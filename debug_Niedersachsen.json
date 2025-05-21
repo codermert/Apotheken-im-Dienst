@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 4
         },
         "quota": {
-            "verwendet": "14006"
+            "verwendet": "14687"
         },
         "apotheken": {
             "apotheke": [
@@ -93,41 +93,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Neue Apotheke",
+                    "name": "Stern-Apotheke",
                     "kammer": "aknds",
-                    "id": "958",
-                    "apo_id": "aknds958",
-                    "strasse": "Lange Straße 81",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "23.840288223349997",
-                    "longitude": "9.2066251",
-                    "latitude": "52.6408368",
-                    "telefon": "+49 5021 97680",
-                    "fax": "+49 5021 976820",
+                    "id": "938",
+                    "apo_id": "aknds938",
+                    "strasse": "Sternstr. 1 B",
+                    "plz": "31618",
+                    "ort": "Liebenau",
+                    "distanz": "25.9555785569",
+                    "longitude": "9.0897493",
+                    "latitude": "52.6067599",
+                    "telefon": "+49 5023 94444",
+                    "fax": "+49 5023 94446",
                     "email": [],
-                    "startdatum": "20.05.2025",
+                    "startdatum": "21.05.2025",
                     "startzeit": "08:00",
-                    "enddatum": "21.05.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Sule-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1063",
-                    "apo_id": "aknds1063",
-                    "strasse": "Lange Straße 25-27",
-                    "plz": "27232",
-                    "ort": "Sulingen",
-                    "distanz": "25.88536813323",
-                    "longitude": "8.7957161",
-                    "latitude": "52.6810922",
-                    "telefon": "+49 4271 2958",
-                    "fax": "+49 4271 4779",
-                    "email": [],
-                    "startdatum": "20.05.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "21.05.2025",
+                    "enddatum": "22.05.2025",
                     "endzeit": "08:00"
                 }
             ]

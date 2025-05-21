@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 37
+            "anzahl": 35
         },
         "quota": {
-            "verwendet": "13793"
+            "verwendet": "14521"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,25 +5762,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Dorf-Apotheke",
-                    "kammer": "lakbb",
-                    "id": "446",
-                    "apo_id": "lakbb446",
-                    "strasse": "Dorfstraße 17",
-                    "plz": "16356",
-                    "ort": "Ahrensfelde",
-                    "distanz": "14.103945313390001",
-                    "longitude": "13.5740345",
-                    "latitude": "52.5746579",
-                    "telefon": "+49 30 93772171",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "20.05.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "21.05.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Düppel-Apotheke",
                     "kammer": "akb",
                     "id": "100922",
@@ -5792,6 +5773,25 @@
                     "longitude": "13.2421205",
                     "latitude": "52.4232673",
                     "telefon": "+49 30 8028981",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "20.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "21.05.2025",
+                    "endzeit": "08:59"
+                },
+                {
+                    "name": "Flieder-Apotheke",
+                    "kammer": "akb",
+                    "id": "100233",
+                    "apo_id": "akb100233",
+                    "strasse": "Köpenzeile 113",
+                    "plz": "12557",
+                    "ort": "Berlin",
+                    "distanz": "17.02446316891",
+                    "longitude": "13.5946",
+                    "latitude": "52.42973",
+                    "telefon": "+49 30 6514367",
                     "fax": [],
                     "email": [],
                     "startdatum": "20.05.2025",
