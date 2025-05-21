@@ -37,10 +37,48 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "16067"
+            "verwendet": "16848"
         },
         "apotheken": {
             "apotheke": [
+                {
+                    "name": "Delphin-Apotheke",
+                    "kammer": "lakt",
+                    "id": "503",
+                    "apo_id": "lakt503",
+                    "strasse": "Hermsdorfer Straße 4",
+                    "plz": "99099",
+                    "ort": "Erfurt",
+                    "distanz": "7.82386343784",
+                    "longitude": "11.0598792",
+                    "latitude": "50.9704011",
+                    "telefon": "+49 361 3458213",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "21.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "22.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Apollo-Apotheke Mitte",
+                    "kammer": "lakt",
+                    "id": "585",
+                    "apo_id": "lakt585",
+                    "strasse": "Juri-Gagarin-Ring 94",
+                    "plz": "99084",
+                    "ort": "Erfurt",
+                    "distanz": "8.0216642427",
+                    "longitude": "11.0350273",
+                    "latitude": "50.9735578",
+                    "telefon": "+49 361 241166",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "21.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "22.05.2025",
+                    "endzeit": "09:00"
+                },
                 {
                     "name": "Apotheke Neudietendorf",
                     "kammer": "lakt",
@@ -59,44 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "22.05.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Löwen-Apotheke",
-                    "kammer": "lakt",
-                    "id": "282",
-                    "apo_id": "lakt282",
-                    "strasse": "Johannesstraße 143",
-                    "plz": "99084",
-                    "ort": "Erfurt",
-                    "distanz": "8.99207849515",
-                    "longitude": "11.0317976",
-                    "latitude": "50.9822133",
-                    "telefon": "+49 361 5402272",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "20.05.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "21.05.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Rieth-Apotheke",
-                    "kammer": "lakt",
-                    "id": "12",
-                    "apo_id": "lakt12",
-                    "strasse": "Mainzer Straße 35",
-                    "plz": "99089",
-                    "ort": "Erfurt",
-                    "distanz": "11.62449364034",
-                    "longitude": "11.0155075",
-                    "latitude": "51.0050127",
-                    "telefon": "+49 361 7922040",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "20.05.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "21.05.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Apotheke zur alten Post Lattmann Apotheken OHG",
