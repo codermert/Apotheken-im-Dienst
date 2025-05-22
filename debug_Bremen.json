@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "14499"
+            "verwendet": "15546"
         },
         "apotheken": {
             "apotheke": [
@@ -1329,6 +1329,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Pluspunkt Apotheke Delmenhorst",
+                    "kammer": "aknds",
+                    "id": "1669",
+                    "apo_id": "aknds1669",
+                    "strasse": "Lange Str. 108",
+                    "plz": "27749",
+                    "ort": "Delmenhorst",
+                    "distanz": "11.501539801749999",
+                    "longitude": "8.6292516",
+                    "latitude": "53.0489636",
+                    "telefon": "+49 4221 151514",
+                    "fax": "+49 4221 151515",
+                    "email": [],
+                    "startdatum": "22.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "23.05.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Euro-Apotheke",
                     "kammer": "akbr",
                     "id": "10010",
@@ -1367,23 +1386,23 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Pelikan-Apotheke im Deichhorst-Center",
+                    "name": "Apotheke Bookholzberg",
                     "kammer": "aknds",
-                    "id": "2714",
-                    "apo_id": "aknds2714",
-                    "strasse": "Hannah-Arendt-Str. 7",
-                    "plz": "27753",
-                    "ort": "Delmenhorst",
-                    "distanz": "13.264408365269999",
-                    "longitude": "8.5950774",
-                    "latitude": "53.0413565",
-                    "telefon": "+49 4221 7806801",
-                    "fax": "+49 4221 7806802",
+                    "id": "1752",
+                    "apo_id": "aknds1752",
+                    "strasse": "Stedinger Str. 63",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "12.15097528613",
+                    "longitude": "8.530713",
+                    "latitude": "53.0962681",
+                    "telefon": "+49 4223 3070",
+                    "fax": "+49 4223 1332",
                     "email": [],
-                    "startdatum": "21.05.2025",
+                    "startdatum": "22.05.2025",
                     "startzeit": "08:30",
                     "enddatum": "22.05.2025",
-                    "endzeit": "08:30"
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Eichen-Apotheke",
@@ -1403,6 +1422,25 @@
                     "startzeit": "09:00",
                     "enddatum": "22.05.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Mühlen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1795",
+                    "apo_id": "aknds1795",
+                    "strasse": "Burgstr. 17",
+                    "plz": "27243",
+                    "ort": "Harpstedt",
+                    "distanz": "27.171589531869998",
+                    "longitude": "8.5871724",
+                    "latitude": "52.909233",
+                    "telefon": "+49 4244 93530",
+                    "fax": "+49 4244 935353",
+                    "email": [],
+                    "startdatum": "22.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "23.05.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Rats-Apotheke",
