@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 12
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "54496"
+            "verwendet": "56334"
         },
         "apotheken": {
             "apotheke": [
@@ -1367,25 +1367,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Stedinger Apotheke",
-                    "kammer": "aknds",
-                    "id": "1612",
-                    "apo_id": "aknds1612",
-                    "strasse": "Weserstr. 28",
-                    "plz": "27804",
-                    "ort": "Berne",
-                    "distanz": "14.73436263223",
-                    "longitude": "8.484236",
-                    "latitude": "53.18675",
-                    "telefon": "+49 4406 202",
-                    "fax": "+49 4406 836",
-                    "email": [],
-                    "startdatum": "23.05.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "23.05.2025",
-                    "endzeit": "20:00"
-                },
-                {
                     "name": "Apotheke am Klinikum Links der Weser",
                     "kammer": "akbr",
                     "id": "10097",
@@ -1403,25 +1384,6 @@
                     "startzeit": "09:00",
                     "enddatum": "24.05.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Flores-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1817",
-                    "apo_id": "aknds1817",
-                    "strasse": "Parkstr. 47",
-                    "plz": "27798",
-                    "ort": "Hude",
-                    "distanz": "16.22079185705",
-                    "longitude": "8.4566718",
-                    "latitude": "53.1132591",
-                    "telefon": "+49 4408 6363",
-                    "fax": "+49 4408 970631",
-                    "email": [],
-                    "startdatum": "23.05.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "23.05.2025",
-                    "endzeit": "20:00"
                 },
                 {
                     "name": "farma-plus Apotheke Briseck",
