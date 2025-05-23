@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 37
+            "anzahl": 32
         },
         "quota": {
-            "verwendet": "11499"
+            "verwendet": "12230"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,42 +5762,42 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Fliesstal-Apotheke",
+                    "name": "Sonnen Apotheke",
                     "kammer": "lakbb",
-                    "id": "498",
-                    "apo_id": "lakbb498",
-                    "strasse": "Hauptstraße 32",
-                    "plz": "16552",
-                    "ort": "Mühlenbecker Land - OT Schildow",
-                    "distanz": "15.13963517817",
-                    "longitude": "13.38232",
-                    "latitude": "52.65303",
-                    "telefon": "+49 33056 75260",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "22.05.2025",
+                    "id": "211",
+                    "apo_id": "lakbb211",
+                    "strasse": "Potsdamer Straße 48",
+                    "plz": "14513",
+                    "ort": "Teltow",
+                    "distanz": "15.593748884290001",
+                    "longitude": "13.25726",
+                    "latitude": "52.40225",
+                    "telefon": "03328 303963",
+                    "fax": "03328 303964",
+                    "email": "sonnenapotheke-mitarbeiter@t-online.de",
+                    "startdatum": "23.05.2025",
                     "startzeit": "08:00",
-                    "enddatum": "23.05.2025",
+                    "enddatum": "24.05.2025",
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "easyApotheke Teltow",
-                    "kammer": "lakbb",
-                    "id": "619",
-                    "apo_id": "lakbb619",
-                    "strasse": "Lichterfelder Allee 7",
-                    "plz": "14513",
-                    "ort": "Teltow",
-                    "distanz": "15.1774610024",
-                    "longitude": "13.27066",
-                    "latitude": "52.40132",
-                    "telefon": "+49 3328 3515170",
+                    "name": "Kristinen-Apotheke",
+                    "kammer": "akb",
+                    "id": "100329",
+                    "apo_id": "akb100329",
+                    "strasse": "Bölschestr. 108",
+                    "plz": "12587",
+                    "ort": "Berlin",
+                    "distanz": "17.59488272205",
+                    "longitude": "13.6244634",
+                    "latitude": "52.4513663",
+                    "telefon": "+49 30 6451762",
                     "fax": [],
                     "email": [],
                     "startdatum": "22.05.2025",
-                    "startzeit": "08:00",
+                    "startzeit": "09:00",
                     "enddatum": "23.05.2025",
-                    "endzeit": "08:00"
+                    "endzeit": "08:59"
                 }
             ]
         }
