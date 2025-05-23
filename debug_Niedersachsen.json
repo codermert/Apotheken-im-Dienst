@@ -28,49 +28,30 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 4
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "13301"
+            "verwendet": "13755"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Raths-Apotheke am Dom",
+                    "name": "Central-Apotheke",
                     "kammer": "aknds",
-                    "id": "1488",
-                    "apo_id": "aknds1488",
-                    "strasse": "Lugenstein 4",
-                    "plz": "27283",
-                    "ort": "Verden",
-                    "distanz": "13.4507623487",
-                    "longitude": "9.2289552",
-                    "latitude": "52.9175845",
-                    "telefon": "+49 4231 2654",
-                    "fax": "+49 4231 2688",
+                    "id": "1243",
+                    "apo_id": "aknds1243",
+                    "strasse": "Große Str. 61",
+                    "plz": "27313",
+                    "ort": "Dörverden",
+                    "distanz": "10.4368325965",
+                    "longitude": "9.2302053",
+                    "latitude": "52.8484675",
+                    "telefon": "+49 4234 1308",
+                    "fax": "+49 4234 943405",
                     "email": [],
-                    "startdatum": "22.05.2025",
+                    "startdatum": "23.05.2025",
                     "startzeit": "09:00",
-                    "enddatum": "23.05.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Apotheke im Hufeisen",
-                    "kammer": "aknds",
-                    "id": "2772",
-                    "apo_id": "aknds2772",
-                    "strasse": "Uesener Feldstr. 5",
-                    "plz": "28832",
-                    "ort": "Achim",
-                    "distanz": "18.35605931746",
-                    "longitude": "9.0526972",
-                    "latitude": "53.0041994",
-                    "telefon": "+49 4202 955595",
-                    "fax": "+49 4202 637120",
-                    "email": [],
-                    "startdatum": "22.05.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "23.05.2025",
+                    "enddatum": "24.05.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -93,6 +74,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Flora-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1381",
+                    "apo_id": "aknds1381",
+                    "strasse": "Hauptstr. 52",
+                    "plz": "28876",
+                    "ort": "Oyten",
+                    "distanz": "24.84988726887",
+                    "longitude": "9.0226419",
+                    "latitude": "53.0608175",
+                    "telefon": "+49 4207 3003",
+                    "fax": "+49 4207 913220",
+                    "email": [],
+                    "startdatum": "23.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "24.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
                     "name": "Bären-Apotheke",
                     "kammer": "aknds",
                     "id": "1060",
@@ -110,6 +110,25 @@
                     "startzeit": "08:00",
                     "enddatum": "24.05.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "farma-plus Apotheke Briseck",
+                    "kammer": "aknds",
+                    "id": "5424",
+                    "apo_id": "aknds5424",
+                    "strasse": "Jupiterstr. 1",
+                    "plz": "28816",
+                    "ort": "Stuhr",
+                    "distanz": "27.041301180900003",
+                    "longitude": "8.779",
+                    "latitude": "53.00366",
+                    "telefon": "+49 421 80950800",
+                    "fax": "+49 421 80950801",
+                    "email": [],
+                    "startdatum": "23.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "24.05.2025",
+                    "endzeit": "09:00"
                 }
             ]
         }
