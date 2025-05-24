@@ -381,28 +381,28 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "144040"
+            "verwendet": []
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Apotheke im Kaufland",
+                    "name": "Pluspunkt-Apotheke Friedeburg",
                     "kammer": "slak",
-                    "id": "687",
-                    "apo_id": "slak687",
-                    "strasse": "Häuersteig 2",
+                    "id": "1131",
+                    "apo_id": "slak1131",
+                    "strasse": "Friedeburger Straße 11",
                     "plz": "09599",
                     "ort": "Freiberg",
-                    "distanz": "9.682068406500001",
-                    "longitude": "13.331565",
-                    "latitude": "50.8958976",
-                    "telefon": "+49 3731 76322",
+                    "distanz": "9.26326691361",
+                    "longitude": "13.32813",
+                    "latitude": "50.91761",
+                    "telefon": "+49 3731 200346",
                     "fax": [],
                     "email": [],
                     "startdatum": "24.05.2025",
-                    "startzeit": "12:00",
-                    "enddatum": "24.05.2025",
-                    "endzeit": "19:00"
+                    "startzeit": "19:00",
+                    "enddatum": "25.05.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Windberg-Apotheke",
