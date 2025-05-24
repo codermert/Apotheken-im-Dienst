@@ -37,27 +37,46 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "19927"
+            "verwendet": "20565"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Bahnhof-Apotheke",
+                    "name": "Hufeland-Apotheke",
                     "kammer": "lakt",
-                    "id": "5",
-                    "apo_id": "lakt5",
-                    "strasse": "Bahnhofstraße 40",
-                    "plz": "99084",
+                    "id": "8",
+                    "apo_id": "lakt8",
+                    "strasse": "Blücherstraße 6",
+                    "plz": "99099",
                     "ort": "Erfurt",
-                    "distanz": "8.15849796899",
-                    "longitude": "11.0350444",
-                    "latitude": "50.9747884",
-                    "telefon": "+49 361 555410",
+                    "distanz": "6.459107818700001",
+                    "longitude": "11.062293",
+                    "latitude": "50.957429",
+                    "telefon": "+49 361 412000",
                     "fax": [],
                     "email": [],
-                    "startdatum": "23.05.2025",
+                    "startdatum": "24.05.2025",
                     "startzeit": "09:00",
-                    "enddatum": "24.05.2025",
+                    "enddatum": "25.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Apollo-Apotheke Süd",
+                    "kammer": "lakt",
+                    "id": "2748",
+                    "apo_id": "lakt2748",
+                    "strasse": "Geibelstraße 20 b",
+                    "plz": "99096",
+                    "ort": "Erfurt",
+                    "distanz": "6.74316098911",
+                    "longitude": "11.0254131",
+                    "latitude": "50.9615802",
+                    "telefon": "+49 361 7436860",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "24.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "25.05.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "25.05.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Apotheke am Zoopark",
-                    "kammer": "lakt",
-                    "id": "474",
-                    "apo_id": "lakt474",
-                    "strasse": "Julius-Leber-Ring 5a",
-                    "plz": "99087",
-                    "ort": "Erfurt",
-                    "distanz": "12.894783930460001",
-                    "longitude": "11.0220655",
-                    "latitude": "51.016957",
-                    "telefon": "+49 361 7454736",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "23.05.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "24.05.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Liszt-Apotheke",
