@@ -3194,7 +3194,7 @@
             "anzahl": 18
         },
         "quota": {
-            "verwendet": "16454"
+            "verwendet": "18322"
         },
         "apotheken": {
             "apotheke": [
@@ -3446,25 +3446,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Markt-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1418",
-                    "apo_id": "aknds1418",
-                    "strasse": "Schulstr. 44",
-                    "plz": "21220",
-                    "ort": "Seevetal",
-                    "distanz": "17.34142706463",
-                    "longitude": "10.0428773",
-                    "latitude": "53.3965761",
-                    "telefon": "+49 4105 82061",
-                    "fax": "+49 4105 81668",
-                    "email": [],
-                    "startdatum": "23.05.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "24.05.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Apotheke zur Erle",
                     "kammer": "aksh",
                     "id": "10814",
@@ -3549,6 +3530,25 @@
                         "nachname": "Schulz",
                         "position": "Inhaber"
                     }
+                },
+                {
+                    "name": "Alte Rats-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1507",
+                    "apo_id": "aknds1507",
+                    "strasse": "Rathausstr. 22",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "24.94546823474",
+                    "longitude": "10.2075161",
+                    "latitude": "53.3632732",
+                    "telefon": "+49 4171 2206",
+                    "fax": "+49 4171 4436",
+                    "email": [],
+                    "startdatum": "24.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "25.05.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Heide-Apotheke",

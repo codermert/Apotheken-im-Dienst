@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 11
         },
         "quota": {
-            "verwendet": "16603"
+            "verwendet": "18427"
         },
         "apotheken": {
             "apotheke": [
@@ -1329,22 +1329,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Polaris-Apotheke-Hasport",
+                    "name": "West-Apotheke",
                     "kammer": "aknds",
-                    "id": "6902",
-                    "apo_id": "aknds6902",
-                    "strasse": "Hasporter Damm 166",
-                    "plz": "27755",
+                    "id": "1680",
+                    "apo_id": "aknds1680",
+                    "strasse": "Oldenburger Str. 79",
+                    "plz": "27753",
                     "ort": "Delmenhorst",
-                    "distanz": "12.727373871760001",
-                    "longitude": "8.6511508",
-                    "latitude": "53.0333463",
-                    "telefon": "+49 4221 2927078",
-                    "fax": "+49 4221 2926171",
+                    "distanz": "12.10518761083",
+                    "longitude": "8.6071553",
+                    "latitude": "53.0492285",
+                    "telefon": "+49 4221 987098",
+                    "fax": "+49 4221 987096",
                     "email": [],
-                    "startdatum": "23.05.2025",
+                    "startdatum": "24.05.2025",
                     "startzeit": "08:30",
-                    "enddatum": "24.05.2025",
+                    "enddatum": "25.05.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -1386,6 +1386,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Ring-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1749",
+                    "apo_id": "aknds1749",
+                    "strasse": "Ring 26",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.89569036873",
+                    "longitude": "8.5473054",
+                    "latitude": "53.03225",
+                    "telefon": "+49 4222 950288",
+                    "fax": "+49 4222 950290",
+                    "email": [],
+                    "startdatum": "24.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "25.05.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "farma-plus Apotheke Briseck",
                     "kammer": "aknds",
                     "id": "5424",
@@ -1422,6 +1441,25 @@
                     "startzeit": "08:00",
                     "enddatum": "25.05.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Kranich Apotheke",
+                    "kammer": "aknds",
+                    "id": "1265",
+                    "apo_id": "aknds1265",
+                    "strasse": "Amtsdamm 39",
+                    "plz": "27628",
+                    "ort": "Hagen im Bremischen",
+                    "distanz": "23.681015648789998",
+                    "longitude": "8.6430292",
+                    "latitude": "53.3555124",
+                    "telefon": "+49 4746 951060",
+                    "fax": "+49 4746 951061",
+                    "email": [],
+                    "startdatum": "24.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "25.05.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Flora-Apotheke",
