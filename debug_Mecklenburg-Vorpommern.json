@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "150568"
+            "verwendet": "157648"
         },
         "apotheken": {
             "apotheke": [
@@ -91,25 +91,6 @@
                     "startzeit": "08:00",
                     "enddatum": "25.05.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Rats-Apotheke",
-                    "kammer": "akmv",
-                    "id": "170835",
-                    "apo_id": "akmv170835",
-                    "strasse": "Karl-Marx-Str. 31a",
-                    "plz": "18465",
-                    "ort": "Tribsees",
-                    "distanz": "37.65655087174",
-                    "longitude": "12.7578964",
-                    "latitude": "54.0942614",
-                    "telefon": "+49 38320 6180",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "24.05.2025",
-                    "startzeit": "18:30",
-                    "enddatum": "24.05.2025",
-                    "endzeit": "19:30"
                 },
                 {
                     "name": "Marien-Apotheke",
