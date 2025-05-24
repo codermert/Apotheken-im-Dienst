@@ -541,10 +541,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 4
         },
         "quota": {
-            "verwendet": "20251"
+            "verwendet": "21258"
         },
         "apotheken": {
             "apotheke": [
@@ -623,25 +623,6 @@
                     "startzeit": "08:00",
                     "enddatum": "25.05.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Hermsdorfer Apotheke",
-                    "kammer": "akb",
-                    "id": "101069",
-                    "apo_id": "akb101069",
-                    "strasse": "Glienicker Str. 6",
-                    "plz": "13467",
-                    "ort": "Berlin",
-                    "distanz": "25.70298291237",
-                    "longitude": "13.3084232",
-                    "latitude": "52.6176925",
-                    "telefon": "+49 30 400095630",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "23.05.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "24.05.2025",
-                    "endzeit": "08:59"
                 }
             ]
         }
