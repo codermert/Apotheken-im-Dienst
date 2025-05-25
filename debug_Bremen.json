@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 10
+            "anzahl": 11
         },
         "quota": {
-            "verwendet": "339534"
+            "verwendet": "342229"
         },
         "apotheken": {
             "apotheke": [
@@ -1308,6 +1308,25 @@
                     "startzeit": "09:00",
                     "enddatum": "26.05.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Alte Apotheke",
+                    "kammer": "aknds",
+                    "id": "1368",
+                    "apo_id": "aknds1368",
+                    "strasse": "Marktstr. 11",
+                    "plz": "27711",
+                    "ort": "Osterholz-Scharmbeck",
+                    "distanz": "11.15086360268",
+                    "longitude": "8.7857793",
+                    "latitude": "53.2282316",
+                    "telefon": "+49 4791 57318",
+                    "fax": "+49 4791 58962",
+                    "email": [],
+                    "startdatum": "25.05.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "25.05.2025",
+                    "endzeit": "19:00"
                 },
                 {
                     "name": "Rosen-Apotheke",
