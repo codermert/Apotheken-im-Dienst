@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 10
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "69116"
+            "verwendet": "80113"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,6 +1310,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Rosen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1676",
+                    "apo_id": "aknds1676",
+                    "strasse": "Cramerstr. 15",
+                    "plz": "27749",
+                    "ort": "Delmenhorst",
+                    "distanz": "11.49851462493",
+                    "longitude": "8.6348904",
+                    "latitude": "53.0476985",
+                    "telefon": "+49 4221 93590",
+                    "fax": "+49 4221 935935",
+                    "email": [],
+                    "startdatum": "25.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "26.05.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Apotheke am St.-Joseph-Stift",
                     "kammer": "akbr",
                     "id": "10158",
@@ -1327,25 +1346,6 @@
                     "startzeit": "09:00",
                     "enddatum": "25.05.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "West-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1680",
-                    "apo_id": "aknds1680",
-                    "strasse": "Oldenburger Str. 79",
-                    "plz": "27753",
-                    "ort": "Delmenhorst",
-                    "distanz": "12.10518761083",
-                    "longitude": "8.6071553",
-                    "latitude": "53.0492285",
-                    "telefon": "+49 4221 987098",
-                    "fax": "+49 4221 987096",
-                    "email": [],
-                    "startdatum": "24.05.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "25.05.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "sk-Apotheke in Varrel OHG",
@@ -1386,22 +1386,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Ring-Apotheke",
+                    "name": "Alte Raben Apotheke",
                     "kammer": "aknds",
-                    "id": "1749",
-                    "apo_id": "aknds1749",
-                    "strasse": "Ring 26",
-                    "plz": "27777",
-                    "ort": "Ganderkesee",
-                    "distanz": "15.89569036873",
-                    "longitude": "8.5473054",
-                    "latitude": "53.03225",
-                    "telefon": "+49 4222 950288",
-                    "fax": "+49 4222 950290",
+                    "id": "1815",
+                    "apo_id": "aknds1815",
+                    "strasse": "Parkstr. 12",
+                    "plz": "27798",
+                    "ort": "Hude",
+                    "distanz": "16.03848971665",
+                    "longitude": "8.4602241",
+                    "latitude": "53.1112996",
+                    "telefon": "+49 4408 321",
+                    "fax": "+49 4408 60121",
                     "email": [],
-                    "startdatum": "24.05.2025",
+                    "startdatum": "25.05.2025",
                     "startzeit": "08:30",
-                    "enddatum": "25.05.2025",
+                    "enddatum": "26.05.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -1441,25 +1441,6 @@
                     "startzeit": "09:00",
                     "enddatum": "25.05.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Kranich Apotheke",
-                    "kammer": "aknds",
-                    "id": "1265",
-                    "apo_id": "aknds1265",
-                    "strasse": "Amtsdamm 39",
-                    "plz": "27628",
-                    "ort": "Hagen im Bremischen",
-                    "distanz": "23.681015648789998",
-                    "longitude": "8.6430292",
-                    "latitude": "53.3555124",
-                    "telefon": "+49 4746 951060",
-                    "fax": "+49 4746 951061",
-                    "email": [],
-                    "startdatum": "24.05.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "25.05.2025",
-                    "endzeit": "08:30"
                 }
             ]
         }
