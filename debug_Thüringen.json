@@ -37,27 +37,46 @@
             "anzahl": 8
         },
         "quota": {
-            "verwendet": "17364"
+            "verwendet": "17979"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Stadtpark-Apotheke",
+                    "name": "Apotheke am Wiesenhügel",
                     "kammer": "lakt",
-                    "id": "13",
-                    "apo_id": "lakt13",
-                    "strasse": "Schillerstraße 25",
-                    "plz": "99096",
+                    "id": "4",
+                    "apo_id": "lakt4",
+                    "strasse": "Färberwaidweg 2",
+                    "plz": "99097",
                     "ort": "Erfurt",
-                    "distanz": "7.38124570357",
-                    "longitude": "11.0312432",
-                    "latitude": "50.9676933",
-                    "telefon": "+49 361 74733749",
+                    "distanz": "5.9326309821",
+                    "longitude": "11.0670379",
+                    "latitude": "50.9514931",
+                    "telefon": "+49 361 414540",
                     "fax": [],
                     "email": [],
-                    "startdatum": "25.05.2025",
+                    "startdatum": "26.05.2025",
                     "startzeit": "09:00",
-                    "enddatum": "26.05.2025",
+                    "enddatum": "27.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Arnika-Apotheke",
+                    "kammer": "lakt",
+                    "id": "418",
+                    "apo_id": "lakt418",
+                    "strasse": "Blumenstr. 92",
+                    "plz": "99092",
+                    "ort": "Erfurt",
+                    "distanz": "9.18303846778",
+                    "longitude": "11.0178287",
+                    "latitude": "50.9830499",
+                    "telefon": "+49 361 2113290",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "26.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "27.05.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "27.05.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Luther-Apotheke",
-                    "kammer": "lakt",
-                    "id": "481",
-                    "apo_id": "lakt481",
-                    "strasse": "Ammertalweg 15",
-                    "plz": "99086",
-                    "ort": "Erfurt",
-                    "distanz": "10.609739457929999",
-                    "longitude": "11.0289565",
-                    "latitude": "50.9966797",
-                    "telefon": "+49 361 7456176",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "25.05.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "26.05.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Stadt-Apotheke Lattmann Apotheken OHG",
