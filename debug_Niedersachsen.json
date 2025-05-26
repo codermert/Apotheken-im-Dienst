@@ -31,7 +31,7 @@
             "anzahl": 5
         },
         "quota": {
-            "verwendet": "14059"
+            "verwendet": "15671"
         },
         "apotheken": {
             "apotheke": [
@@ -74,25 +74,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke Erichshagen",
-                    "kammer": "aknds",
-                    "id": "962",
-                    "apo_id": "aknds962",
-                    "strasse": "Celler Str. 62",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "22.87586663499",
-                    "longitude": "9.2267429",
-                    "latitude": "52.6557705",
-                    "telefon": "+49 5021 63938",
-                    "fax": "+49 5021 961008",
-                    "email": [],
-                    "startdatum": "25.05.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "26.05.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Stifts-Apotheke",
                     "kammer": "aknds",
                     "id": "525",
@@ -110,6 +91,25 @@
                     "startzeit": "08:30",
                     "enddatum": "26.05.2025",
                     "endzeit": "08:30"
+                },
+                {
+                    "name": "Meerbach-Apotheke",
+                    "kammer": "aknds",
+                    "id": "964",
+                    "apo_id": "aknds964",
+                    "strasse": "Ziegelkampstr. 37",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "24.92702017755",
+                    "longitude": "9.223937",
+                    "latitude": "52.6346479",
+                    "telefon": "+49 5021 888740",
+                    "fax": "+49 5021 888745",
+                    "email": [],
+                    "startdatum": "26.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "27.05.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Linden-Apotheke",
