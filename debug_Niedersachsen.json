@@ -31,7 +31,7 @@
             "anzahl": 4
         },
         "quota": {
-            "verwendet": "12339"
+            "verwendet": "13189"
         },
         "apotheken": {
             "apotheke": [
@@ -74,6 +74,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Domino-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1111",
+                    "apo_id": "aknds1111",
+                    "strasse": "Alter Kirchweg 1",
+                    "plz": "31627",
+                    "ort": "Rohrsen",
+                    "distanz": "18.03914767201",
+                    "longitude": "9.233263",
+                    "latitude": "52.7087912",
+                    "telefon": "+49 5024 765",
+                    "fax": "+49 5024 8303",
+                    "email": [],
+                    "startdatum": "27.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "28.05.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Schloss Apotheke Syke Hauptstraße",
                     "kammer": "aknds",
                     "id": "1067",
@@ -91,25 +110,6 @@
                     "startzeit": "09:00",
                     "enddatum": "27.05.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Meerbach-Apotheke",
-                    "kammer": "aknds",
-                    "id": "964",
-                    "apo_id": "aknds964",
-                    "strasse": "Ziegelkampstr. 37",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "24.92702017755",
-                    "longitude": "9.223937",
-                    "latitude": "52.6346479",
-                    "telefon": "+49 5021 888740",
-                    "fax": "+49 5021 888745",
-                    "email": [],
-                    "startdatum": "26.05.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "27.05.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }

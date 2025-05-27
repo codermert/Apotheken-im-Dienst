@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 36
+            "anzahl": 41
         },
         "quota": {
-            "verwendet": "12197"
+            "verwendet": "13042"
         },
         "apotheken": {
             "apotheke": [
@@ -5781,23 +5781,23 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Elefanten Apotheke",
-                    "kammer": "akb",
-                    "id": "100449",
-                    "apo_id": "akb100449",
-                    "strasse": "Dörpfeldstr. 46",
-                    "plz": "12489",
-                    "ort": "Berlin",
-                    "distanz": "13.931184137779999",
-                    "longitude": "13.5483317",
-                    "latitude": "52.4383455",
-                    "telefon": "+49 30 67894942",
+                    "name": "Apotheke im Sonnengarten",
+                    "kammer": "lakbb",
+                    "id": "241",
+                    "apo_id": "lakbb241",
+                    "strasse": "Märkische Allee 76",
+                    "plz": "16548",
+                    "ort": "Glienicke/Nordbahn",
+                    "distanz": "13.48323987355",
+                    "longitude": "13.3230005",
+                    "latitude": "52.6313669",
+                    "telefon": "+49 33056 42996",
                     "fax": [],
-                    "email": [],
-                    "startdatum": "26.05.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "27.05.2025",
-                    "endzeit": "08:59"
+                    "email": "ais@online.de",
+                    "startdatum": "27.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "28.05.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }
