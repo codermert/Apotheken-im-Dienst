@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 4
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "13189"
+            "verwendet": "14342"
         },
         "apotheken": {
             "apotheke": [
@@ -110,6 +110,25 @@
                     "startzeit": "09:00",
                     "enddatum": "27.05.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Lindenmarkt-Apotheke",
+                    "kammer": "aknds",
+                    "id": "526",
+                    "apo_id": "aknds526",
+                    "strasse": "Bahnhofstr. 19",
+                    "plz": "27211",
+                    "ort": "Bassum",
+                    "distanz": "23.056425296969998",
+                    "longitude": "8.7339866",
+                    "latitude": "52.8471314",
+                    "telefon": "+49 4241 922422",
+                    "fax": "+49 4241 922424",
+                    "email": [],
+                    "startdatum": "27.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "28.05.2025",
+                    "endzeit": "08:30"
                 }
             ]
         }

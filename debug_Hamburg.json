@@ -3194,7 +3194,7 @@
             "anzahl": 17
         },
         "quota": {
-            "verwendet": "13069"
+            "verwendet": "14239"
         },
         "apotheken": {
             "apotheke": [
@@ -3408,6 +3408,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Iris-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1417",
+                    "apo_id": "aknds1417",
+                    "strasse": "Schulstr. 29-31",
+                    "plz": "21220",
+                    "ort": "Seevetal",
+                    "distanz": "17.49115951688",
+                    "longitude": "10.0383807",
+                    "latitude": "53.3948011",
+                    "telefon": "+49 4105 82074",
+                    "fax": "+49 4105 80588",
+                    "email": [],
+                    "startdatum": "27.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "28.05.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Flora-Apotheke",
                     "kammer": "aksh",
                     "id": "10381",
@@ -3444,25 +3463,6 @@
                     "startzeit": "08:00",
                     "enddatum": "28.05.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Sonnen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1512",
-                    "apo_id": "aknds1512",
-                    "strasse": "Bahnhofstr. 34",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "25.32874904419",
-                    "longitude": "10.2060682",
-                    "latitude": "53.3586093",
-                    "telefon": "+49 4171 3611",
-                    "fax": "+49 4171 653650",
-                    "email": [],
-                    "startdatum": "26.05.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "27.05.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Galerie Apotheke oHG",
