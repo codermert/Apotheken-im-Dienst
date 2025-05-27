@@ -28,49 +28,49 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "14342"
+            "verwendet": "14804"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Rübezahl Apotheke",
+                    "name": "Bären-Apotheke",
                     "kammer": "aknds",
-                    "id": "485",
-                    "apo_id": "aknds485",
-                    "strasse": "Bahnhofstr. 4",
-                    "plz": "27330",
-                    "ort": "Asendorf",
-                    "distanz": "8.862473136090001",
-                    "longitude": "9.0063233",
-                    "latitude": "52.7723144",
-                    "telefon": "+49 4253 315",
-                    "fax": "+49 4253 1751",
+                    "id": "884",
+                    "apo_id": "aknds884",
+                    "strasse": "Lange Straße 51",
+                    "plz": "27318",
+                    "ort": "Hoya",
+                    "distanz": "5.6557882967",
+                    "longitude": "9.1375017",
+                    "latitude": "52.8053089",
+                    "telefon": "+49 4251 2244",
+                    "fax": "+49 4251 1888",
                     "email": [],
-                    "startdatum": "26.05.2025",
+                    "startdatum": "27.05.2025",
                     "startzeit": "09:00",
-                    "enddatum": "27.05.2025",
+                    "enddatum": "28.05.2025",
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Burg-Apotheke Langwedel oHG",
+                    "name": "Nordertor-Apotheke",
                     "kammer": "aknds",
-                    "id": "1308",
-                    "apo_id": "aknds1308",
-                    "strasse": "Große Straße 8",
-                    "plz": "27299",
-                    "ort": "Langwedel",
-                    "distanz": "16.96665015468",
-                    "longitude": "9.1869389",
-                    "latitude": "52.9767586",
-                    "telefon": "+49 4232 93250",
-                    "fax": "+49 4232 932550",
+                    "id": "1486",
+                    "apo_id": "aknds1486",
+                    "strasse": "Große Str. 2",
+                    "plz": "27283",
+                    "ort": "Verden",
+                    "distanz": "13.89368580883",
+                    "longitude": "9.227984",
+                    "latitude": "52.9242917",
+                    "telefon": "+49 4231 3398",
+                    "fax": "+49 4231 83963",
                     "email": [],
-                    "startdatum": "26.05.2025",
+                    "startdatum": "27.05.2025",
                     "startzeit": "09:00",
-                    "enddatum": "27.05.2025",
+                    "enddatum": "28.05.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -93,25 +93,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Schloss Apotheke Syke Hauptstraße",
-                    "kammer": "aknds",
-                    "id": "1067",
-                    "apo_id": "aknds1067",
-                    "strasse": "Hauptstr. 13",
-                    "plz": "28857",
-                    "ort": "Syke",
-                    "distanz": "18.79044492107",
-                    "longitude": "8.8238966",
-                    "latitude": "52.9123306",
-                    "telefon": "+49 4242 2044",
-                    "fax": "+49 4242 4210",
-                    "email": [],
-                    "startdatum": "26.05.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "27.05.2025",
-                    "endzeit": "09:00"
-                },
-                {
                     "name": "Lindenmarkt-Apotheke",
                     "kammer": "aknds",
                     "id": "526",
@@ -129,6 +110,44 @@
                     "startzeit": "08:30",
                     "enddatum": "28.05.2025",
                     "endzeit": "08:30"
+                },
+                {
+                    "name": "Ost-Apotheke",
+                    "kammer": "akbr",
+                    "id": "10130",
+                    "apo_id": "akbr10130",
+                    "strasse": "Osterholzer Heerstr. 162 A",
+                    "plz": "28325",
+                    "ort": "Bremen",
+                    "distanz": "25.78059575878",
+                    "longitude": "8.9480451",
+                    "latitude": "53.0582519",
+                    "telefon": "+49 421 420244",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "27.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "28.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Gänse-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1058",
+                    "apo_id": "aknds1058",
+                    "strasse": "Hauptstr. 52 a",
+                    "plz": "28816",
+                    "ort": "Stuhr",
+                    "distanz": "27.126545560809998",
+                    "longitude": "8.75856",
+                    "latitude": "52.99021",
+                    "telefon": "+49 421 8099636",
+                    "fax": "+49 421 8099637",
+                    "email": [],
+                    "startdatum": "27.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "28.05.2025",
+                    "endzeit": "09:00"
                 }
             ]
         }
