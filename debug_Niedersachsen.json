@@ -28,49 +28,30 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 4
         },
         "quota": {
-            "verwendet": "17636"
+            "verwendet": "18325"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Bären-Apotheke",
+                    "name": "Storchen-Apotheke",
                     "kammer": "aknds",
-                    "id": "884",
-                    "apo_id": "aknds884",
-                    "strasse": "Lange Straße 51",
-                    "plz": "27318",
-                    "ort": "Hoya",
-                    "distanz": "5.6557882967",
-                    "longitude": "9.1375017",
-                    "latitude": "52.8053089",
-                    "telefon": "+49 4251 2244",
-                    "fax": "+49 4251 1888",
-                    "email": [],
-                    "startdatum": "27.05.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "28.05.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Nordertor-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1486",
-                    "apo_id": "aknds1486",
-                    "strasse": "Große Str. 2",
+                    "id": "1489",
+                    "apo_id": "aknds1489",
+                    "strasse": "Plattenberg 57",
                     "plz": "27283",
                     "ort": "Verden",
-                    "distanz": "13.89368580883",
-                    "longitude": "9.227984",
-                    "latitude": "52.9242917",
-                    "telefon": "+49 4231 3398",
-                    "fax": "+49 4231 83963",
+                    "distanz": "14.27567523431",
+                    "longitude": "9.246528",
+                    "latitude": "52.9160608",
+                    "telefon": "+49 4231 5255",
+                    "fax": "+49 4231 81426",
                     "email": [],
-                    "startdatum": "27.05.2025",
+                    "startdatum": "28.05.2025",
                     "startzeit": "09:00",
-                    "enddatum": "28.05.2025",
+                    "enddatum": "29.05.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -112,41 +93,22 @@
                     "endzeit": "08:30"
                 },
                 {
-                    "name": "Ost-Apotheke",
-                    "kammer": "akbr",
-                    "id": "10130",
-                    "apo_id": "akbr10130",
-                    "strasse": "Osterholzer Heerstr. 162 A",
-                    "plz": "28325",
-                    "ort": "Bremen",
-                    "distanz": "25.78059575878",
-                    "longitude": "8.9480451",
-                    "latitude": "53.0582519",
-                    "telefon": "+49 421 420244",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "27.05.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "28.05.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Gänse-Apotheke",
+                    "name": "Apotheke 55 im Augenzentrum",
                     "kammer": "aknds",
-                    "id": "1058",
-                    "apo_id": "aknds1058",
-                    "strasse": "Hauptstr. 52 a",
-                    "plz": "28816",
-                    "ort": "Stuhr",
-                    "distanz": "27.126545560809998",
-                    "longitude": "8.75856",
-                    "latitude": "52.99021",
-                    "telefon": "+49 421 8099636",
-                    "fax": "+49 421 8099637",
+                    "id": "7375",
+                    "apo_id": "aknds7375",
+                    "strasse": "Henry-Wetjen-Platz 3",
+                    "plz": "28844",
+                    "ort": "Weyhe",
+                    "distanz": "23.952950818829997",
+                    "longitude": "8.8169272",
+                    "latitude": "52.9875338",
+                    "telefon": "+49 421 83056800",
+                    "fax": "+49 421 83056801",
                     "email": [],
-                    "startdatum": "27.05.2025",
+                    "startdatum": "28.05.2025",
                     "startzeit": "09:00",
-                    "enddatum": "28.05.2025",
+                    "enddatum": "29.05.2025",
                     "endzeit": "09:00"
                 }
             ]
