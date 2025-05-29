@@ -3194,7 +3194,7 @@
             "anzahl": 18
         },
         "quota": {
-            "verwendet": "67101"
+            "verwendet": "85414"
         },
         "apotheken": {
             "apotheke": [
@@ -3389,6 +3389,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Fleester Markt-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1422",
+                    "apo_id": "aknds1422",
+                    "strasse": "Fleestedter Ring 3",
+                    "plz": "21217",
+                    "ort": "Seevetal",
+                    "distanz": "15.66174434329",
+                    "longitude": "9.9902759",
+                    "latitude": "53.4097548",
+                    "telefon": "+49 4105 4385",
+                    "fax": "+49 4105 3430",
+                    "email": [],
+                    "startdatum": "29.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "30.05.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Mohnhof-Apotheke",
                     "kammer": "akh",
                     "id": "10463",
@@ -3482,25 +3501,6 @@
                     "startzeit": "08:00",
                     "enddatum": "30.05.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Sonnen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1512",
-                    "apo_id": "aknds1512",
-                    "strasse": "Bahnhofstr. 34",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "25.32874904419",
-                    "longitude": "10.2060682",
-                    "latitude": "53.3586093",
-                    "telefon": "+49 4171 3611",
-                    "fax": "+49 4171 653650",
-                    "email": [],
-                    "startdatum": "28.05.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "29.05.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Hirsch-Apotheke",
