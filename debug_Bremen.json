@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 11
+            "anzahl": 12
         },
         "quota": {
-            "verwendet": "130579"
+            "verwendet": "151616"
         },
         "apotheken": {
             "apotheke": [
@@ -1308,6 +1308,25 @@
                     "startzeit": "09:00",
                     "enddatum": "30.05.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Max & Moritz Apotheke",
+                    "kammer": "aknds",
+                    "id": "1369",
+                    "apo_id": "aknds1369",
+                    "strasse": "Marktplatz 12",
+                    "plz": "27711",
+                    "ort": "Osterholz-Scharmbeck",
+                    "distanz": "11.20432393113",
+                    "longitude": "8.7870547",
+                    "latitude": "53.228296",
+                    "telefon": "+49 4791 985588",
+                    "fax": "+49 4791 985587",
+                    "email": [],
+                    "startdatum": "29.05.2025",
+                    "startzeit": "10:00",
+                    "enddatum": "29.05.2025",
+                    "endzeit": "12:00"
                 },
                 {
                     "name": "Apotheke im Zurbrüggen-Zentrum",
