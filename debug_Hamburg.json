@@ -3194,7 +3194,7 @@
             "anzahl": 15
         },
         "quota": {
-            "verwendet": "17378"
+            "verwendet": "18472"
         },
         "apotheken": {
             "apotheke": [
@@ -3351,25 +3351,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Fleester Markt-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1422",
-                    "apo_id": "aknds1422",
-                    "strasse": "Fleestedter Ring 3",
-                    "plz": "21217",
-                    "ort": "Seevetal",
-                    "distanz": "15.66174434329",
-                    "longitude": "9.9902759",
-                    "latitude": "53.4097548",
-                    "telefon": "+49 4105 4385",
-                    "fax": "+49 4105 3430",
-                    "email": [],
-                    "startdatum": "29.05.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "30.05.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Heide Apotheke",
                     "kammer": "akh",
                     "id": "10314",
@@ -3482,6 +3463,25 @@
                     "startzeit": "08:00",
                     "enddatum": "31.05.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Luhe-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1510",
+                    "apo_id": "aknds1510",
+                    "strasse": "Bahnhofstr. 1",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "25.17002885461",
+                    "longitude": "10.2060052",
+                    "latitude": "53.3602785",
+                    "telefon": "+49 4171 4055",
+                    "fax": "+49 4171 64814",
+                    "email": [],
+                    "startdatum": "30.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "31.05.2025",
+                    "endzeit": "08:30"
                 }
             ]
         }

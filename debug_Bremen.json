@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 10
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "17485"
+            "verwendet": "18576"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,22 +1310,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke im Zurbrüggen-Zentrum",
+                    "name": "Andreas-Apotheke",
                     "kammer": "aknds",
-                    "id": "5610",
-                    "apo_id": "aknds5610",
-                    "strasse": "Seestr. 5",
-                    "plz": "27755",
+                    "id": "1663",
+                    "apo_id": "aknds1663",
+                    "strasse": "Oldenburger Str. 25",
+                    "plz": "27753",
                     "ort": "Delmenhorst",
-                    "distanz": "12.902705588209999",
-                    "longitude": "8.66095",
-                    "latitude": "53.03057",
-                    "telefon": "+49 4221 6893551",
-                    "fax": "+49 4221 6893545",
+                    "distanz": "11.683725943999999",
+                    "longitude": "8.6205462",
+                    "latitude": "53.0494339",
+                    "telefon": "+49 4221 150990",
+                    "fax": "+49 4221 120711",
                     "email": [],
-                    "startdatum": "29.05.2025",
+                    "startdatum": "30.05.2025",
                     "startzeit": "08:30",
-                    "enddatum": "30.05.2025",
+                    "enddatum": "31.05.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -1348,23 +1348,23 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke am Schützenplatz",
+                    "name": "Apotheke am famila",
                     "kammer": "aknds",
-                    "id": "1816",
-                    "apo_id": "aknds1816",
-                    "strasse": "Schützenstr. 10",
-                    "plz": "27798",
-                    "ort": "Hude",
-                    "distanz": "16.19303450548",
-                    "longitude": "8.4593608",
-                    "latitude": "53.1076988",
-                    "telefon": "+49 4408 92110",
-                    "fax": "+49 4408 921111",
+                    "id": "6801",
+                    "apo_id": "aknds6801",
+                    "strasse": "Markt 5",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.77459148283",
+                    "longitude": "8.54525",
+                    "latitude": "53.03462",
+                    "telefon": "+49 4222 9473270",
+                    "fax": "+49 4222 9473271",
                     "email": [],
-                    "startdatum": "29.05.2025",
+                    "startdatum": "30.05.2025",
                     "startzeit": "08:30",
                     "enddatum": "30.05.2025",
-                    "endzeit": "08:30"
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Schleng-Apotheke",
@@ -1422,25 +1422,6 @@
                     "startzeit": "09:00",
                     "enddatum": "30.05.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Kranich Apotheke",
-                    "kammer": "aknds",
-                    "id": "1265",
-                    "apo_id": "aknds1265",
-                    "strasse": "Amtsdamm 39",
-                    "plz": "27628",
-                    "ort": "Hagen im Bremischen",
-                    "distanz": "23.681015648789998",
-                    "longitude": "8.6430292",
-                    "latitude": "53.3555124",
-                    "telefon": "+49 4746 951060",
-                    "fax": "+49 4746 951061",
-                    "email": [],
-                    "startdatum": "29.05.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "30.05.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Heide-Apotheke",
