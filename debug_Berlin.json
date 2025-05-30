@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 38
+            "anzahl": 35
         },
         "quota": {
-            "verwendet": "15925"
+            "verwendet": "17332"
         },
         "apotheken": {
             "apotheke": [
@@ -5724,25 +5724,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Neue Roland Apotheke",
-                    "kammer": "lakbb",
-                    "id": "537",
-                    "apo_id": "lakbb537",
-                    "strasse": "Oranienburger Chaussee 17",
-                    "plz": "16548",
-                    "ort": "Glienicke/Nordbahn",
-                    "distanz": "14.00161131402",
-                    "longitude": "13.30969",
-                    "latitude": "52.63325",
-                    "telefon": "033056 94500",
-                    "fax": "033056 94501",
-                    "email": "info@neue-roland-apotheke.de",
-                    "startdatum": "29.05.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "30.05.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Phönix-Apotheke",
                     "kammer": "akb",
                     "id": "100493",
@@ -5762,25 +5743,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Kaufpark Apotheke",
-                    "kammer": "lakbb",
-                    "id": "459",
-                    "apo_id": "lakbb459",
-                    "strasse": "Landsberger Chaussee 17",
-                    "plz": "16356",
-                    "ort": "Ahrensfelde - OT Eiche-Süd",
-                    "distanz": "14.706543724700001",
-                    "longitude": "13.5988534",
-                    "latitude": "52.5497144",
-                    "telefon": "+49 30 9989607",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "29.05.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "30.05.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Schlosspark-Apotheke",
                     "kammer": "akb",
                     "id": "110536",
@@ -5792,6 +5754,44 @@
                     "longitude": "13.4953664",
                     "latitude": "52.6345938",
                     "telefon": "+49 30 94413314",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "29.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "30.05.2025",
+                    "endzeit": "08:59"
+                },
+                {
+                    "name": "gesundleben Apotheke Mahlsdorf",
+                    "kammer": "akb",
+                    "id": "100003",
+                    "apo_id": "akb100003",
+                    "strasse": "Hönower Straße 95 A",
+                    "plz": "12623",
+                    "ort": "Berlin",
+                    "distanz": "15.15094206593",
+                    "longitude": "13.6119609",
+                    "latitude": "52.513421",
+                    "telefon": "+49 30 9918153",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "29.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "30.05.2025",
+                    "endzeit": "08:59"
+                },
+                {
+                    "name": "Die Dorotheen-Apotheke",
+                    "kammer": "akb",
+                    "id": "100398",
+                    "apo_id": "akb100398",
+                    "strasse": "Potsdamer Chaussee 80",
+                    "plz": "14129",
+                    "ort": "Berlin",
+                    "distanz": "15.40958469295",
+                    "longitude": "13.2166368",
+                    "latitude": "52.4269493",
+                    "telefon": "+49 30 8039579",
                     "fax": [],
                     "email": [],
                     "startdatum": "29.05.2025",

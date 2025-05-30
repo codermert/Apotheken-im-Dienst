@@ -169,14 +169,6 @@
       "mesafe": "13.2 km"
     },
     {
-      "eczaneAdi": "Neue Roland Apotheke",
-      "adres": "Oranienburger Chaussee 17, 16548 Glienicke/Nordbahn",
-      "telefon": "033056 94500",
-      "enlem": "52.63325",
-      "boylam": "13.30969",
-      "mesafe": "14.0 km"
-    },
-    {
       "eczaneAdi": "Phönix-Apotheke",
       "adres": "Mahlsdorfer Str. 110, 12555 Berlin",
       "telefon": "+49 30 6571902",
@@ -185,20 +177,28 @@
       "mesafe": "14.5 km"
     },
     {
-      "eczaneAdi": "Kaufpark Apotheke",
-      "adres": "Landsberger Chaussee 17, 16356 Ahrensfelde - OT Eiche-Süd",
-      "telefon": "+49 30 9989607",
-      "enlem": "52.5497144",
-      "boylam": "13.5988534",
-      "mesafe": "14.7 km"
-    },
-    {
       "eczaneAdi": "Schlosspark-Apotheke",
       "adres": "Walter-Friedrich-Str. 4 a, 13125 Berlin",
       "telefon": "+49 30 94413314",
       "enlem": "52.6345938",
       "boylam": "13.4953664",
       "mesafe": "14.9 km"
+    },
+    {
+      "eczaneAdi": "gesundleben Apotheke Mahlsdorf",
+      "adres": "Hönower Straße 95 A, 12623 Berlin",
+      "telefon": "+49 30 9918153",
+      "enlem": "52.513421",
+      "boylam": "13.6119609",
+      "mesafe": "15.2 km"
+    },
+    {
+      "eczaneAdi": "Die Dorotheen-Apotheke",
+      "adres": "Potsdamer Chaussee 80, 14129 Berlin",
+      "telefon": "+49 30 8039579",
+      "enlem": "52.4269493",
+      "boylam": "13.2166368",
+      "mesafe": "15.4 km"
     }
   ],
   "Nordrhein-Westfalen": [
@@ -421,20 +421,12 @@
       "mesafe": "10.0 km"
     },
     {
-      "eczaneAdi": "Eichen-Apotheke",
-      "adres": "Hauptstr. 36, 25469 Halstenbek",
-      "telefon": "04101-45204",
-      "enlem": "53.6356491",
-      "boylam": "9.8400326",
-      "mesafe": "14.3 km"
-    },
-    {
-      "eczaneAdi": "Apotheke im Herold Center",
-      "adres": "Berliner Allee 38, 22850 Norderstedt",
-      "telefon": "040-5235064",
-      "enlem": "53.68463",
-      "boylam": "9.98627",
-      "mesafe": "15.0 km"
+      "eczaneAdi": "St. Stephanus-Apotheke",
+      "adres": "Hauptstr. 33-35, 22869 Schenefeld",
+      "telefon": "040-8300404",
+      "enlem": "53.6001658",
+      "boylam": "9.8250316",
+      "mesafe": "12.9 km"
     },
     {
       "eczaneAdi": "Fleester Markt-Apotheke",
@@ -461,44 +453,36 @@
       "mesafe": "16.6 km"
     },
     {
-      "eczaneAdi": "Dalbek Apotheke Börnsen",
-      "adres": "Beim Sachsenwald 2, 21039 Börnsen",
-      "telefon": "040-18098008",
-      "enlem": "53.4857729",
-      "boylam": "10.2870226",
+      "eczaneAdi": "Lottbek-Apotheke",
+      "adres": "Hamburger Str. 97, 22949 Ammersbek",
+      "telefon": "+49 40 6051050",
+      "enlem": "53.67894",
+      "boylam": "10.14955",
+      "mesafe": "17.4 km"
+    },
+    {
+      "eczaneAdi": "Vitalhus. Die Apotheke",
+      "adres": "Stormarnstr. 33-41, 22844 Norderstedt",
+      "telefon": "040-87977881",
+      "enlem": "53.7089344",
+      "boylam": "10.0187003",
+      "mesafe": "17.7 km"
+    },
+    {
+      "eczaneAdi": "Staggenborg Apotheke im Marktkauf",
+      "adres": "Peiner Hag 1, 25497 Prisdorf",
+      "telefon": "+49 4101 376877",
+      "enlem": "53.67131",
+      "boylam": "9.77323",
+      "mesafe": "20.2 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Billenkamp",
+      "adres": "Große Str. 10, 21521 Aumühle",
+      "telefon": "04104-2533",
+      "enlem": "53.52634",
+      "boylam": "10.30415",
       "mesafe": "20.3 km"
-    },
-    {
-      "eczaneAdi": "Roland Apotheke",
-      "adres": "Rolandstr. 6, 22880 Wedel",
-      "telefon": "+49 4103 3683",
-      "enlem": "53.58431",
-      "boylam": "9.6967",
-      "mesafe": "20.5 km"
-    },
-    {
-      "eczaneAdi": "Rantzau-Apotheke",
-      "adres": "Manhagener Allee 9, 22926 Ahrensburg",
-      "telefon": "04102-70740",
-      "enlem": "53.6721948",
-      "boylam": "10.2405144",
-      "mesafe": "20.9 km"
-    },
-    {
-      "eczaneAdi": "Linden-Apotheke",
-      "adres": "Lindenweg 2, 25436 Tornesch",
-      "telefon": "04122-5767",
-      "enlem": "53.6973256",
-      "boylam": "9.7178271",
-      "mesafe": "24.9 km"
-    },
-    {
-      "eczaneAdi": "Hirsch-Apotheke",
-      "adres": "Bürgerei 3, 21720 Steinkirchen",
-      "telefon": "+49 4142 2022",
-      "enlem": "53.5609907",
-      "boylam": "9.6088737",
-      "mesafe": "26.0 km"
     }
   ],
   "Baden-Württemberg": [
