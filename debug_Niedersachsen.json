@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "35278"
+            "verwendet": "37195"
         },
         "apotheken": {
             "apotheke": [
@@ -67,6 +67,25 @@
                     "latitude": "52.9144407",
                     "telefon": "+49 4242 933033",
                     "fax": "+49 4242 933034",
+                    "email": [],
+                    "startdatum": "30.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "31.05.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Storchen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1122",
+                    "apo_id": "aknds1122",
+                    "strasse": "Uphuser Heerstr. 35",
+                    "plz": "28832",
+                    "ort": "Achim",
+                    "distanz": "21.9515605273",
+                    "longitude": "8.9743033",
+                    "latitude": "53.0273012",
+                    "telefon": "+49 4202 910150",
+                    "fax": "+49 4202 910151",
                     "email": [],
                     "startdatum": "30.05.2025",
                     "startzeit": "09:00",
