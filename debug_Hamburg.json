@@ -3194,7 +3194,7 @@
             "anzahl": 19
         },
         "quota": {
-            "verwendet": "21310"
+            "verwendet": "23002"
         },
         "apotheken": {
             "apotheke": [
@@ -3408,6 +3408,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Apotheke Hittfeld",
+                    "kammer": "aknds",
+                    "id": "1416",
+                    "apo_id": "aknds1416",
+                    "strasse": "Kirchstr. 26",
+                    "plz": "21218",
+                    "ort": "Seevetal",
+                    "distanz": "18.385607291550002",
+                    "longitude": "9.9815255",
+                    "latitude": "53.3855388",
+                    "telefon": "+49 4105 2405",
+                    "fax": "+49 4105 2588",
+                    "email": [],
+                    "startdatum": "31.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "01.06.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Glocken-Apotheke",
                     "kammer": "aksh",
                     "id": "10589",
@@ -3482,25 +3501,6 @@
                     "startzeit": "08:00",
                     "enddatum": "01.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Luhe-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1510",
-                    "apo_id": "aknds1510",
-                    "strasse": "Bahnhofstr. 1",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "25.17002885461",
-                    "longitude": "10.2060052",
-                    "latitude": "53.3602785",
-                    "telefon": "+49 4171 4055",
-                    "fax": "+49 4171 64814",
-                    "email": [],
-                    "startdatum": "30.05.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "31.05.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Widder Apotheke-Moorrege",
