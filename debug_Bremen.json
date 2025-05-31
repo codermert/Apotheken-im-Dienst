@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 11
+            "anzahl": 13
         },
         "quota": {
-            "verwendet": "19188"
+            "verwendet": "21441"
         },
         "apotheken": {
             "apotheke": [
@@ -1348,22 +1348,41 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Andreas-Apotheke",
+                    "name": "Apotheke Bookholzberg",
                     "kammer": "aknds",
-                    "id": "1663",
-                    "apo_id": "aknds1663",
-                    "strasse": "Oldenburger Str. 25",
-                    "plz": "27753",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.683725943999999",
-                    "longitude": "8.6205462",
-                    "latitude": "53.0494339",
-                    "telefon": "+49 4221 150990",
-                    "fax": "+49 4221 120711",
+                    "id": "1752",
+                    "apo_id": "aknds1752",
+                    "strasse": "Stedinger Str. 63",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "12.15097528613",
+                    "longitude": "8.530713",
+                    "latitude": "53.0962681",
+                    "telefon": "+49 4223 3070",
+                    "fax": "+49 4223 1332",
                     "email": [],
-                    "startdatum": "30.05.2025",
+                    "startdatum": "31.05.2025",
                     "startzeit": "08:30",
-                    "enddatum": "31.05.2025",
+                    "enddatum": "01.06.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Süd Apotheke",
+                    "kammer": "aknds",
+                    "id": "1679",
+                    "apo_id": "aknds1679",
+                    "strasse": "Düsternortstr. 114",
+                    "plz": "27755",
+                    "ort": "Delmenhorst",
+                    "distanz": "12.97849030241",
+                    "longitude": "8.6395399",
+                    "latitude": "53.0328179",
+                    "telefon": "+49 4221 96630",
+                    "fax": "+49 4221 966320",
+                    "email": [],
+                    "startdatum": "31.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "01.06.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -1479,6 +1498,25 @@
                     "startzeit": "09:00",
                     "enddatum": "31.05.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Linden-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1794",
+                    "apo_id": "aknds1794",
+                    "strasse": "Lange Straße 13",
+                    "plz": "27243",
+                    "ort": "Harpstedt",
+                    "distanz": "27.27003655484",
+                    "longitude": "8.5873073",
+                    "latitude": "52.9082947",
+                    "telefon": "+49 4244 95144",
+                    "fax": "+49 4244 95146",
+                    "email": [],
+                    "startdatum": "31.05.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "01.06.2025",
+                    "endzeit": "08:30"
                 }
             ]
         }
