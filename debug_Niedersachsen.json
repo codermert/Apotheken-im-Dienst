@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "18647"
+            "verwendet": "19283"
         },
         "apotheken": {
             "apotheke": [
@@ -93,41 +93,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Bahnhof-Apotheke",
+                    "name": "Neue Apotheke",
                     "kammer": "aknds",
-                    "id": "953",
-                    "apo_id": "aknds953",
-                    "strasse": "Wilhelmstr. 19",
+                    "id": "958",
+                    "apo_id": "aknds958",
+                    "strasse": "Lange Straße 81",
                     "plz": "31582",
                     "ort": "Nienburg",
-                    "distanz": "23.71717046696",
-                    "longitude": "9.2136038",
-                    "latitude": "52.6437781",
-                    "telefon": "+49 5021 2232",
-                    "fax": "+49 5021 17681",
+                    "distanz": "23.840288223349997",
+                    "longitude": "9.2066251",
+                    "latitude": "52.6408368",
+                    "telefon": "+49 5021 97680",
+                    "fax": "+49 5021 976820",
                     "email": [],
-                    "startdatum": "30.05.2025",
+                    "startdatum": "31.05.2025",
                     "startzeit": "08:00",
-                    "enddatum": "31.05.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Stern-Apotheke",
-                    "kammer": "aknds",
-                    "id": "938",
-                    "apo_id": "aknds938",
-                    "strasse": "Sternstr. 1 B",
-                    "plz": "31618",
-                    "ort": "Liebenau",
-                    "distanz": "25.9555785569",
-                    "longitude": "9.0897493",
-                    "latitude": "52.6067599",
-                    "telefon": "+49 5023 94444",
-                    "fax": "+49 5023 94446",
-                    "email": [],
-                    "startdatum": "30.05.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "31.05.2025",
+                    "enddatum": "01.06.2025",
                     "endzeit": "08:00"
                 },
                 {

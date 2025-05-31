@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 10
+            "anzahl": 11
         },
         "quota": {
-            "verwendet": "18602"
+            "verwendet": "19188"
         },
         "apotheken": {
             "apotheke": [
@@ -1422,6 +1422,25 @@
                     "startzeit": "09:00",
                     "enddatum": "31.05.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Weser-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1634",
+                    "apo_id": "aknds1634",
+                    "strasse": "Bahnhofstr. 89",
+                    "plz": "26919",
+                    "ort": "Brake",
+                    "distanz": "25.43788224811",
+                    "longitude": "8.4778778",
+                    "latitude": "53.3334244",
+                    "telefon": "+49 4401 3595",
+                    "fax": "+49 4401 3091",
+                    "email": [],
+                    "startdatum": "31.05.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "01.06.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Hache-Apotheke",
