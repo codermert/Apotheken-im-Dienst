@@ -753,6 +753,14 @@
       "mesafe": "0.2 km"
     },
     {
+      "eczaneAdi": "Schweden Apotheke",
+      "adres": "Werdohler Str. 3, 17153 Reuterstadt Stavenhagen",
+      "telefon": "+49 39954 24850",
+      "enlem": "53.688362",
+      "boylam": "12.9150862",
+      "mesafe": "24.3 km"
+    },
+    {
       "eczaneAdi": "Apotheke am Wall",
       "adres": "Hageböcker Str. 19, 18273 Güstrow",
       "telefon": "+49 3843 684096",
@@ -775,6 +783,14 @@
       "enlem": "53.90266",
       "boylam": "13.04724",
       "mesafe": "34.2 km"
+    },
+    {
+      "eczaneAdi": "Buchen-Apotheke",
+      "adres": "Friedrich-von-Flotow-Ring 15, 18190 Sanitz",
+      "telefon": "+49 38209 490016",
+      "enlem": "54.0779007",
+      "boylam": "12.3834443",
+      "mesafe": "36.2 km"
     },
     {
       "eczaneAdi": "Apotheke im Globus",
@@ -1023,7 +1039,56 @@
       "mesafe": "27.2 km"
     }
   ],
-  "Sachsen": [],
+  "Sachsen": [
+    {
+      "eczaneAdi": "Park-Apotheke",
+      "adres": "Parkstraße 2, 09599 Freiberg",
+      "telefon": "+49 3731 31803",
+      "enlem": "50.91951",
+      "boylam": "13.33558",
+      "mesafe": "8.7 km"
+    },
+    {
+      "eczaneAdi": "Sidonien-Apotheke",
+      "adres": "Roßmäßlerstraße 32, 01737 Tharandt",
+      "telefon": "+49 35203 37436",
+      "enlem": "50.98647",
+      "boylam": "13.57952",
+      "mesafe": "10.6 km"
+    },
+    {
+      "eczaneAdi": "Medic-Apotheke im Elbepark",
+      "adres": "Peschelstraße 33, 01139 Dresden",
+      "telefon": "+49 351 8497263",
+      "enlem": "51.0850192",
+      "boylam": "13.6962112",
+      "mesafe": "24.0 km"
+    },
+    {
+      "eczaneAdi": "Stadtwald-Apotheke Meißen",
+      "adres": "Schützestraße 1, 01662 Meißen",
+      "telefon": "+49 3521 45000",
+      "enlem": "51.1500561",
+      "boylam": "13.4582021",
+      "mesafe": "24.5 km"
+    },
+    {
+      "eczaneAdi": "Die Apotheke im Stadtteilzentrum Prohlis",
+      "adres": "Jacob-Winter-Platz 13, 01239 Dresden",
+      "telefon": "+49 351 2850868",
+      "enlem": "51.00635",
+      "boylam": "13.79677",
+      "mesafe": "25.2 km"
+    },
+    {
+      "eczaneAdi": "Lilien-Apotheke",
+      "adres": "Pfotenhauerstraße 55, 01307 Dresden",
+      "telefon": "+49 351 440890",
+      "enlem": "51.05765",
+      "boylam": "13.77133",
+      "mesafe": "26.2 km"
+    }
+  ],
   "Sachsen-Anhalt": [
     {
       "eczaneAdi": "Kosmos Apotheke Schönebeck",
