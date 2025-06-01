@@ -28,30 +28,49 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "89707"
+            "verwendet": "100502"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Löns-Apotheke im Facharztzentrum Verden",
+                    "name": "Bären-Apotheke",
                     "kammer": "aknds",
-                    "id": "6316",
-                    "apo_id": "aknds6316",
-                    "strasse": "Eitzer Straße 18",
-                    "plz": "27283",
-                    "ort": "Verden",
-                    "distanz": "13.45365715047",
-                    "longitude": "9.2327234",
-                    "latitude": "52.9148243",
-                    "telefon": "+49 4231 6773690",
-                    "fax": "+49 4231 6773691",
+                    "id": "884",
+                    "apo_id": "aknds884",
+                    "strasse": "Lange Straße 51",
+                    "plz": "27318",
+                    "ort": "Hoya",
+                    "distanz": "5.6557882967",
+                    "longitude": "9.1375017",
+                    "latitude": "52.8053089",
+                    "telefon": "+49 4251 2244",
+                    "fax": "+49 4251 1888",
                     "email": [],
-                    "startdatum": "31.05.2025",
+                    "startdatum": "01.06.2025",
                     "startzeit": "09:00",
-                    "enddatum": "01.06.2025",
+                    "enddatum": "02.06.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Weser-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1121",
+                    "apo_id": "aknds1121",
+                    "strasse": "Verdener Str. 157",
+                    "plz": "28832",
+                    "ort": "Achim",
+                    "distanz": "17.63445844252",
+                    "longitude": "9.080738",
+                    "latitude": "52.9982893",
+                    "telefon": "+49 4202 979197",
+                    "fax": "+49 4202 76104",
+                    "email": [],
+                    "startdatum": "01.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "02.06.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -74,22 +93,22 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Alte Apotheke",
+                    "name": "Geest-Apotheke",
                     "kammer": "aknds",
-                    "id": "1116",
-                    "apo_id": "aknds1116",
-                    "strasse": "Obernstraße 5",
-                    "plz": "28832",
-                    "ort": "Achim",
-                    "distanz": "19.46752993261",
-                    "longitude": "9.0310955",
-                    "latitude": "53.0126733",
-                    "telefon": "+49 4202 8999",
-                    "fax": "+49 4202 84361",
+                    "id": "1299",
+                    "apo_id": "aknds1299",
+                    "strasse": "Hauptstr. 46",
+                    "plz": "27308",
+                    "ort": "Kirchlinteln",
+                    "distanz": "20.193234036369997",
+                    "longitude": "9.3244272",
+                    "latitude": "52.9415565",
+                    "telefon": "+49 4236 777",
+                    "fax": "+49 4236 8138",
                     "email": [],
-                    "startdatum": "31.05.2025",
+                    "startdatum": "01.06.2025",
                     "startzeit": "09:00",
-                    "enddatum": "01.06.2025",
+                    "enddatum": "02.06.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -112,22 +131,22 @@
                     "endzeit": "08:30"
                 },
                 {
-                    "name": "Ost-Apotheke",
+                    "name": "St. Gotthard Apotheke",
                     "kammer": "akbr",
-                    "id": "10130",
-                    "apo_id": "akbr10130",
-                    "strasse": "Osterholzer Heerstr. 162 A",
+                    "id": "10170",
+                    "apo_id": "akbr10170",
+                    "strasse": "St.-Gotthard-Str. 3",
                     "plz": "28325",
                     "ort": "Bremen",
-                    "distanz": "25.78059575878",
-                    "longitude": "8.9480451",
-                    "latitude": "53.0582519",
-                    "telefon": "+49 421 420244",
+                    "distanz": "26.35562864546",
+                    "longitude": "8.950001",
+                    "latitude": "53.0641313",
+                    "telefon": "+49 421 422024",
                     "fax": [],
                     "email": [],
-                    "startdatum": "31.05.2025",
+                    "startdatum": "01.06.2025",
                     "startzeit": "09:00",
-                    "enddatum": "01.06.2025",
+                    "enddatum": "02.06.2025",
                     "endzeit": "09:00"
                 }
             ]

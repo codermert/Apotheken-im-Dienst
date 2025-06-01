@@ -31,7 +31,7 @@
             "anzahl": 9
         },
         "quota": {
-            "verwendet": "89408"
+            "verwendet": "100245"
         },
         "apotheken": {
             "apotheke": [
@@ -112,25 +112,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Buchen-Apotheke",
-                    "kammer": "akmv",
-                    "id": "178298",
-                    "apo_id": "akmv178298",
-                    "strasse": "Friedrich-von-Flotow-Ring 15",
-                    "plz": "18190",
-                    "ort": "Sanitz",
-                    "distanz": "36.15413585038",
-                    "longitude": "12.3834443",
-                    "latitude": "54.0779007",
-                    "telefon": "+49 38209 490016",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "01.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "01.06.2025",
-                    "endzeit": "09:00"
-                },
-                {
                     "name": "Recknitztal-Apotheke",
                     "kammer": "akmv",
                     "id": "170172",
@@ -148,6 +129,25 @@
                     "startzeit": "08:30",
                     "enddatum": "01.06.2025",
                     "endzeit": "09:30"
+                },
+                {
+                    "name": "Linden-Apotheke",
+                    "kammer": "akmv",
+                    "id": "172790",
+                    "apo_id": "akmv172790",
+                    "strasse": "Lange Str. 112",
+                    "plz": "19399",
+                    "ort": "Goldberg",
+                    "distanz": "38.323545404949996",
+                    "longitude": "12.0878761",
+                    "latitude": "53.5871235",
+                    "telefon": "+49 38736 40314",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "01.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "01.06.2025",
+                    "endzeit": "10:00"
                 },
                 {
                     "name": "Apotheke im Globus",
