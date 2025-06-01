@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 37
+            "anzahl": 33
         },
         "quota": {
-            "verwendet": "50997"
+            "verwendet": "64064"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,25 +5762,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Steinbock Apotheke Schildow",
-                    "kammer": "lakbb",
-                    "id": "653",
-                    "apo_id": "lakbb653",
-                    "strasse": "Bahnhofstraße 5b",
-                    "plz": "16552",
-                    "ort": "Mühlenbecker Land - OT Schildow",
-                    "distanz": "13.35524852805",
-                    "longitude": "13.3749982",
-                    "latitude": "52.6367557",
-                    "telefon": "+49 33056 270004",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "31.05.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "01.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Tempelritter-Apotheke",
                     "kammer": "akb",
                     "id": "100903",
@@ -5792,6 +5773,25 @@
                     "longitude": "13.4066473",
                     "latitude": "52.386455",
                     "telefon": "+49 30 76403454",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "31.05.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "01.06.2025",
+                    "endzeit": "08:59"
+                },
+                {
+                    "name": "Süd-Apotheke",
+                    "kammer": "akb",
+                    "id": "100688",
+                    "apo_id": "akb100688",
+                    "strasse": "Ladiusstr. 31",
+                    "plz": "14165",
+                    "ort": "Berlin",
+                    "distanz": "14.64434021579",
+                    "longitude": "13.261733",
+                    "latitude": "52.4107801",
+                    "telefon": "+49 30 8153248",
                     "fax": [],
                     "email": [],
                     "startdatum": "31.05.2025",

@@ -31,7 +31,7 @@
             "anzahl": 4
         },
         "quota": {
-            "verwendet": "52777"
+            "verwendet": "65815"
         },
         "apotheken": {
             "apotheke": [
@@ -55,6 +55,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Burg-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1023",
+                    "apo_id": "aknds1023",
+                    "strasse": "Mühlenstr. 16",
+                    "plz": "27254",
+                    "ort": "Siedenburg",
+                    "distanz": "18.709256427939998",
+                    "longitude": "8.9405518",
+                    "latitude": "52.6931561",
+                    "telefon": "+49 4272 1415",
+                    "fax": "+49 4272 1895",
+                    "email": [],
+                    "startdatum": "01.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "02.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Alte Apotheke",
                     "kammer": "aknds",
                     "id": "1116",
@@ -72,25 +91,6 @@
                     "startzeit": "09:00",
                     "enddatum": "01.06.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Neue Apotheke",
-                    "kammer": "aknds",
-                    "id": "958",
-                    "apo_id": "aknds958",
-                    "strasse": "Lange Straße 81",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "23.840288223349997",
-                    "longitude": "9.2066251",
-                    "latitude": "52.6408368",
-                    "telefon": "+49 5021 97680",
-                    "fax": "+49 5021 976820",
-                    "email": [],
-                    "startdatum": "31.05.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "01.06.2025",
-                    "endzeit": "08:00"
                 },
                 {
                     "name": "Ost-Apotheke",
