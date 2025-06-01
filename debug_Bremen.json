@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 12
+            "anzahl": 11
         },
         "quota": {
-            "verwendet": "65286"
+            "verwendet": "82177"
         },
         "apotheken": {
             "apotheke": [
@@ -1367,41 +1367,41 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke Bookholzberg",
+                    "name": "Apotheke am Markt",
                     "kammer": "aknds",
-                    "id": "1752",
-                    "apo_id": "aknds1752",
-                    "strasse": "Stedinger Str. 63",
-                    "plz": "27777",
-                    "ort": "Ganderkesee",
-                    "distanz": "12.15097528613",
-                    "longitude": "8.530713",
-                    "latitude": "53.0962681",
-                    "telefon": "+49 4223 3070",
-                    "fax": "+49 4223 1332",
+                    "id": "1672",
+                    "apo_id": "aknds1672",
+                    "strasse": "Lange Str. 103",
+                    "plz": "27749",
+                    "ort": "Delmenhorst",
+                    "distanz": "11.52589507321",
+                    "longitude": "8.6294854",
+                    "latitude": "53.0486716",
+                    "telefon": "+49 4221 13739",
+                    "fax": "+49 4221 13759",
                     "email": [],
-                    "startdatum": "31.05.2025",
+                    "startdatum": "01.06.2025",
                     "startzeit": "08:30",
-                    "enddatum": "01.06.2025",
+                    "enddatum": "02.06.2025",
                     "endzeit": "08:30"
                 },
                 {
-                    "name": "Süd Apotheke",
+                    "name": "Flores-Apotheke",
                     "kammer": "aknds",
-                    "id": "1679",
-                    "apo_id": "aknds1679",
-                    "strasse": "Düsternortstr. 114",
-                    "plz": "27755",
-                    "ort": "Delmenhorst",
-                    "distanz": "12.97849030241",
-                    "longitude": "8.6395399",
-                    "latitude": "53.0328179",
-                    "telefon": "+49 4221 96630",
-                    "fax": "+49 4221 966320",
+                    "id": "1817",
+                    "apo_id": "aknds1817",
+                    "strasse": "Parkstr. 47",
+                    "plz": "27798",
+                    "ort": "Hude",
+                    "distanz": "16.22079185705",
+                    "longitude": "8.4566718",
+                    "latitude": "53.1132591",
+                    "telefon": "+49 4408 6363",
+                    "fax": "+49 4408 970631",
                     "email": [],
-                    "startdatum": "31.05.2025",
+                    "startdatum": "01.06.2025",
                     "startzeit": "08:30",
-                    "enddatum": "01.06.2025",
+                    "enddatum": "02.06.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -1479,25 +1479,6 @@
                     "startzeit": "09:00",
                     "enddatum": "01.06.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Linden-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1794",
-                    "apo_id": "aknds1794",
-                    "strasse": "Lange Straße 13",
-                    "plz": "27243",
-                    "ort": "Harpstedt",
-                    "distanz": "27.27003655484",
-                    "longitude": "8.5873073",
-                    "latitude": "52.9082947",
-                    "telefon": "+49 4244 95144",
-                    "fax": "+49 4244 95146",
-                    "email": [],
-                    "startdatum": "31.05.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "01.06.2025",
-                    "endzeit": "08:30"
                 }
             ]
         }
