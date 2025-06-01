@@ -753,28 +753,60 @@
       "mesafe": "0.2 km"
     },
     {
-      "eczaneAdi": "Recknitztal-Apotheke",
-      "adres": "Breesener Str. 37, 18299 Laage",
-      "telefon": "+49 38459 36235",
-      "enlem": "53.9277616",
-      "boylam": "12.3460061",
-      "mesafe": "22.9 km"
-    },
-    {
-      "eczaneAdi": "Schloss-Apotheke",
-      "adres": "Schlossstraße 23, 17159 Dargun",
-      "telefon": "+49 39959 337177",
-      "enlem": "53.8985743",
-      "boylam": "12.8515406",
-      "mesafe": "22.9 km"
-    },
-    {
       "eczaneAdi": "Apotheke am Wall",
       "adres": "Hageböcker Str. 19, 18273 Güstrow",
       "telefon": "+49 3843 684096",
       "enlem": "53.7934156",
       "boylam": "12.1714502",
       "mesafe": "26.7 km"
+    },
+    {
+      "eczaneAdi": "Linden-Apotheke",
+      "adres": "Goethestr. 48-51, 17192 Waren",
+      "telefon": "+49 3991 731932",
+      "enlem": "53.5188383",
+      "boylam": "12.677138",
+      "mesafe": "29.1 km"
+    },
+    {
+      "eczaneAdi": "Pommern-Apotheke",
+      "adres": "Adolf-Pompe-Str. 24, 17109 Demmin",
+      "telefon": "+49 3998 362366",
+      "enlem": "53.90266",
+      "boylam": "13.04724",
+      "mesafe": "34.2 km"
+    },
+    {
+      "eczaneAdi": "Recknitztal-Apotheke",
+      "adres": "Am Markt 15, 18334 Bad Sülze",
+      "telefon": "+49 38229 7020",
+      "enlem": "54.1101836",
+      "boylam": "12.660129",
+      "mesafe": "37.9 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Globus",
+      "adres": "Globusring 1, 18184 Roggentin",
+      "telefon": "+49 38204 15343",
+      "enlem": "54.0753978",
+      "boylam": "12.2013015",
+      "mesafe": "41.6 km"
+    },
+    {
+      "eczaneAdi": "Bernstein-Apotheke",
+      "adres": "H.-Sachs-Allee 12, 18057 Rostock",
+      "telefon": "+49 381 4923434",
+      "enlem": "54.0894693",
+      "boylam": "12.0966982",
+      "mesafe": "47.2 km"
+    },
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Mühlenstr. 2, 18507 Grimmen",
+      "telefon": "+49 38326 2390",
+      "enlem": "54.1126491",
+      "boylam": "13.0424136",
+      "mesafe": "48.6 km"
     }
   ],
   "Niedersachsen": [
@@ -827,7 +859,64 @@
       "mesafe": "26.4 km"
     }
   ],
-  "Rheinland-Pfalz": [],
+  "Rheinland-Pfalz": [
+    {
+      "eczaneAdi": "Hunsrück-Apotheke",
+      "adres": "Bingener Str. 23 a, 55469 Simmern",
+      "telefon": "+49 6761 964141",
+      "enlem": "49.98486",
+      "boylam": "7.53232",
+      "mesafe": "16.3 km"
+    },
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Hauptstr. 19, 55756 Herrstein",
+      "telefon": "+49 6785 382",
+      "enlem": "49.77902",
+      "boylam": "7.33788",
+      "mesafe": "19.5 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Vitelliuspark OHG",
+      "adres": "Klausener Weg 29a, 54516 Wittlich",
+      "telefon": "+49 6571 956160",
+      "enlem": "49.976621",
+      "boylam": "6.8852252",
+      "mesafe": "30.6 km"
+    },
+    {
+      "eczaneAdi": "Mohren-Apotheke",
+      "adres": "Marktplatz 2, 55590 Meisenheim",
+      "telefon": "+49 6753 12460",
+      "enlem": "49.70683",
+      "boylam": "7.67158",
+      "mesafe": "37.7 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Mönchberg Winzenheim",
+      "adres": "Breiter Weg 2, 55545 Bad Kreuznach",
+      "telefon": "+49 671 2361",
+      "enlem": "49.86775",
+      "boylam": "7.86534",
+      "mesafe": "41.0 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Ring",
+      "adres": "Habsburgring 87, 56727 Mayen",
+      "telefon": "+49 2651 74256",
+      "enlem": "50.3290862",
+      "boylam": "7.2189526",
+      "mesafe": "42.3 km"
+    },
+    {
+      "eczaneAdi": "Remigius-Apotheke",
+      "adres": "Herrensteg 13, 54421 Reinsfeld",
+      "telefon": "+49 6503 7280",
+      "enlem": "49.6770035",
+      "boylam": "6.8768246",
+      "mesafe": "43.8 km"
+    }
+  ],
   "Saarland": [
     {
       "eczaneAdi": "Laurentius-Apotheke",
