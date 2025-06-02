@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "14717"
+            "verwendet": "16968"
         },
         "apotheken": {
             "apotheke": [
@@ -74,25 +74,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Burg-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1023",
-                    "apo_id": "aknds1023",
-                    "strasse": "Mühlenstr. 16",
-                    "plz": "27254",
-                    "ort": "Siedenburg",
-                    "distanz": "18.709256427939998",
-                    "longitude": "8.9405518",
-                    "latitude": "52.6931561",
-                    "telefon": "+49 4272 1415",
-                    "fax": "+49 4272 1895",
-                    "email": [],
-                    "startdatum": "01.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "02.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Geest-Apotheke",
                     "kammer": "aknds",
                     "id": "1299",
@@ -112,23 +93,23 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Lindenmarkt-Apotheke",
+                    "name": "Uhlen Apotheke",
                     "kammer": "aknds",
-                    "id": "526",
-                    "apo_id": "aknds526",
-                    "strasse": "Bahnhofstr. 19",
-                    "plz": "27211",
-                    "ort": "Bassum",
-                    "distanz": "23.056425296969998",
-                    "longitude": "8.7339866",
-                    "latitude": "52.8471314",
-                    "telefon": "+49 4241 922422",
-                    "fax": "+49 4241 922424",
+                    "id": "941",
+                    "apo_id": "aknds941",
+                    "strasse": "Rathausstr. 2",
+                    "plz": "31608",
+                    "ort": "Marklohe",
+                    "distanz": "20.764561643180002",
+                    "longitude": "9.1586733",
+                    "latitude": "52.6601345",
+                    "telefon": "+49 5021 15025",
+                    "fax": "+49 5021 910838",
                     "email": [],
-                    "startdatum": "01.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "02.06.2025",
-                    "endzeit": "08:30"
+                    "startdatum": "02.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "03.06.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "St. Gotthard Apotheke",

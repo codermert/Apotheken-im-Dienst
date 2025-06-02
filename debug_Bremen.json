@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "14609"
+            "verwendet": "16887"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,6 +1310,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Spitzweg Apotheke (im Kaufland)",
+                    "kammer": "aknds",
+                    "id": "1684",
+                    "apo_id": "aknds1684",
+                    "strasse": "Stedinger Str. 101",
+                    "plz": "27753",
+                    "ort": "Delmenhorst",
+                    "distanz": "10.20032902012",
+                    "longitude": "8.6305287",
+                    "latitude": "53.0613418",
+                    "telefon": "+49 4221 588225",
+                    "fax": "+49 4221 588224",
+                    "email": [],
+                    "startdatum": "02.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "03.06.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Apotheke am Bahnhof",
                     "kammer": "aknds",
                     "id": "4638",
@@ -1327,25 +1346,6 @@
                     "startzeit": "09:00",
                     "enddatum": "02.06.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Apotheke am Markt",
-                    "kammer": "aknds",
-                    "id": "1672",
-                    "apo_id": "aknds1672",
-                    "strasse": "Lange Str. 103",
-                    "plz": "27749",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.52589507321",
-                    "longitude": "8.6294854",
-                    "latitude": "53.0486716",
-                    "telefon": "+49 4221 13739",
-                    "fax": "+49 4221 13759",
-                    "email": [],
-                    "startdatum": "01.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "02.06.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Apotheke im Marktkauf Brinkum",
@@ -1367,23 +1367,23 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Flores-Apotheke",
+                    "name": "Ring-Apotheke",
                     "kammer": "aknds",
-                    "id": "1817",
-                    "apo_id": "aknds1817",
-                    "strasse": "Parkstr. 47",
-                    "plz": "27798",
-                    "ort": "Hude",
-                    "distanz": "16.22079185705",
-                    "longitude": "8.4566718",
-                    "latitude": "53.1132591",
-                    "telefon": "+49 4408 6363",
-                    "fax": "+49 4408 970631",
+                    "id": "1749",
+                    "apo_id": "aknds1749",
+                    "strasse": "Ring 26",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.89569036873",
+                    "longitude": "8.5473054",
+                    "latitude": "53.03225",
+                    "telefon": "+49 4222 950288",
+                    "fax": "+49 4222 950290",
                     "email": [],
-                    "startdatum": "01.06.2025",
+                    "startdatum": "02.06.2025",
                     "startzeit": "08:30",
                     "enddatum": "02.06.2025",
-                    "endzeit": "08:30"
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "St. Gotthard Apotheke",
@@ -1403,6 +1403,25 @@
                     "startzeit": "09:00",
                     "enddatum": "02.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "St. Bernhard-Apotheke",
+                    "kammer": "aknds",
+                    "id": "5989",
+                    "apo_id": "aknds5989",
+                    "strasse": "Claußenstraße 4",
+                    "plz": "26919",
+                    "ort": "Brake",
+                    "distanz": "24.4689226542",
+                    "longitude": "8.4831568",
+                    "latitude": "53.325019",
+                    "telefon": "+49 4401 7057730",
+                    "fax": "+49 4401 7057731",
+                    "email": [],
+                    "startdatum": "02.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "03.06.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }
