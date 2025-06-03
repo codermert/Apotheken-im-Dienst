@@ -1267,7 +1267,7 @@
             "anzahl": 9
         },
         "quota": {
-            "verwendet": "14695"
+            "verwendet": "15610"
         },
         "apotheken": {
             "apotheke": [
@@ -1405,25 +1405,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "St. Bernhard-Apotheke",
-                    "kammer": "aknds",
-                    "id": "5989",
-                    "apo_id": "aknds5989",
-                    "strasse": "Claußenstraße 4",
-                    "plz": "26919",
-                    "ort": "Brake",
-                    "distanz": "24.4689226542",
-                    "longitude": "8.4831568",
-                    "latitude": "53.325019",
-                    "telefon": "+49 4401 7057730",
-                    "fax": "+49 4401 7057731",
-                    "email": [],
-                    "startdatum": "02.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "03.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Schloss Apotheke Syke am famila",
                     "kammer": "aknds",
                     "id": "6230",
@@ -1441,6 +1422,25 @@
                     "startzeit": "09:00",
                     "enddatum": "03.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Geest-Apotheke",
+                    "kammer": "aknds",
+                    "id": "2286",
+                    "apo_id": "aknds2286",
+                    "strasse": "Hauptstr. 20",
+                    "plz": "27801",
+                    "ort": "Dötlingen",
+                    "distanz": "27.3859458544",
+                    "longitude": "8.3978022",
+                    "latitude": "52.9749282",
+                    "telefon": "+49 4432 94233",
+                    "fax": "+49 4432 94234",
+                    "email": [],
+                    "startdatum": "03.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "04.06.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }
