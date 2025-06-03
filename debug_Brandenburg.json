@@ -541,10 +541,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 4
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "16834"
+            "verwendet": "17328"
         },
         "apotheken": {
             "apotheke": [
@@ -623,6 +623,25 @@
                     "startzeit": "08:00",
                     "enddatum": "04.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Titisee-Apotheke",
+                    "kammer": "akb",
+                    "id": "100775",
+                    "apo_id": "akb100775",
+                    "strasse": "Titiseestr. 5",
+                    "plz": "13469",
+                    "ort": "Berlin",
+                    "distanz": "27.01294515646",
+                    "longitude": "13.3356876",
+                    "latitude": "52.6089716",
+                    "telefon": "+49 30 4022980",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "03.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "04.06.2025",
+                    "endzeit": "08:59"
                 }
             ]
         }
