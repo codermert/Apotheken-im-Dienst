@@ -1,5 +1,206 @@
 {
-  "Berlin": [],
+  "Berlin": [
+    {
+      "eczaneAdi": "Panorama-Apotheke",
+      "adres": "Panoramastr. 1, 10178 Berlin",
+      "telefon": "+49 30 24720707",
+      "enlem": "52.5215802",
+      "boylam": "13.4098176",
+      "mesafe": "1.5 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Berlin Hauptbahnhof",
+      "adres": "Europaplatz 1, 10557 Berlin",
+      "telefon": "+49 30 20614190",
+      "enlem": "52.5249111",
+      "boylam": "13.369492",
+      "mesafe": "1.6 km"
+    },
+    {
+      "eczaneAdi": "Zieten-Apotheke",
+      "adres": "Großbeerenstr. 11, 10963 Berlin",
+      "telefon": "+49 30 5471690",
+      "enlem": "52.4981619",
+      "boylam": "13.3847268",
+      "mesafe": "2.1 km"
+    },
+    {
+      "eczaneAdi": "Bahnhof Apotheke Friedrichshain",
+      "adres": "Am Ostbahnhof 5, 10243 Berlin",
+      "telefon": "+49 30 2936366",
+      "enlem": "52.510149",
+      "boylam": "13.433638",
+      "mesafe": "3.1 km"
+    },
+    {
+      "eczaneAdi": "Mozart-Apotheke",
+      "adres": "Wiener Str. 18, 10999 Berlin",
+      "telefon": "+49 30 6123337",
+      "enlem": "52.4976829",
+      "boylam": "13.4306338",
+      "mesafe": "3.6 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Nauener Platz",
+      "adres": "Reinickendorfer Str. 73, 13347 Berlin",
+      "telefon": "+49 30 4552364",
+      "enlem": "52.55161",
+      "boylam": "13.3668",
+      "mesafe": "4.1 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Bayerischen Platz",
+      "adres": "Bayerischer Platz 6, 10779 Berlin",
+      "telefon": "+49 30 2182765",
+      "enlem": "52.488694",
+      "boylam": "13.3389948",
+      "mesafe": "4.6 km"
+    },
+    {
+      "eczaneAdi": "Bartels-Apotheke",
+      "adres": "Berliner Str. 91, 13189 Berlin",
+      "telefon": "+49 30 4729108",
+      "enlem": "52.5586319",
+      "boylam": "13.4138984",
+      "mesafe": "4.9 km"
+    },
+    {
+      "eczaneAdi": "Ulrich-Apotheke",
+      "adres": "Hermannstr. 61-62, 12049 Berlin",
+      "telefon": "+49 30 62709373",
+      "enlem": "52.47588",
+      "boylam": "13.42641",
+      "mesafe": "5.2 km"
+    },
+    {
+      "eczaneAdi": "Leibniz Apotheke Berlin",
+      "adres": "Kantstr. 130 B, 10625 Berlin",
+      "telefon": "+49 30 3138000",
+      "enlem": "52.5061234",
+      "boylam": "13.313524",
+      "mesafe": "5.3 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Mierendorffplatz",
+      "adres": "Mierendorffplatz 12, 10589 Berlin",
+      "telefon": "+49 30 34670800",
+      "enlem": "52.52543",
+      "boylam": "13.30506",
+      "mesafe": "5.8 km"
+    },
+    {
+      "eczaneAdi": "Burger-Apotheke",
+      "adres": "Bundesallee 92, 12161 Berlin",
+      "telefon": "+49 30 8516305",
+      "enlem": "52.4672778",
+      "boylam": "13.3278997",
+      "mesafe": "6.9 km"
+    },
+    {
+      "eczaneAdi": "Oskar Ziethen Apotheke",
+      "adres": "Frankfurter Allee 231 A, 10365 Berlin",
+      "telefon": "+49 30 5779886",
+      "enlem": "52.512728",
+      "boylam": "13.495787",
+      "mesafe": "7.3 km"
+    },
+    {
+      "eczaneAdi": "Luisen-Apotheke",
+      "adres": "Britzer Damm 107, 12347 Berlin",
+      "telefon": "+49 30 6008640",
+      "enlem": "52.4533823",
+      "boylam": "13.4386388",
+      "mesafe": "7.8 km"
+    },
+    {
+      "eczaneAdi": "Adler Apotheke",
+      "adres": "Konrad-Wolf-Str. 132, 13055 Berlin",
+      "telefon": "+49 30 9864057",
+      "enlem": "52.54635",
+      "boylam": "13.49744",
+      "mesafe": "8.1 km"
+    },
+    {
+      "eczaneAdi": "Grüne Apotheke Schmargendorf",
+      "adres": "Berkaer Str. 41/42, 14199 Berlin",
+      "telefon": "+49 30 53605993",
+      "enlem": "52.47635",
+      "boylam": "13.289",
+      "mesafe": "8.2 km"
+    },
+    {
+      "eczaneAdi": "Oran-Apotheke",
+      "adres": "Oranienburger Str. 60, 13437 Berlin",
+      "telefon": "+49 30 4140990",
+      "enlem": "52.5893814",
+      "boylam": "13.3346613",
+      "mesafe": "8.9 km"
+    },
+    {
+      "eczaneAdi": "Apotheke zum Stift",
+      "adres": "Mariendorfer Damm 189 A, 12107 Berlin",
+      "telefon": "+49 30 7067799",
+      "enlem": "52.4352486",
+      "boylam": "13.3898291",
+      "mesafe": "9.1 km"
+    },
+    {
+      "eczaneAdi": "Falken-Apotheke",
+      "adres": "Edisonstr. 18/Griechische Allee 2, 12459 Berlin",
+      "telefon": "+49 30 5351125",
+      "enlem": "52.4644171",
+      "boylam": "13.5138662",
+      "mesafe": "10.3 km"
+    },
+    {
+      "eczaneAdi": "VitaCura-Apotheke",
+      "adres": "Marchwitzastr.29 B, 12681 Berlin",
+      "telefon": "+49 30 54983502",
+      "enlem": "52.5238595",
+      "boylam": "13.5434381",
+      "mesafe": "10.5 km"
+    },
+    {
+      "eczaneAdi": "Linden-Apotheke Lichterfelde",
+      "adres": "Lindenstr. 1 A, 12207 Berlin",
+      "telefon": "+49 30 7123550",
+      "enlem": "52.4175679",
+      "boylam": "13.3055081",
+      "mesafe": "12.4 km"
+    },
+    {
+      "eczaneAdi": "Pichelsdorf-Apotheke",
+      "adres": "Pichelsdorfer Str. 120, 13595 Berlin",
+      "telefon": "+49 30 3322007",
+      "enlem": "52.5254739",
+      "boylam": "13.1971735",
+      "mesafe": "13.0 km"
+    },
+    {
+      "eczaneAdi": "Storchen-Apotheke",
+      "adres": "Schulzendorfer Str. 70, 13503 Berlin",
+      "telefon": "+49 30 4313204",
+      "enlem": "52.612798",
+      "boylam": "13.2314553",
+      "mesafe": "15.1 km"
+    },
+    {
+      "eczaneAdi": "Fliesstal-Apotheke",
+      "adres": "Hauptstraße 32, 16552 Mühlenbecker Land - OT Schildow",
+      "telefon": "+49 33056 75260",
+      "enlem": "52.65303",
+      "boylam": "13.38232",
+      "mesafe": "15.1 km"
+    },
+    {
+      "eczaneAdi": "easyApotheke Teltow",
+      "adres": "Lichterfelder Allee 7, 14513 Teltow",
+      "telefon": "+49 3328 3515170",
+      "enlem": "52.40132",
+      "boylam": "13.27066",
+      "mesafe": "15.2 km"
+    }
+  ],
   "Nordrhein-Westfalen": [
     {
       "eczaneAdi": "Mohren-Apotheke",
