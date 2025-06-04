@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 32
+            "anzahl": 35
         },
         "quota": {
-            "verwendet": "17392"
+            "verwendet": "18580"
         },
         "apotheken": {
             "apotheke": [
@@ -5705,6 +5705,44 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Fliesstal-Apotheke",
+                    "kammer": "lakbb",
+                    "id": "498",
+                    "apo_id": "lakbb498",
+                    "strasse": "Hauptstraße 32",
+                    "plz": "16552",
+                    "ort": "Mühlenbecker Land - OT Schildow",
+                    "distanz": "15.13963517817",
+                    "longitude": "13.38232",
+                    "latitude": "52.65303",
+                    "telefon": "+49 33056 75260",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "04.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "05.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "easyApotheke Teltow",
+                    "kammer": "lakbb",
+                    "id": "619",
+                    "apo_id": "lakbb619",
+                    "strasse": "Lichterfelder Allee 7",
+                    "plz": "14513",
+                    "ort": "Teltow",
+                    "distanz": "15.1774610024",
+                    "longitude": "13.27066",
+                    "latitude": "52.40132",
+                    "telefon": "+49 3328 3515170",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "04.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "05.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Sonnenhut Apotheke",
                     "kammer": "akb",
                     "id": "100669",
@@ -5743,60 +5781,22 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Heine-Apotheke",
+                    "name": "Regenbogen Apotheke",
                     "kammer": "lakbb",
-                    "id": "385",
-                    "apo_id": "lakbb385",
-                    "strasse": "Bahnhofstraße 83",
-                    "plz": "16341",
-                    "ort": "Panketal",
-                    "distanz": "17.117794892499997",
-                    "longitude": "13.5165561",
-                    "latitude": "52.6497512",
-                    "telefon": "+49 30 94417813",
+                    "id": "455",
+                    "apo_id": "lakbb455",
+                    "strasse": "Spandauer Straße 144",
+                    "plz": "14612",
+                    "ort": "Falkensee",
+                    "distanz": "18.040477290160002",
+                    "longitude": "13.1322088",
+                    "latitude": "52.5593855",
+                    "telefon": "+49 3322 22686",
                     "fax": [],
                     "email": [],
-                    "startdatum": "03.06.2025",
+                    "startdatum": "04.06.2025",
                     "startzeit": "08:00",
-                    "enddatum": "04.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "avitario-Apotheke",
-                    "kammer": "lakbb",
-                    "id": "622",
-                    "apo_id": "lakbb622",
-                    "strasse": "Neuendorfstraße 22 a",
-                    "plz": "16761",
-                    "ort": "Hennigsdorf",
-                    "distanz": "17.87995052917",
-                    "longitude": "13.20815",
-                    "latitude": "52.63407",
-                    "telefon": "+49 3302 801477",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "03.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "04.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Apotheke Stahnsdorf",
-                    "kammer": "lakbb",
-                    "id": "4",
-                    "apo_id": "lakbb4",
-                    "strasse": "Wannseestraße 10",
-                    "plz": "14532",
-                    "ort": "Stahnsdorf",
-                    "distanz": "18.245439241579998",
-                    "longitude": "13.212113",
-                    "latitude": "52.3936426",
-                    "telefon": "03329  / 621 84",
-                    "fax": "03329  / 614 820",
-                    "email": "team@apotheke-stahnsdorf.de",
-                    "startdatum": "03.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "04.06.2025",
+                    "enddatum": "05.06.2025",
                     "endzeit": "08:00"
                 }
             ]
