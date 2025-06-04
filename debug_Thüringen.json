@@ -37,27 +37,46 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "20307"
+            "verwendet": "20977"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Apotheke am Dom",
+                    "name": "Melchendorfer Apotheke",
                     "kammer": "lakt",
-                    "id": "520",
-                    "apo_id": "lakt520",
-                    "strasse": "Marktstr. 23-25",
-                    "plz": "99084",
+                    "id": "524",
+                    "apo_id": "lakt524",
+                    "strasse": "Am Drosselberg 47",
+                    "plz": "99097",
                     "ort": "Erfurt",
-                    "distanz": "8.507781919580001",
-                    "longitude": "11.0251592",
-                    "latitude": "50.9775314",
-                    "telefon": "+49 361 5401673",
+                    "distanz": "6.0666252079400005",
+                    "longitude": "11.0761843",
+                    "latitude": "50.9503069",
+                    "telefon": "+49 361 4172096",
                     "fax": [],
                     "email": [],
-                    "startdatum": "03.06.2025",
+                    "startdatum": "04.06.2025",
                     "startzeit": "09:00",
-                    "enddatum": "04.06.2025",
+                    "enddatum": "05.06.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Trommsdorff-Apotheke",
+                    "kammer": "lakt",
+                    "id": "3928",
+                    "apo_id": "lakt3928",
+                    "strasse": "Geschwister-Scholl-Straße 5",
+                    "plz": "99085",
+                    "ort": "Erfurt",
+                    "distanz": "8.89530102956",
+                    "longitude": "11.04315",
+                    "latitude": "50.98136",
+                    "telefon": "+49 361 5660052",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "04.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "05.06.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "05.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Brunnen-Apotheke",
-                    "kammer": "lakt",
-                    "id": "3990",
-                    "apo_id": "lakt3990",
-                    "strasse": "Erfurter Straße 72",
-                    "plz": "99095",
-                    "ort": "Erfurt-Mittelhausen",
-                    "distanz": "15.0503896404",
-                    "longitude": "11.00229",
-                    "latitude": "51.03489",
-                    "telefon": "+49 361 2624442",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "03.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "04.06.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "easyApotheke Weimar",
