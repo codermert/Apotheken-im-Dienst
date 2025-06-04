@@ -541,10 +541,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "20724"
+            "verwendet": "21563"
         },
         "apotheken": {
             "apotheke": [
@@ -642,6 +642,25 @@
                     "startzeit": "08:00",
                     "enddatum": "05.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Storchen-Apotheke",
+                    "kammer": "akb",
+                    "id": "100561",
+                    "apo_id": "akb100561",
+                    "strasse": "Schulzendorfer Str. 70",
+                    "plz": "13503",
+                    "ort": "Berlin",
+                    "distanz": "25.91978891462",
+                    "longitude": "13.2314553",
+                    "latitude": "52.612798",
+                    "telefon": "+49 30 4313204",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "04.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "05.06.2025",
+                    "endzeit": "08:59"
                 }
             ]
         }
