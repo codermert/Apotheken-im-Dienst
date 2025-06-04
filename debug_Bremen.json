@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "18754"
+            "verwendet": "20076"
         },
         "apotheken": {
             "apotheke": [
@@ -1329,6 +1329,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Löwen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1671",
+                    "apo_id": "aknds1671",
+                    "strasse": "Bremer Str. 78-82",
+                    "plz": "27751",
+                    "ort": "Delmenhorst",
+                    "distanz": "10.682793413539999",
+                    "longitude": "8.6466895",
+                    "latitude": "53.0530558",
+                    "telefon": "+49 4221 91280",
+                    "fax": "+49 4221 912820",
+                    "email": [],
+                    "startdatum": "04.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "05.06.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Max & Moritz Apotheke",
                     "kammer": "aknds",
                     "id": "1369",
@@ -1348,25 +1367,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Bahnhof-Apotheke Delcare oHG",
-                    "kammer": "aknds",
-                    "id": "1665",
-                    "apo_id": "aknds1665",
-                    "strasse": "Bahnhofstr. 11 - 13",
-                    "plz": "27749",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.25687064993",
-                    "longitude": "8.6299531",
-                    "latitude": "53.0511638",
-                    "telefon": "+49 4221 14506",
-                    "fax": "+49 4221 18661",
-                    "email": [],
-                    "startdatum": "03.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "04.06.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Apotheke im Hansa Carré",
                     "kammer": "akbr",
                     "id": "10198",
@@ -1384,6 +1384,25 @@
                     "startzeit": "09:00",
                     "enddatum": "04.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Pelikan-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1748",
+                    "apo_id": "aknds1748",
+                    "strasse": "Grüppenbührener Str. 7",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.632284368570001",
+                    "longitude": "8.5428808",
+                    "latitude": "53.0374524",
+                    "telefon": "+49 4222 5257",
+                    "fax": "+49 4222 6642",
+                    "email": [],
+                    "startdatum": "04.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "04.06.2025",
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Fontane Apotheke",
