@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "15004"
+            "verwendet": "16484"
         },
         "apotheken": {
             "apotheke": [
@@ -1291,23 +1291,23 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Löwen-Apotheke",
+                    "name": "Heide-Apotheke",
                     "kammer": "aknds",
-                    "id": "1671",
-                    "apo_id": "aknds1671",
-                    "strasse": "Bremer Str. 78-82",
-                    "plz": "27751",
-                    "ort": "Delmenhorst",
-                    "distanz": "10.682793413539999",
-                    "longitude": "8.6466895",
-                    "latitude": "53.0530558",
-                    "telefon": "+49 4221 91280",
-                    "fax": "+49 4221 912820",
+                    "id": "1747",
+                    "apo_id": "aknds1747",
+                    "strasse": "Schönemoorer Landstr. 6",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "9.2016662908",
+                    "longitude": "8.6217333",
+                    "latitude": "53.0742622",
+                    "telefon": "+49 4221 43949",
+                    "fax": "+49 4221 44049",
                     "email": [],
-                    "startdatum": "04.06.2025",
+                    "startdatum": "05.06.2025",
                     "startzeit": "08:30",
                     "enddatum": "05.06.2025",
-                    "endzeit": "08:30"
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Rönnebecker Apotheke",
@@ -1346,6 +1346,25 @@
                     "startzeit": "09:00",
                     "enddatum": "05.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Moorkamp-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1673",
+                    "apo_id": "aknds1673",
+                    "strasse": "Brendelweg 5",
+                    "plz": "27755",
+                    "ort": "Delmenhorst",
+                    "distanz": "13.37795548676",
+                    "longitude": "8.6228754",
+                    "latitude": "53.032369",
+                    "telefon": "+49 4221 25055",
+                    "fax": "+49 4221 25056",
+                    "email": [],
+                    "startdatum": "05.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "06.06.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Apotheke im Viamiko",
