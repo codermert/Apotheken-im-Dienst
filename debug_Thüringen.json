@@ -37,46 +37,27 @@
             "anzahl": 9
         },
         "quota": {
-            "verwendet": "16713"
+            "verwendet": "17746"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Melchendorfer Apotheke",
+                    "name": "Neue MARIEN APOTHEKE im Facharztzentrum Angerbrunnen",
                     "kammer": "lakt",
-                    "id": "524",
-                    "apo_id": "lakt524",
-                    "strasse": "Am Drosselberg 47",
-                    "plz": "99097",
+                    "id": "480",
+                    "apo_id": "lakt480",
+                    "strasse": "Neuwerkstr. 51/Regierungsstr. 3",
+                    "plz": "99084",
                     "ort": "Erfurt",
-                    "distanz": "6.0666252079400005",
-                    "longitude": "11.0761843",
-                    "latitude": "50.9503069",
-                    "telefon": "+49 361 4172096",
+                    "distanz": "8.12249611308",
+                    "longitude": "11.0302266",
+                    "latitude": "50.9743289",
+                    "telefon": "+49 361 6442674",
                     "fax": [],
                     "email": [],
-                    "startdatum": "04.06.2025",
+                    "startdatum": "05.06.2025",
                     "startzeit": "09:00",
-                    "enddatum": "05.06.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Trommsdorff-Apotheke",
-                    "kammer": "lakt",
-                    "id": "3928",
-                    "apo_id": "lakt3928",
-                    "strasse": "Geschwister-Scholl-Straße 5",
-                    "plz": "99085",
-                    "ort": "Erfurt",
-                    "distanz": "8.89530102956",
-                    "longitude": "11.04315",
-                    "latitude": "50.98136",
-                    "telefon": "+49 361 5660052",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "04.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "05.06.2025",
+                    "enddatum": "06.06.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -97,6 +78,25 @@
                     "startzeit": "08:00",
                     "enddatum": "06.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Bären-Apotheke",
+                    "kammer": "lakt",
+                    "id": "113",
+                    "apo_id": "lakt113",
+                    "strasse": "Erfurter Landstraße 86",
+                    "plz": "99095",
+                    "ort": "Erfurt, OT Stotternheim",
+                    "distanz": "16.80725542248",
+                    "longitude": "11.0433921",
+                    "latitude": "51.05251",
+                    "telefon": "+49 36204 52033",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "05.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "06.06.2025",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Ahorn-Apotheke",
