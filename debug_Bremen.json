@@ -1267,7 +1267,7 @@
             "anzahl": 9
         },
         "quota": {
-            "verwendet": "14587"
+            "verwendet": "15004"
         },
         "apotheken": {
             "apotheke": [
@@ -1367,6 +1367,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Deich-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1701",
+                    "apo_id": "aknds1701",
+                    "strasse": "Mühlenstr. 13",
+                    "plz": "26931",
+                    "ort": "Elsfleth",
+                    "distanz": "18.48276551042",
+                    "longitude": "8.464316",
+                    "latitude": "53.2380316",
+                    "telefon": "+49 4404 92840",
+                    "fax": "+49 4404 928420",
+                    "email": [],
+                    "startdatum": "05.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "06.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Findorff-Apotheke",
                     "kammer": "aknds",
                     "id": "1262",
@@ -1422,25 +1441,6 @@
                     "startzeit": "09:00",
                     "enddatum": "05.06.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Weser-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1634",
-                    "apo_id": "aknds1634",
-                    "strasse": "Bahnhofstr. 89",
-                    "plz": "26919",
-                    "ort": "Brake",
-                    "distanz": "25.43788224811",
-                    "longitude": "8.4778778",
-                    "latitude": "53.3334244",
-                    "telefon": "+49 4401 3595",
-                    "fax": "+49 4401 3091",
-                    "email": [],
-                    "startdatum": "04.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "05.06.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }

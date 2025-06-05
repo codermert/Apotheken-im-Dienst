@@ -31,29 +31,10 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "14653"
+            "verwendet": "15085"
         },
         "apotheken": {
             "apotheke": [
-                {
-                    "name": "Linden-Apotheke",
-                    "kammer": "aknds",
-                    "id": "581",
-                    "apo_id": "aknds581",
-                    "strasse": "Bahnhofstr. 32",
-                    "plz": "27324",
-                    "ort": "Eystrup",
-                    "distanz": "11.69217346801",
-                    "longitude": "9.2184781",
-                    "latitude": "52.7800073",
-                    "telefon": "+49 4254 8360",
-                    "fax": "+49 4254 2326",
-                    "email": [],
-                    "startdatum": "04.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "05.06.2025",
-                    "endzeit": "08:00"
-                },
                 {
                     "name": "Paracelsus-Apotheke",
                     "kammer": "aknds",
@@ -72,6 +53,25 @@
                     "startzeit": "09:00",
                     "enddatum": "05.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Rethemer Apotheke",
+                    "kammer": "aknds",
+                    "id": "1384",
+                    "apo_id": "aknds1384",
+                    "strasse": "Mühlenstraße 2",
+                    "plz": "27336",
+                    "ort": "Rethem",
+                    "distanz": "21.37822325996",
+                    "longitude": "9.3798974",
+                    "latitude": "52.7851639",
+                    "telefon": "+49 5165 2918848",
+                    "fax": "+49 5165 2918849",
+                    "email": [],
+                    "startdatum": "05.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "06.06.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Apotheke am Markt",
@@ -93,22 +93,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Eichen-Apotheke",
+                    "name": "Apotheke Erichshagen",
                     "kammer": "aknds",
-                    "id": "954",
-                    "apo_id": "aknds954",
-                    "strasse": "Verdener Landstr. 134",
+                    "id": "962",
+                    "apo_id": "aknds962",
+                    "strasse": "Celler Str. 62",
                     "plz": "31582",
                     "ort": "Nienburg",
-                    "distanz": "22.105350231280003",
-                    "longitude": "9.2215718",
-                    "latitude": "52.66194",
-                    "telefon": "+49 5021 18831",
-                    "fax": "+49 5021 64644",
+                    "distanz": "22.87586663499",
+                    "longitude": "9.2267429",
+                    "latitude": "52.6557705",
+                    "telefon": "+49 5021 63938",
+                    "fax": "+49 5021 961008",
                     "email": [],
-                    "startdatum": "04.06.2025",
+                    "startdatum": "05.06.2025",
                     "startzeit": "08:00",
-                    "enddatum": "05.06.2025",
+                    "enddatum": "06.06.2025",
                     "endzeit": "08:00"
                 },
                 {
