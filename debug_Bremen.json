@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 11
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "65411"
+            "verwendet": "78394"
         },
         "apotheken": {
             "apotheke": [
@@ -1289,25 +1289,6 @@
                     "startzeit": "09:00",
                     "enddatum": "06.06.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Heide-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1747",
-                    "apo_id": "aknds1747",
-                    "strasse": "Schönemoorer Landstr. 6",
-                    "plz": "27777",
-                    "ort": "Ganderkesee",
-                    "distanz": "9.2016662908",
-                    "longitude": "8.6217333",
-                    "latitude": "53.0742622",
-                    "telefon": "+49 4221 43949",
-                    "fax": "+49 4221 44049",
-                    "email": [],
-                    "startdatum": "05.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "05.06.2025",
-                    "endzeit": "20:00"
                 },
                 {
                     "name": "Bahnhof-Apotheke",
@@ -1365,25 +1346,6 @@
                     "startzeit": "08:30",
                     "enddatum": "06.06.2025",
                     "endzeit": "08:30"
-                },
-                {
-                    "name": "Stedinger Apotheke",
-                    "kammer": "aknds",
-                    "id": "1612",
-                    "apo_id": "aknds1612",
-                    "strasse": "Weserstr. 28",
-                    "plz": "27804",
-                    "ort": "Berne",
-                    "distanz": "14.73436263223",
-                    "longitude": "8.484236",
-                    "latitude": "53.18675",
-                    "telefon": "+49 4406 202",
-                    "fax": "+49 4406 836",
-                    "email": [],
-                    "startdatum": "05.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "05.06.2025",
-                    "endzeit": "20:00"
                 },
                 {
                     "name": "Wilhelm-Leuschner-Apotheke",
