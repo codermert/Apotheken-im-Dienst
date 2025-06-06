@@ -629,14 +629,6 @@
       "mesafe": "9.9 km"
     },
     {
-      "eczaneAdi": "Apotheke Schierbrok",
-      "adres": "Bahnhofstr. 49, 27777 Ganderkesee",
-      "telefon": "+49 4221 89335",
-      "enlem": "53.0836028",
-      "boylam": "8.5769381",
-      "mesafe": "10.4 km"
-    },
-    {
       "eczaneAdi": "Apotheke Außer der Schleifmühle",
       "adres": "Außer der Schleifmühle 80, 28203 Bremen",
       "telefon": "+49 421 326665",
@@ -729,28 +721,44 @@
       "mesafe": "0.7 km"
     },
     {
-      "eczaneAdi": "Apotheke zum Klostersee",
-      "adres": "Schloßstr. 60, 17159 Dargun",
-      "telefon": "+49 39959 20372",
-      "enlem": "53.8972319",
-      "boylam": "12.8547925",
-      "mesafe": "23.0 km"
-    },
-    {
-      "eczaneAdi": "Eichen-Apotheke",
-      "adres": "Basepohler Str. 11, 17153 Reuterstadt Stavenhagen",
-      "telefon": "+49 39954 30778",
-      "enlem": "53.6976622",
-      "boylam": "12.9068062",
-      "mesafe": "23.4 km"
-    },
-    {
       "eczaneAdi": "Schloss-Apotheke",
       "adres": "Mühlenstr. 1, 18273 Güstrow",
       "telefon": "+49 3843 682307",
       "enlem": "53.7938495",
       "boylam": "12.1770443",
       "mesafe": "26.4 km"
+    },
+    {
+      "eczaneAdi": "Löwen-Apotheke",
+      "adres": "Neuer Markt 21, 17192 Waren",
+      "telefon": "+49 3991 666153",
+      "enlem": "53.5145093",
+      "boylam": "12.6887047",
+      "mesafe": "29.8 km"
+    },
+    {
+      "eczaneAdi": "Marien-Apotheke",
+      "adres": "Am Postberg 1, 17121 Loitz",
+      "telefon": "+49 39998 10381",
+      "enlem": "53.9737119",
+      "boylam": "13.129453",
+      "mesafe": "42.7 km"
+    },
+    {
+      "eczaneAdi": "Linden-Apotheke",
+      "adres": "Wismarsche Str. 32, 18057 Rostock",
+      "telefon": "+49 381 4930200",
+      "enlem": "54.0857481",
+      "boylam": "12.1186666",
+      "mesafe": "45.9 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Mühlentor",
+      "adres": "Bahnhofstraße 2, 18507 Grimmen",
+      "telefon": "+49 38326 455440",
+      "enlem": "54.11176",
+      "boylam": "13.04009",
+      "mesafe": "48.5 km"
     }
   ],
   "Niedersachsen": [
@@ -803,104 +811,7 @@
       "mesafe": "27.2 km"
     }
   ],
-  "Rheinland-Pfalz": [
-    {
-      "eczaneAdi": "Cusanus-Apotheke",
-      "adres": "Cusanusstr. 4, 54470 Bernkastel-Kues",
-      "telefon": "+49 6531 2626",
-      "enlem": "49.9167318",
-      "boylam": "7.070225",
-      "mesafe": "17.7 km"
-    },
-    {
-      "eczaneAdi": "Löwen-Apotheke",
-      "adres": "Hauptstr. 78, 55743 Idar-Oberstein",
-      "telefon": "+49 6781 42440",
-      "enlem": "49.7203499",
-      "boylam": "7.3014299",
-      "mesafe": "25.9 km"
-    },
-    {
-      "eczaneAdi": "Markt-Apotheke",
-      "adres": "Marktstr. 10, 55494 Rheinböllen",
-      "telefon": "+49 6764 960100",
-      "enlem": "50.0077236",
-      "boylam": "7.6723698",
-      "mesafe": "26.6 km"
-    },
-    {
-      "eczaneAdi": "Felke-Apotheke",
-      "adres": "Saarstr. 28, 55566 Bad Sobernheim",
-      "telefon": "+49 6751 5010",
-      "enlem": "49.78579",
-      "boylam": "7.65156",
-      "mesafe": "30.8 km"
-    },
-    {
-      "eczaneAdi": "Kreuz-Apotheke",
-      "adres": "Oberstr. 136, 56154 Boppard",
-      "telefon": "+49 6742 2550",
-      "enlem": "50.2317154",
-      "boylam": "7.5894545",
-      "mesafe": "36.9 km"
-    },
-    {
-      "eczaneAdi": "Rheingrafen-Apotheke",
-      "adres": "Salinenstr. 53, 55543 Bad Kreuznach",
-      "telefon": "+49 671 33402",
-      "enlem": "49.8390575",
-      "boylam": "7.8576349",
-      "mesafe": "41.3 km"
-    },
-    {
-      "eczaneAdi": "Marien-Apotheke",
-      "adres": "Abt Richard Str. 1, 54550 Daun",
-      "telefon": "+49 6592 2419",
-      "enlem": "50.1955849",
-      "boylam": "6.8297406",
-      "mesafe": "43.7 km"
-    },
-    {
-      "eczaneAdi": "Adler-Apotheke",
-      "adres": "Bahnstr. 40, 56743 Mendig",
-      "telefon": "+49 2652 4400",
-      "enlem": "50.3709886",
-      "boylam": "7.2827651",
-      "mesafe": "46.5 km"
-    },
-    {
-      "eczaneAdi": "Servatius-Apotheke",
-      "adres": "Planstr. 4, 56072 Koblenz",
-      "telefon": "+49 261 408700",
-      "enlem": "50.3439676",
-      "boylam": "7.5483525",
-      "mesafe": "46.7 km"
-    },
-    {
-      "eczaneAdi": "Ostertal-Apotheke",
-      "adres": "Talbrückstraße 1, 66629 Freisen-Oberkirchen",
-      "telefon": "06855/237",
-      "enlem": "49.5253414",
-      "boylam": "7.2621537",
-      "mesafe": "47.7 km"
-    },
-    {
-      "eczaneAdi": "Amts-Apotheke",
-      "adres": "Römerstr. 7, 56355 Nastätten",
-      "telefon": "+49 6772 8236",
-      "enlem": "50.1990236",
-      "boylam": "7.8586436",
-      "mesafe": "47.8 km"
-    },
-    {
-      "eczaneAdi": "Mosel-Apotheke",
-      "adres": "Ehranger Str. 136, 54293 Trier",
-      "telefon": "+49 651 66178",
-      "enlem": "49.7948071",
-      "boylam": "6.6804758",
-      "mesafe": "48.6 km"
-    }
-  ],
+  "Rheinland-Pfalz": [],
   "Saarland": [
     {
       "eczaneAdi": "Einhorn-Apotheke am Markt",
