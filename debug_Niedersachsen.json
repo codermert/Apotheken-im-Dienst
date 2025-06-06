@@ -31,7 +31,7 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "13941"
+            "verwendet": "15467"
         },
         "apotheken": {
             "apotheke": [
@@ -74,25 +74,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Rethemer Apotheke",
-                    "kammer": "aknds",
-                    "id": "1384",
-                    "apo_id": "aknds1384",
-                    "strasse": "Mühlenstraße 2",
-                    "plz": "27336",
-                    "ort": "Rethem",
-                    "distanz": "21.37822325996",
-                    "longitude": "9.3798974",
-                    "latitude": "52.7851639",
-                    "telefon": "+49 5165 2918848",
-                    "fax": "+49 5165 2918849",
-                    "email": [],
-                    "startdatum": "05.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "06.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Storchen-Apotheke",
                     "kammer": "aknds",
                     "id": "1122",
@@ -112,23 +93,23 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke Erichshagen",
+                    "name": "Lindenmarkt-Apotheke",
                     "kammer": "aknds",
-                    "id": "962",
-                    "apo_id": "aknds962",
-                    "strasse": "Celler Str. 62",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "22.87586663499",
-                    "longitude": "9.2267429",
-                    "latitude": "52.6557705",
-                    "telefon": "+49 5021 63938",
-                    "fax": "+49 5021 961008",
+                    "id": "526",
+                    "apo_id": "aknds526",
+                    "strasse": "Bahnhofstr. 19",
+                    "plz": "27211",
+                    "ort": "Bassum",
+                    "distanz": "23.056425296969998",
+                    "longitude": "8.7339866",
+                    "latitude": "52.8471314",
+                    "telefon": "+49 4241 922422",
+                    "fax": "+49 4241 922424",
                     "email": [],
-                    "startdatum": "05.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "06.06.2025",
-                    "endzeit": "08:00"
+                    "startdatum": "06.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "07.06.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Bremer Schlüssel-Apotheke",
@@ -148,6 +129,25 @@
                     "startzeit": "09:00",
                     "enddatum": "06.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Meerbach-Apotheke",
+                    "kammer": "aknds",
+                    "id": "964",
+                    "apo_id": "aknds964",
+                    "strasse": "Ziegelkampstr. 37",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "24.92702017755",
+                    "longitude": "9.223937",
+                    "latitude": "52.6346479",
+                    "telefon": "+49 5021 888740",
+                    "fax": "+49 5021 888745",
+                    "email": [],
+                    "startdatum": "06.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "07.06.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }

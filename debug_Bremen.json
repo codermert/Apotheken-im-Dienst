@@ -1267,7 +1267,7 @@
             "anzahl": 9
         },
         "quota": {
-            "verwendet": "13892"
+            "verwendet": "15436"
         },
         "apotheken": {
             "apotheke": [
@@ -1289,6 +1289,44 @@
                     "startzeit": "09:00",
                     "enddatum": "06.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Neue Apotheke Heidkrug",
+                    "kammer": "aknds",
+                    "id": "1683",
+                    "apo_id": "aknds1683",
+                    "strasse": "Bremer Str. 323",
+                    "plz": "27751",
+                    "ort": "Delmenhorst",
+                    "distanz": "9.93248560797",
+                    "longitude": "8.6793451",
+                    "latitude": "53.0560112",
+                    "telefon": "+49 4221 8005663",
+                    "fax": "+49 4221 8005664",
+                    "email": [],
+                    "startdatum": "06.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "07.06.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Apotheke Schierbrok",
+                    "kammer": "aknds",
+                    "id": "1753",
+                    "apo_id": "aknds1753",
+                    "strasse": "Bahnhofstr. 49",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "10.35027715195",
+                    "longitude": "8.5769381",
+                    "latitude": "53.0836028",
+                    "telefon": "+49 4221 89335",
+                    "fax": "+49 4221 88151",
+                    "email": [],
+                    "startdatum": "06.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "06.06.2025",
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Bahnhof-Apotheke",
@@ -1329,25 +1367,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Moorkamp-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1673",
-                    "apo_id": "aknds1673",
-                    "strasse": "Brendelweg 5",
-                    "plz": "27755",
-                    "ort": "Delmenhorst",
-                    "distanz": "13.37795548676",
-                    "longitude": "8.6228754",
-                    "latitude": "53.032369",
-                    "telefon": "+49 4221 25055",
-                    "fax": "+49 4221 25056",
-                    "email": [],
-                    "startdatum": "05.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "06.06.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Wilhelm-Leuschner-Apotheke",
                     "kammer": "akbr",
                     "id": "10190",
@@ -1365,25 +1384,6 @@
                     "startzeit": "09:00",
                     "enddatum": "06.06.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Deich-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1701",
-                    "apo_id": "aknds1701",
-                    "strasse": "Mühlenstr. 13",
-                    "plz": "26931",
-                    "ort": "Elsfleth",
-                    "distanz": "18.48276551042",
-                    "longitude": "8.464316",
-                    "latitude": "53.2380316",
-                    "telefon": "+49 4404 92840",
-                    "fax": "+49 4404 928420",
-                    "email": [],
-                    "startdatum": "05.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "06.06.2025",
-                    "endzeit": "08:00"
                 },
                 {
                     "name": "Bremer Schlüssel-Apotheke",
