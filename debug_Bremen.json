@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "20436"
+            "verwendet": "21177"
         },
         "apotheken": {
             "apotheke": [
@@ -1403,6 +1403,25 @@
                     "startzeit": "09:00",
                     "enddatum": "07.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Apotheke Kröger",
+                    "kammer": "aknds",
+                    "id": "1636",
+                    "apo_id": "aknds1636",
+                    "strasse": "Weserstr. 80",
+                    "plz": "26919",
+                    "ort": "Brake",
+                    "distanz": "26.0104326339",
+                    "longitude": "8.4635966",
+                    "latitude": "53.3336661",
+                    "telefon": "+49 4401 930240",
+                    "fax": "+49 4401 706883",
+                    "email": [],
+                    "startdatum": "07.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "08.06.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Alte Apotheke",
