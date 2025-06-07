@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "21177"
+            "verwendet": "23879"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,22 +1310,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Neue Apotheke Heidkrug",
+                    "name": "Nutzhorn-Apotheke",
                     "kammer": "aknds",
-                    "id": "1683",
-                    "apo_id": "aknds1683",
-                    "strasse": "Bremer Str. 323",
-                    "plz": "27751",
+                    "id": "1681",
+                    "apo_id": "aknds1681",
+                    "strasse": "Nutzhorner Str. 29",
+                    "plz": "27753",
                     "ort": "Delmenhorst",
-                    "distanz": "9.93248560797",
-                    "longitude": "8.6793451",
-                    "latitude": "53.0560112",
-                    "telefon": "+49 4221 8005663",
-                    "fax": "+49 4221 8005664",
+                    "distanz": "10.380729911480001",
+                    "longitude": "8.6179921",
+                    "latitude": "53.0633198",
+                    "telefon": "+49 4221 4901666",
+                    "fax": "+49 4221 4901677",
                     "email": [],
-                    "startdatum": "06.06.2025",
+                    "startdatum": "07.06.2025",
                     "startzeit": "08:30",
-                    "enddatum": "07.06.2025",
+                    "enddatum": "08.06.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -1384,6 +1384,25 @@
                     "startzeit": "09:00",
                     "enddatum": "07.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Apotheke am Schützenplatz",
+                    "kammer": "aknds",
+                    "id": "1816",
+                    "apo_id": "aknds1816",
+                    "strasse": "Schützenstr. 10",
+                    "plz": "27798",
+                    "ort": "Hude",
+                    "distanz": "16.19303450548",
+                    "longitude": "8.4593608",
+                    "latitude": "53.1076988",
+                    "telefon": "+49 4408 92110",
+                    "fax": "+49 4408 921111",
+                    "email": [],
+                    "startdatum": "07.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "08.06.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Apotheke Blockdiek",
