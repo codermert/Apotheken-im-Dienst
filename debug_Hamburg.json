@@ -3194,7 +3194,7 @@
             "anzahl": 17
         },
         "quota": {
-            "verwendet": "23677"
+            "verwendet": "25628"
         },
         "apotheken": {
             "apotheke": [
@@ -3389,25 +3389,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Rathaus Apotheke Hittfeld",
-                    "kammer": "aknds",
-                    "id": "6069",
-                    "apo_id": "aknds6069",
-                    "strasse": "Kirchstraße 3",
-                    "plz": "21218",
-                    "ort": "Seevetal",
-                    "distanz": "18.48701084197",
-                    "longitude": "9.97957",
-                    "latitude": "53.38471",
-                    "telefon": "+49 4105 6678095",
-                    "fax": "+49 4105 6678096",
-                    "email": [],
-                    "startdatum": "06.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "07.06.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Rosen Apotheke",
                     "kammer": "aksh",
                     "id": "10633",
@@ -3520,6 +3501,25 @@
                     "startzeit": "08:00",
                     "enddatum": "08.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Markt-Apotheke im Schanzenhof",
+                    "kammer": "aknds",
+                    "id": "1514",
+                    "apo_id": "aknds1514",
+                    "strasse": "Schanzenring 6",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "24.91904319162",
+                    "longitude": "10.2096115",
+                    "latitude": "53.3643894",
+                    "telefon": "+49 4171 653304",
+                    "fax": "+49 4171 653306",
+                    "email": [],
+                    "startdatum": "07.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "08.06.2025",
+                    "endzeit": "08:30"
                 }
             ]
         }
