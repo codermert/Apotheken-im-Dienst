@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 12
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "191260"
+            "verwendet": "197685"
         },
         "apotheken": {
             "apotheke": [
@@ -53,25 +53,6 @@
                     "startzeit": "08:00",
                     "enddatum": "08.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Apotheke zum Klostersee",
-                    "kammer": "akmv",
-                    "id": "171923",
-                    "apo_id": "akmv171923",
-                    "strasse": "Schloßstr. 60",
-                    "plz": "17159",
-                    "ort": "Dargun",
-                    "distanz": "22.969634493090002",
-                    "longitude": "12.8547925",
-                    "latitude": "53.8972319",
-                    "telefon": "+49 39959 20372",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "07.06.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "07.06.2025",
-                    "endzeit": "19:00"
                 },
                 {
                     "name": "Südstadt-Apotheke",
@@ -129,63 +110,6 @@
                     "startzeit": "08:00",
                     "enddatum": "08.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Birkholz-Apotheke",
-                    "kammer": "akmv",
-                    "id": "173589",
-                    "apo_id": "akmv173589",
-                    "strasse": "Clara-Zetkin-Ring 24",
-                    "plz": "17213",
-                    "ort": "Malchow",
-                    "distanz": "34.82455028419",
-                    "longitude": "12.4206711",
-                    "latitude": "53.4744646",
-                    "telefon": "+49 39932 13365",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "07.06.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "07.06.2025",
-                    "endzeit": "19:00"
-                },
-                {
-                    "name": "Adler-Apotheke",
-                    "kammer": "akmv",
-                    "id": "173198",
-                    "apo_id": "akmv173198",
-                    "strasse": "Markt 8",
-                    "plz": "18258",
-                    "ort": "Schwaan",
-                    "distanz": "35.941774879570005",
-                    "longitude": "12.1068944",
-                    "latitude": "53.9393783",
-                    "telefon": "+49 3844 813696",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "07.06.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "07.06.2025",
-                    "endzeit": "19:00"
-                },
-                {
-                    "name": "Plawe-Apotheke",
-                    "kammer": "akmv",
-                    "id": "177006",
-                    "apo_id": "akmv177006",
-                    "strasse": "Steinstr. 42",
-                    "plz": "19395",
-                    "ort": "Plau",
-                    "distanz": "40.7162147733",
-                    "longitude": "12.2617275",
-                    "latitude": "53.4588403",
-                    "telefon": "+49 38735 42196",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "07.06.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "07.06.2025",
-                    "endzeit": "19:00"
                 },
                 {
                     "name": "Rats-Apotheke",
