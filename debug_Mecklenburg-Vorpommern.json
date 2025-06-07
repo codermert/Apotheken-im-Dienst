@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 11
         },
         "quota": {
-            "verwendet": "140321"
+            "verwendet": "143463"
         },
         "apotheken": {
             "apotheke": [
@@ -53,6 +53,25 @@
                     "startzeit": "08:00",
                     "enddatum": "08.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Eichen-Apotheke",
+                    "kammer": "akmv",
+                    "id": "175442",
+                    "apo_id": "akmv175442",
+                    "strasse": "Basepohler Str. 11",
+                    "plz": "17153",
+                    "ort": "Reuterstadt Stavenhagen",
+                    "distanz": "23.43323386059",
+                    "longitude": "12.9068062",
+                    "latitude": "53.6976622",
+                    "telefon": "+49 39954 30778",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "07.06.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "07.06.2025",
+                    "endzeit": "18:00"
                 },
                 {
                     "name": "Südstadt-Apotheke",
@@ -112,6 +131,44 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Weiden-Apotheke",
+                    "kammer": "akmv",
+                    "id": "171447",
+                    "apo_id": "akmv171447",
+                    "strasse": "John Brinckmann Str. 10 a",
+                    "plz": "18190",
+                    "ort": "Sanitz",
+                    "distanz": "36.09963410576",
+                    "longitude": "12.37375",
+                    "latitude": "54.07518",
+                    "telefon": "+49 38209 288",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "07.06.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "07.06.2025",
+                    "endzeit": "18:00"
+                },
+                {
+                    "name": "Müritz-Apotheke",
+                    "kammer": "akmv",
+                    "id": "174048",
+                    "apo_id": "akmv174048",
+                    "strasse": "Hohe Straße 36",
+                    "plz": "17207",
+                    "ort": "Röbel",
+                    "distanz": "44.50407116596",
+                    "longitude": "12.6052544",
+                    "latitude": "53.37403",
+                    "telefon": "+49 39931 50133",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "07.06.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "07.06.2025",
+                    "endzeit": "18:00"
+                },
+                {
                     "name": "Apotheke Offering",
                     "kammer": "akmv",
                     "id": "177601",
@@ -148,6 +205,25 @@
                     "startzeit": "08:00",
                     "enddatum": "08.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Storchen-Apotheke",
+                    "kammer": "akmv",
+                    "id": "175935",
+                    "apo_id": "akmv175935",
+                    "strasse": "Am Mattenstieg 16",
+                    "plz": "19406",
+                    "ort": "Dabel",
+                    "distanz": "46.27079803482",
+                    "longitude": "11.9016151",
+                    "latitude": "53.6593812",
+                    "telefon": "+49 38485 20111",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "07.06.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "07.06.2025",
+                    "endzeit": "18:00"
                 },
                 {
                     "name": "Apotheke am Mühlentor",
