@@ -3191,10 +3191,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 18
+            "anzahl": 19
         },
         "quota": {
-            "verwendet": "433867"
+            "verwendet": "444348"
         },
         "apotheken": {
             "apotheke": [
@@ -3501,6 +3501,25 @@
                     "startzeit": "08:00",
                     "enddatum": "09.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Markt-Apotheke im Schanzenhof",
+                    "kammer": "aknds",
+                    "id": "1514",
+                    "apo_id": "aknds1514",
+                    "strasse": "Schanzenring 6",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "24.91904319162",
+                    "longitude": "10.2096115",
+                    "latitude": "53.3643894",
+                    "telefon": "+49 4171 653304",
+                    "fax": "+49 4171 653306",
+                    "email": [],
+                    "startdatum": "08.06.2025",
+                    "startzeit": "16:00",
+                    "enddatum": "08.06.2025",
+                    "endzeit": "19:00"
                 },
                 {
                     "name": "Stadt-Apotheke",
