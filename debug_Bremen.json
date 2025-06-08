@@ -1267,7 +1267,7 @@
             "anzahl": 10
         },
         "quota": {
-            "verwendet": "74832"
+            "verwendet": "94756"
         },
         "apotheken": {
             "apotheke": [
@@ -1289,25 +1289,6 @@
                     "startzeit": "09:00",
                     "enddatum": "08.06.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Nutzhorn-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1681",
-                    "apo_id": "aknds1681",
-                    "strasse": "Nutzhorner Str. 29",
-                    "plz": "27753",
-                    "ort": "Delmenhorst",
-                    "distanz": "10.380729911480001",
-                    "longitude": "8.6179921",
-                    "latitude": "53.0633198",
-                    "telefon": "+49 4221 4901666",
-                    "fax": "+49 4221 4901677",
-                    "email": [],
-                    "startdatum": "07.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "08.06.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Apotheke am Bahnhof",
@@ -1348,6 +1329,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Pelikan-Apotheke im Deichhorst-Center",
+                    "kammer": "aknds",
+                    "id": "2714",
+                    "apo_id": "aknds2714",
+                    "strasse": "Hannah-Arendt-Str. 7",
+                    "plz": "27753",
+                    "ort": "Delmenhorst",
+                    "distanz": "13.264408365269999",
+                    "longitude": "8.5950774",
+                    "latitude": "53.0413565",
+                    "telefon": "+49 4221 7806801",
+                    "fax": "+49 4221 7806802",
+                    "email": [],
+                    "startdatum": "08.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "09.06.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Weser-Apotheke",
                     "kammer": "akbr",
                     "id": "10185",
@@ -1386,22 +1386,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke am Schützenplatz",
+                    "name": "Apotheke am famila",
                     "kammer": "aknds",
-                    "id": "1816",
-                    "apo_id": "aknds1816",
-                    "strasse": "Schützenstr. 10",
-                    "plz": "27798",
-                    "ort": "Hude",
-                    "distanz": "16.19303450548",
-                    "longitude": "8.4593608",
-                    "latitude": "53.1076988",
-                    "telefon": "+49 4408 92110",
-                    "fax": "+49 4408 921111",
+                    "id": "6801",
+                    "apo_id": "aknds6801",
+                    "strasse": "Markt 5",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.77459148283",
+                    "longitude": "8.54525",
+                    "latitude": "53.03462",
+                    "telefon": "+49 4222 9473270",
+                    "fax": "+49 4222 9473271",
                     "email": [],
-                    "startdatum": "07.06.2025",
+                    "startdatum": "08.06.2025",
                     "startzeit": "08:30",
-                    "enddatum": "08.06.2025",
+                    "enddatum": "09.06.2025",
                     "endzeit": "08:30"
                 },
                 {
