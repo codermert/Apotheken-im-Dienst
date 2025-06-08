@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "62097"
+            "verwendet": "74832"
         },
         "apotheken": {
             "apotheke": [
@@ -1405,6 +1405,25 @@
                     "endzeit": "08:30"
                 },
                 {
+                    "name": "Deich-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1701",
+                    "apo_id": "aknds1701",
+                    "strasse": "Mühlenstr. 13",
+                    "plz": "26931",
+                    "ort": "Elsfleth",
+                    "distanz": "18.48276551042",
+                    "longitude": "8.464316",
+                    "latitude": "53.2380316",
+                    "telefon": "+49 4404 92840",
+                    "fax": "+49 4404 928420",
+                    "email": [],
+                    "startdatum": "08.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "09.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Apotheke 55 im Rudolf-Virchow-Haus",
                     "kammer": "aknds",
                     "id": "1096",
@@ -1424,22 +1443,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke Kröger",
+                    "name": "Geest-Apotheke",
                     "kammer": "aknds",
-                    "id": "1636",
-                    "apo_id": "aknds1636",
-                    "strasse": "Weserstr. 80",
-                    "plz": "26919",
-                    "ort": "Brake",
-                    "distanz": "26.0104326339",
-                    "longitude": "8.4635966",
-                    "latitude": "53.3336661",
-                    "telefon": "+49 4401 930240",
-                    "fax": "+49 4401 706883",
+                    "id": "2286",
+                    "apo_id": "aknds2286",
+                    "strasse": "Hauptstr. 20",
+                    "plz": "27801",
+                    "ort": "Dötlingen",
+                    "distanz": "27.3859458544",
+                    "longitude": "8.3978022",
+                    "latitude": "52.9749282",
+                    "telefon": "+49 4432 94233",
+                    "fax": "+49 4432 94234",
                     "email": [],
-                    "startdatum": "07.06.2025",
+                    "startdatum": "08.06.2025",
                     "startzeit": "08:00",
-                    "enddatum": "08.06.2025",
+                    "enddatum": "09.06.2025",
                     "endzeit": "08:00"
                 }
             ]

@@ -31,7 +31,7 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "62940"
+            "verwendet": "75589"
         },
         "apotheken": {
             "apotheke": [
@@ -74,44 +74,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Domino-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1111",
-                    "apo_id": "aknds1111",
-                    "strasse": "Alter Kirchweg 1",
-                    "plz": "31627",
-                    "ort": "Rohrsen",
-                    "distanz": "18.03914767201",
-                    "longitude": "9.233263",
-                    "latitude": "52.7087912",
-                    "telefon": "+49 5024 765",
-                    "fax": "+49 5024 8303",
-                    "email": [],
-                    "startdatum": "07.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "08.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Burg-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1023",
-                    "apo_id": "aknds1023",
-                    "strasse": "Mühlenstr. 16",
-                    "plz": "27254",
-                    "ort": "Siedenburg",
-                    "distanz": "18.709256427939998",
-                    "longitude": "8.9405518",
-                    "latitude": "52.6931561",
-                    "telefon": "+49 4272 1415",
-                    "fax": "+49 4272 1895",
-                    "email": [],
-                    "startdatum": "07.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "08.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Rats-Apotheke",
                     "kammer": "aknds",
                     "id": "1119",
@@ -148,6 +110,44 @@
                     "startzeit": "09:00",
                     "enddatum": "08.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Hansa Apotheke",
+                    "kammer": "aknds",
+                    "id": "955",
+                    "apo_id": "aknds955",
+                    "strasse": "Hansastr. 3",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "23.14845354176",
+                    "longitude": "9.2148089",
+                    "latitude": "52.6496656",
+                    "telefon": "+49 5021 910266",
+                    "fax": "+49 5021 910277",
+                    "email": [],
+                    "startdatum": "08.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "09.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Brunnen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1061",
+                    "apo_id": "aknds1061",
+                    "strasse": "Lange Str. 9",
+                    "plz": "27232",
+                    "ort": "Sulingen",
+                    "distanz": "25.00528910764",
+                    "longitude": "8.8111754",
+                    "latitude": "52.6827223",
+                    "telefon": "+49 4271 93300",
+                    "fax": "+49 4271 933035",
+                    "email": [],
+                    "startdatum": "08.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "09.06.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }
