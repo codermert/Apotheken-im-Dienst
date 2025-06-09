@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "421863"
+            "verwendet": "425125"
         },
         "apotheken": {
             "apotheke": [
@@ -1327,6 +1327,25 @@
                     "startzeit": "09:00",
                     "enddatum": "10.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Stern-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1373",
+                    "apo_id": "aknds1373",
+                    "strasse": "Poststr. 4-6",
+                    "plz": "27711",
+                    "ort": "Osterholz-Scharmbeck",
+                    "distanz": "11.38424595449",
+                    "longitude": "8.7848145",
+                    "latitude": "53.2311143",
+                    "telefon": "+49 4791 980333",
+                    "fax": "+49 4791 980335",
+                    "email": [],
+                    "startdatum": "09.06.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "09.06.2025",
+                    "endzeit": "19:00"
                 },
                 {
                     "name": "Pluspunkt Apotheke Delmenhorst",
