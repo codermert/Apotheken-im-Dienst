@@ -541,10 +541,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "101252"
+            "verwendet": "116847"
         },
         "apotheken": {
             "apotheke": [
@@ -642,25 +642,6 @@
                     "startzeit": "08:00",
                     "enddatum": "10.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Leuchtturm Apotheke",
-                    "kammer": "akb",
-                    "id": "101060",
-                    "apo_id": "akb101060",
-                    "strasse": "Heinsestr. 32-34",
-                    "plz": "13467",
-                    "ort": "Berlin",
-                    "distanz": "25.75255040066",
-                    "longitude": "13.30741",
-                    "latitude": "52.61714",
-                    "telefon": "+49 30 40508240",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "08.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "09.06.2025",
-                    "endzeit": "08:59"
                 }
             ]
         }
