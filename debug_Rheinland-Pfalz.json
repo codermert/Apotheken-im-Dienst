@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "54064"
+            "verwendet": "63011"
         },
         "apotheken": {
             "apotheke": [
@@ -148,25 +148,6 @@
                     "startzeit": "08:30",
                     "enddatum": "09.06.2025",
                     "endzeit": "08:30"
-                },
-                {
-                    "name": "Hochwald-Apotheke",
-                    "kammer": "aksaar",
-                    "id": "1544",
-                    "apo_id": "aksaar1544",
-                    "strasse": "Am Hammerberg 3",
-                    "plz": "66620",
-                    "ort": "Nonnweiler-Otzenhausen",
-                    "distanz": "45.63766193483",
-                    "longitude": "6.9755297",
-                    "latitude": "49.6049195",
-                    "telefon": "06873/240",
-                    "fax": "06873/64317",
-                    "email": "info@hochwald-apotheke.de",
-                    "startdatum": "08.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "09.06.2025",
-                    "endzeit": "08:00"
                 },
                 {
                     "name": "Friedrich-Apotheke",
