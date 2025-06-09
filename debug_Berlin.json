@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 35
+            "anzahl": 38
         },
         "quota": {
-            "verwendet": "60705"
+            "verwendet": "84061"
         },
         "apotheken": {
             "apotheke": [
@@ -5686,6 +5686,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Apotheke im Sonnengarten",
+                    "kammer": "lakbb",
+                    "id": "241",
+                    "apo_id": "lakbb241",
+                    "strasse": "Märkische Allee 76",
+                    "plz": "16548",
+                    "ort": "Glienicke/Nordbahn",
+                    "distanz": "13.48323987355",
+                    "longitude": "13.3230005",
+                    "latitude": "52.6313669",
+                    "telefon": "+49 33056 42996",
+                    "fax": [],
+                    "email": "ais@online.de",
+                    "startdatum": "09.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "10.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Apotheke am Kaufland Wilhelmstraße",
                     "kammer": "akb",
                     "id": "101046",
@@ -5779,25 +5798,6 @@
                     "startzeit": "09:00",
                     "enddatum": "09.06.2025",
                     "endzeit": "08:59"
-                },
-                {
-                    "name": "Christophorus Apotheke im Teltow Karree",
-                    "kammer": "lakbb",
-                    "id": "571",
-                    "apo_id": "lakbb571",
-                    "strasse": "Potsdamer Straße 12 A",
-                    "plz": "14513",
-                    "ort": "Teltow",
-                    "distanz": "16.37444421251",
-                    "longitude": "13.24599",
-                    "latitude": "52.39856",
-                    "telefon": "+49 3328 339968",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "08.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "09.06.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }
