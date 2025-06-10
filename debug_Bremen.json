@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "16799"
+            "verwendet": "18705"
         },
         "apotheken": {
             "apotheke": [
@@ -1403,6 +1403,25 @@
                     "startzeit": "09:00",
                     "enddatum": "10.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Linebroker Apotheke",
+                    "kammer": "aknds",
+                    "id": "6579",
+                    "apo_id": "aknds6579",
+                    "strasse": "Lerchenstraße 1",
+                    "plz": "26939",
+                    "ort": "Ovelgönne",
+                    "distanz": "25.57251665078",
+                    "longitude": "8.4023618",
+                    "latitude": "53.2942726",
+                    "telefon": "+49 4480 9498094",
+                    "fax": "+49 4480 9498095",
+                    "email": [],
+                    "startdatum": "10.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "11.06.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Rats-Apotheke",

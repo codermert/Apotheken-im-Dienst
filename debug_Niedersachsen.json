@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 4
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "16892"
+            "verwendet": "18788"
         },
         "apotheken": {
             "apotheke": [
@@ -93,22 +93,41 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Leintor Apotheke",
+                    "name": "Bahnhof-Apotheke",
                     "kammer": "aknds",
-                    "id": "956",
-                    "apo_id": "aknds956",
-                    "strasse": "Hannoversche Str. 12",
+                    "id": "953",
+                    "apo_id": "aknds953",
+                    "strasse": "Wilhelmstr. 19",
                     "plz": "31582",
                     "ort": "Nienburg",
-                    "distanz": "24.42755959594",
-                    "longitude": "9.2117242",
-                    "latitude": "52.6363944",
-                    "telefon": "+49 5021 3250",
-                    "fax": "+49 5021 926200",
+                    "distanz": "23.71717046696",
+                    "longitude": "9.2136038",
+                    "latitude": "52.6437781",
+                    "telefon": "+49 5021 2232",
+                    "fax": "+49 5021 17681",
                     "email": [],
-                    "startdatum": "09.06.2025",
+                    "startdatum": "10.06.2025",
                     "startzeit": "08:00",
-                    "enddatum": "10.06.2025",
+                    "enddatum": "11.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Bären-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1060",
+                    "apo_id": "aknds1060",
+                    "strasse": "Lange Str. 13",
+                    "plz": "27232",
+                    "ort": "Sulingen",
+                    "distanz": "25.044733911719998",
+                    "longitude": "8.81042",
+                    "latitude": "52.6826842",
+                    "telefon": "+49 4271 3475",
+                    "fax": "+49 4271 6754",
+                    "email": [],
+                    "startdatum": "10.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "11.06.2025",
                     "endzeit": "08:00"
                 }
             ]
