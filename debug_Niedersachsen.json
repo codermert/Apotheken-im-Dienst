@@ -31,65 +31,27 @@
             "anzahl": 5
         },
         "quota": {
-            "verwendet": "20339"
+            "verwendet": "21063"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Apotheke am Rathaus",
+                    "name": "Morsumer Apotheke",
                     "kammer": "aknds",
-                    "id": "1491",
-                    "apo_id": "aknds1491",
-                    "strasse": "Große Str. 5",
-                    "plz": "27283",
-                    "ort": "Verden",
-                    "distanz": "13.86068392375",
-                    "longitude": "9.2281548",
-                    "latitude": "52.9237387",
-                    "telefon": "+49 4231 920511",
-                    "fax": "+49 4231 931977",
+                    "id": "1528",
+                    "apo_id": "aknds1528",
+                    "strasse": "Verdener Str. 19",
+                    "plz": "27321",
+                    "ort": "Thedinghausen",
+                    "distanz": "13.04936147193",
+                    "longitude": "9.0780221",
+                    "latitude": "52.9571079",
+                    "telefon": "+49 4204 1611",
+                    "fax": "+49 4204 69918",
                     "email": [],
-                    "startdatum": "09.06.2025",
+                    "startdatum": "10.06.2025",
                     "startzeit": "09:00",
-                    "enddatum": "10.06.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Apotheke im Hufeisen",
-                    "kammer": "aknds",
-                    "id": "2772",
-                    "apo_id": "aknds2772",
-                    "strasse": "Uesener Feldstr. 5",
-                    "plz": "28832",
-                    "ort": "Achim",
-                    "distanz": "18.35605931746",
-                    "longitude": "9.0526972",
-                    "latitude": "53.0041994",
-                    "telefon": "+49 4202 955595",
-                    "fax": "+49 4202 637120",
-                    "email": [],
-                    "startdatum": "09.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "10.06.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Rats-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1066",
-                    "apo_id": "aknds1066",
-                    "strasse": "Herrlichkeit 12",
-                    "plz": "28857",
-                    "ort": "Syke",
-                    "distanz": "18.64159821497",
-                    "longitude": "8.8279949",
-                    "latitude": "52.9143802",
-                    "telefon": "+49 4242 2001",
-                    "fax": "+49 4242 2002",
-                    "email": [],
-                    "startdatum": "09.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "10.06.2025",
+                    "enddatum": "11.06.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -112,6 +74,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Flora-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1381",
+                    "apo_id": "aknds1381",
+                    "strasse": "Hauptstr. 52",
+                    "plz": "28876",
+                    "ort": "Oyten",
+                    "distanz": "24.84988726887",
+                    "longitude": "9.0226419",
+                    "latitude": "53.0608175",
+                    "telefon": "+49 4207 3003",
+                    "fax": "+49 4207 913220",
+                    "email": [],
+                    "startdatum": "10.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "11.06.2025",
+                    "endzeit": "09:00"
+                },
+                {
                     "name": "Bären-Apotheke",
                     "kammer": "aknds",
                     "id": "1060",
@@ -129,6 +110,25 @@
                     "startzeit": "08:00",
                     "enddatum": "11.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Engel-Apotheke",
+                    "kammer": "akbr",
+                    "id": "10196",
+                    "apo_id": "akbr10196",
+                    "strasse": "Sankt-Gotthard-Str. 33 A",
+                    "plz": "28325",
+                    "ort": "Bremen",
+                    "distanz": "26.47098224622",
+                    "longitude": "8.9526864",
+                    "latitude": "53.065767",
+                    "telefon": "+49 421 4093400",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "10.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "11.06.2025",
+                    "endzeit": "09:00"
                 }
             ]
         }
