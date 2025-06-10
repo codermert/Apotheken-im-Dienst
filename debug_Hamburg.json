@@ -3194,7 +3194,7 @@
             "anzahl": 16
         },
         "quota": {
-            "verwendet": "18606"
+            "verwendet": "20119"
         },
         "apotheken": {
             "apotheke": [
@@ -3408,6 +3408,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Linden-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1454",
+                    "apo_id": "aknds1454",
+                    "strasse": "Harburger Str. 28 a",
+                    "plz": "21435",
+                    "ort": "Stelle",
+                    "distanz": "19.62766191653",
+                    "longitude": "10.1049754",
+                    "latitude": "53.385335",
+                    "telefon": "+49 4174 2335",
+                    "fax": "+49 4174 4840",
+                    "email": [],
+                    "startdatum": "10.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "11.06.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Rantzau-Apotheke",
                     "kammer": "aksh",
                     "id": "10578",
@@ -3444,25 +3463,6 @@
                     "startzeit": "08:00",
                     "enddatum": "11.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Apotheke an der Stadthalle",
-                    "kammer": "aknds",
-                    "id": "1513",
-                    "apo_id": "aknds1513",
-                    "strasse": "Luhdorfer Str. 28",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "25.99575978553",
-                    "longitude": "10.2070035",
-                    "latitude": "53.3518837",
-                    "telefon": "+49 4171 783900",
-                    "fax": "+49 4171 7839020",
-                    "email": [],
-                    "startdatum": "09.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "10.06.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Löns-Apotheke",
