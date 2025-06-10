@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 14
+            "anzahl": 7
         },
         "quota": {
-            "verwendet": "69703"
+            "verwendet": "73263"
         },
         "apotheken": {
             "apotheke": [
@@ -55,25 +55,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Hubertus-Apotheke",
-                    "kammer": "akmv",
-                    "id": "172433",
-                    "apo_id": "akmv172433",
-                    "strasse": "Friedensstr. 29",
-                    "plz": "17179",
-                    "ort": "Gnoien",
-                    "distanz": "23.52636928311",
-                    "longitude": "12.7102512",
-                    "latitude": "53.9693156",
-                    "telefon": "+49 39971 1830",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "10.06.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "10.06.2025",
-                    "endzeit": "20:00"
-                },
-                {
                     "name": "Godewind-Apotheke",
                     "kammer": "akmv",
                     "id": "175374",
@@ -91,25 +72,6 @@
                     "startzeit": "08:00",
                     "enddatum": "11.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Apotheke im Tessinum",
-                    "kammer": "akmv",
-                    "id": "178383",
-                    "apo_id": "akmv178383",
-                    "strasse": "Karl-Marx-Straße 14",
-                    "plz": "18195",
-                    "ort": "Tessin",
-                    "distanz": "29.26330939673",
-                    "longitude": "12.4611487",
-                    "latitude": "54.0275934",
-                    "telefon": "+49 38205 71766",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "10.06.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "10.06.2025",
-                    "endzeit": "20:00"
                 },
                 {
                     "name": "Apotheke am Papenberg",
@@ -148,101 +110,6 @@
                     "startzeit": "08:00",
                     "enddatum": "11.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Rosenhof-Apotheke",
-                    "kammer": "akmv",
-                    "id": "174320",
-                    "apo_id": "akmv174320",
-                    "strasse": "Stavenhagener  Str. 25",
-                    "plz": "17091",
-                    "ort": "Rosenow",
-                    "distanz": "34.43305968765",
-                    "longitude": "13.0355102",
-                    "latitude": "53.6278546",
-                    "telefon": "+49 39602 20480",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "10.06.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "10.06.2025",
-                    "endzeit": "20:00"
-                },
-                {
-                    "name": "Hubertus-Apotheke",
-                    "kammer": "akmv",
-                    "id": "172586",
-                    "apo_id": "akmv172586",
-                    "strasse": "Lange Str. 44",
-                    "plz": "17213",
-                    "ort": "Malchow",
-                    "distanz": "34.55495692076",
-                    "longitude": "12.4305189",
-                    "latitude": "53.4752449",
-                    "telefon": "+49 39932 13345",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "10.06.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "10.06.2025",
-                    "endzeit": "20:00"
-                },
-                {
-                    "name": "Schwanen-Apotheke",
-                    "kammer": "akmv",
-                    "id": "175034",
-                    "apo_id": "akmv175034",
-                    "strasse": "EKZ Mühlenteichplatz",
-                    "plz": "18258",
-                    "ort": "Schwaan",
-                    "distanz": "35.925774388520004",
-                    "longitude": "12.1076632",
-                    "latitude": "53.939859",
-                    "telefon": "+49 3844 814219",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "10.06.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "10.06.2025",
-                    "endzeit": "20:00"
-                },
-                {
-                    "name": "Recknitztal-Apotheke",
-                    "kammer": "akmv",
-                    "id": "170172",
-                    "apo_id": "akmv170172",
-                    "strasse": "Am Markt 15",
-                    "plz": "18334",
-                    "ort": "Bad Sülze",
-                    "distanz": "37.88286782336",
-                    "longitude": "12.660129",
-                    "latitude": "54.1101836",
-                    "telefon": "+49 38229 7020",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "10.06.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "10.06.2025",
-                    "endzeit": "20:00"
-                },
-                {
-                    "name": "Plawe-Apotheke",
-                    "kammer": "akmv",
-                    "id": "177006",
-                    "apo_id": "akmv177006",
-                    "strasse": "Steinstr. 42",
-                    "plz": "19395",
-                    "ort": "Plau",
-                    "distanz": "40.7162147733",
-                    "longitude": "12.2617275",
-                    "latitude": "53.4588403",
-                    "telefon": "+49 38735 42196",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "10.06.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "10.06.2025",
-                    "endzeit": "20:00"
                 },
                 {
                     "name": "Fritz-Reuter-Apotheke",
