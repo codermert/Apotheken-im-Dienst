@@ -3194,7 +3194,7 @@
             "anzahl": 15
         },
         "quota": {
-            "verwendet": "14246"
+            "verwendet": "15378"
         },
         "apotheken": {
             "apotheke": [
@@ -3427,25 +3427,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Linden-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1454",
-                    "apo_id": "aknds1454",
-                    "strasse": "Harburger Str. 28 a",
-                    "plz": "21435",
-                    "ort": "Stelle",
-                    "distanz": "19.62766191653",
-                    "longitude": "10.1049754",
-                    "latitude": "53.385335",
-                    "telefon": "+49 4174 2335",
-                    "fax": "+49 4174 4840",
-                    "email": [],
-                    "startdatum": "10.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "11.06.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Barlach-Apotheke",
                     "kammer": "aksh",
                     "id": "10472",
@@ -3482,6 +3463,25 @@
                     "startzeit": "08:00",
                     "enddatum": "12.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Alte Rats-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1507",
+                    "apo_id": "aknds1507",
+                    "strasse": "Rathausstr. 22",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "24.94546823474",
+                    "longitude": "10.2075161",
+                    "latitude": "53.3632732",
+                    "telefon": "+49 4171 2206",
+                    "fax": "+49 4171 4436",
+                    "email": [],
+                    "startdatum": "11.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "12.06.2025",
+                    "endzeit": "08:30"
                 }
             ]
         }
