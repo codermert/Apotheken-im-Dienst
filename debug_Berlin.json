@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 35
+            "anzahl": 39
         },
         "quota": {
-            "verwendet": "12576"
+            "verwendet": "14220"
         },
         "apotheken": {
             "apotheke": [
@@ -5743,6 +5743,44 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Neue Roland Apotheke",
+                    "kammer": "lakbb",
+                    "id": "537",
+                    "apo_id": "lakbb537",
+                    "strasse": "Oranienburger Chaussee 17",
+                    "plz": "16548",
+                    "ort": "Glienicke/Nordbahn",
+                    "distanz": "14.00161131402",
+                    "longitude": "13.30969",
+                    "latitude": "52.63325",
+                    "telefon": "033056 94500",
+                    "fax": "033056 94501",
+                    "email": "info@neue-roland-apotheke.de",
+                    "startdatum": "11.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "12.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Kaufpark Apotheke",
+                    "kammer": "lakbb",
+                    "id": "459",
+                    "apo_id": "lakbb459",
+                    "strasse": "Landsberger Chaussee 17",
+                    "plz": "16356",
+                    "ort": "Ahrensfelde - OT Eiche-Süd",
+                    "distanz": "14.706543724700001",
+                    "longitude": "13.5988534",
+                    "latitude": "52.5497144",
+                    "telefon": "+49 30 9989607",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "11.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "12.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Gartenstadt-Apotheke-Rudow",
                     "kammer": "akb",
                     "id": "100983",
@@ -5754,44 +5792,6 @@
                     "longitude": "13.5072171",
                     "latitude": "52.4040751",
                     "telefon": "+49 30 66920324",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "10.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "11.06.2025",
-                    "endzeit": "08:59"
-                },
-                {
-                    "name": "Teltow Apotheke",
-                    "kammer": "lakbb",
-                    "id": "654",
-                    "apo_id": "lakbb654",
-                    "strasse": "Oderstraße 29",
-                    "plz": "14513",
-                    "ort": "Teltow",
-                    "distanz": "15.65303656493",
-                    "longitude": "13.2523341",
-                    "latitude": "52.4037538",
-                    "telefon": "+49 3328 3345678",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "10.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "11.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Mumm-Apotheke",
-                    "kammer": "akb",
-                    "id": "101033",
-                    "apo_id": "akb101033",
-                    "strasse": "Brunsbütteler Damm 261/263",
-                    "plz": "13591",
-                    "ort": "Berlin",
-                    "distanz": "15.79328027307",
-                    "longitude": "13.1575771",
-                    "latitude": "52.5326347",
-                    "telefon": "+49 30 375869970",
                     "fax": [],
                     "email": [],
                     "startdatum": "10.06.2025",
