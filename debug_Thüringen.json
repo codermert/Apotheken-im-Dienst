@@ -37,48 +37,10 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "22817"
+            "verwendet": "23328"
         },
         "apotheken": {
             "apotheke": [
-                {
-                    "name": "Geratal-Apotheke",
-                    "kammer": "lakt",
-                    "id": "3",
-                    "apo_id": "lakt3",
-                    "strasse": "Bischlebenerstraße 11",
-                    "plz": "99094",
-                    "ort": "Erfurt-Hochheim",
-                    "distanz": "6.30728630403",
-                    "longitude": "11.0037828",
-                    "latitude": "50.9539385",
-                    "telefon": "+49 361 7968301",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "11.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "12.06.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Beethoven-Apotheke",
-                    "kammer": "lakt",
-                    "id": "4207",
-                    "apo_id": "lakt4207",
-                    "strasse": "Friedrich-Ebert-Straße 62",
-                    "plz": "99096",
-                    "ort": "Erfurt",
-                    "distanz": "7.01453847244",
-                    "longitude": "11.04064",
-                    "latitude": "50.9645",
-                    "telefon": "+49 361 3459819",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "11.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "12.06.2025",
-                    "endzeit": "09:00"
-                },
                 {
                     "name": "Apotheke Neudietendorf",
                     "kammer": "lakt",
@@ -97,6 +59,44 @@
                     "startzeit": "08:00",
                     "enddatum": "13.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Löwen-Apotheke",
+                    "kammer": "lakt",
+                    "id": "282",
+                    "apo_id": "lakt282",
+                    "strasse": "Johannesstraße 143",
+                    "plz": "99084",
+                    "ort": "Erfurt",
+                    "distanz": "8.99207849515",
+                    "longitude": "11.0317976",
+                    "latitude": "50.9822133",
+                    "telefon": "+49 361 5402272",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "12.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "13.06.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Rieth-Apotheke",
+                    "kammer": "lakt",
+                    "id": "12",
+                    "apo_id": "lakt12",
+                    "strasse": "Mainzer Straße 35",
+                    "plz": "99089",
+                    "ort": "Erfurt",
+                    "distanz": "11.62449364034",
+                    "longitude": "11.0155075",
+                    "latitude": "51.0050127",
+                    "telefon": "+49 361 7922040",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "12.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "13.06.2025",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Apotheke am Jakobstor",
