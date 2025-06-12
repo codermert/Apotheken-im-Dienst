@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 37
+            "anzahl": 32
         },
         "quota": {
-            "verwendet": "19136"
+            "verwendet": "20923"
         },
         "apotheken": {
             "apotheke": [
@@ -5705,25 +5705,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Neue Roland Apotheke",
-                    "kammer": "lakbb",
-                    "id": "537",
-                    "apo_id": "lakbb537",
-                    "strasse": "Oranienburger Chaussee 17",
-                    "plz": "16548",
-                    "ort": "Glienicke/Nordbahn",
-                    "distanz": "14.00161131402",
-                    "longitude": "13.30969",
-                    "latitude": "52.63325",
-                    "telefon": "033056 94500",
-                    "fax": "033056 94501",
-                    "email": "info@neue-roland-apotheke.de",
-                    "startdatum": "11.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "12.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Bahnhof-Apotheke",
                     "kammer": "akb",
                     "id": "100784",
@@ -5762,41 +5743,60 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Kaufpark Apotheke",
-                    "kammer": "lakbb",
-                    "id": "459",
-                    "apo_id": "lakbb459",
-                    "strasse": "Landsberger Chaussee 17",
-                    "plz": "16356",
-                    "ort": "Ahrensfelde - OT Eiche-Süd",
-                    "distanz": "14.706543724700001",
-                    "longitude": "13.5988534",
-                    "latitude": "52.5497144",
-                    "telefon": "+49 30 9989607",
+                    "name": "Süd-Apotheke",
+                    "kammer": "akb",
+                    "id": "100559",
+                    "apo_id": "akb100559",
+                    "strasse": "Wendenschloßstr. 324 A",
+                    "plz": "12557",
+                    "ort": "Berlin",
+                    "distanz": "16.5491798591",
+                    "longitude": "13.584558",
+                    "latitude": "52.428512",
+                    "telefon": "+49 30 6559474",
                     "fax": [],
                     "email": [],
                     "startdatum": "11.06.2025",
-                    "startzeit": "08:00",
+                    "startzeit": "09:00",
                     "enddatum": "12.06.2025",
+                    "endzeit": "08:59"
+                },
+                {
+                    "name": "Apotheke am Mädchenviertel",
+                    "kammer": "lakbb",
+                    "id": "673",
+                    "apo_id": "lakbb673",
+                    "strasse": "Schönfließer Straße 25 G",
+                    "plz": "16540",
+                    "ort": "Hohen Neuendorf",
+                    "distanz": "17.71036666798",
+                    "longitude": "13.2964504",
+                    "latitude": "52.6659077",
+                    "telefon": "03303 5416700",
+                    "fax": "03303 5416701",
+                    "email": "aam@apotheke-am-maedchenviertel.de",
+                    "startdatum": "12.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "13.06.2025",
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Apotheke am Fuchsbau",
+                    "name": "Bäke-Apotheke",
                     "kammer": "lakbb",
-                    "id": "520",
-                    "apo_id": "lakbb520",
-                    "strasse": "Karl-Marx-Straße 58-60",
+                    "id": "454",
+                    "apo_id": "lakbb454",
+                    "strasse": "Potsdamer Allee 3",
                     "plz": "14532",
-                    "ort": "Kleinmachnow",
-                    "distanz": "16.07952445702",
-                    "longitude": "13.2242209",
-                    "latitude": "52.4132626",
-                    "telefon": "+49 33203 78554",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "11.06.2025",
+                    "ort": "Stahnsdorf",
+                    "distanz": "18.220369226850003",
+                    "longitude": "13.21385",
+                    "latitude": "52.39302",
+                    "telefon": "03329 /612600",
+                    "fax": "03329 / 697 96 66",
+                    "email": "baeke-apotheke@t-online.de",
+                    "startdatum": "12.06.2025",
                     "startzeit": "08:00",
-                    "enddatum": "12.06.2025",
+                    "enddatum": "13.06.2025",
                     "endzeit": "08:00"
                 }
             ]
