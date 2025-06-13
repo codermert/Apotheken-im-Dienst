@@ -3194,7 +3194,7 @@
             "anzahl": 19
         },
         "quota": {
-            "verwendet": "18980"
+            "verwendet": "20609"
         },
         "apotheken": {
             "apotheke": [
@@ -3427,25 +3427,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Markt-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1418",
-                    "apo_id": "aknds1418",
-                    "strasse": "Schulstr. 44",
-                    "plz": "21220",
-                    "ort": "Seevetal",
-                    "distanz": "17.34142706463",
-                    "longitude": "10.0428773",
-                    "latitude": "53.3965761",
-                    "telefon": "+49 4105 82061",
-                    "fax": "+49 4105 81668",
-                    "email": [],
-                    "startdatum": "12.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "13.06.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Holsten-Apotheke",
                     "kammer": "aksh",
                     "id": "10577",
@@ -3587,6 +3568,25 @@
                     "startzeit": "08:00",
                     "enddatum": "14.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "wir leben-Apotheke am Bahnhof",
+                    "kammer": "aknds",
+                    "id": "1509",
+                    "apo_id": "aknds1509",
+                    "strasse": "Bahnhofstr. 67",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "25.60830350646",
+                    "longitude": "10.2061221",
+                    "latitude": "53.3556573",
+                    "telefon": "+49 4171 71460",
+                    "fax": "+49 4171 75478",
+                    "email": [],
+                    "startdatum": "13.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "14.06.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Adler-Apotheke",
