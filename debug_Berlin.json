@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 34
+            "anzahl": 35
         },
         "quota": {
-            "verwendet": "17691"
+            "verwendet": "18943"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,6 +5762,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Steinbock Apotheke Schildow",
+                    "kammer": "lakbb",
+                    "id": "653",
+                    "apo_id": "lakbb653",
+                    "strasse": "Bahnhofstraße 5b",
+                    "plz": "16552",
+                    "ort": "Mühlenbecker Land - OT Schildow",
+                    "distanz": "13.35524852805",
+                    "longitude": "13.3749982",
+                    "latitude": "52.6367557",
+                    "telefon": "+49 33056 270004",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "13.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "14.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Seegefelder Apotheke",
                     "kammer": "akb",
                     "id": "100898",
@@ -5773,25 +5792,6 @@
                     "longitude": "13.1880561",
                     "latitude": "52.537237",
                     "telefon": "+49 30 3332484",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "12.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "13.06.2025",
-                    "endzeit": "08:59"
-                },
-                {
-                    "name": "Sanimedius-Apotheke im Corso",
-                    "kammer": "akb",
-                    "id": "100616",
-                    "apo_id": "akb100616",
-                    "strasse": "Neue Grottkauer Str. 3",
-                    "plz": "12619",
-                    "ort": "Berlin",
-                    "distanz": "13.903832468380001",
-                    "longitude": "13.5926832",
-                    "latitude": "52.5295103",
-                    "telefon": "+49 30 56498385",
                     "fax": [],
                     "email": [],
                     "startdatum": "12.06.2025",
