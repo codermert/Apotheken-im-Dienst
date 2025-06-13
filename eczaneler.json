@@ -551,7 +551,88 @@
       "mesafe": "26.4 km"
     }
   ],
-  "Bayern": [],
+  "Bayern": [
+    {
+      "eczaneAdi": "Apotheke am Adlmannsberg",
+      "adres": "Ziegelberg 2, 85139 Wettstetten",
+      "telefon": "+49 841 99365388",
+      "enlem": "48.8165067",
+      "boylam": "11.4144851",
+      "mesafe": "14.5 km"
+    },
+    {
+      "eczaneAdi": "Süd-Apotheke",
+      "adres": "Münchener Str. 99, 85051 Ingolstadt",
+      "telefon": "+49 841 72190",
+      "enlem": "48.7430152",
+      "boylam": "11.4343175",
+      "mesafe": "22.8 km"
+    },
+    {
+      "eczaneAdi": "Antonius-Apotheke",
+      "adres": "Kelsstr. 8, 85104 Pförring",
+      "telefon": "+49 8403 9395330",
+      "enlem": "48.8096631",
+      "boylam": "11.6895161",
+      "mesafe": "25.9 km"
+    },
+    {
+      "eczaneAdi": "Elisen-Apotheke",
+      "adres": "Ingolstädterstr. 16, 86633 Neuburg a. d. Donau",
+      "telefon": "+49 8431 44882",
+      "enlem": "48.7416585",
+      "boylam": "11.1824781",
+      "mesafe": "28.0 km"
+    },
+    {
+      "eczaneAdi": "Viscardi-Apotheke",
+      "adres": "Berchingerstr. 13, 92342 Freystadt",
+      "telefon": "+49 9179 94206",
+      "enlem": "49.1971191",
+      "boylam": "11.3326275",
+      "mesafe": "28.3 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Rathaus",
+      "adres": "Stadtplatz 3, 93155 Hemau",
+      "telefon": "+49 9491 1850",
+      "enlem": "49.0519438",
+      "boylam": "11.7827499",
+      "mesafe": "30.1 km"
+    },
+    {
+      "eczaneAdi": "Burg-Apotheke",
+      "adres": "Obertorstr. 18, 91781 Weißenburg",
+      "telefon": "+49 9141 2537",
+      "enlem": "49.0303449",
+      "boylam": "10.9761378",
+      "mesafe": "32.7 km"
+    },
+    {
+      "eczaneAdi": "Heilig-Kreuz-Apotheke",
+      "adres": "Donaupark 6, 93309 Kelheim",
+      "telefon": "+49 9441 10295",
+      "enlem": "48.9128847",
+      "boylam": "11.8717056",
+      "mesafe": "34.5 km"
+    },
+    {
+      "eczaneAdi": "Stadt-Apotheke",
+      "adres": "Hauptstr. 46, 86641 Rain",
+      "telefon": "+49 9090 91070",
+      "enlem": "48.69041",
+      "boylam": "10.9163401",
+      "mesafe": "45.8 km"
+    },
+    {
+      "eczaneAdi": "Wendelstein-Apotheke",
+      "adres": "Hauptstr. 11, 90530 Wendelstein",
+      "telefon": "+49 9129 4316",
+      "enlem": "49.3556",
+      "boylam": "11.14245",
+      "mesafe": "49.3 km"
+    }
+  ],
   "Brandenburg": [
     {
       "eczaneAdi": "Adler-Apotheke",
@@ -1082,64 +1163,7 @@
       "mesafe": "27.3 km"
     }
   ],
-  "Schleswig-Holstein": [
-    {
-      "eczaneAdi": "Delphin-Apotheke",
-      "adres": "Hürsland 96, 24536 Neumünster",
-      "telefon": "04321-939121",
-      "enlem": "54.098726",
-      "boylam": "9.995913",
-      "mesafe": "14.9 km"
-    },
-    {
-      "eczaneAdi": "Rathaus-Apotheke",
-      "adres": "Am Markt 13, 24594 Hohenwestedt",
-      "telefon": "04871-4411",
-      "enlem": "54.0893209",
-      "boylam": "9.651362",
-      "mesafe": "15.5 km"
-    },
-    {
-      "eczaneAdi": "Kronwerk-Apotheke",
-      "adres": "Hollesenstr. 35, 24768 Rendsburg",
-      "telefon": "04331-75144",
-      "enlem": "54.30746",
-      "boylam": "9.65079",
-      "mesafe": "17.6 km"
-    },
-    {
-      "eczaneAdi": "Mettenhof Apotheke",
-      "adres": "Kurt-Schumacher-Platz 15, 24109 Kiel",
-      "telefon": "+49 431 524001",
-      "enlem": "54.32202",
-      "boylam": "10.05289",
-      "mesafe": "21.4 km"
-    },
-    {
-      "eczaneAdi": "Apotheke im Hochhaus",
-      "adres": "Bgm.-Drews-Str. 2, 24119 Kronshagen",
-      "telefon": "0431-589284",
-      "enlem": "54.3309357",
-      "boylam": "10.0846881",
-      "mesafe": "23.6 km"
-    },
-    {
-      "eczaneAdi": "Phönix-Apotheke",
-      "adres": "Ringstr. 32, 24103 Kiel",
-      "telefon": "0431-62737",
-      "enlem": "54.3158513",
-      "boylam": "10.1269737",
-      "mesafe": "24.6 km"
-    },
-    {
-      "eczaneAdi": "Krokodil-Apotheke",
-      "adres": "Hauptstr. 18a, 24623 Großenaspe",
-      "telefon": "04327-141618",
-      "enlem": "53.97581",
-      "boylam": "9.96712",
-      "mesafe": "25.2 km"
-    }
-  ],
+  "Schleswig-Holstein": [],
   "Thüringen": [
     {
       "eczaneAdi": "Mohren-Apotheke",
