@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "41444"
+            "verwendet": "42450"
         },
         "apotheken": {
             "apotheke": [
@@ -110,6 +110,44 @@
                     "startzeit": "08:00",
                     "enddatum": "15.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Rats-Apotheke",
+                    "kammer": "akmv",
+                    "id": "172688",
+                    "apo_id": "akmv172688",
+                    "strasse": "Lange Straße 37",
+                    "plz": "18246",
+                    "ort": "Bützow",
+                    "distanz": "39.854572889210004",
+                    "longitude": "11.9836702",
+                    "latitude": "53.8477457",
+                    "telefon": "+49 38461 3791",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "14.06.2025",
+                    "startzeit": "12:00",
+                    "enddatum": "14.06.2025",
+                    "endzeit": "13:00"
+                },
+                {
+                    "name": "Bären-Apotheke",
+                    "kammer": "akmv",
+                    "id": "177023",
+                    "apo_id": "akmv177023",
+                    "strasse": "Jahnstr. 17",
+                    "plz": "17087",
+                    "ort": "Altentreptow",
+                    "distanz": "45.16809143296",
+                    "longitude": "13.2450552",
+                    "latitude": "53.6893167",
+                    "telefon": "+49 3961 216540",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "14.06.2025",
+                    "startzeit": "12:00",
+                    "enddatum": "14.06.2025",
+                    "endzeit": "13:00"
                 },
                 {
                     "name": "John-Brinckman-Apotheke Schröder und Weiß oHG",
