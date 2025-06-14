@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "21290"
+            "verwendet": "23129"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,6 +1310,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Heide-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1747",
+                    "apo_id": "aknds1747",
+                    "strasse": "Schönemoorer Landstr. 6",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "9.2016662908",
+                    "longitude": "8.6217333",
+                    "latitude": "53.0742622",
+                    "telefon": "+49 4221 43949",
+                    "fax": "+49 4221 44049",
+                    "email": [],
+                    "startdatum": "14.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "15.06.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "AVIE Apotheke OHZ",
                     "kammer": "aknds",
                     "id": "6520",
@@ -1348,25 +1367,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Schauburg-Apotheke Delcare oHG",
-                    "kammer": "aknds",
-                    "id": "1674",
-                    "apo_id": "aknds1674",
-                    "strasse": "Lange Str. 35",
-                    "plz": "27749",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.506726582110002",
-                    "longitude": "8.6309963",
-                    "latitude": "53.0484986",
-                    "telefon": "+49 4221 13597",
-                    "fax": "+49 4221 16621",
-                    "email": [],
-                    "startdatum": "13.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "14.06.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "St.-Jürgen-Apotheke",
                     "kammer": "akbr",
                     "id": "10171",
@@ -1384,6 +1384,25 @@
                     "startzeit": "09:00",
                     "enddatum": "14.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Süd Apotheke",
+                    "kammer": "aknds",
+                    "id": "1679",
+                    "apo_id": "aknds1679",
+                    "strasse": "Düsternortstr. 114",
+                    "plz": "27755",
+                    "ort": "Delmenhorst",
+                    "distanz": "12.97849030241",
+                    "longitude": "8.6395399",
+                    "latitude": "53.0328179",
+                    "telefon": "+49 4221 96630",
+                    "fax": "+49 4221 966320",
+                    "email": [],
+                    "startdatum": "14.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "15.06.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Kosmos Apotheke",
