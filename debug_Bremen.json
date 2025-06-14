@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "20148"
+            "verwendet": "21290"
         },
         "apotheken": {
             "apotheke": [
@@ -1422,6 +1422,25 @@
                     "startzeit": "09:00",
                     "enddatum": "14.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "St. Bernhard-Apotheke",
+                    "kammer": "aknds",
+                    "id": "5989",
+                    "apo_id": "aknds5989",
+                    "strasse": "Claußenstraße 4",
+                    "plz": "26919",
+                    "ort": "Brake",
+                    "distanz": "24.4689226542",
+                    "longitude": "8.4831568",
+                    "latitude": "53.325019",
+                    "telefon": "+49 4401 7057730",
+                    "fax": "+49 4401 7057731",
+                    "email": [],
+                    "startdatum": "14.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "15.06.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }

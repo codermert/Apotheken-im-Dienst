@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 32
+            "anzahl": 29
         },
         "quota": {
-            "verwendet": "19981"
+            "verwendet": "21104"
         },
         "apotheken": {
             "apotheke": [
@@ -5667,25 +5667,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Steinbock Apotheke Schildow",
-                    "kammer": "lakbb",
-                    "id": "653",
-                    "apo_id": "lakbb653",
-                    "strasse": "Bahnhofstraße 5b",
-                    "plz": "16552",
-                    "ort": "Mühlenbecker Land - OT Schildow",
-                    "distanz": "13.35524852805",
-                    "longitude": "13.3749982",
-                    "latitude": "52.6367557",
-                    "telefon": "+49 33056 270004",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "13.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "14.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Kienberg-Apotheke",
                     "kammer": "akb",
                     "id": "100011",
@@ -5762,41 +5743,60 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Kranich Apotheke",
+                    "name": "Stadt-Apotheke",
                     "kammer": "lakbb",
-                    "id": "392",
-                    "apo_id": "lakbb392",
-                    "strasse": "Mahlsdorfer Straße 61",
-                    "plz": "15366",
-                    "ort": "Hoppegarten",
-                    "distanz": "16.71538435437",
-                    "longitude": "13.6329778",
-                    "latitude": "52.5369441",
-                    "telefon": "030 9983553",
-                    "fax": "030 99284061",
-                    "email": "info@kranich-apotheke.net",
-                    "startdatum": "13.06.2025",
+                    "id": "284",
+                    "apo_id": "lakbb284",
+                    "strasse": "Ruhlsdorfer Straße 3",
+                    "plz": "14513",
+                    "ort": "Teltow",
+                    "distanz": "15.388441346859999",
+                    "longitude": "13.268184",
+                    "latitude": "52.4000311",
+                    "telefon": "+49 3328 41332",
+                    "fax": "+49 3328 41364",
+                    "email": "info@apotheke-teltow.com",
+                    "startdatum": "14.06.2025",
                     "startzeit": "08:00",
-                    "enddatum": "14.06.2025",
+                    "enddatum": "15.06.2025",
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "August-Bebel-Apotheke",
+                    "name": "Falken Apotheke am Kaufland",
                     "kammer": "lakbb",
-                    "id": "383",
-                    "apo_id": "lakbb383",
-                    "strasse": "August-Bebel-Platz 4",
-                    "plz": "14532",
-                    "ort": "Kleinmachnow",
-                    "distanz": "17.23916634571",
-                    "longitude": "13.2151912",
-                    "latitude": "52.4041315",
-                    "telefon": "+49 33203 71412",
+                    "id": "623",
+                    "apo_id": "lakbb623",
+                    "strasse": "Am Lückefeld 97",
+                    "plz": "15831",
+                    "ort": "Blankenfelde-Mahlow - OT Mahlow",
+                    "distanz": "18.037936057489997",
+                    "longitude": "13.4323881",
+                    "latitude": "52.3571329",
+                    "telefon": "+49 3379 203702",
+                    "fax": "+49 3379 203703",
+                    "email": [],
+                    "startdatum": "14.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "15.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Vita-Apotheke",
+                    "kammer": "lakbb",
+                    "id": "373",
+                    "apo_id": "lakbb373",
+                    "strasse": "Schönfließer Straße 7",
+                    "plz": "16540",
+                    "ort": "Hohen Neuendorf",
+                    "distanz": "18.46810342489",
+                    "longitude": "13.28348",
+                    "latitude": "52.67009",
+                    "telefon": "+49 3303 503700",
                     "fax": [],
                     "email": [],
-                    "startdatum": "13.06.2025",
+                    "startdatum": "14.06.2025",
                     "startzeit": "08:00",
-                    "enddatum": "14.06.2025",
+                    "enddatum": "15.06.2025",
                     "endzeit": "08:00"
                 }
             ]
