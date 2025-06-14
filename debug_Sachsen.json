@@ -381,7 +381,7 @@
             "anzahl": 19
         },
         "quota": {
-            "verwendet": "95182"
+            "verwendet": "102315"
         },
         "apotheken": {
             "apotheke": [
@@ -576,6 +576,25 @@
                     "endzeit": "18:00"
                 },
                 {
+                    "name": "Apotheke an der Elbe",
+                    "kammer": "slak",
+                    "id": "871",
+                    "apo_id": "slak871",
+                    "strasse": "Weintraubenstraße 31",
+                    "plz": "01445",
+                    "ort": "Radebeul",
+                    "distanz": "23.45966392379",
+                    "longitude": "13.6554981",
+                    "latitude": "51.0999546",
+                    "telefon": "+49 351 837390",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "14.06.2025",
+                    "startzeit": "16:00",
+                    "enddatum": "15.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Apotheke am Dr.-Külz-Ring",
                     "kammer": "slak",
                     "id": "1101",
@@ -726,25 +745,6 @@
                     "startzeit": "12:00",
                     "enddatum": "14.06.2025",
                     "endzeit": "18:00"
-                },
-                {
-                    "name": "Elbtal-Apotheke",
-                    "kammer": "slak",
-                    "id": "837",
-                    "apo_id": "slak837",
-                    "strasse": "Niederauer Straße 43",
-                    "plz": "01662",
-                    "ort": "Meißen",
-                    "distanz": "26.72724801908",
-                    "longitude": "13.50182",
-                    "latitude": "51.16827",
-                    "telefon": "+49 3521 72030",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "14.06.2025",
-                    "startzeit": "12:00",
-                    "enddatum": "14.06.2025",
-                    "endzeit": "16:00"
                 }
             ]
         }
