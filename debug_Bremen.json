@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "333915"
+            "verwendet": "345062"
         },
         "apotheken": {
             "apotheke": [
@@ -1327,6 +1327,25 @@
                     "startzeit": "08:30",
                     "enddatum": "16.06.2025",
                     "endzeit": "08:30"
+                },
+                {
+                    "name": "Max & Moritz Apotheke",
+                    "kammer": "aknds",
+                    "id": "1369",
+                    "apo_id": "aknds1369",
+                    "strasse": "Marktplatz 12",
+                    "plz": "27711",
+                    "ort": "Osterholz-Scharmbeck",
+                    "distanz": "11.20432393113",
+                    "longitude": "8.7870547",
+                    "latitude": "53.228296",
+                    "telefon": "+49 4791 985588",
+                    "fax": "+49 4791 985587",
+                    "email": [],
+                    "startdatum": "15.06.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "15.06.2025",
+                    "endzeit": "19:00"
                 },
                 {
                     "name": "Euro-Apotheke",
