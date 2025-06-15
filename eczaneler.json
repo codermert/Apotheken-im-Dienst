@@ -933,7 +933,40 @@
       "mesafe": "27.3 km"
     }
   ],
-  "Hessen": [],
+  "Hessen": [
+    {
+      "eczaneAdi": "Rathaus Apotheke",
+      "adres": "Vogelsbergstraße 79, 63679 Schotten",
+      "telefon": "+49 6044 4144",
+      "enlem": "50.5014131",
+      "boylam": "9.1236779",
+      "mesafe": "13.6 km"
+    },
+    {
+      "eczaneAdi": "Hof-Apotheke",
+      "adres": "Unterstadt 25, 35423 Lich",
+      "telefon": "+49 6404 2259",
+      "enlem": "50.51884",
+      "boylam": "8.81884",
+      "mesafe": "17.9 km"
+    },
+    {
+      "eczaneAdi": "Storchen Apotheke",
+      "adres": "Mühlgasse 11, 35274 Kirchhain",
+      "telefon": "+49 6422 8992760",
+      "enlem": "50.8206",
+      "boylam": "8.92217",
+      "mesafe": "24.8 km"
+    },
+    {
+      "eczaneAdi": "Pelikan Apotheke am Marktplatz",
+      "adres": "Marktstr. 2, 35390 Gießen",
+      "telefon": "+49 641 33376",
+      "enlem": "50.58646",
+      "boylam": "8.674",
+      "mesafe": "25.2 km"
+    }
+  ],
   "Mecklenburg-Vorpommern": [
     {
       "eczaneAdi": "Apotheke am Wasserturm",
@@ -1298,56 +1331,7 @@
       "mesafe": "24.0 km"
     }
   ],
-  "Schleswig-Holstein": [
-    {
-      "eczaneAdi": "staggenborg die apotheke",
-      "adres": "Am Ahlmannkai 2, 24782 Büdelsdorf",
-      "telefon": "04331-697890",
-      "enlem": "54.3109675",
-      "boylam": "9.6626097",
-      "mesafe": "17.4 km"
-    },
-    {
-      "eczaneAdi": "Ring-Apotheke",
-      "adres": "Haart 87-89, 24534 Neumünster",
-      "telefon": "04321-23443",
-      "enlem": "54.06611",
-      "boylam": "9.99632",
-      "mesafe": "17.5 km"
-    },
-    {
-      "eczaneAdi": "Neptun-Apotheke",
-      "adres": "Exerzierplatz 34, 24103 Kiel",
-      "telefon": "+49 431 95739",
-      "enlem": "54.3217",
-      "boylam": "10.12945",
-      "mesafe": "25.1 km"
-    },
-    {
-      "eczaneAdi": "Apotheke 403",
-      "adres": "Eckernförder Str. 403, 24107 Kiel",
-      "telefon": "0431-313330",
-      "enlem": "54.355016",
-      "boylam": "10.0860541",
-      "mesafe": "25.5 km"
-    },
-    {
-      "eczaneAdi": "Central-Apotheke",
-      "adres": "Preetzer Chaussee 134, 24146 Kiel",
-      "telefon": "+49 431 780510",
-      "enlem": "54.29608",
-      "boylam": "10.17642",
-      "mesafe": "26.2 km"
-    },
-    {
-      "eczaneAdi": "Hirsch-Apotheke",
-      "adres": "Herrenstr. 8, 24214 Gettorf",
-      "telefon": "04346-6632",
-      "enlem": "54.40977",
-      "boylam": "9.97678",
-      "mesafe": "26.9 km"
-    }
-  ],
+  "Schleswig-Holstein": [],
   "Thüringen": [
     {
       "eczaneAdi": "Apollo-Apotheke Mitte",
