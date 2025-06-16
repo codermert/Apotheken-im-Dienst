@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 38
+            "anzahl": 36
         },
         "quota": {
-            "verwendet": "15636"
+            "verwendet": "16039"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,25 +5762,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Dorf-Apotheke",
-                    "kammer": "lakbb",
-                    "id": "446",
-                    "apo_id": "lakbb446",
-                    "strasse": "Dorfstraße 17",
-                    "plz": "16356",
-                    "ort": "Ahrensfelde",
-                    "distanz": "14.103945313390001",
-                    "longitude": "13.5740345",
-                    "latitude": "52.5746579",
-                    "telefon": "+49 30 93772171",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "15.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "16.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Sonnen-Apotheke",
                     "kammer": "akb",
                     "id": "100548",
@@ -5798,6 +5779,25 @@
                     "startzeit": "09:00",
                     "enddatum": "16.06.2025",
                     "endzeit": "08:59"
+                },
+                {
+                    "name": "Heine-Apotheke",
+                    "kammer": "lakbb",
+                    "id": "385",
+                    "apo_id": "lakbb385",
+                    "strasse": "Bahnhofstraße 83",
+                    "plz": "16341",
+                    "ort": "Panketal",
+                    "distanz": "17.117794892499997",
+                    "longitude": "13.5165561",
+                    "latitude": "52.6497512",
+                    "telefon": "+49 30 94417813",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "16.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "17.06.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }

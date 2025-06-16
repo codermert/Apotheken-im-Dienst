@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 7
         },
         "quota": {
-            "verwendet": "15861"
+            "verwendet": "16282"
         },
         "apotheken": {
             "apotheke": [
@@ -93,22 +93,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Eichen-Apotheke",
+                    "name": "Apotheke Erichshagen",
                     "kammer": "aknds",
-                    "id": "954",
-                    "apo_id": "aknds954",
-                    "strasse": "Verdener Landstr. 134",
+                    "id": "962",
+                    "apo_id": "aknds962",
+                    "strasse": "Celler Str. 62",
                     "plz": "31582",
                     "ort": "Nienburg",
-                    "distanz": "22.105350231280003",
-                    "longitude": "9.2215718",
-                    "latitude": "52.66194",
-                    "telefon": "+49 5021 18831",
-                    "fax": "+49 5021 64644",
+                    "distanz": "22.87586663499",
+                    "longitude": "9.2267429",
+                    "latitude": "52.6557705",
+                    "telefon": "+49 5021 63938",
+                    "fax": "+49 5021 961008",
                     "email": [],
-                    "startdatum": "15.06.2025",
+                    "startdatum": "16.06.2025",
                     "startzeit": "08:00",
-                    "enddatum": "16.06.2025",
+                    "enddatum": "17.06.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -129,6 +129,25 @@
                     "startzeit": "08:30",
                     "enddatum": "16.06.2025",
                     "endzeit": "08:30"
+                },
+                {
+                    "name": "Sule-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1063",
+                    "apo_id": "aknds1063",
+                    "strasse": "Lange Straße 25-27",
+                    "plz": "27232",
+                    "ort": "Sulingen",
+                    "distanz": "25.88536813323",
+                    "longitude": "8.7957161",
+                    "latitude": "52.6810922",
+                    "telefon": "+49 4271 2958",
+                    "fax": "+49 4271 4779",
+                    "email": [],
+                    "startdatum": "16.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "17.06.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Gänse-Apotheke",
