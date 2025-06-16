@@ -28,68 +28,30 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "18732"
+            "verwendet": "20011"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Stern-Apotheke",
+                    "name": "Hirsch-Apotheke am Holzmarkt H. Wittboldt-Müller e.K.",
                     "kammer": "aknds",
-                    "id": "942",
-                    "apo_id": "aknds942",
-                    "strasse": "Alte Bremer Str. 1",
-                    "plz": "27327",
-                    "ort": "Martfeld",
-                    "distanz": "4.13077355392",
-                    "longitude": "9.0627471",
-                    "latitude": "52.8761004",
-                    "telefon": "+49 4255 277",
-                    "fax": "+49 4255 1349",
+                    "id": "1483",
+                    "apo_id": "aknds1483",
+                    "strasse": "Holzmarkt 8",
+                    "plz": "27283",
+                    "ort": "Verden",
+                    "distanz": "14.06344929382",
+                    "longitude": "9.2348008",
+                    "latitude": "52.9219332",
+                    "telefon": "+49 4231 2680",
+                    "fax": "+49 4231 930056",
                     "email": [],
-                    "startdatum": "15.06.2025",
+                    "startdatum": "16.06.2025",
                     "startzeit": "09:00",
-                    "enddatum": "16.06.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Paracelsus-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1310",
-                    "apo_id": "aknds1310",
-                    "strasse": "Hauptstr. 65",
-                    "plz": "27299",
-                    "ort": "Langwedel",
-                    "distanz": "16.71799326096",
-                    "longitude": "9.1700856",
-                    "latitude": "52.9788867",
-                    "telefon": "+49 4232 1589",
-                    "fax": "+49 4232 1739",
-                    "email": [],
-                    "startdatum": "15.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "16.06.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Apotheke im Hufeisen",
-                    "kammer": "aknds",
-                    "id": "2772",
-                    "apo_id": "aknds2772",
-                    "strasse": "Uesener Feldstr. 5",
-                    "plz": "28832",
-                    "ort": "Achim",
-                    "distanz": "18.35605931746",
-                    "longitude": "9.0526972",
-                    "latitude": "53.0041994",
-                    "telefon": "+49 4202 955595",
-                    "fax": "+49 4202 637120",
-                    "email": [],
-                    "startdatum": "15.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "16.06.2025",
+                    "enddatum": "17.06.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -112,6 +74,44 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Apotheke 55 im Augenzentrum",
+                    "kammer": "aknds",
+                    "id": "7375",
+                    "apo_id": "aknds7375",
+                    "strasse": "Henry-Wetjen-Platz 3",
+                    "plz": "28844",
+                    "ort": "Weyhe",
+                    "distanz": "23.952950818829997",
+                    "longitude": "8.8169272",
+                    "latitude": "52.9875338",
+                    "telefon": "+49 421 83056800",
+                    "fax": "+49 421 83056801",
+                    "email": [],
+                    "startdatum": "16.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "17.06.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Flora-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1381",
+                    "apo_id": "aknds1381",
+                    "strasse": "Hauptstr. 52",
+                    "plz": "28876",
+                    "ort": "Oyten",
+                    "distanz": "24.84988726887",
+                    "longitude": "9.0226419",
+                    "latitude": "53.0608175",
+                    "telefon": "+49 4207 3003",
+                    "fax": "+49 4207 913220",
+                    "email": [],
+                    "startdatum": "16.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "17.06.2025",
+                    "endzeit": "09:00"
+                },
+                {
                     "name": "Sule-Apotheke",
                     "kammer": "aknds",
                     "id": "1063",
@@ -129,25 +129,6 @@
                     "startzeit": "08:00",
                     "enddatum": "17.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Gänse-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1058",
-                    "apo_id": "aknds1058",
-                    "strasse": "Hauptstr. 52 a",
-                    "plz": "28816",
-                    "ort": "Stuhr",
-                    "distanz": "27.126545560809998",
-                    "longitude": "8.75856",
-                    "latitude": "52.99021",
-                    "telefon": "+49 421 8099636",
-                    "fax": "+49 421 8099637",
-                    "email": [],
-                    "startdatum": "15.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "16.06.2025",
-                    "endzeit": "09:00"
                 }
             ]
         }
