@@ -3191,32 +3191,13 @@
             ]
         },
         "statistik": {
-            "anzahl": 19
+            "anzahl": 18
         },
         "quota": {
-            "verwendet": "16123"
+            "verwendet": "18523"
         },
         "apotheken": {
             "apotheke": [
-                {
-                    "name": "HafenCity Apotheke",
-                    "kammer": "akh",
-                    "id": "12059",
-                    "apo_id": "akh12059",
-                    "strasse": "Überseeboulevard 7",
-                    "plz": "20457",
-                    "ort": "Hamburg",
-                    "distanz": "0.81246546",
-                    "longitude": "9.99748",
-                    "latitude": "53.54329",
-                    "telefon": "+49 40 83504401",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "15.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "16.06.2025",
-                    "endzeit": "08:30"
-                },
                 {
                     "name": "Vital-Apotheke am Opernhaus",
                     "kammer": "akh",
@@ -3446,6 +3427,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Iris-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1417",
+                    "apo_id": "aknds1417",
+                    "strasse": "Schulstr. 29-31",
+                    "plz": "21220",
+                    "ort": "Seevetal",
+                    "distanz": "17.49115951688",
+                    "longitude": "10.0383807",
+                    "latitude": "53.3948011",
+                    "telefon": "+49 4105 82074",
+                    "fax": "+49 4105 80588",
+                    "email": [],
+                    "startdatum": "16.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "17.06.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Glocken-Apotheke",
                     "kammer": "aksh",
                     "id": "10589",
@@ -3501,25 +3501,6 @@
                     "startzeit": "08:00",
                     "enddatum": "17.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Sonnen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1512",
-                    "apo_id": "aknds1512",
-                    "strasse": "Bahnhofstr. 34",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "25.32874904419",
-                    "longitude": "10.2060682",
-                    "latitude": "53.3586093",
-                    "telefon": "+49 4171 3611",
-                    "fax": "+49 4171 653650",
-                    "email": [],
-                    "startdatum": "15.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "16.06.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Widder Apotheke-Moorrege",
