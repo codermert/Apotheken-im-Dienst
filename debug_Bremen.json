@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "16597"
+            "verwendet": "18094"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,6 +1310,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Andreas-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1663",
+                    "apo_id": "aknds1663",
+                    "strasse": "Oldenburger Str. 25",
+                    "plz": "27753",
+                    "ort": "Delmenhorst",
+                    "distanz": "11.683725943999999",
+                    "longitude": "8.6205462",
+                    "latitude": "53.0494339",
+                    "telefon": "+49 4221 150990",
+                    "fax": "+49 4221 120711",
+                    "email": [],
+                    "startdatum": "17.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "18.06.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Ring-Apotheke",
                     "kammer": "akbr",
                     "id": "10146",
@@ -1329,23 +1348,23 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke im Zurbrüggen-Zentrum",
+                    "name": "Apotheke am famila",
                     "kammer": "aknds",
-                    "id": "5610",
-                    "apo_id": "aknds5610",
-                    "strasse": "Seestr. 5",
-                    "plz": "27755",
-                    "ort": "Delmenhorst",
-                    "distanz": "12.902705588209999",
-                    "longitude": "8.66095",
-                    "latitude": "53.03057",
-                    "telefon": "+49 4221 6893551",
-                    "fax": "+49 4221 6893545",
+                    "id": "6801",
+                    "apo_id": "aknds6801",
+                    "strasse": "Markt 5",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.77459148283",
+                    "longitude": "8.54525",
+                    "latitude": "53.03462",
+                    "telefon": "+49 4222 9473270",
+                    "fax": "+49 4222 9473271",
                     "email": [],
-                    "startdatum": "16.06.2025",
+                    "startdatum": "17.06.2025",
                     "startzeit": "08:30",
                     "enddatum": "17.06.2025",
-                    "endzeit": "08:30"
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Apotheke Oberneuland",
