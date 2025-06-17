@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 11
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "70959"
+            "verwendet": "72901"
         },
         "apotheken": {
             "apotheke": [
@@ -1367,25 +1367,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Stedinger Apotheke",
-                    "kammer": "aknds",
-                    "id": "1612",
-                    "apo_id": "aknds1612",
-                    "strasse": "Weserstr. 28",
-                    "plz": "27804",
-                    "ort": "Berne",
-                    "distanz": "14.73436263223",
-                    "longitude": "8.484236",
-                    "latitude": "53.18675",
-                    "telefon": "+49 4406 202",
-                    "fax": "+49 4406 836",
-                    "email": [],
-                    "startdatum": "17.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "17.06.2025",
-                    "endzeit": "20:00"
-                },
-                {
                     "name": "Apotheke am Klinikum Links der Weser",
                     "kammer": "akbr",
                     "id": "10097",
@@ -1403,25 +1384,6 @@
                     "startzeit": "09:00",
                     "enddatum": "18.06.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Apotheke am famila",
-                    "kammer": "aknds",
-                    "id": "6801",
-                    "apo_id": "aknds6801",
-                    "strasse": "Markt 5",
-                    "plz": "27777",
-                    "ort": "Ganderkesee",
-                    "distanz": "15.77459148283",
-                    "longitude": "8.54525",
-                    "latitude": "53.03462",
-                    "telefon": "+49 4222 9473270",
-                    "fax": "+49 4222 9473271",
-                    "email": [],
-                    "startdatum": "17.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "17.06.2025",
-                    "endzeit": "20:00"
                 },
                 {
                     "name": "Anker-Apotheke",
