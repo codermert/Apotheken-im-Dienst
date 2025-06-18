@@ -3194,7 +3194,7 @@
             "anzahl": 15
         },
         "quota": {
-            "verwendet": "19513"
+            "verwendet": "20677"
         },
         "apotheken": {
             "apotheke": [
@@ -3389,6 +3389,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Fleester Markt-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1422",
+                    "apo_id": "aknds1422",
+                    "strasse": "Fleestedter Ring 3",
+                    "plz": "21217",
+                    "ort": "Seevetal",
+                    "distanz": "15.66174434329",
+                    "longitude": "9.9902759",
+                    "latitude": "53.4097548",
+                    "telefon": "+49 4105 4385",
+                    "fax": "+49 4105 3430",
+                    "email": [],
+                    "startdatum": "18.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "19.06.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Apotheke am Billenkamp",
                     "kammer": "aksh",
                     "id": "10625",
@@ -3425,25 +3444,6 @@
                     "startzeit": "08:00",
                     "enddatum": "19.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Luhe-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1510",
-                    "apo_id": "aknds1510",
-                    "strasse": "Bahnhofstr. 1",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "25.17002885461",
-                    "longitude": "10.2060052",
-                    "latitude": "53.3602785",
-                    "telefon": "+49 4171 4055",
-                    "fax": "+49 4171 64814",
-                    "email": [],
-                    "startdatum": "17.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "18.06.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Engel Apotheke",

@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "19585"
+            "verwendet": "20784"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,6 +1310,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Anker Apotheke",
+                    "kammer": "aknds",
+                    "id": "1664",
+                    "apo_id": "aknds1664",
+                    "strasse": "Mühlenstr. 31",
+                    "plz": "27753",
+                    "ort": "Delmenhorst",
+                    "distanz": "11.03481046511",
+                    "longitude": "8.6236758",
+                    "latitude": "53.0549856",
+                    "telefon": "+49 4221 14489",
+                    "fax": "+49 4221 14907",
+                    "email": [],
+                    "startdatum": "18.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "19.06.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Stern-Apotheke",
                     "kammer": "aknds",
                     "id": "1373",
@@ -1329,23 +1348,23 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Andreas-Apotheke",
+                    "name": "Apotheke Bookholzberg",
                     "kammer": "aknds",
-                    "id": "1663",
-                    "apo_id": "aknds1663",
-                    "strasse": "Oldenburger Str. 25",
-                    "plz": "27753",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.683725943999999",
-                    "longitude": "8.6205462",
-                    "latitude": "53.0494339",
-                    "telefon": "+49 4221 150990",
-                    "fax": "+49 4221 120711",
+                    "id": "1752",
+                    "apo_id": "aknds1752",
+                    "strasse": "Stedinger Str. 63",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "12.15097528613",
+                    "longitude": "8.530713",
+                    "latitude": "53.0962681",
+                    "telefon": "+49 4223 3070",
+                    "fax": "+49 4223 1332",
                     "email": [],
-                    "startdatum": "17.06.2025",
+                    "startdatum": "18.06.2025",
                     "startzeit": "08:30",
                     "enddatum": "18.06.2025",
-                    "endzeit": "08:30"
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Apotheke zur goldenen Kugel",
