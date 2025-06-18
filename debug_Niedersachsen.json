@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "17881"
+            "verwendet": "19661"
         },
         "apotheken": {
             "apotheke": [
@@ -74,6 +74,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Domino-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1111",
+                    "apo_id": "aknds1111",
+                    "strasse": "Alter Kirchweg 1",
+                    "plz": "31627",
+                    "ort": "Rohrsen",
+                    "distanz": "18.03914767201",
+                    "longitude": "9.233263",
+                    "latitude": "52.7087912",
+                    "telefon": "+49 5024 765",
+                    "fax": "+49 5024 8303",
+                    "email": [],
+                    "startdatum": "18.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Geest-Apotheke",
                     "kammer": "aknds",
                     "id": "1092",
@@ -110,63 +129,6 @@
                     "startzeit": "09:00",
                     "enddatum": "18.06.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Lindenmarkt-Apotheke",
-                    "kammer": "aknds",
-                    "id": "526",
-                    "apo_id": "aknds526",
-                    "strasse": "Bahnhofstr. 19",
-                    "plz": "27211",
-                    "ort": "Bassum",
-                    "distanz": "23.056425296969998",
-                    "longitude": "8.7339866",
-                    "latitude": "52.8471314",
-                    "telefon": "+49 4241 922422",
-                    "fax": "+49 4241 922424",
-                    "email": [],
-                    "startdatum": "17.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "18.06.2025",
-                    "endzeit": "08:30"
-                },
-                {
-                    "name": "Meerbach-Apotheke",
-                    "kammer": "aknds",
-                    "id": "964",
-                    "apo_id": "aknds964",
-                    "strasse": "Ziegelkampstr. 37",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "24.92702017755",
-                    "longitude": "9.223937",
-                    "latitude": "52.6346479",
-                    "telefon": "+49 5021 888740",
-                    "fax": "+49 5021 888745",
-                    "email": [],
-                    "startdatum": "17.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "18.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Stern-Apotheke",
-                    "kammer": "aknds",
-                    "id": "938",
-                    "apo_id": "aknds938",
-                    "strasse": "Sternstr. 1 B",
-                    "plz": "31618",
-                    "ort": "Liebenau",
-                    "distanz": "25.9555785569",
-                    "longitude": "9.0897493",
-                    "latitude": "52.6067599",
-                    "telefon": "+49 5023 94444",
-                    "fax": "+49 5023 94446",
-                    "email": [],
-                    "startdatum": "17.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "18.06.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }

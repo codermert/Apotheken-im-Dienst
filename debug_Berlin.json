@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 37
+            "anzahl": 32
         },
         "quota": {
-            "verwendet": "17690"
+            "verwendet": "19477"
         },
         "apotheken": {
             "apotheke": [
@@ -5743,44 +5743,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Fliesstal-Apotheke",
-                    "kammer": "lakbb",
-                    "id": "498",
-                    "apo_id": "lakbb498",
-                    "strasse": "Hauptstraße 32",
-                    "plz": "16552",
-                    "ort": "Mühlenbecker Land - OT Schildow",
-                    "distanz": "15.13963517817",
-                    "longitude": "13.38232",
-                    "latitude": "52.65303",
-                    "telefon": "+49 33056 75260",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "17.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "18.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "easyApotheke Teltow",
-                    "kammer": "lakbb",
-                    "id": "619",
-                    "apo_id": "lakbb619",
-                    "strasse": "Lichterfelder Allee 7",
-                    "plz": "14513",
-                    "ort": "Teltow",
-                    "distanz": "15.1774610024",
-                    "longitude": "13.27066",
-                    "latitude": "52.40132",
-                    "telefon": "+49 3328 3515170",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "17.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "18.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Zentrum-Apotheke",
                     "kammer": "akb",
                     "id": "100839",
@@ -5798,6 +5760,44 @@
                     "startzeit": "09:00",
                     "enddatum": "18.06.2025",
                     "endzeit": "08:59"
+                },
+                {
+                    "name": "Sonnen Apotheke",
+                    "kammer": "lakbb",
+                    "id": "211",
+                    "apo_id": "lakbb211",
+                    "strasse": "Potsdamer Straße 48",
+                    "plz": "14513",
+                    "ort": "Teltow",
+                    "distanz": "15.593748884290001",
+                    "longitude": "13.25726",
+                    "latitude": "52.40225",
+                    "telefon": "03328 303963",
+                    "fax": "03328 303964",
+                    "email": "sonnenapotheke-mitarbeiter@t-online.de",
+                    "startdatum": "18.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Havel-Apotheke",
+                    "kammer": "lakbb",
+                    "id": "169",
+                    "apo_id": "lakbb169",
+                    "strasse": "Berliner Straße 25",
+                    "plz": "16761",
+                    "ort": "Hennigsdorf",
+                    "distanz": "18.67261396079",
+                    "longitude": "13.2058259",
+                    "latitude": "52.6424369",
+                    "telefon": "+49 3302 800896",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.06.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }
