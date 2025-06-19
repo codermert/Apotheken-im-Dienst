@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 32
+            "anzahl": 35
         },
         "quota": {
-            "verwendet": "43856"
+            "verwendet": "53194"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,42 +5762,42 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Sonnen Apotheke",
+                    "name": "Apotheke Kleinmachnow",
                     "kammer": "lakbb",
-                    "id": "211",
-                    "apo_id": "lakbb211",
-                    "strasse": "Potsdamer Straße 48",
-                    "plz": "14513",
-                    "ort": "Teltow",
-                    "distanz": "15.593748884290001",
-                    "longitude": "13.25726",
-                    "latitude": "52.40225",
-                    "telefon": "03328 303963",
-                    "fax": "03328 303964",
-                    "email": "sonnenapotheke-mitarbeiter@t-online.de",
-                    "startdatum": "18.06.2025",
+                    "id": "286",
+                    "apo_id": "lakbb286",
+                    "strasse": "Ernst-Thälmann-Straße 88 a",
+                    "plz": "14532",
+                    "ort": "Kleinmachnow",
+                    "distanz": "15.94184176161",
+                    "longitude": "13.22614",
+                    "latitude": "52.41385",
+                    "telefon": "+49 33203 22263",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "19.06.2025",
                     "startzeit": "08:00",
-                    "enddatum": "19.06.2025",
+                    "enddatum": "20.06.2025",
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Kristinen-Apotheke",
-                    "kammer": "akb",
-                    "id": "100329",
-                    "apo_id": "akb100329",
-                    "strasse": "Bölschestr. 108",
-                    "plz": "12587",
-                    "ort": "Berlin",
-                    "distanz": "17.59488272205",
-                    "longitude": "13.6244634",
-                    "latitude": "52.4513663",
-                    "telefon": "+49 30 6451762",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "18.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "19.06.2025",
-                    "endzeit": "08:59"
+                    "name": "Neue Apotheke",
+                    "kammer": "lakbb",
+                    "id": "403",
+                    "apo_id": "lakbb403",
+                    "strasse": "Trebbiner Straße 19",
+                    "plz": "15831",
+                    "ort": "Blankenfelde-Mahlow - OT Mahlow",
+                    "distanz": "17.42632296352",
+                    "longitude": "13.4114011",
+                    "latitude": "52.3610386",
+                    "telefon": "03379  / 360 061",
+                    "fax": "03379  / 360 063",
+                    "email": "info@neue-apotheke-mahlow.de",
+                    "startdatum": "19.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "20.06.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }
