@@ -37,27 +37,46 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "67949"
+            "verwendet": "74480"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Pluspunkt-Apotheke im Anger 1",
+                    "name": "Apotheke am Wiesenhügel",
                     "kammer": "lakt",
-                    "id": "602",
-                    "apo_id": "lakt602",
-                    "strasse": "Anger 1",
-                    "plz": "99084",
+                    "id": "4",
+                    "apo_id": "lakt4",
+                    "strasse": "Färberwaidweg 2",
+                    "plz": "99097",
                     "ort": "Erfurt",
-                    "distanz": "8.48630963645",
-                    "longitude": "11.0366094",
-                    "latitude": "50.9777519",
-                    "telefon": "+49 361 2621666",
+                    "distanz": "5.9326309821",
+                    "longitude": "11.0670379",
+                    "latitude": "50.9514931",
+                    "telefon": "+49 361 414540",
                     "fax": [],
                     "email": [],
-                    "startdatum": "18.06.2025",
+                    "startdatum": "19.06.2025",
                     "startzeit": "09:00",
-                    "enddatum": "19.06.2025",
+                    "enddatum": "20.06.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Apotheke im Hauptbahnhof",
+                    "kammer": "lakt",
+                    "id": "781",
+                    "apo_id": "lakt781",
+                    "strasse": "Willy-Brandt-Platz 12",
+                    "plz": "99084",
+                    "ort": "Erfurt",
+                    "distanz": "7.87878553959",
+                    "longitude": "11.0381159",
+                    "latitude": "50.9722942",
+                    "telefon": "+49 361 3453519",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "19.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "20.06.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "20.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Tal-Apotheke",
-                    "kammer": "lakt",
-                    "id": "17",
-                    "apo_id": "lakt17",
-                    "strasse": "Talstraße 5",
-                    "plz": "99089",
-                    "ort": "Erfurt",
-                    "distanz": "9.5555512492",
-                    "longitude": "11.0262981",
-                    "latitude": "50.9870598",
-                    "telefon": "+49 361 2606039",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "18.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "19.06.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Liszt-Apotheke",
