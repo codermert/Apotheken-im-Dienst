@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "23165"
+            "verwendet": "23581"
         },
         "apotheken": {
             "apotheke": [
@@ -1405,22 +1405,41 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Linebroker Apotheke",
+                    "name": "Deich-Apotheke",
                     "kammer": "aknds",
-                    "id": "6579",
-                    "apo_id": "aknds6579",
-                    "strasse": "Lerchenstraße 1",
-                    "plz": "26939",
-                    "ort": "Ovelgönne",
-                    "distanz": "25.57251665078",
-                    "longitude": "8.4023618",
-                    "latitude": "53.2942726",
-                    "telefon": "+49 4480 9498094",
-                    "fax": "+49 4480 9498095",
+                    "id": "1701",
+                    "apo_id": "aknds1701",
+                    "strasse": "Mühlenstr. 13",
+                    "plz": "26931",
+                    "ort": "Elsfleth",
+                    "distanz": "18.48276551042",
+                    "longitude": "8.464316",
+                    "latitude": "53.2380316",
+                    "telefon": "+49 4404 92840",
+                    "fax": "+49 4404 928420",
                     "email": [],
-                    "startdatum": "19.06.2025",
+                    "startdatum": "20.06.2025",
                     "startzeit": "08:00",
-                    "enddatum": "20.06.2025",
+                    "enddatum": "21.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Geest-Apotheke",
+                    "kammer": "aknds",
+                    "id": "2286",
+                    "apo_id": "aknds2286",
+                    "strasse": "Hauptstr. 20",
+                    "plz": "27801",
+                    "ort": "Dötlingen",
+                    "distanz": "27.3859458544",
+                    "longitude": "8.3978022",
+                    "latitude": "52.9749282",
+                    "telefon": "+49 4432 94233",
+                    "fax": "+49 4432 94234",
+                    "email": [],
+                    "startdatum": "20.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "21.06.2025",
                     "endzeit": "08:00"
                 }
             ]
