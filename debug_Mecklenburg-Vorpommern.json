@@ -28,13 +28,32 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 7
         },
         "quota": {
-            "verwendet": "12602"
+            "verwendet": "13086"
         },
         "apotheken": {
             "apotheke": [
+                {
+                    "name": "Apotheke am Park",
+                    "kammer": "akmv",
+                    "id": "177210",
+                    "apo_id": "akmv177210",
+                    "strasse": "Zu den Wiesen 9",
+                    "plz": "18279",
+                    "ort": "Lalendorf",
+                    "distanz": "12.7158404106",
+                    "longitude": "12.38463",
+                    "latitude": "53.75746",
+                    "telefon": "+49 38452 20592",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "21.06.2025",
+                    "startzeit": "07:00",
+                    "enddatum": "21.06.2025",
+                    "endzeit": "08:00"
+                },
                 {
                     "name": "Rats-Apotheke",
                     "kammer": "akmv",
