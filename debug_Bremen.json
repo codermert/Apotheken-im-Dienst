@@ -1267,7 +1267,7 @@
             "anzahl": 9
         },
         "quota": {
-            "verwendet": "17682"
+            "verwendet": "19596"
         },
         "apotheken": {
             "apotheke": [
@@ -1291,25 +1291,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Spitzweg Apotheke (im Kaufland)",
-                    "kammer": "aknds",
-                    "id": "1684",
-                    "apo_id": "aknds1684",
-                    "strasse": "Stedinger Str. 101",
-                    "plz": "27753",
-                    "ort": "Delmenhorst",
-                    "distanz": "10.20032902012",
-                    "longitude": "8.6305287",
-                    "latitude": "53.0613418",
-                    "telefon": "+49 4221 588225",
-                    "fax": "+49 4221 588224",
-                    "email": [],
-                    "startdatum": "20.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "21.06.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Alte Apotheke",
                     "kammer": "aknds",
                     "id": "1368",
@@ -1327,6 +1308,25 @@
                     "startzeit": "09:00",
                     "enddatum": "21.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Bahnhof-Apotheke Delcare oHG",
+                    "kammer": "aknds",
+                    "id": "1665",
+                    "apo_id": "aknds1665",
+                    "strasse": "Bahnhofstr. 11 - 13",
+                    "plz": "27749",
+                    "ort": "Delmenhorst",
+                    "distanz": "11.25687064993",
+                    "longitude": "8.6299531",
+                    "latitude": "53.0511638",
+                    "telefon": "+49 4221 14506",
+                    "fax": "+49 4221 18661",
+                    "email": [],
+                    "startdatum": "21.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "22.06.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Malteser-Apotheke",
@@ -1424,22 +1424,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Kranich Apotheke",
+                    "name": "Alte Raben Apotheke",
                     "kammer": "aknds",
-                    "id": "1265",
-                    "apo_id": "aknds1265",
-                    "strasse": "Amtsdamm 39",
-                    "plz": "27628",
-                    "ort": "Hagen im Bremischen",
-                    "distanz": "23.681015648789998",
-                    "longitude": "8.6430292",
-                    "latitude": "53.3555124",
-                    "telefon": "+49 4746 951060",
-                    "fax": "+49 4746 951061",
+                    "id": "1815",
+                    "apo_id": "aknds1815",
+                    "strasse": "Parkstr. 12",
+                    "plz": "27798",
+                    "ort": "Hude",
+                    "distanz": "16.03848971665",
+                    "longitude": "8.4602241",
+                    "latitude": "53.1112996",
+                    "telefon": "+49 4408 321",
+                    "fax": "+49 4408 60121",
                     "email": [],
-                    "startdatum": "20.06.2025",
+                    "startdatum": "21.06.2025",
                     "startzeit": "08:30",
-                    "enddatum": "21.06.2025",
+                    "enddatum": "22.06.2025",
                     "endzeit": "08:30"
                 }
             ]

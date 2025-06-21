@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 16
+            "anzahl": 17
         },
         "quota": {
-            "verwendet": "17753"
+            "verwendet": "19670"
         },
         "apotheken": {
             "apotheke": [
@@ -226,22 +226,22 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Spitzweg Apotheke (im Kaufland)",
+                    "name": "Bahnhof-Apotheke Delcare oHG",
                     "kammer": "aknds",
-                    "id": "1684",
-                    "apo_id": "aknds1684",
-                    "strasse": "Stedinger Str. 101",
-                    "plz": "27753",
+                    "id": "1665",
+                    "apo_id": "aknds1665",
+                    "strasse": "Bahnhofstr. 11 - 13",
+                    "plz": "27749",
                     "ort": "Delmenhorst",
-                    "distanz": "38.78010388442",
-                    "longitude": "8.6305287",
-                    "latitude": "53.0613418",
-                    "telefon": "+49 4221 588225",
-                    "fax": "+49 4221 588224",
+                    "distanz": "38.10342975145",
+                    "longitude": "8.6299531",
+                    "latitude": "53.0511638",
+                    "telefon": "+49 4221 14506",
+                    "fax": "+49 4221 18661",
                     "email": [],
-                    "startdatum": "20.06.2025",
+                    "startdatum": "21.06.2025",
                     "startzeit": "08:30",
-                    "enddatum": "21.06.2025",
+                    "enddatum": "22.06.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -281,6 +281,25 @@
                     "startzeit": "08:00",
                     "enddatum": "22.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Post-Apotheke",
+                    "kammer": "aknds",
+                    "id": "946",
+                    "apo_id": "aknds946",
+                    "strasse": "Lindenstr. 1",
+                    "plz": "31535",
+                    "ort": "Neustadt am Rübenberge",
+                    "distanz": "45.394632343800005",
+                    "longitude": "9.4574461",
+                    "latitude": "52.5042444",
+                    "telefon": "+49 5032 98230",
+                    "fax": "+49 5032 982320",
+                    "email": [],
+                    "startdatum": "21.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "22.06.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Rats-Apotheke",

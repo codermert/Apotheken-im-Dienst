@@ -3194,7 +3194,7 @@
             "anzahl": 16
         },
         "quota": {
-            "verwendet": "17572"
+            "verwendet": "19459"
         },
         "apotheken": {
             "apotheke": [
@@ -3408,25 +3408,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Apotheke Hittfeld",
-                    "kammer": "aknds",
-                    "id": "1416",
-                    "apo_id": "aknds1416",
-                    "strasse": "Kirchstr. 26",
-                    "plz": "21218",
-                    "ort": "Seevetal",
-                    "distanz": "18.385607291550002",
-                    "longitude": "9.9815255",
-                    "latitude": "53.3855388",
-                    "telefon": "+49 4105 2405",
-                    "fax": "+49 4105 2588",
-                    "email": [],
-                    "startdatum": "20.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "21.06.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Flora-Apotheke",
                     "kammer": "aksh",
                     "id": "10003",
@@ -3463,6 +3444,25 @@
                     "startzeit": "08:00",
                     "enddatum": "22.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "wir leben-Apotheke im Luhepark",
+                    "kammer": "aknds",
+                    "id": "6737",
+                    "apo_id": "aknds6737",
+                    "strasse": "Löhnfeld 10",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "24.61644853109",
+                    "longitude": "10.1955",
+                    "latitude": "53.3622",
+                    "telefon": "+49 4171 605770",
+                    "fax": "+49 4171 6057719",
+                    "email": [],
+                    "startdatum": "21.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "22.06.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Hirsch-Apotheke",
