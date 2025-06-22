@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 11
+            "anzahl": 12
         },
         "quota": {
-            "verwendet": "104235"
+            "verwendet": "113111"
         },
         "apotheken": {
             "apotheke": [
@@ -1346,6 +1346,25 @@
                     "startzeit": "09:00",
                     "enddatum": "23.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Koppel-Apotheke",
+                    "kammer": "aknds",
+                    "id": "2773",
+                    "apo_id": "aknds2773",
+                    "strasse": "Koppelstr. 35",
+                    "plz": "27711",
+                    "ort": "Osterholz-Scharmbeck",
+                    "distanz": "11.78953341195",
+                    "longitude": "8.790747",
+                    "latitude": "53.2331414",
+                    "telefon": "+49 4791 965680",
+                    "fax": "+49 4791 9656820",
+                    "email": [],
+                    "startdatum": "22.06.2025",
+                    "startzeit": "10:00",
+                    "enddatum": "22.06.2025",
+                    "endzeit": "12:00"
                 },
                 {
                     "name": "Kopernikus-Apotheke",
