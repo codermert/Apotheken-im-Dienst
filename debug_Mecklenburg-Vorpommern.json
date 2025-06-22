@@ -12,7 +12,7 @@
             "lat": "",
             "lng": "",
             "plzort": "Mecklenburg-Vorpommern",
-            "radius": "25",
+            "radius": 45,
             "street": ""
         },
         "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
@@ -21,17 +21,17 @@
         "parameter": {
             "plzort": "Mecklenburg-Vorpommern",
             "strasse": [],
-            "radius": "25.0",
+            "radius": "45.0",
             "longitude": "12.5755471",
             "latitude": "53.773506399999995",
             "limit": [],
             "datum": []
         },
         "statistik": {
-            "anzahl": 4
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "149602"
+            "verwendet": "154467"
         },
         "apotheken": {
             "apotheke": [
@@ -55,42 +55,23 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Recknitztal-Apotheke",
+                    "name": "Schloss-Apotheke",
                     "kammer": "akmv",
-                    "id": "176921",
-                    "apo_id": "akmv176921",
-                    "strasse": "Breesener Str. 37",
-                    "plz": "18299",
-                    "ort": "Laage",
-                    "distanz": "22.86848685063",
-                    "longitude": "12.3460061",
-                    "latitude": "53.9277616",
-                    "telefon": "+49 38459 36235",
+                    "id": "178757",
+                    "apo_id": "akmv178757",
+                    "strasse": "Schlossstraße 23",
+                    "plz": "17159",
+                    "ort": "Dargun",
+                    "distanz": "22.88897876966",
+                    "longitude": "12.8515406",
+                    "latitude": "53.8985743",
+                    "telefon": "+49 39959 337177",
                     "fax": [],
                     "email": [],
                     "startdatum": "22.06.2025",
-                    "startzeit": "10:00",
+                    "startzeit": "11:00",
                     "enddatum": "22.06.2025",
-                    "endzeit": "11:00"
-                },
-                {
-                    "name": "Schweden Apotheke",
-                    "kammer": "akmv",
-                    "id": "178315",
-                    "apo_id": "akmv178315",
-                    "strasse": "Werdohler Str. 3",
-                    "plz": "17153",
-                    "ort": "Reuterstadt Stavenhagen",
-                    "distanz": "24.330255971070002",
-                    "longitude": "12.9150862",
-                    "latitude": "53.688362",
-                    "telefon": "+49 39954 24850",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "22.06.2025",
-                    "startzeit": "10:00",
-                    "enddatum": "22.06.2025",
-                    "endzeit": "11:00"
+                    "endzeit": "12:00"
                 },
                 {
                     "name": "Schloss-Apotheke",
@@ -104,6 +85,63 @@
                     "longitude": "12.1770443",
                     "latitude": "53.7938495",
                     "telefon": "+49 3843 682307",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "22.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "23.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke am Papenberg",
+                    "kammer": "akmv",
+                    "id": "176904",
+                    "apo_id": "akmv176904",
+                    "strasse": "Rosa-Luxemburg-Str.20b",
+                    "plz": "17192",
+                    "ort": "Waren",
+                    "distanz": "30.554929788739997",
+                    "longitude": "12.69992",
+                    "latitude": "53.50911",
+                    "telefon": "+49 3991 668877",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "22.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "23.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Löwen-Apotheke",
+                    "kammer": "akmv",
+                    "id": "173657",
+                    "apo_id": "akmv173657",
+                    "strasse": "Mühlenstraße 30",
+                    "plz": "17109",
+                    "ort": "Demmin",
+                    "distanz": "34.01695212935",
+                    "longitude": "13.04078",
+                    "latitude": "53.90655",
+                    "telefon": "+49 3998 223152",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "22.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "23.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Linden-Apotheke",
+                    "kammer": "akmv",
+                    "id": "177567",
+                    "apo_id": "akmv177567",
+                    "strasse": "Wismarsche Str. 32",
+                    "plz": "18057",
+                    "ort": "Rostock",
+                    "distanz": "45.91782434908",
+                    "longitude": "12.1186666",
+                    "latitude": "54.0857481",
+                    "telefon": "+49 381 4930200",
                     "fax": [],
                     "email": [],
                     "startdatum": "22.06.2025",
