@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 33
+            "anzahl": 36
         },
         "quota": {
-            "verwendet": "41726"
+            "verwendet": "46958"
         },
         "apotheken": {
             "apotheke": [
@@ -5705,6 +5705,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Apotheke im Sonnengarten",
+                    "kammer": "lakbb",
+                    "id": "241",
+                    "apo_id": "lakbb241",
+                    "strasse": "Märkische Allee 76",
+                    "plz": "16548",
+                    "ort": "Glienicke/Nordbahn",
+                    "distanz": "13.48323987355",
+                    "longitude": "13.3230005",
+                    "latitude": "52.6313669",
+                    "telefon": "+49 33056 42996",
+                    "fax": [],
+                    "email": "ais@online.de",
+                    "startdatum": "22.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "23.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Cecilien-Apotheke",
                     "kammer": "akb",
                     "id": "100142",
@@ -5743,41 +5762,22 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Christophorus Apotheke im Teltow Karree",
+                    "name": "Apotheke im Gesundheitszentrum Teltow",
                     "kammer": "lakbb",
-                    "id": "571",
-                    "apo_id": "lakbb571",
-                    "strasse": "Potsdamer Straße 12 A",
+                    "id": "230",
+                    "apo_id": "lakbb230",
+                    "strasse": "Potsdamer Straße 7/9",
                     "plz": "14513",
                     "ort": "Teltow",
-                    "distanz": "16.37444421251",
-                    "longitude": "13.24599",
-                    "latitude": "52.39856",
-                    "telefon": "+49 3328 339968",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "21.06.2025",
+                    "distanz": "16.572626795119998",
+                    "longitude": "13.2445256",
+                    "latitude": "52.3970082",
+                    "telefon": "03328 / 302 920",
+                    "fax": "03328 / 302 921",
+                    "email": "info@apo-teltow.de",
+                    "startdatum": "22.06.2025",
                     "startzeit": "08:00",
-                    "enddatum": "22.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Adler-Apotheke",
-                    "kammer": "lakbb",
-                    "id": "90",
-                    "apo_id": "lakbb90",
-                    "strasse": "Am Bahnhof 3b",
-                    "plz": "15831",
-                    "ort": "Blankenfelde-Mahlow - OT Mahlow",
-                    "distanz": "17.51237957478",
-                    "longitude": "13.4098173",
-                    "latitude": "52.3601802",
-                    "telefon": "03379   / 399 97",
-                    "fax": "03379  / 397 04",
-                    "email": "info@adler-apotheke-mahlow.de",
-                    "startdatum": "21.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "22.06.2025",
+                    "enddatum": "23.06.2025",
                     "endzeit": "08:00"
                 },
                 {
