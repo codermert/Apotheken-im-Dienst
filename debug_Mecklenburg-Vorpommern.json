@@ -31,7 +31,7 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "73669"
+            "verwendet": "78129"
         },
         "apotheken": {
             "apotheke": [
@@ -53,6 +53,25 @@
                     "startzeit": "08:00",
                     "enddatum": "23.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Rats-Apotheke",
+                    "kammer": "akmv",
+                    "id": "172926",
+                    "apo_id": "akmv172926",
+                    "strasse": "Lange Str. 14",
+                    "plz": "18292",
+                    "ort": "Krakow a. See",
+                    "distanz": "24.2751057582",
+                    "longitude": "12.2689391",
+                    "latitude": "53.6531425",
+                    "telefon": "+49 38457 22322",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "22.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "22.06.2025",
+                    "endzeit": "10:00"
                 },
                 {
                     "name": "Schloss-Apotheke",
@@ -110,25 +129,6 @@
                     "startzeit": "08:00",
                     "enddatum": "23.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Buchen-Apotheke",
-                    "kammer": "akmv",
-                    "id": "178298",
-                    "apo_id": "akmv178298",
-                    "strasse": "Friedrich-von-Flotow-Ring 15",
-                    "plz": "18190",
-                    "ort": "Sanitz",
-                    "distanz": "36.15413585038",
-                    "longitude": "12.3834443",
-                    "latitude": "54.0779007",
-                    "telefon": "+49 38209 490016",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "22.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "22.06.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Rats-Apotheke",
