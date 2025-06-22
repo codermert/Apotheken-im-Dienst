@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 11
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "48809"
+            "verwendet": "64650"
         },
         "apotheken": {
             "apotheke": [
@@ -224,25 +224,6 @@
                     "startzeit": "08:00",
                     "enddatum": "23.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Bären-Apotheke",
-                    "kammer": "lakrlp",
-                    "id": "22814",
-                    "apo_id": "lakrlp22814",
-                    "strasse": "Rathausstr. 17",
-                    "plz": "66914",
-                    "ort": "Waldmohr",
-                    "distanz": "27.485357530149997",
-                    "longitude": "7.3322448",
-                    "latitude": "49.3884678",
-                    "telefon": "+49 6373 891891",
-                    "fax": "+49 6373 891892",
-                    "email": [],
-                    "startdatum": "21.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "22.06.2025",
-                    "endzeit": "08:30"
                 }
             ]
         }

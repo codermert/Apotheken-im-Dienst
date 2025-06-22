@@ -3194,7 +3194,7 @@
             "anzahl": 19
         },
         "quota": {
-            "verwendet": "47280"
+            "verwendet": "62638"
         },
         "apotheken": {
             "apotheke": [
@@ -3446,6 +3446,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Eidig-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1389",
+                    "apo_id": "aknds1389",
+                    "strasse": "Bürgermeister-Glade-Str. 1",
+                    "plz": "21224",
+                    "ort": "Rosengarten",
+                    "distanz": "20.93006057904",
+                    "longitude": "9.9290501",
+                    "latitude": "53.3672014",
+                    "telefon": "+49 4105 65560",
+                    "fax": "+49 4105 655617",
+                    "email": [],
+                    "startdatum": "22.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "23.06.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Liliencron-Apotheke",
                     "kammer": "aksh",
                     "id": "10451",
@@ -3501,25 +3520,6 @@
                     "startzeit": "08:00",
                     "enddatum": "23.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "wir leben-Apotheke im Luhepark",
-                    "kammer": "aknds",
-                    "id": "6737",
-                    "apo_id": "aknds6737",
-                    "strasse": "Löhnfeld 10",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "24.61644853109",
-                    "longitude": "10.1955",
-                    "latitude": "53.3622",
-                    "telefon": "+49 4171 605770",
-                    "fax": "+49 4171 6057719",
-                    "email": [],
-                    "startdatum": "21.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "22.06.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Löns-Apotheke",
