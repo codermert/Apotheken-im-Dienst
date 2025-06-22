@@ -857,14 +857,6 @@
       "mesafe": "34.0 km"
     },
     {
-      "eczaneAdi": "Rats-Apotheke",
-      "adres": "Karl-Marx-Str. 31a, 18465 Tribsees",
-      "telefon": "+49 38320 6180",
-      "enlem": "54.0942614",
-      "boylam": "12.7578964",
-      "mesafe": "37.7 km"
-    },
-    {
       "eczaneAdi": "Linden-Apotheke",
       "adres": "Wismarsche Str. 32, 18057 Rostock",
       "telefon": "+49 381 4930200",
@@ -873,7 +865,48 @@
       "mesafe": "45.9 km"
     }
   ],
-  "Niedersachsen": [],
+  "Niedersachsen": [
+    {
+      "eczaneAdi": "Löns-Apotheke im Facharztzentrum Verden",
+      "adres": "Eitzer Straße 18, 27283 Verden",
+      "telefon": "+49 4231 6773690",
+      "enlem": "52.9148243",
+      "boylam": "9.2327234",
+      "mesafe": "13.5 km"
+    },
+    {
+      "eczaneAdi": "Neue Apotheke",
+      "adres": "Lange Straße 81, 31582 Nienburg",
+      "telefon": "+49 5021 97680",
+      "enlem": "52.6408368",
+      "boylam": "9.2066251",
+      "mesafe": "23.8 km"
+    },
+    {
+      "eczaneAdi": "Fontane Apotheke",
+      "adres": "Schulstr. 51, 28844 Weyhe",
+      "telefon": "+49 421 808222",
+      "enlem": "52.99212",
+      "boylam": "8.81714",
+      "mesafe": "24.3 km"
+    },
+    {
+      "eczaneAdi": "Flora-Apotheke",
+      "adres": "Hauptstr. 52, 28876 Oyten",
+      "telefon": "+49 4207 3003",
+      "enlem": "53.0608175",
+      "boylam": "9.0226419",
+      "mesafe": "24.8 km"
+    },
+    {
+      "eczaneAdi": "Bären-Apotheke",
+      "adres": "Lange Str. 13, 27232 Sulingen",
+      "telefon": "+49 4271 3475",
+      "enlem": "52.6826842",
+      "boylam": "8.81042",
+      "mesafe": "25.0 km"
+    }
+  ],
   "Rheinland-Pfalz": [
     {
       "eczaneAdi": "Römer-Apotheke",
