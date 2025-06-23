@@ -37,27 +37,46 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "14490"
+            "verwendet": "15823"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Apotheke am Südpark",
+                    "name": "EGA-Apotheke",
                     "kammer": "lakt",
-                    "id": "2064",
-                    "apo_id": "lakt2064",
-                    "strasse": "Melchendorfer Straße 1",
-                    "plz": "99096",
+                    "id": "649",
+                    "apo_id": "lakt649",
+                    "strasse": "Gothaer Straße 22",
+                    "plz": "99094",
                     "ort": "Erfurt",
-                    "distanz": "7.04095790792",
-                    "longitude": "11.0423574",
-                    "latitude": "50.9646973",
-                    "telefon": "+49 361 6448880",
+                    "distanz": "7.5742521412",
+                    "longitude": "10.9857271",
+                    "latitude": "50.9610823",
+                    "telefon": "+49 361 7893490",
                     "fax": [],
                     "email": [],
-                    "startdatum": "22.06.2025",
+                    "startdatum": "23.06.2025",
                     "startzeit": "09:00",
-                    "enddatum": "23.06.2025",
+                    "enddatum": "24.06.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Germania-Apotheke",
+                    "kammer": "lakt",
+                    "id": "3929",
+                    "apo_id": "lakt3929",
+                    "strasse": "Thälmannstraße 25",
+                    "plz": "99085",
+                    "ort": "Erfurt",
+                    "distanz": "8.649941977360001",
+                    "longitude": "11.04247",
+                    "latitude": "50.97917",
+                    "telefon": "+49 361 5623214",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "23.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "24.06.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "24.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Adler-Apotheke",
-                    "kammer": "lakt",
-                    "id": "1",
-                    "apo_id": "lakt1",
-                    "strasse": "Magdeburger Allee 122",
-                    "plz": "99086",
-                    "ort": "Erfurt",
-                    "distanz": "10.60366304703",
-                    "longitude": "11.0265967",
-                    "latitude": "50.9965259",
-                    "telefon": "+49 361 7312112",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "22.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "23.06.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Burgen-Apotheke",
