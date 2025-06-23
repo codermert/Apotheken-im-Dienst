@@ -1,8 +1,403 @@
 {
-  "Berlin": [],
-  "Nordrhein-Westfalen": [],
+  "Berlin": [
+    {
+      "eczaneAdi": "Galenus-Apotheke",
+      "adres": "Reinhardtstr. 5, 10117 Berlin",
+      "telefon": "+49 30 2827871",
+      "enlem": "52.5236486",
+      "boylam": "13.3868064",
+      "mesafe": "0.7 km"
+    },
+    {
+      "eczaneAdi": "Immanuel-Apotheke",
+      "adres": "Immanuelkirchstr. 2, 10405 Berlin",
+      "telefon": "+49 30 40056757",
+      "enlem": "52.5329883",
+      "boylam": "13.4223071",
+      "mesafe": "2.9 km"
+    },
+    {
+      "eczaneAdi": "Quartier Apotheke Nolleturm",
+      "adres": "Nollendorfplatz3-4, 10777 Berlin",
+      "telefon": "+49 30 21280180",
+      "enlem": "52.4994278",
+      "boylam": "13.3521517",
+      "mesafe": "3.2 km"
+    },
+    {
+      "eczaneAdi": "Europa-Apotheke",
+      "adres": "Karl-Marx-Allee 90 A, 10243 Berlin",
+      "telefon": "+49 30 29492699",
+      "enlem": "52.5163851",
+      "boylam": "13.4412082",
+      "mesafe": "3.6 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Gesundbrunnen-Center",
+      "adres": "Badstr. 4, 13357 Berlin",
+      "telefon": "+49 30 49760419",
+      "enlem": "52.549678",
+      "boylam": "13.3879517",
+      "mesafe": "3.6 km"
+    },
+    {
+      "eczaneAdi": "Märkische Apotheke",
+      "adres": "Müllerstr. 33, 13353 Berlin",
+      "telefon": "+49 30 4566144",
+      "enlem": "52.5484",
+      "boylam": "13.35625",
+      "mesafe": "4.1 km"
+    },
+    {
+      "eczaneAdi": "Pannier-Apotheke",
+      "adres": "Sonnenallee 31-33, 12047 Berlin",
+      "telefon": "+49 30 61309443",
+      "enlem": "52.4863598",
+      "boylam": "13.4299875",
+      "mesafe": "4.4 km"
+    },
+    {
+      "eczaneAdi": "Atlantis-Apotheke",
+      "adres": "Wilmersdorfer Str. 31, 10585 Berlin",
+      "telefon": "+49 30 3422926",
+      "enlem": "52.5130938",
+      "boylam": "13.3047415",
+      "mesafe": "5.7 km"
+    },
+    {
+      "eczaneAdi": "Flora-Apotheke",
+      "adres": "Berliner Allee 109, 13088 Berlin",
+      "telefon": "+49 30 9250107",
+      "enlem": "52.5504401",
+      "boylam": "13.4597209",
+      "mesafe": "6.1 km"
+    },
+    {
+      "eczaneAdi": "Mendel-Apotheke",
+      "adres": "Breite Str. 6, 13187 Berlin",
+      "telefon": "+49 30 47473101",
+      "enlem": "52.57149",
+      "boylam": "13.4105899",
+      "mesafe": "6.2 km"
+    },
+    {
+      "eczaneAdi": "Luna-Apotheke",
+      "adres": "Am Treptower Park 40-42, 12435 Berlin",
+      "telefon": "+49 30 53698100",
+      "enlem": "52.48549",
+      "boylam": "13.46577",
+      "mesafe": "6.3 km"
+    },
+    {
+      "eczaneAdi": "Sky Apotheke am Kudamm",
+      "adres": "Kurfürstendamm 139, 10711 Berlin",
+      "telefon": "+49 30 8927694",
+      "enlem": "52.4976163",
+      "boylam": "13.2956155",
+      "mesafe": "6.7 km"
+    },
+    {
+      "eczaneAdi": "Arcaden-Apotheke am Tempelhofer Hafen",
+      "adres": "Tempelhofer Damm 227, 12099 Berlin",
+      "telefon": "+49 30 75654080",
+      "enlem": "52.455587",
+      "boylam": "13.3858907",
+      "mesafe": "6.8 km"
+    },
+    {
+      "eczaneAdi": "Titania-Apotheke",
+      "adres": "Markelstr. 3, 12163 Berlin",
+      "telefon": "+49 30 7917091",
+      "enlem": "52.4637124",
+      "boylam": "13.3262204",
+      "mesafe": "7.3 km"
+    },
+    {
+      "eczaneAdi": "Südend-Apotheke",
+      "adres": "Steglitzer Damm 68, 12169 Berlin",
+      "telefon": "+49 30 79780070",
+      "enlem": "52.4497",
+      "boylam": "13.34806",
+      "mesafe": "8.0 km"
+    },
+    {
+      "eczaneAdi": "Pfauen-Apotheke",
+      "adres": "Rudower Str. 27-29, 12351 Berlin",
+      "telefon": "+49 30 6019025",
+      "enlem": "52.4412513",
+      "boylam": "13.4590549",
+      "mesafe": "9.7 km"
+    },
+    {
+      "eczaneAdi": "Sonnenschein-Apotheke",
+      "adres": "Treskowallee 128, 10318 Berlin",
+      "telefon": "+49 30 50378600",
+      "enlem": "52.4788009",
+      "boylam": "13.5243733",
+      "mesafe": "10.1 km"
+    },
+    {
+      "eczaneAdi": "Sanitas Apotheke",
+      "adres": "Oraniendamm 10-6, 13469 Berlin",
+      "telefon": "+49 30 40396922",
+      "enlem": "52.6075045",
+      "boylam": "13.3255993",
+      "mesafe": "10.9 km"
+    },
+    {
+      "eczaneAdi": "Berolina-Apotheke",
+      "adres": "Clayallee 345, 14169 Berlin",
+      "telefon": "+49 30 8099600",
+      "enlem": "52.4363758",
+      "boylam": "13.2605912",
+      "mesafe": "12.5 km"
+    },
+    {
+      "eczaneAdi": "Askanier-Apotheke",
+      "adres": "Streitstr. 11-14, 13587 Berlin",
+      "telefon": "+49 30 3352680",
+      "enlem": "52.556849",
+      "boylam": "13.2097988",
+      "mesafe": "12.9 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Stadtrand",
+      "adres": "Ahrensfelder Chaussee 146 A, 12689 Berlin",
+      "telefon": "+49 30 9375468",
+      "enlem": "52.5708",
+      "boylam": "13.56337",
+      "mesafe": "13.3 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Markt",
+      "adres": "Bekassinenweg 18, 13503 Berlin",
+      "telefon": "+49 30 4311247",
+      "enlem": "52.6076219",
+      "boylam": "13.2349401",
+      "mesafe": "14.5 km"
+    },
+    {
+      "eczaneAdi": "Puls-Apotheke",
+      "adres": "Goltzstr. 39, 12307 Berlin",
+      "telefon": "+49 30 70784791",
+      "enlem": "52.3871212",
+      "boylam": "13.4093607",
+      "mesafe": "14.5 km"
+    },
+    {
+      "eczaneAdi": "Teltow Apotheke",
+      "adres": "Oderstraße 29, 14513 Teltow",
+      "telefon": "+49 3328 3345678",
+      "enlem": "52.4037538",
+      "boylam": "13.2523341",
+      "mesafe": "15.7 km"
+    },
+    {
+      "eczaneAdi": "Damian-Apotheke",
+      "adres": "Falkenseer Chaussee 196, 13589 Berlin",
+      "telefon": "+49 30 3735792",
+      "enlem": "52.55136",
+      "boylam": "13.16374",
+      "mesafe": "15.7 km"
+    }
+  ],
+  "Nordrhein-Westfalen": [
+    {
+      "eczaneAdi": "Pinguin-Apotheke",
+      "adres": "Hermannstr. 29, 44263 Dortmund",
+      "telefon": "0231/422068",
+      "enlem": "51.4889517",
+      "boylam": "7.4996935",
+      "mesafe": "4.0 km"
+    },
+    {
+      "eczaneAdi": "Zeppelin-Apotheke",
+      "adres": "Beurhausstr. 21, 44137 Dortmund",
+      "telefon": "0231/140754",
+      "enlem": "51.5092782",
+      "boylam": "7.4588719",
+      "mesafe": "7.4 km"
+    },
+    {
+      "eczaneAdi": "Fleming-Apotheke",
+      "adres": "Harkortstr. 38, 44225 Dortmund",
+      "telefon": "0231/793005-0",
+      "enlem": "51.4753347",
+      "boylam": "7.4423687",
+      "mesafe": "7.8 km"
+    },
+    {
+      "eczaneAdi": "Robin-Apotheke im real,-",
+      "adres": "Kabeler Str. 25, 58099 Hagen",
+      "telefon": "02331/4833388",
+      "enlem": "51.4084945",
+      "boylam": "7.4751384",
+      "mesafe": "9.6 km"
+    },
+    {
+      "eczaneAdi": "Dorf-Apotheke",
+      "adres": "Heidestr. 61, 58708 Menden",
+      "telefon": "02373/63637",
+      "enlem": "51.4564758",
+      "boylam": "7.7568589",
+      "mesafe": "14.3 km"
+    },
+    {
+      "eczaneAdi": "St. Barbara-Apotheke",
+      "adres": "Schulstr. 45, 59192 Bergkamen",
+      "telefon": "02307/69761",
+      "enlem": "51.6073393",
+      "boylam": "7.6190368",
+      "mesafe": "15.0 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Kaufland",
+      "adres": "Theodor-Heuss-Ring 11 - 25, 58636 Iserlohn",
+      "telefon": "02371/95350",
+      "enlem": "51.3762172",
+      "boylam": "7.6993458",
+      "mesafe": "15.2 km"
+    },
+    {
+      "eczaneAdi": "Feen-Apotheke",
+      "adres": "Kaiserstr. 123, 58300 Wetter",
+      "telefon": "02335/8468426",
+      "enlem": "51.3841742",
+      "boylam": "7.3919268",
+      "mesafe": "15.5 km"
+    },
+    {
+      "eczaneAdi": "Glückauf-Apotheke",
+      "adres": "Wittener Str. 60, 45711 Datteln",
+      "telefon": "02363/62176",
+      "enlem": "51.61955",
+      "boylam": "7.31914",
+      "mesafe": "22.6 km"
+    },
+    {
+      "eczaneAdi": "farma-plus Apotheke Glückauf",
+      "adres": "Herner Str. 349, 44807 Bochum",
+      "telefon": "+49 234 531467",
+      "enlem": "51.50805",
+      "boylam": "7.21142",
+      "mesafe": "24.0 km"
+    },
+    {
+      "eczaneAdi": "Bären-Apotheke",
+      "adres": "Hattinger Str. 243, 44795 Bochum",
+      "telefon": "0234/430024",
+      "enlem": "51.46136",
+      "boylam": "7.20169",
+      "mesafe": "24.6 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Sandforter Weg",
+      "adres": "Sandforter Weg 9, 59379 Selm",
+      "telefon": "+49 2592 3097",
+      "enlem": "51.69517",
+      "boylam": "7.46212",
+      "mesafe": "24.9 km"
+    },
+    {
+      "eczaneAdi": "Glückauf-Apotheke",
+      "adres": "König-Ludwig-Str. 96, 45663 Recklinghausen",
+      "telefon": "02361/34368",
+      "enlem": "51.5789944",
+      "boylam": "7.2262564",
+      "mesafe": "25.3 km"
+    }
+  ],
   "Hamburg": [],
-  "Baden-Württemberg": [],
+  "Baden-Württemberg": [
+    {
+      "eczaneAdi": "Post-Apotheke Tübingen",
+      "adres": "Europaplatz 3, 72072 Tübingen",
+      "telefon": "+49 7071 32777",
+      "enlem": "48.5163388",
+      "boylam": "9.0583954",
+      "mesafe": "2.7 km"
+    },
+    {
+      "eczaneAdi": "Rathaus-Apotheke Kirchentellinsfurt",
+      "adres": "Dorfstr. 41, 72138 Kirchentellinsfurt",
+      "telefon": "+49 7121 96880",
+      "enlem": "48.5319196",
+      "boylam": "9.1480319",
+      "mesafe": "7.9 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Ohmenhausen",
+      "adres": "Gomaringer Str. 33, 72770 Reutlingen",
+      "telefon": "+49 7121 91660",
+      "enlem": "48.4760818",
+      "boylam": "9.1367",
+      "mesafe": "9.8 km"
+    },
+    {
+      "eczaneAdi": "Central-Apotheke Schönaich",
+      "adres": "Wettgasse 45, 71101 Schönaich",
+      "telefon": "+49 7031 651388",
+      "enlem": "48.6562355",
+      "boylam": "9.0598771",
+      "mesafe": "13.2 km"
+    },
+    {
+      "eczaneAdi": "Bären Apotheke Herrenberg",
+      "adres": "Hindenburgstr. 20, 71083 Herrenberg",
+      "telefon": "+49 7032 122110",
+      "enlem": "48.594684",
+      "boylam": "8.8695929",
+      "mesafe": "14.2 km"
+    },
+    {
+      "eczaneAdi": "Eichenberg-Apotheke Hirrlingen",
+      "adres": "Marktstr. 5, 72145 Hirrlingen",
+      "telefon": "+49 7478 91170",
+      "enlem": "48.41046",
+      "boylam": "8.88757",
+      "mesafe": "18.1 km"
+    },
+    {
+      "eczaneAdi": "Bahnhof-Apotheke Metzingen",
+      "adres": "Schönbeinstr. 20, 72555 Metzingen",
+      "telefon": "+49 7123 14252",
+      "enlem": "48.5394308",
+      "boylam": "9.2884493",
+      "mesafe": "18.3 km"
+    },
+    {
+      "eczaneAdi": "Rotbühl-Apotheke Sindelfingen",
+      "adres": "Leonberger Str. 29, 71063 Sindelfingen",
+      "telefon": "+49 7031 70820",
+      "enlem": "48.7162673",
+      "boylam": "9.002642",
+      "mesafe": "20.1 km"
+    },
+    {
+      "eczaneAdi": "Apotheke in der SchwabenGalerie",
+      "adres": "Schwabenplatz 1, 70563 Stuttgart",
+      "telefon": "+49 711 9976900",
+      "enlem": "48.7301521",
+      "boylam": "9.1089",
+      "mesafe": "22.0 km"
+    },
+    {
+      "eczaneAdi": "Kronen-Apotheke Neuhausen",
+      "adres": "Marktstr. 3, 73765 Neuhausen auf den Fildern",
+      "telefon": "+49 7158 67000",
+      "enlem": "48.68466",
+      "boylam": "9.27955",
+      "mesafe": "24.0 km"
+    },
+    {
+      "eczaneAdi": "Uhland-Apotheke Nürtingen",
+      "adres": "Uhlandstr. 3, 72622 Nürtingen",
+      "telefon": "+49 7022 8633",
+      "enlem": "48.6270619",
+      "boylam": "9.3402263",
+      "mesafe": "24.2 km"
+    }
+  ],
   "Bayern": [
     {
       "eczaneAdi": "St. Georgs-Apotheke",
@@ -185,136 +580,7 @@
       "mesafe": "27.2 km"
     }
   ],
-  "Hessen": [
-    {
-      "eczaneAdi": "Engel Apotheke",
-      "adres": "Bahnhofstr. 2, 35321 Laubach",
-      "telefon": "+49 6405 91230",
-      "enlem": "50.54201",
-      "boylam": "8.98976",
-      "mesafe": "7.8 km"
-    },
-    {
-      "eczaneAdi": "Storchen Apotheke",
-      "adres": "Rabenauer Str. 24, 35396 Gießen",
-      "telefon": "+49 641 51504",
-      "enlem": "50.6051461",
-      "boylam": "8.7048416",
-      "mesafe": "22.9 km"
-    },
-    {
-      "eczaneAdi": "Deine Apotheke Linden",
-      "adres": "Robert-Bosch-Straße 6, 35440 Linden",
-      "telefon": "+49 6403 609820",
-      "enlem": "50.53802",
-      "boylam": "8.65095",
-      "mesafe": "27.9 km"
-    },
-    {
-      "eczaneAdi": "Erlenring Apotheke",
-      "adres": "Erlenring 9, 35037 Marburg",
-      "telefon": "+49 6421 1664100",
-      "enlem": "50.80676",
-      "boylam": "8.77737",
-      "mesafe": "28.3 km"
-    },
-    {
-      "eczaneAdi": "Wartenberg Apotheke",
-      "adres": "Rudloser Str. 1, 36367 Wartenberg",
-      "telefon": "+49 6641 62876",
-      "enlem": "50.6274902",
-      "boylam": "9.444884",
-      "mesafe": "29.6 km"
-    },
-    {
-      "eczaneAdi": "Amtsapotheke",
-      "adres": "Bingenheimer Str. 34, 61203 Reichelsheim (Wetterau)",
-      "telefon": "+49 6035 3216",
-      "enlem": "50.3588437",
-      "boylam": "8.8750513",
-      "mesafe": "29.8 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Rodheim-Bieber",
-      "adres": "Mühlbergstr. 7, 35444 Biebertal",
-      "telefon": "+49 6409 6351",
-      "enlem": "50.6199",
-      "boylam": "8.5959007",
-      "mesafe": "30.6 km"
-    },
-    {
-      "eczaneAdi": "Dilltal-Apotheke im Gesundheitszentrum Hermannstein",
-      "adres": "Loherstraße 1, 35586 Wetzlar",
-      "telefon": "+49 6441 381190",
-      "enlem": "50.58223",
-      "boylam": "8.4848",
-      "mesafe": "38.6 km"
-    },
-    {
-      "eczaneAdi": "Turm Apotheke",
-      "adres": "Hauptstraße 60, 61191 Rosbach v d Höhe",
-      "telefon": "+49 6007 7676",
-      "enlem": "50.26612",
-      "boylam": "8.69888",
-      "mesafe": "44.7 km"
-    },
-    {
-      "eczaneAdi": "Markt Apotheke",
-      "adres": "Homburger Straße 43, 61184 Karben",
-      "telefon": "+49 6039 2506",
-      "enlem": "50.2310243",
-      "boylam": "8.7707426",
-      "mesafe": "45.8 km"
-    },
-    {
-      "eczaneAdi": "Apotheke in Frielendorf",
-      "adres": "Hauptstr. 53, 34621 Frielendorf",
-      "telefon": "+49 5684 317",
-      "enlem": "50.9755861",
-      "boylam": "9.3262143",
-      "mesafe": "46.0 km"
-    },
-    {
-      "eczaneAdi": "Adler Apotheke",
-      "adres": "Obergasse 13, 61250 Usingen",
-      "telefon": "+49 6081 66742",
-      "enlem": "50.3351",
-      "boylam": "8.53689",
-      "mesafe": "46.3 km"
-    },
-    {
-      "eczaneAdi": "Engel Apotheke am Buttermarkt",
-      "adres": "Karlstr. 4, 36037 Fulda",
-      "telefon": "+49 661 928950",
-      "enlem": "50.55025",
-      "boylam": "9.67722",
-      "mesafe": "46.4 km"
-    },
-    {
-      "eczaneAdi": "Bären Apotheke",
-      "adres": "Schelde-Lahn-Str. 43, 35239 Steffenberg",
-      "telefon": "+49 6464 8056",
-      "enlem": "50.8402413",
-      "boylam": "8.4715254",
-      "mesafe": "47.0 km"
-    },
-    {
-      "eczaneAdi": "Löwen Apotheke",
-      "adres": "Innerer Ring 2, 63486 Bruchköbel",
-      "telefon": "+49 6181 976597",
-      "enlem": "50.1802",
-      "boylam": "8.91846",
-      "mesafe": "48.2 km"
-    },
-    {
-      "eczaneAdi": "Kurpark Apotheke",
-      "adres": "Ludwig-Schmank-Str. 5, 63619 Bad Orb",
-      "telefon": "+49 6052 3993",
-      "enlem": "50.2244024",
-      "boylam": "9.3501042",
-      "mesafe": "48.4 km"
-    }
-  ],
+  "Hessen": [],
   "Mecklenburg-Vorpommern": [
     {
       "eczaneAdi": "Rats-Apotheke",
