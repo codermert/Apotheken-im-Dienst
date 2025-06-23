@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 39
+            "anzahl": 36
         },
         "quota": {
-            "verwendet": "12376"
+            "verwendet": "14125"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,25 +5762,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Apotheke im Sonnengarten",
-                    "kammer": "lakbb",
-                    "id": "241",
-                    "apo_id": "lakbb241",
-                    "strasse": "Märkische Allee 76",
-                    "plz": "16548",
-                    "ort": "Glienicke/Nordbahn",
-                    "distanz": "13.48323987355",
-                    "longitude": "13.3230005",
-                    "latitude": "52.6313669",
-                    "telefon": "+49 33056 42996",
-                    "fax": [],
-                    "email": "ais@online.de",
-                    "startdatum": "22.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "23.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Elefanten Apotheke",
                     "kammer": "akb",
                     "id": "100449",
@@ -5792,6 +5773,25 @@
                     "longitude": "13.5483317",
                     "latitude": "52.4383455",
                     "telefon": "+49 30 67894942",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "22.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "23.06.2025",
+                    "endzeit": "08:59"
+                },
+                {
+                    "name": "Ginkgo-Apotheke",
+                    "kammer": "akb",
+                    "id": "100183",
+                    "apo_id": "akb100183",
+                    "strasse": "Walter-Friedrich-Str. 6",
+                    "plz": "13125",
+                    "ort": "Berlin",
+                    "distanz": "14.87803898221",
+                    "longitude": "13.4942725",
+                    "latitude": "52.6343046",
+                    "telefon": "+49 30 94113322",
                     "fax": [],
                     "email": [],
                     "startdatum": "22.06.2025",

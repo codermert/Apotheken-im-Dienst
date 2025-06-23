@@ -3194,7 +3194,7 @@
             "anzahl": 16
         },
         "quota": {
-            "verwendet": "12427"
+            "verwendet": "14160"
         },
         "apotheken": {
             "apotheke": [
@@ -3465,25 +3465,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Eidig-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1389",
-                    "apo_id": "aknds1389",
-                    "strasse": "Bürgermeister-Glade-Str. 1",
-                    "plz": "21224",
-                    "ort": "Rosengarten",
-                    "distanz": "20.93006057904",
-                    "longitude": "9.9290501",
-                    "latitude": "53.3672014",
-                    "telefon": "+49 4105 65560",
-                    "fax": "+49 4105 655617",
-                    "email": [],
-                    "startdatum": "22.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "23.06.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Beimoor Apotheke",
                     "kammer": "aksh",
                     "id": "10879",
@@ -3501,6 +3482,25 @@
                     "startzeit": "08:00",
                     "enddatum": "24.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "wir leben-Apotheke am Bahnhof",
+                    "kammer": "aknds",
+                    "id": "1509",
+                    "apo_id": "aknds1509",
+                    "strasse": "Bahnhofstr. 67",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "25.60830350646",
+                    "longitude": "10.2061221",
+                    "latitude": "53.3556573",
+                    "telefon": "+49 4171 71460",
+                    "fax": "+49 4171 75478",
+                    "email": [],
+                    "startdatum": "23.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "24.06.2025",
+                    "endzeit": "08:30"
                 }
             ]
         }
