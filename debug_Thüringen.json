@@ -37,46 +37,27 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "25709"
+            "verwendet": "26481"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "EGA-Apotheke",
+                    "name": "Wilhelm-Busch-Apotheke",
                     "kammer": "lakt",
-                    "id": "649",
-                    "apo_id": "lakt649",
-                    "strasse": "Gothaer Straße 22",
-                    "plz": "99094",
+                    "id": "410",
+                    "apo_id": "lakt410",
+                    "strasse": "Wilhelm-Busch-Straße 70",
+                    "plz": "99099",
                     "ort": "Erfurt",
-                    "distanz": "7.5742521412",
-                    "longitude": "10.9857271",
-                    "latitude": "50.9610823",
-                    "telefon": "+49 361 7893490",
+                    "distanz": "7.77925128313",
+                    "longitude": "11.0450191",
+                    "latitude": "50.9712502",
+                    "telefon": "+49 361 3457515",
                     "fax": [],
                     "email": [],
-                    "startdatum": "23.06.2025",
+                    "startdatum": "24.06.2025",
                     "startzeit": "09:00",
-                    "enddatum": "24.06.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Germania-Apotheke",
-                    "kammer": "lakt",
-                    "id": "3929",
-                    "apo_id": "lakt3929",
-                    "strasse": "Thälmannstraße 25",
-                    "plz": "99085",
-                    "ort": "Erfurt",
-                    "distanz": "8.649941977360001",
-                    "longitude": "11.04247",
-                    "latitude": "50.97917",
-                    "telefon": "+49 361 5623214",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "23.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "24.06.2025",
+                    "enddatum": "25.06.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -97,6 +78,25 @@
                     "startzeit": "08:00",
                     "enddatum": "25.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Park-Apotheke Thüringen Park",
+                    "kammer": "lakt",
+                    "id": "478",
+                    "apo_id": "lakt478",
+                    "strasse": "Nordhäuser Str. 73T",
+                    "plz": "99091",
+                    "ort": "Erfurt",
+                    "distanz": "12.316168228439999",
+                    "longitude": "10.9937716",
+                    "latitude": "51.0086349",
+                    "telefon": "+49 361 6538390",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "24.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "25.06.2025",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Apotheke am Goetheplatz",
