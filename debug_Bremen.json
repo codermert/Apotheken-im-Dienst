@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 11
+            "anzahl": 12
         },
         "quota": {
-            "verwendet": "24167"
+            "verwendet": "25489"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,23 +1310,42 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Moorkamp-Apotheke",
+                    "name": "Neue Apotheke Heidkrug",
                     "kammer": "aknds",
-                    "id": "1673",
-                    "apo_id": "aknds1673",
-                    "strasse": "Brendelweg 5",
-                    "plz": "27755",
+                    "id": "1683",
+                    "apo_id": "aknds1683",
+                    "strasse": "Bremer Str. 323",
+                    "plz": "27751",
                     "ort": "Delmenhorst",
-                    "distanz": "13.37795548676",
-                    "longitude": "8.6228754",
-                    "latitude": "53.032369",
-                    "telefon": "+49 4221 25055",
-                    "fax": "+49 4221 25056",
+                    "distanz": "9.93248560797",
+                    "longitude": "8.6793451",
+                    "latitude": "53.0560112",
+                    "telefon": "+49 4221 8005663",
+                    "fax": "+49 4221 8005664",
                     "email": [],
-                    "startdatum": "23.06.2025",
+                    "startdatum": "24.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "25.06.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Apotheke Schierbrok",
+                    "kammer": "aknds",
+                    "id": "1753",
+                    "apo_id": "aknds1753",
+                    "strasse": "Bahnhofstr. 49",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "10.35027715195",
+                    "longitude": "8.5769381",
+                    "latitude": "53.0836028",
+                    "telefon": "+49 4221 89335",
+                    "fax": "+49 4221 88151",
+                    "email": [],
+                    "startdatum": "24.06.2025",
                     "startzeit": "08:30",
                     "enddatum": "24.06.2025",
-                    "endzeit": "08:30"
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Hubertus-Apotheke",
