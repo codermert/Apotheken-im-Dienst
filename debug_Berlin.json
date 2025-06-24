@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 36
+            "anzahl": 40
         },
         "quota": {
-            "verwendet": "22326"
+            "verwendet": "23989"
         },
         "apotheken": {
             "apotheke": [
@@ -5724,6 +5724,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Neue Roland Apotheke",
+                    "kammer": "lakbb",
+                    "id": "537",
+                    "apo_id": "lakbb537",
+                    "strasse": "Oranienburger Chaussee 17",
+                    "plz": "16548",
+                    "ort": "Glienicke/Nordbahn",
+                    "distanz": "14.00161131402",
+                    "longitude": "13.30969",
+                    "latitude": "52.63325",
+                    "telefon": "033056 94500",
+                    "fax": "033056 94501",
+                    "email": "info@neue-roland-apotheke.de",
+                    "startdatum": "24.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "25.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Apotheke am Markt",
                     "kammer": "akb",
                     "id": "100660",
@@ -5762,42 +5781,23 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Teltow Apotheke",
+                    "name": "Kaufpark Apotheke",
                     "kammer": "lakbb",
-                    "id": "654",
-                    "apo_id": "lakbb654",
-                    "strasse": "Oderstraße 29",
-                    "plz": "14513",
-                    "ort": "Teltow",
-                    "distanz": "15.65303656493",
-                    "longitude": "13.2523341",
-                    "latitude": "52.4037538",
-                    "telefon": "+49 3328 3345678",
+                    "id": "459",
+                    "apo_id": "lakbb459",
+                    "strasse": "Landsberger Chaussee 17",
+                    "plz": "16356",
+                    "ort": "Ahrensfelde - OT Eiche-Süd",
+                    "distanz": "14.706543724700001",
+                    "longitude": "13.5988534",
+                    "latitude": "52.5497144",
+                    "telefon": "+49 30 9989607",
                     "fax": [],
                     "email": [],
-                    "startdatum": "23.06.2025",
+                    "startdatum": "24.06.2025",
                     "startzeit": "08:00",
-                    "enddatum": "24.06.2025",
+                    "enddatum": "25.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Damian-Apotheke",
-                    "kammer": "akb",
-                    "id": "100731",
-                    "apo_id": "akb100731",
-                    "strasse": "Falkenseer Chaussee 196",
-                    "plz": "13589",
-                    "ort": "Berlin",
-                    "distanz": "15.746315526910001",
-                    "longitude": "13.16374",
-                    "latitude": "52.55136",
-                    "telefon": "+49 30 3735792",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "23.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "24.06.2025",
-                    "endzeit": "08:59"
                 }
             ]
         }
