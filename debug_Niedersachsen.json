@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 7
         },
         "quota": {
-            "verwendet": "22061"
+            "verwendet": "22617"
         },
         "apotheken": {
             "apotheke": [
@@ -72,6 +72,25 @@
                     "startzeit": "09:00",
                     "enddatum": "24.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Uhlen Apotheke",
+                    "kammer": "aknds",
+                    "id": "941",
+                    "apo_id": "aknds941",
+                    "strasse": "Rathausstr. 2",
+                    "plz": "31608",
+                    "ort": "Marklohe",
+                    "distanz": "20.764561643180002",
+                    "longitude": "9.1586733",
+                    "latitude": "52.6601345",
+                    "telefon": "+49 5021 15025",
+                    "fax": "+49 5021 910838",
+                    "email": [],
+                    "startdatum": "24.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "25.06.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Apotheke am Markt",
