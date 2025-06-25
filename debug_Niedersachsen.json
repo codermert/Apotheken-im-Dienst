@@ -28,13 +28,32 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "16507"
+            "verwendet": "17316"
         },
         "apotheken": {
             "apotheke": [
+                {
+                    "name": "Linden-Apotheke",
+                    "kammer": "aknds",
+                    "id": "581",
+                    "apo_id": "aknds581",
+                    "strasse": "Bahnhofstr. 32",
+                    "plz": "27324",
+                    "ort": "Eystrup",
+                    "distanz": "11.69217346801",
+                    "longitude": "9.2184781",
+                    "latitude": "52.7800073",
+                    "telefon": "+49 4254 8360",
+                    "fax": "+49 4254 2326",
+                    "email": [],
+                    "startdatum": "25.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "26.06.2025",
+                    "endzeit": "08:00"
+                },
                 {
                     "name": "Raths-Apotheke am Dom",
                     "kammer": "aknds",
@@ -93,22 +112,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Uhlen Apotheke",
+                    "name": "Apotheke am Goetheplatz",
                     "kammer": "aknds",
-                    "id": "941",
-                    "apo_id": "aknds941",
-                    "strasse": "Rathausstr. 2",
-                    "plz": "31608",
-                    "ort": "Marklohe",
-                    "distanz": "20.764561643180002",
-                    "longitude": "9.1586733",
-                    "latitude": "52.6601345",
-                    "telefon": "+49 5021 15025",
-                    "fax": "+49 5021 910838",
+                    "id": "961",
+                    "apo_id": "aknds961",
+                    "strasse": "Goetheplatz 6",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "23.774463096319998",
+                    "longitude": "9.2096738",
+                    "latitude": "52.6422229",
+                    "telefon": "+49 5021 13100",
+                    "fax": "+49 5021 910919",
                     "email": [],
-                    "startdatum": "24.06.2025",
+                    "startdatum": "25.06.2025",
                     "startzeit": "08:00",
-                    "enddatum": "25.06.2025",
+                    "enddatum": "26.06.2025",
                     "endzeit": "08:00"
                 },
                 {

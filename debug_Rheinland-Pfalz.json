@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "16546"
+            "verwendet": "17365"
         },
         "apotheken": {
             "apotheke": [
@@ -186,6 +186,25 @@
                     "startzeit": "08:30",
                     "enddatum": "25.06.2025",
                     "endzeit": "08:30"
+                },
+                {
+                    "name": "Ostertal-Apotheke",
+                    "kammer": "aksaar",
+                    "id": "1762",
+                    "apo_id": "aksaar1762",
+                    "strasse": "Talbrückstraße 1",
+                    "plz": "66629",
+                    "ort": "Freisen-Oberkirchen",
+                    "distanz": "47.71191029295",
+                    "longitude": "7.2621537",
+                    "latitude": "49.5253414",
+                    "telefon": "06855/237",
+                    "fax": "06855/996650",
+                    "email": "info@ostertal-apo-freisen.de",
+                    "startdatum": "25.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "26.06.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }
