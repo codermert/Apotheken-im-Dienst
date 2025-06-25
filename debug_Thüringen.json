@@ -37,27 +37,46 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "20717"
+            "verwendet": "23699"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Wilhelm-Busch-Apotheke",
+                    "name": "Arnika-Apotheke",
                     "kammer": "lakt",
-                    "id": "410",
-                    "apo_id": "lakt410",
-                    "strasse": "Wilhelm-Busch-Straße 70",
-                    "plz": "99099",
+                    "id": "418",
+                    "apo_id": "lakt418",
+                    "strasse": "Blumenstr. 92",
+                    "plz": "99092",
                     "ort": "Erfurt",
-                    "distanz": "7.77925128313",
-                    "longitude": "11.0450191",
-                    "latitude": "50.9712502",
-                    "telefon": "+49 361 3457515",
+                    "distanz": "9.18303846778",
+                    "longitude": "11.0178287",
+                    "latitude": "50.9830499",
+                    "telefon": "+49 361 2113290",
                     "fax": [],
                     "email": [],
-                    "startdatum": "24.06.2025",
+                    "startdatum": "25.06.2025",
                     "startzeit": "09:00",
-                    "enddatum": "25.06.2025",
+                    "enddatum": "26.06.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Linderbach-Apotheke",
+                    "kammer": "lakt",
+                    "id": "631",
+                    "apo_id": "lakt631",
+                    "strasse": "Weimarische Str. 117",
+                    "plz": "99098",
+                    "ort": "Erfurt-Linderbach",
+                    "distanz": "9.56832827235",
+                    "longitude": "11.1057169",
+                    "latitude": "50.9760061",
+                    "telefon": "+49 361 6539150",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "25.06.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "26.06.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "26.06.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Park-Apotheke Thüringen Park",
-                    "kammer": "lakt",
-                    "id": "478",
-                    "apo_id": "lakt478",
-                    "strasse": "Nordhäuser Str. 73T",
-                    "plz": "99091",
-                    "ort": "Erfurt",
-                    "distanz": "12.316168228439999",
-                    "longitude": "10.9937716",
-                    "latitude": "51.0086349",
-                    "telefon": "+49 361 6538390",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "24.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "25.06.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Apotheke am Jakobstor",
