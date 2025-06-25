@@ -767,8 +767,98 @@
       "mesafe": "27.4 km"
     }
   ],
-  "Mecklenburg-Vorpommern": [],
-  "Niedersachsen": [],
+  "Mecklenburg-Vorpommern": [
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Marktplatz 4, 17166 Teterow",
+      "telefon": "+49 3996 172041",
+      "enlem": "53.7736844",
+      "boylam": "12.5750741",
+      "mesafe": "0.0 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Wall",
+      "adres": "Hageböcker Str. 19, 18273 Güstrow",
+      "telefon": "+49 3843 684096",
+      "enlem": "53.7934156",
+      "boylam": "12.1714502",
+      "mesafe": "26.7 km"
+    },
+    {
+      "eczaneAdi": "Linden-Apotheke",
+      "adres": "Goethestr. 48-51, 17192 Waren",
+      "telefon": "+49 3991 731932",
+      "enlem": "53.5188383",
+      "boylam": "12.677138",
+      "mesafe": "29.1 km"
+    },
+    {
+      "eczaneAdi": "Pommern-Apotheke",
+      "adres": "Adolf-Pompe-Str. 24, 17109 Demmin",
+      "telefon": "+49 3998 362366",
+      "enlem": "53.90266",
+      "boylam": "13.04724",
+      "mesafe": "34.2 km"
+    },
+    {
+      "eczaneAdi": "Steintor-Apotheke",
+      "adres": "Paulstr. 48-55, 18055 Rostock",
+      "telefon": "+49 381 4930220",
+      "enlem": "54.0832102",
+      "boylam": "12.1395702",
+      "mesafe": "44.8 km"
+    }
+  ],
+  "Niedersachsen": [
+    {
+      "eczaneAdi": "Central-Apotheke",
+      "adres": "Große Str. 61, 27313 Dörverden",
+      "telefon": "+49 4234 1308",
+      "enlem": "52.8484675",
+      "boylam": "9.2302053",
+      "mesafe": "10.4 km"
+    },
+    {
+      "eczaneAdi": "Linden-Apotheke",
+      "adres": "Bahnhofstr. 32, 27324 Eystrup",
+      "telefon": "+49 4254 8360",
+      "enlem": "52.7800073",
+      "boylam": "9.2184781",
+      "mesafe": "11.7 km"
+    },
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Obernstraße 22, 28832 Achim",
+      "telefon": "+49 4202 8016",
+      "enlem": "53.0081822",
+      "boylam": "9.042328",
+      "mesafe": "18.9 km"
+    },
+    {
+      "eczaneAdi": "Stifts-Apotheke",
+      "adres": "Sulinger Str. 11 A, 27211 Bassum",
+      "telefon": "+49 4241 93060",
+      "enlem": "52.8467512",
+      "boylam": "8.7277453",
+      "mesafe": "23.5 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Goetheplatz",
+      "adres": "Goetheplatz 6, 31582 Nienburg",
+      "telefon": "+49 5021 13100",
+      "enlem": "52.6422229",
+      "boylam": "9.2096738",
+      "mesafe": "23.8 km"
+    },
+    {
+      "eczaneAdi": "Waldecksche Apotheke",
+      "adres": "Bremer Str. 7, 28816 Stuhr",
+      "telefon": "+49 421 895809",
+      "enlem": "53.0125904",
+      "boylam": "8.7891545",
+      "mesafe": "27.2 km"
+    }
+  ],
   "Rheinland-Pfalz": [
     {
       "eczaneAdi": "Adler-Apotheke",
@@ -827,7 +917,104 @@
       "mesafe": "48.8 km"
     }
   ],
-  "Saarland": [],
+  "Saarland": [
+    {
+      "eczaneAdi": "Berg-Apotheke",
+      "adres": "Allenfeldstr. 3, 66589 Merchweiler",
+      "telefon": "06825/5444",
+      "enlem": "49.35871",
+      "boylam": "7.0589",
+      "mesafe": "8.1 km"
+    },
+    {
+      "eczaneAdi": "Rosen-Apotheke",
+      "adres": "Trierer Straße 11, 66839 Schmelz",
+      "telefon": "06887/92777",
+      "enlem": "49.44231",
+      "boylam": "6.85297",
+      "mesafe": "9.8 km"
+    },
+    {
+      "eczaneAdi": "Rosen-Apotheke",
+      "adres": "Im Brühl 1a, 66646 Marpingen-Urexweiler",
+      "telefon": "06827/2233",
+      "enlem": "49.4298659",
+      "boylam": "7.0768838",
+      "mesafe": "10.3 km"
+    },
+    {
+      "eczaneAdi": "Löwen-Apotheke",
+      "adres": "Lebacher Straße 11, 66793 Saarwellingen",
+      "telefon": "06838/2739",
+      "enlem": "49.3544001",
+      "boylam": "6.8067664",
+      "mesafe": "11.2 km"
+    },
+    {
+      "eczaneAdi": "Schloß-Apotheke",
+      "adres": "Pauluseck 8, 66564 Ottweiler",
+      "telefon": "+49 6824 302010",
+      "enlem": "49.40347",
+      "boylam": "7.16173",
+      "mesafe": "15.3 km"
+    },
+    {
+      "eczaneAdi": "Glückauf-Apotheke",
+      "adres": "Bergstraße 54, 66115 Saarbrücken-Burbach",
+      "telefon": "+49 681 76205",
+      "enlem": "49.24208",
+      "boylam": "6.94168",
+      "mesafe": "15.8 km"
+    },
+    {
+      "eczaneAdi": "Hirsch-Apotheke",
+      "adres": "Kaiserstr. 22, 66386 St. Ingbert",
+      "telefon": "06894/2160",
+      "enlem": "49.2771839",
+      "boylam": "7.114398",
+      "mesafe": "16.7 km"
+    },
+    {
+      "eczaneAdi": "easy-Apotheke",
+      "adres": "Jahnstraße 17, 66763 Dillingen",
+      "telefon": "06831/4614658",
+      "enlem": "49.3565381",
+      "boylam": "6.7234186",
+      "mesafe": "17.0 km"
+    },
+    {
+      "eczaneAdi": "Fellenberg-Apotheke",
+      "adres": "Torstraße 28, 66663 Merzig",
+      "telefon": "06861/793232",
+      "enlem": "49.4441586",
+      "boylam": "6.6467059",
+      "mesafe": "23.3 km"
+    },
+    {
+      "eczaneAdi": "Linden-Apotheke",
+      "adres": "Elsässer Straße 14, 66271 Kleinblittersdorf",
+      "telefon": "06805/8300",
+      "enlem": "49.1564887",
+      "boylam": "7.0353937",
+      "mesafe": "26.0 km"
+    },
+    {
+      "eczaneAdi": "Warndt-Apotheke",
+      "adres": "Hauptstraße 111, 66333 Völklingen-Lauterbach",
+      "telefon": "06802/1212",
+      "enlem": "49.18463",
+      "boylam": "6.7459",
+      "mesafe": "26.9 km"
+    },
+    {
+      "eczaneAdi": "Ostertal-Apotheke",
+      "adres": "Talbrückstraße 1, 66629 Freisen-Oberkirchen",
+      "telefon": "06855/237",
+      "enlem": "49.5253414",
+      "boylam": "7.2621537",
+      "mesafe": "27.3 km"
+    }
+  ],
   "Sachsen": [
     {
       "eczaneAdi": "Agricola-Apotheke",
