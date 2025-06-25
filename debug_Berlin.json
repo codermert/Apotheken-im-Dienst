@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 41
+            "anzahl": 37
         },
         "quota": {
-            "verwendet": "16899"
+            "verwendet": "20075"
         },
         "apotheken": {
             "apotheke": [
@@ -5781,23 +5781,23 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Neue Roland Apotheke",
-                    "kammer": "lakbb",
-                    "id": "537",
-                    "apo_id": "lakbb537",
-                    "strasse": "Oranienburger Chaussee 17",
-                    "plz": "16548",
-                    "ort": "Glienicke/Nordbahn",
-                    "distanz": "14.00161131402",
-                    "longitude": "13.30969",
-                    "latitude": "52.63325",
-                    "telefon": "033056 94500",
-                    "fax": "033056 94501",
-                    "email": "info@neue-roland-apotheke.de",
+                    "name": "Schlachtensee-Apotheke",
+                    "kammer": "akb",
+                    "id": "100438",
+                    "apo_id": "akb100438",
+                    "strasse": "Breisgauer Straße 7",
+                    "plz": "14129",
+                    "ort": "Berlin",
+                    "distanz": "14.62731474212",
+                    "longitude": "13.2161694",
+                    "latitude": "52.4385452",
+                    "telefon": "+49 30 80902191",
+                    "fax": [],
+                    "email": [],
                     "startdatum": "24.06.2025",
-                    "startzeit": "08:00",
+                    "startzeit": "09:00",
                     "enddatum": "25.06.2025",
-                    "endzeit": "08:00"
+                    "endzeit": "08:59"
                 }
             ]
         }
