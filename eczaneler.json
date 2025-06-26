@@ -675,80 +675,7 @@
       "mesafe": "27.2 km"
     }
   ],
-  "Bremen": [
-    {
-      "eczaneAdi": "Bären-Apotheke",
-      "adres": "Gröpelinger Heerstr. 249 A, 28239 Bremen",
-      "telefon": "+49 421 611260",
-      "enlem": "53.1189214",
-      "boylam": "8.7563315",
-      "mesafe": "5.1 km"
-    },
-    {
-      "eczaneAdi": "Stadt-Apotheke",
-      "adres": "Reeder-Bischoff-Str. 28, 28757 Bremen",
-      "telefon": "+49 421 669460",
-      "enlem": "53.1702222",
-      "boylam": "8.6241076",
-      "mesafe": "5.4 km"
-    },
-    {
-      "eczaneAdi": "Max & Moritz Apotheke",
-      "adres": "Marktplatz 12, 27711 Osterholz-Scharmbeck",
-      "telefon": "+49 4791 985588",
-      "enlem": "53.228296",
-      "boylam": "8.7870547",
-      "mesafe": "11.2 km"
-    },
-    {
-      "eczaneAdi": "Pelikan-Apotheke im Deichhorst-Center",
-      "adres": "Hannah-Arendt-Str. 7, 27753 Delmenhorst",
-      "telefon": "+49 4221 7806801",
-      "enlem": "53.0413565",
-      "boylam": "8.5950774",
-      "mesafe": "13.3 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am famila",
-      "adres": "Markt 5, 27777 Ganderkesee",
-      "telefon": "+49 4222 9473270",
-      "enlem": "53.03462",
-      "boylam": "8.54525",
-      "mesafe": "15.8 km"
-    },
-    {
-      "eczaneAdi": "St. Gotthard Apotheke",
-      "adres": "St.-Gotthard-Str. 3, 28325 Bremen",
-      "telefon": "+49 421 422024",
-      "enlem": "53.0641313",
-      "boylam": "8.950001",
-      "mesafe": "19.4 km"
-    },
-    {
-      "eczaneAdi": "Apotheke 55 im Rudolf-Virchow-Haus",
-      "adres": "Hauptstr. 55, 28844 Weyhe",
-      "telefon": "+49 4203 6955",
-      "enlem": "52.98363",
-      "boylam": "8.83345",
-      "mesafe": "20.3 km"
-    },
-    {
-      "eczaneAdi": "St. Bernhard-Apotheke",
-      "adres": "Claußenstraße 4, 26919 Brake",
-      "telefon": "+49 4401 7057730",
-      "enlem": "53.325019",
-      "boylam": "8.4831568",
-      "mesafe": "24.5 km"
-    },
-    {
-      "eczaneAdi": "Mühlen-Apotheke",
-      "adres": "Burgstr. 17, 27243 Harpstedt",
-      "telefon": "+49 4244 93530",
-      "enlem": "52.909233",
-      "boylam": "8.5871724",
-      "mesafe": "27.2 km"
-    }
-  ],
+  "Bremen": [],
   "Hessen": [
     {
       "eczaneAdi": "Kreuz Apotheke",
@@ -899,7 +826,64 @@
       "mesafe": "26.4 km"
     }
   ],
-  "Rheinland-Pfalz": [],
+  "Rheinland-Pfalz": [
+    {
+      "eczaneAdi": "Naheland-Apotheke Kirn",
+      "adres": "Kallenfelser Str. 32, 55606 Kirn",
+      "telefon": "+49 6752 2399",
+      "enlem": "49.7923",
+      "boylam": "7.45469",
+      "mesafe": "20.7 km"
+    },
+    {
+      "eczaneAdi": "Baldenau-Apotheke",
+      "adres": "Bahnhofstr. 10, 54497 Morbach",
+      "telefon": "+49 6533 93810",
+      "enlem": "49.8103076",
+      "boylam": "7.1216328",
+      "mesafe": "20.9 km"
+    },
+    {
+      "eczaneAdi": "Altstadt-Apotheke",
+      "adres": "Feldstr. 7 a, 54516 Wittlich",
+      "telefon": "+49 6571 97700",
+      "enlem": "49.9858174",
+      "boylam": "6.8864444",
+      "mesafe": "30.6 km"
+    },
+    {
+      "eczaneAdi": "Ahorn-Apotheke",
+      "adres": "Lessingstr. 4, 56154 Boppard",
+      "telefon": "+49 6742 4845",
+      "enlem": "50.213",
+      "boylam": "7.53779",
+      "mesafe": "33.2 km"
+    },
+    {
+      "eczaneAdi": "Löwen-Apotheke",
+      "adres": "Alter Postplatz 6, 56766 Ulmen",
+      "telefon": "+49 2676 1010",
+      "enlem": "50.2097951",
+      "boylam": "6.9795346",
+      "mesafe": "37.1 km"
+    },
+    {
+      "eczaneAdi": "Muchow Apotheke am St. Marienwörth",
+      "adres": "Mühlenstr. 39, 55543 Bad Kreuznach",
+      "telefon": "+49 671 29844560",
+      "enlem": "49.8465517",
+      "boylam": "7.8617166",
+      "mesafe": "41.3 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Löhr-Center",
+      "adres": "Hohenfelder Str. 22, 56068 Koblenz",
+      "telefon": "+49 261 1233132",
+      "enlem": "50.35757",
+      "boylam": "7.59104",
+      "mesafe": "49.2 km"
+    }
+  ],
   "Saarland": [
     {
       "eczaneAdi": "Glückauf-Apotheke",
