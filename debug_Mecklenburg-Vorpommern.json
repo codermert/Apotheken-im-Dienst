@@ -12,7 +12,7 @@
             "lat": "",
             "lng": "",
             "plzort": "Mecklenburg-Vorpommern",
-            "radius": "25",
+            "radius": 45,
             "street": ""
         },
         "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
@@ -21,17 +21,17 @@
         "parameter": {
             "plzort": "Mecklenburg-Vorpommern",
             "strasse": [],
-            "radius": "25.0",
+            "radius": "45.0",
             "longitude": "12.5755471",
             "latitude": "53.773506399999995",
             "limit": [],
             "datum": []
         },
         "statistik": {
-            "anzahl": 4
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "47962"
+            "verwendet": "53285"
         },
         "apotheken": {
             "apotheke": [
@@ -55,44 +55,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Apotheke zum Klostersee",
-                    "kammer": "akmv",
-                    "id": "171923",
-                    "apo_id": "akmv171923",
-                    "strasse": "Schloßstr. 60",
-                    "plz": "17159",
-                    "ort": "Dargun",
-                    "distanz": "22.969634493090002",
-                    "longitude": "12.8547925",
-                    "latitude": "53.8972319",
-                    "telefon": "+49 39959 20372",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "26.06.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "26.06.2025",
-                    "endzeit": "20:00"
-                },
-                {
-                    "name": "Fritz-Reuter-Apotheke",
-                    "kammer": "akmv",
-                    "id": "171872",
-                    "apo_id": "akmv171872",
-                    "strasse": "Am Markt 16",
-                    "plz": "17153",
-                    "ort": "Reuterstadt Stavenhagen",
-                    "distanz": "23.617059265250003",
-                    "longitude": "12.9085263",
-                    "latitude": "53.6957432",
-                    "telefon": "+49 39954 21082",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "26.06.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "26.06.2025",
-                    "endzeit": "20:00"
-                },
-                {
                     "name": "Godewind-Apotheke",
                     "kammer": "akmv",
                     "id": "175374",
@@ -104,6 +66,63 @@
                     "longitude": "12.1914359",
                     "latitude": "53.8080658",
                     "telefon": "+49 3843 215630",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "26.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "27.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Kranich-Apotheke",
+                    "kammer": "akmv",
+                    "id": "172569",
+                    "apo_id": "akmv172569",
+                    "strasse": "Hans-Beimler-Str. 42 b",
+                    "plz": "17192",
+                    "ort": "Waren",
+                    "distanz": "28.69490905906",
+                    "longitude": "12.6605961",
+                    "latitude": "53.5206875",
+                    "telefon": "+49 3991 17570",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "26.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "27.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Muhrbeck -Apotheke",
+                    "kammer": "akmv",
+                    "id": "174490",
+                    "apo_id": "akmv174490",
+                    "strasse": "Gartenstr. 2",
+                    "plz": "17109",
+                    "ort": "Demmin",
+                    "distanz": "34.02316564356",
+                    "longitude": "13.0423311",
+                    "latitude": "53.9047535",
+                    "telefon": "+49 3998 362151",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "26.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "27.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Augusten-Apotheke",
+                    "kammer": "akmv",
+                    "id": "173861",
+                    "apo_id": "akmv173861",
+                    "strasse": "Augustenstraße 103",
+                    "plz": "18055",
+                    "ort": "Rostock",
+                    "distanz": "45.078603787460004",
+                    "longitude": "12.1350318",
+                    "latitude": "54.0840586",
+                    "telefon": "+49 381 455119",
                     "fax": [],
                     "email": [],
                     "startdatum": "26.06.2025",
