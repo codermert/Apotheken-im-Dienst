@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 11
         },
         "quota": {
-            "verwendet": "11698"
+            "verwendet": "12988"
         },
         "apotheken": {
             "apotheke": [
@@ -1348,25 +1348,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Nutzhorn-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1681",
-                    "apo_id": "aknds1681",
-                    "strasse": "Nutzhorner Str. 29",
-                    "plz": "27753",
-                    "ort": "Delmenhorst",
-                    "distanz": "10.380729911480001",
-                    "longitude": "8.6179921",
-                    "latitude": "53.0633198",
-                    "telefon": "+49 4221 4901666",
-                    "fax": "+49 4221 4901677",
-                    "email": [],
-                    "startdatum": "25.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "26.06.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Stern-Apotheke",
                     "kammer": "aknds",
                     "id": "1373",
@@ -1405,6 +1386,44 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Pelikan-Apotheke im Deichhorst-Center",
+                    "kammer": "aknds",
+                    "id": "2714",
+                    "apo_id": "aknds2714",
+                    "strasse": "Hannah-Arendt-Str. 7",
+                    "plz": "27753",
+                    "ort": "Delmenhorst",
+                    "distanz": "13.264408365269999",
+                    "longitude": "8.5950774",
+                    "latitude": "53.0413565",
+                    "telefon": "+49 4221 7806801",
+                    "fax": "+49 4221 7806802",
+                    "email": [],
+                    "startdatum": "26.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "27.06.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Apotheke am famila",
+                    "kammer": "aknds",
+                    "id": "6801",
+                    "apo_id": "aknds6801",
+                    "strasse": "Markt 5",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.77459148283",
+                    "longitude": "8.54525",
+                    "latitude": "53.03462",
+                    "telefon": "+49 4222 9473270",
+                    "fax": "+49 4222 9473271",
+                    "email": [],
+                    "startdatum": "26.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "26.06.2025",
+                    "endzeit": "20:00"
+                },
+                {
                     "name": "Waldecksche Apotheke",
                     "kammer": "aknds",
                     "id": "1055",
@@ -1422,6 +1441,44 @@
                     "startzeit": "09:00",
                     "enddatum": "26.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "St. Bernhard-Apotheke",
+                    "kammer": "aknds",
+                    "id": "5989",
+                    "apo_id": "aknds5989",
+                    "strasse": "Claußenstraße 4",
+                    "plz": "26919",
+                    "ort": "Brake",
+                    "distanz": "24.4689226542",
+                    "longitude": "8.4831568",
+                    "latitude": "53.325019",
+                    "telefon": "+49 4401 7057730",
+                    "fax": "+49 4401 7057731",
+                    "email": [],
+                    "startdatum": "26.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "27.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Mühlen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1795",
+                    "apo_id": "aknds1795",
+                    "strasse": "Burgstr. 17",
+                    "plz": "27243",
+                    "ort": "Harpstedt",
+                    "distanz": "27.171589531869998",
+                    "longitude": "8.5871724",
+                    "latitude": "52.909233",
+                    "telefon": "+49 4244 93530",
+                    "fax": "+49 4244 935353",
+                    "email": [],
+                    "startdatum": "26.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "27.06.2025",
+                    "endzeit": "08:30"
                 }
             ]
         }
