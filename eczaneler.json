@@ -1,206 +1,5 @@
 {
-  "Berlin": [
-    {
-      "eczaneAdi": "Apotheke im Regierungsviertel",
-      "adres": "Wilhelmstraße 93, 10117 Berlin",
-      "telefon": "+49 30 959996570",
-      "enlem": "52.511952",
-      "boylam": "13.3825394",
-      "mesafe": "0.7 km"
-    },
-    {
-      "eczaneAdi": "Humboldt-Apotheke",
-      "adres": "Lützowstr. 93, 10785 Berlin",
-      "telefon": "+49 30 2612200",
-      "enlem": "52.50269",
-      "boylam": "13.36631",
-      "mesafe": "2.2 km"
-    },
-    {
-      "eczaneAdi": "Die Herz Apotheke 12",
-      "adres": "Badstraße 12, 13357 Berlin",
-      "telefon": "+49 30 88774070",
-      "enlem": "52.55053",
-      "boylam": "13.38516",
-      "mesafe": "3.7 km"
-    },
-    {
-      "eczaneAdi": "Reichenberger Apotheke",
-      "adres": "Reichenberger Str. 110, 10999 Berlin",
-      "telefon": "+49 30 6126843",
-      "enlem": "52.4941843",
-      "boylam": "13.4355868",
-      "mesafe": "4.1 km"
-    },
-    {
-      "eczaneAdi": "Feurig-Apotheke",
-      "adres": "Hauptstr. 131, 10827 Berlin",
-      "telefon": "+49 30 78709309",
-      "enlem": "52.484413",
-      "boylam": "13.353436",
-      "mesafe": "4.4 km"
-    },
-    {
-      "eczaneAdi": "Mühlenberg-Apotheke",
-      "adres": "Thomas-Mann-Str. 1, 10409 Berlin",
-      "telefon": "+49 30 42852020",
-      "enlem": "52.5431897",
-      "boylam": "13.4423825",
-      "mesafe": "4.7 km"
-    },
-    {
-      "eczaneAdi": "Fasanen-Apotheke",
-      "adres": "Uhlandstr. 158, 10719 Berlin",
-      "telefon": "+49 30 88683270",
-      "enlem": "52.4987473",
-      "boylam": "13.3248717",
-      "mesafe": "4.8 km"
-    },
-    {
-      "eczaneAdi": "Seume-Apotheke",
-      "adres": "Wühlischstr. 20, 10245 Berlin",
-      "telefon": "+49 30 2910672",
-      "enlem": "52.508901",
-      "boylam": "13.461003",
-      "mesafe": "5.0 km"
-    },
-    {
-      "eczaneAdi": "Forum-Apotheke",
-      "adres": "Karl-Marx-Str. 80, 12043 Berlin",
-      "telefon": "+49 30 61309031",
-      "enlem": "52.4813761",
-      "boylam": "13.4340756",
-      "mesafe": "5.0 km"
-    },
-    {
-      "eczaneAdi": "Apotheke im Ring-Center II",
-      "adres": "Frankfurter Allee 113, 10365 Berlin",
-      "telefon": "+49 30 55669088",
-      "enlem": "52.5145187",
-      "boylam": "13.4767967",
-      "mesafe": "6.0 km"
-    },
-    {
-      "eczaneAdi": "Kristall-Apotheke",
-      "adres": "Tegeler Weg 3, 10589 Berlin",
-      "telefon": "+49 30 34500420",
-      "enlem": "52.52352",
-      "boylam": "13.29996",
-      "mesafe": "6.1 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Kutschi",
-      "adres": "Ollenhauerstraße 3 - 5, 13403 Berlin",
-      "telefon": "+49 30 85622710",
-      "enlem": "52.5643016",
-      "boylam": "13.3286498",
-      "mesafe": "6.7 km"
-    },
-    {
-      "eczaneAdi": "Rennbahn-Apotheke",
-      "adres": "Rennbahnstr. 22-23, 13086 Berlin",
-      "telefon": "+49 30 9253104",
-      "enlem": "52.5603071",
-      "boylam": "13.4592502",
-      "mesafe": "6.8 km"
-    },
-    {
-      "eczaneAdi": "Reichenberger Apotheke",
-      "adres": "Reichenberger Str. 3, 13055 Berlin",
-      "telefon": "+49 30 9713807",
-      "enlem": "52.5404",
-      "boylam": "13.48705",
-      "mesafe": "7.2 km"
-    },
-    {
-      "eczaneAdi": "Markus-Apotheke Steglitz",
-      "adres": "Albrechtstr. 51, 12167 Berlin",
-      "telefon": "+49 30 7958130",
-      "enlem": "52.44813",
-      "boylam": "13.33962",
-      "mesafe": "8.4 km"
-    },
-    {
-      "eczaneAdi": "Baumschulen Apotheke",
-      "adres": "Baumschulenstr. 31, 12437 Berlin",
-      "telefon": "+49 30 64167777",
-      "enlem": "52.4638978",
-      "boylam": "13.4857741",
-      "mesafe": "8.8 km"
-    },
-    {
-      "eczaneAdi": "Adler-Apotheke",
-      "adres": "Berliner Str. 91, 13507 Berlin",
-      "telefon": "+49 30 4338081",
-      "enlem": "52.5876191",
-      "boylam": "13.286122",
-      "mesafe": "10.5 km"
-    },
-    {
-      "eczaneAdi": "easyApotheke Marzahn",
-      "adres": "Marzahner Promenade 30, 12679 Berlin",
-      "telefon": "+49 30 93025301",
-      "enlem": "52.5439568",
-      "boylam": "13.5488808",
-      "mesafe": "11.3 km"
-    },
-    {
-      "eczaneAdi": "Anker-Apotheke",
-      "adres": "Alt-Marienfelde 55, 12277 Berlin",
-      "telefon": "+49 30 7211885",
-      "enlem": "52.4131555",
-      "boylam": "13.3636188",
-      "mesafe": "11.7 km"
-    },
-    {
-      "eczaneAdi": "Privilegierte Adler-Apotheke",
-      "adres": "Carl-Schurz-Str. 39, 13597 Berlin",
-      "telefon": "+49 30 3335064",
-      "enlem": "52.5377482",
-      "boylam": "13.2035886",
-      "mesafe": "12.8 km"
-    },
-    {
-      "eczaneAdi": "Zieten Apotheke Rudow",
-      "adres": "Köpenicker Str. 184, 12355 Berlin",
-      "telefon": "+49 30 6631092",
-      "enlem": "52.4181423",
-      "boylam": "13.4967363",
-      "mesafe": "13.2 km"
-    },
-    {
-      "eczaneAdi": "Steinbock Apotheke Schildow",
-      "adres": "Bahnhofstraße 5b, 16552 Mühlenbecker Land - OT Schildow",
-      "telefon": "+49 33056 270004",
-      "enlem": "52.6367557",
-      "boylam": "13.3749982",
-      "mesafe": "13.4 km"
-    },
-    {
-      "eczaneAdi": "Phönix-Apotheke",
-      "adres": "Mahlsdorfer Str. 110, 12555 Berlin",
-      "telefon": "+49 30 6571902",
-      "enlem": "52.45935",
-      "boylam": "13.5796301",
-      "mesafe": "14.5 km"
-    },
-    {
-      "eczaneAdi": "Schlosspark-Apotheke",
-      "adres": "Walter-Friedrich-Str. 4 a, 13125 Berlin",
-      "telefon": "+49 30 94413314",
-      "enlem": "52.6345938",
-      "boylam": "13.4953664",
-      "mesafe": "14.9 km"
-    },
-    {
-      "eczaneAdi": "gesundleben Apotheke Mahlsdorf",
-      "adres": "Hönower Straße 95 A, 12623 Berlin",
-      "telefon": "+49 30 9918153",
-      "enlem": "52.513421",
-      "boylam": "13.6119609",
-      "mesafe": "15.2 km"
-    }
-  ],
+  "Berlin": [],
   "Nordrhein-Westfalen": [
     {
       "eczaneAdi": "Funkenburg Apotheke",
@@ -1215,20 +1014,20 @@
   ],
   "Thüringen": [
     {
-      "eczaneAdi": "Arnika-Apotheke",
-      "adres": "Blumenstr. 92, 99092 Erfurt",
-      "telefon": "+49 361 2113290",
-      "enlem": "50.9830499",
-      "boylam": "11.0178287",
-      "mesafe": "9.2 km"
+      "eczaneAdi": "Geratal-Apotheke",
+      "adres": "Bischlebenerstraße 11, 99094 Erfurt-Hochheim",
+      "telefon": "+49 361 7968301",
+      "enlem": "50.9539385",
+      "boylam": "11.0037828",
+      "mesafe": "6.3 km"
     },
     {
-      "eczaneAdi": "Linderbach-Apotheke",
-      "adres": "Weimarische Str. 117, 99098 Erfurt-Linderbach",
-      "telefon": "+49 361 6539150",
-      "enlem": "50.9760061",
-      "boylam": "11.1057169",
-      "mesafe": "9.6 km"
+      "eczaneAdi": "Beethoven-Apotheke",
+      "adres": "Friedrich-Ebert-Straße 62, 99096 Erfurt",
+      "telefon": "+49 361 3459819",
+      "enlem": "50.9645",
+      "boylam": "11.04064",
+      "mesafe": "7.0 km"
     },
     {
       "eczaneAdi": "Apotheke am Markt",
