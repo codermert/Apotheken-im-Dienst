@@ -3194,7 +3194,7 @@
             "anzahl": 18
         },
         "quota": {
-            "verwendet": "13507"
+            "verwendet": "14804"
         },
         "apotheken": {
             "apotheke": [
@@ -3408,25 +3408,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Rathaus Apotheke Hittfeld",
-                    "kammer": "aknds",
-                    "id": "6069",
-                    "apo_id": "aknds6069",
-                    "strasse": "Kirchstraße 3",
-                    "plz": "21218",
-                    "ort": "Seevetal",
-                    "distanz": "18.48701084197",
-                    "longitude": "9.97957",
-                    "latitude": "53.38471",
-                    "telefon": "+49 4105 6678095",
-                    "fax": "+49 4105 6678096",
-                    "email": [],
-                    "startdatum": "26.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "27.06.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Apotheke am Rondeel",
                     "kammer": "aksh",
                     "id": "10734",
@@ -3520,6 +3501,25 @@
                     "startzeit": "09:00",
                     "enddatum": "27.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Apotheke an der Stadthalle",
+                    "kammer": "aknds",
+                    "id": "1513",
+                    "apo_id": "aknds1513",
+                    "strasse": "Luhdorfer Str. 28",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "25.99575978553",
+                    "longitude": "10.2070035",
+                    "latitude": "53.3518837",
+                    "telefon": "+49 4171 783900",
+                    "fax": "+49 4171 7839020",
+                    "email": [],
+                    "startdatum": "27.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "28.06.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Pluspunkt Apotheke Uetersen",
