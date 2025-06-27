@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "13365"
+            "verwendet": "13601"
         },
         "apotheken": {
             "apotheke": [
@@ -93,44 +93,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Rethemer Apotheke",
-                    "kammer": "aknds",
-                    "id": "1384",
-                    "apo_id": "aknds1384",
-                    "strasse": "Mühlenstraße 2",
-                    "plz": "27336",
-                    "ort": "Rethem",
-                    "distanz": "21.37822325996",
-                    "longitude": "9.3798974",
-                    "latitude": "52.7851639",
-                    "telefon": "+49 5165 2918848",
-                    "fax": "+49 5165 2918849",
-                    "email": [],
-                    "startdatum": "26.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "27.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Eichen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "954",
-                    "apo_id": "aknds954",
-                    "strasse": "Verdener Landstr. 134",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "22.105350231280003",
-                    "longitude": "9.2215718",
-                    "latitude": "52.66194",
-                    "telefon": "+49 5021 18831",
-                    "fax": "+49 5021 64644",
-                    "email": [],
-                    "startdatum": "26.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "27.06.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Apotheke 55 im Rudolf-Virchow-Haus",
                     "kammer": "aknds",
                     "id": "1096",
@@ -150,22 +112,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Stern-Apotheke",
+                    "name": "Apotheke Erichshagen",
                     "kammer": "aknds",
-                    "id": "938",
-                    "apo_id": "aknds938",
-                    "strasse": "Sternstr. 1 B",
-                    "plz": "31618",
-                    "ort": "Liebenau",
-                    "distanz": "25.9555785569",
-                    "longitude": "9.0897493",
-                    "latitude": "52.6067599",
-                    "telefon": "+49 5023 94444",
-                    "fax": "+49 5023 94446",
+                    "id": "962",
+                    "apo_id": "aknds962",
+                    "strasse": "Celler Str. 62",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "22.87586663499",
+                    "longitude": "9.2267429",
+                    "latitude": "52.6557705",
+                    "telefon": "+49 5021 63938",
+                    "fax": "+49 5021 961008",
                     "email": [],
-                    "startdatum": "26.06.2025",
+                    "startdatum": "27.06.2025",
                     "startzeit": "08:00",
-                    "enddatum": "27.06.2025",
+                    "enddatum": "28.06.2025",
                     "endzeit": "08:00"
                 },
                 {
