@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 33
+            "anzahl": 39
         },
         "quota": {
-            "verwendet": "19968"
+            "verwendet": "21197"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,6 +5762,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Dorf-Apotheke",
+                    "kammer": "lakbb",
+                    "id": "446",
+                    "apo_id": "lakbb446",
+                    "strasse": "Dorfstraße 17",
+                    "plz": "16356",
+                    "ort": "Ahrensfelde",
+                    "distanz": "14.103945313390001",
+                    "longitude": "13.5740345",
+                    "latitude": "52.5746579",
+                    "telefon": "+49 30 93772171",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "28.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "29.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Tempelritter-Apotheke",
                     "kammer": "akb",
                     "id": "100903",
@@ -5773,25 +5792,6 @@
                     "longitude": "13.4066473",
                     "latitude": "52.386455",
                     "telefon": "+49 30 76403454",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "27.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "28.06.2025",
-                    "endzeit": "08:59"
-                },
-                {
-                    "name": "Süd-Apotheke",
-                    "kammer": "akb",
-                    "id": "100688",
-                    "apo_id": "akb100688",
-                    "strasse": "Ladiusstr. 31",
-                    "plz": "14165",
-                    "ort": "Berlin",
-                    "distanz": "14.64434021579",
-                    "longitude": "13.261733",
-                    "latitude": "52.4107801",
-                    "telefon": "+49 30 8153248",
                     "fax": [],
                     "email": [],
                     "startdatum": "27.06.2025",

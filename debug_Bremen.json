@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "20147"
+            "verwendet": "21374"
         },
         "apotheken": {
             "apotheke": [
@@ -1405,6 +1405,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Weser-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1634",
+                    "apo_id": "aknds1634",
+                    "strasse": "Bahnhofstr. 89",
+                    "plz": "26919",
+                    "ort": "Brake",
+                    "distanz": "25.43788224811",
+                    "longitude": "8.4778778",
+                    "latitude": "53.3334244",
+                    "telefon": "+49 4401 3595",
+                    "fax": "+49 4401 3091",
+                    "email": [],
+                    "startdatum": "28.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "29.06.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Linden-Apotheke",
                     "kammer": "aknds",
                     "id": "1794",
@@ -1422,6 +1441,25 @@
                     "startzeit": "08:30",
                     "enddatum": "28.06.2025",
                     "endzeit": "08:30"
+                },
+                {
+                    "name": "Geest-Apotheke",
+                    "kammer": "aknds",
+                    "id": "2286",
+                    "apo_id": "aknds2286",
+                    "strasse": "Hauptstr. 20",
+                    "plz": "27801",
+                    "ort": "Dötlingen",
+                    "distanz": "27.3859458544",
+                    "longitude": "8.3978022",
+                    "latitude": "52.9749282",
+                    "telefon": "+49 4432 94233",
+                    "fax": "+49 4432 94234",
+                    "email": [],
+                    "startdatum": "28.06.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "29.06.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }
