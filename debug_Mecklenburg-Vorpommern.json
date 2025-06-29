@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "321772"
+            "verwendet": "324928"
         },
         "apotheken": {
             "apotheke": [
@@ -53,6 +53,25 @@
                     "startzeit": "08:00",
                     "enddatum": "30.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Fritz-Reuter-Apotheke",
+                    "kammer": "akmv",
+                    "id": "171872",
+                    "apo_id": "akmv171872",
+                    "strasse": "Am Markt 16",
+                    "plz": "17153",
+                    "ort": "Reuterstadt Stavenhagen",
+                    "distanz": "23.617059265250003",
+                    "longitude": "12.9085263",
+                    "latitude": "53.6957432",
+                    "telefon": "+49 39954 21082",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "29.06.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "29.06.2025",
+                    "endzeit": "18:00"
                 },
                 {
                     "name": "Fritz-Reuter-Apotheke",
@@ -110,6 +129,25 @@
                     "startzeit": "08:00",
                     "enddatum": "30.06.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Weiden-Apotheke",
+                    "kammer": "akmv",
+                    "id": "171447",
+                    "apo_id": "akmv171447",
+                    "strasse": "John Brinckmann Str. 10 a",
+                    "plz": "18190",
+                    "ort": "Sanitz",
+                    "distanz": "36.09963410576",
+                    "longitude": "12.37375",
+                    "latitude": "54.07518",
+                    "telefon": "+49 38209 288",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "29.06.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "29.06.2025",
+                    "endzeit": "18:00"
                 },
                 {
                     "name": "Altstadt-Apotheke",
