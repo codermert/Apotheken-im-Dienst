@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "56744"
+            "verwendet": "71090"
         },
         "apotheken": {
             "apotheke": [
@@ -129,6 +129,25 @@
                     "startzeit": "09:00",
                     "enddatum": "29.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Eichen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "523",
+                    "apo_id": "aknds523",
+                    "strasse": "Syker Str. 6",
+                    "plz": "27211",
+                    "ort": "Bassum",
+                    "distanz": "23.47180599871",
+                    "longitude": "8.7279971",
+                    "latitude": "52.8499285",
+                    "telefon": "+49 4241 93370",
+                    "fax": "+49 4241 933722",
+                    "email": [],
+                    "startdatum": "29.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "30.06.2025",
+                    "endzeit": "08:30"
                 }
             ]
         }

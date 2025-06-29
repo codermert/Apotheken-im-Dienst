@@ -3194,7 +3194,7 @@
             "anzahl": 19
         },
         "quota": {
-            "verwendet": "55517"
+            "verwendet": "69493"
         },
         "apotheken": {
             "apotheke": [
@@ -3389,25 +3389,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Niedersachsen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1419",
-                    "apo_id": "aknds1419",
-                    "strasse": "Kürbsweg 8",
-                    "plz": "21217",
-                    "ort": "Seevetal",
-                    "distanz": "14.39666943502",
-                    "longitude": "10.0228494",
-                    "latitude": "53.4216647",
-                    "telefon": "+49 40 7686722",
-                    "fax": "+49 40 7685173",
-                    "email": [],
-                    "startdatum": "28.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "29.06.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Vitalhus. Die Apotheke",
                     "kammer": "aksh",
                     "id": "10817",
@@ -3482,6 +3463,25 @@
                     "startzeit": "09:00",
                     "enddatum": "29.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Alte Rats-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1507",
+                    "apo_id": "aknds1507",
+                    "strasse": "Rathausstr. 22",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "24.94546823474",
+                    "longitude": "10.2075161",
+                    "latitude": "53.3632732",
+                    "telefon": "+49 4171 2206",
+                    "fax": "+49 4171 4436",
+                    "email": [],
+                    "startdatum": "29.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "30.06.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Fasanen-Apotheke",
