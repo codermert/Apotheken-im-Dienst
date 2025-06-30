@@ -1267,7 +1267,7 @@
             "anzahl": 11
         },
         "quota": {
-            "verwendet": "18413"
+            "verwendet": "20628"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,25 +1310,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Bahnhof-Apotheke Delcare oHG",
-                    "kammer": "aknds",
-                    "id": "1665",
-                    "apo_id": "aknds1665",
-                    "strasse": "Bahnhofstr. 11 - 13",
-                    "plz": "27749",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.25687064993",
-                    "longitude": "8.6299531",
-                    "latitude": "53.0511638",
-                    "telefon": "+49 4221 14506",
-                    "fax": "+49 4221 18661",
-                    "email": [],
-                    "startdatum": "29.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "30.06.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Apotheke Am Dobben",
                     "kammer": "akbr",
                     "id": "10042",
@@ -1346,6 +1327,25 @@
                     "startzeit": "09:00",
                     "enddatum": "30.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Rosen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1676",
+                    "apo_id": "aknds1676",
+                    "strasse": "Cramerstr. 15",
+                    "plz": "27749",
+                    "ort": "Delmenhorst",
+                    "distanz": "11.49851462493",
+                    "longitude": "8.6348904",
+                    "latitude": "53.0476985",
+                    "telefon": "+49 4221 93590",
+                    "fax": "+49 4221 935935",
+                    "email": [],
+                    "startdatum": "30.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "01.07.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Zentral-Apotheke",
@@ -1386,42 +1386,23 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Ring-Apotheke",
+                    "name": "Alte Raben Apotheke",
                     "kammer": "aknds",
-                    "id": "1749",
-                    "apo_id": "aknds1749",
-                    "strasse": "Ring 26",
-                    "plz": "27777",
-                    "ort": "Ganderkesee",
-                    "distanz": "15.89569036873",
-                    "longitude": "8.5473054",
-                    "latitude": "53.03225",
-                    "telefon": "+49 4222 950288",
-                    "fax": "+49 4222 950290",
+                    "id": "1815",
+                    "apo_id": "aknds1815",
+                    "strasse": "Parkstr. 12",
+                    "plz": "27798",
+                    "ort": "Hude",
+                    "distanz": "16.03848971665",
+                    "longitude": "8.4602241",
+                    "latitude": "53.1112996",
+                    "telefon": "+49 4408 321",
+                    "fax": "+49 4408 60121",
                     "email": [],
-                    "startdatum": "29.06.2025",
+                    "startdatum": "30.06.2025",
                     "startzeit": "08:30",
                     "enddatum": "30.06.2025",
-                    "endzeit": "08:30"
-                },
-                {
-                    "name": "Anker-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1700",
-                    "apo_id": "aknds1700",
-                    "strasse": "Steinstr. 25",
-                    "plz": "26931",
-                    "ort": "Elsfleth",
-                    "distanz": "18.49621829229",
-                    "longitude": "8.4612494",
-                    "latitude": "53.2354695",
-                    "telefon": "+49 4404 2189",
-                    "fax": "+49 4404 1725",
-                    "email": [],
-                    "startdatum": "29.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "30.06.2025",
-                    "endzeit": "08:00"
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Geest-Apotheke Wallhöfen",
@@ -1460,6 +1441,25 @@
                     "startzeit": "09:00",
                     "enddatum": "30.06.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Mühlen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1795",
+                    "apo_id": "aknds1795",
+                    "strasse": "Burgstr. 17",
+                    "plz": "27243",
+                    "ort": "Harpstedt",
+                    "distanz": "27.171589531869998",
+                    "longitude": "8.5871724",
+                    "latitude": "52.909233",
+                    "telefon": "+49 4244 93530",
+                    "fax": "+49 4244 935353",
+                    "email": [],
+                    "startdatum": "30.06.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "01.07.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Wilstedter Apotheke",
