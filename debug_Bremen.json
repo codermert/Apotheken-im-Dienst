@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 12
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "72408"
+            "verwendet": "82013"
         },
         "apotheken": {
             "apotheke": [
@@ -1329,25 +1329,6 @@
                     "endzeit": "08:30"
                 },
                 {
-                    "name": "Stedinger Apotheke",
-                    "kammer": "aknds",
-                    "id": "1612",
-                    "apo_id": "aknds1612",
-                    "strasse": "Weserstr. 28",
-                    "plz": "27804",
-                    "ort": "Berne",
-                    "distanz": "14.73436263223",
-                    "longitude": "8.484236",
-                    "latitude": "53.18675",
-                    "telefon": "+49 4406 202",
-                    "fax": "+49 4406 836",
-                    "email": [],
-                    "startdatum": "30.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "30.06.2025",
-                    "endzeit": "20:00"
-                },
-                {
                     "name": "Wilhelm-Leuschner-Apotheke",
                     "kammer": "akbr",
                     "id": "10190",
@@ -1365,25 +1346,6 @@
                     "startzeit": "09:00",
                     "enddatum": "01.07.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Alte Raben Apotheke",
-                    "kammer": "aknds",
-                    "id": "1815",
-                    "apo_id": "aknds1815",
-                    "strasse": "Parkstr. 12",
-                    "plz": "27798",
-                    "ort": "Hude",
-                    "distanz": "16.03848971665",
-                    "longitude": "8.4602241",
-                    "latitude": "53.1112996",
-                    "telefon": "+49 4408 321",
-                    "fax": "+49 4408 60121",
-                    "email": [],
-                    "startdatum": "30.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "30.06.2025",
-                    "endzeit": "20:00"
                 },
                 {
                     "name": "farma-plus Apotheke Briseck",
