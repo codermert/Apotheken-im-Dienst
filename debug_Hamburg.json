@@ -3191,32 +3191,13 @@
             ]
         },
         "statistik": {
-            "anzahl": 17
+            "anzahl": 16
         },
         "quota": {
-            "verwendet": "17118"
+            "verwendet": "18681"
         },
         "apotheken": {
             "apotheke": [
-                {
-                    "name": "HafenCity Apotheke",
-                    "kammer": "akh",
-                    "id": "12059",
-                    "apo_id": "akh12059",
-                    "strasse": "Überseeboulevard 7",
-                    "plz": "20457",
-                    "ort": "Hamburg",
-                    "distanz": "0.81246546",
-                    "longitude": "9.99748",
-                    "latitude": "53.54329",
-                    "telefon": "+49 40 83504401",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "30.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "01.07.2025",
-                    "endzeit": "08:30"
-                },
                 {
                     "name": "Landwehr-Apotheke",
                     "kammer": "akh",
@@ -3427,25 +3408,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Linden-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1454",
-                    "apo_id": "aknds1454",
-                    "strasse": "Harburger Str. 28 a",
-                    "plz": "21435",
-                    "ort": "Stelle",
-                    "distanz": "19.62766191653",
-                    "longitude": "10.1049754",
-                    "latitude": "53.385335",
-                    "telefon": "+49 4174 2335",
-                    "fax": "+49 4174 4840",
-                    "email": [],
-                    "startdatum": "30.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "01.07.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Barlach-Apotheke",
                     "kammer": "aksh",
                     "id": "10472",
@@ -3520,6 +3482,25 @@
                     "startzeit": "08:00",
                     "enddatum": "02.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "wir leben-Apotheke im Luhepark",
+                    "kammer": "aknds",
+                    "id": "6737",
+                    "apo_id": "aknds6737",
+                    "strasse": "Löhnfeld 10",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "24.61644853109",
+                    "longitude": "10.1955",
+                    "latitude": "53.3622",
+                    "telefon": "+49 4171 605770",
+                    "fax": "+49 4171 6057719",
+                    "email": [],
+                    "startdatum": "01.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "02.07.2025",
+                    "endzeit": "08:30"
                 }
             ]
         }

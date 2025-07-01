@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 11
+            "anzahl": 12
         },
         "quota": {
-            "verwendet": "17259"
+            "verwendet": "18741"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,22 +1310,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Rosen-Apotheke",
+                    "name": "Schauburg-Apotheke Delcare oHG",
                     "kammer": "aknds",
-                    "id": "1676",
-                    "apo_id": "aknds1676",
-                    "strasse": "Cramerstr. 15",
+                    "id": "1674",
+                    "apo_id": "aknds1674",
+                    "strasse": "Lange Str. 35",
                     "plz": "27749",
                     "ort": "Delmenhorst",
-                    "distanz": "11.49851462493",
-                    "longitude": "8.6348904",
-                    "latitude": "53.0476985",
-                    "telefon": "+49 4221 93590",
-                    "fax": "+49 4221 935935",
+                    "distanz": "11.506726582110002",
+                    "longitude": "8.6309963",
+                    "latitude": "53.0484986",
+                    "telefon": "+49 4221 13597",
+                    "fax": "+49 4221 16621",
                     "email": [],
-                    "startdatum": "30.06.2025",
+                    "startdatum": "01.07.2025",
                     "startzeit": "08:30",
-                    "enddatum": "01.07.2025",
+                    "enddatum": "02.07.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -1346,6 +1346,25 @@
                     "startzeit": "09:00",
                     "enddatum": "01.07.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Pelikan-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1748",
+                    "apo_id": "aknds1748",
+                    "strasse": "Grüppenbührener Str. 7",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.632284368570001",
+                    "longitude": "8.5428808",
+                    "latitude": "53.0374524",
+                    "telefon": "+49 4222 5257",
+                    "fax": "+49 4222 6642",
+                    "email": [],
+                    "startdatum": "01.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "01.07.2025",
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "farma-plus Apotheke Briseck",
@@ -1405,6 +1424,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Kranich Apotheke",
+                    "kammer": "aknds",
+                    "id": "1265",
+                    "apo_id": "aknds1265",
+                    "strasse": "Amtsdamm 39",
+                    "plz": "27628",
+                    "ort": "Hagen im Bremischen",
+                    "distanz": "23.681015648789998",
+                    "longitude": "8.6430292",
+                    "latitude": "53.3555124",
+                    "telefon": "+49 4746 951060",
+                    "fax": "+49 4746 951061",
+                    "email": [],
+                    "startdatum": "01.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "02.07.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Apotheke Kröger",
                     "kammer": "aknds",
                     "id": "1636",
@@ -1441,25 +1479,6 @@
                     "startzeit": "09:00",
                     "enddatum": "01.07.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Mühlen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1795",
-                    "apo_id": "aknds1795",
-                    "strasse": "Burgstr. 17",
-                    "plz": "27243",
-                    "ort": "Harpstedt",
-                    "distanz": "27.171589531869998",
-                    "longitude": "8.5871724",
-                    "latitude": "52.909233",
-                    "telefon": "+49 4244 93530",
-                    "fax": "+49 4244 935353",
-                    "email": [],
-                    "startdatum": "30.06.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "01.07.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Heide-Apotheke",

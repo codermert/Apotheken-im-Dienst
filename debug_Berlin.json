@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 33
+            "anzahl": 31
         },
         "quota": {
-            "verwendet": "16215"
+            "verwendet": "18621"
         },
         "apotheken": {
             "apotheke": [
@@ -5705,41 +5705,22 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Fliesstal-Apotheke",
+                    "name": "Sonnen Apotheke",
                     "kammer": "lakbb",
-                    "id": "498",
-                    "apo_id": "lakbb498",
-                    "strasse": "Hauptstraße 32",
-                    "plz": "16552",
-                    "ort": "Mühlenbecker Land - OT Schildow",
-                    "distanz": "15.13963517817",
-                    "longitude": "13.38232",
-                    "latitude": "52.65303",
-                    "telefon": "+49 33056 75260",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "30.06.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "01.07.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "easyApotheke Teltow",
-                    "kammer": "lakbb",
-                    "id": "619",
-                    "apo_id": "lakbb619",
-                    "strasse": "Lichterfelder Allee 7",
+                    "id": "211",
+                    "apo_id": "lakbb211",
+                    "strasse": "Potsdamer Straße 48",
                     "plz": "14513",
                     "ort": "Teltow",
-                    "distanz": "15.1774610024",
-                    "longitude": "13.27066",
-                    "latitude": "52.40132",
-                    "telefon": "+49 3328 3515170",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "30.06.2025",
+                    "distanz": "15.593748884290001",
+                    "longitude": "13.25726",
+                    "latitude": "52.40225",
+                    "telefon": "03328 303963",
+                    "fax": "03328 303964",
+                    "email": "sonnenapotheke-mitarbeiter@t-online.de",
+                    "startdatum": "01.07.2025",
                     "startzeit": "08:00",
-                    "enddatum": "01.07.2025",
+                    "enddatum": "02.07.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -5781,22 +5762,41 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Regenbogen Apotheke",
+                    "name": "Havel-Apotheke",
                     "kammer": "lakbb",
-                    "id": "455",
-                    "apo_id": "lakbb455",
-                    "strasse": "Spandauer Straße 144",
-                    "plz": "14612",
-                    "ort": "Falkensee",
-                    "distanz": "18.040477290160002",
-                    "longitude": "13.1322088",
-                    "latitude": "52.5593855",
-                    "telefon": "+49 3322 22686",
+                    "id": "169",
+                    "apo_id": "lakbb169",
+                    "strasse": "Berliner Straße 25",
+                    "plz": "16761",
+                    "ort": "Hennigsdorf",
+                    "distanz": "18.67261396079",
+                    "longitude": "13.2058259",
+                    "latitude": "52.6424369",
+                    "telefon": "+49 3302 800896",
                     "fax": [],
                     "email": [],
-                    "startdatum": "30.06.2025",
+                    "startdatum": "01.07.2025",
                     "startzeit": "08:00",
-                    "enddatum": "01.07.2025",
+                    "enddatum": "02.07.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Steinbock Apotheke Bernau",
+                    "kammer": "lakbb",
+                    "id": "439",
+                    "apo_id": "lakbb439",
+                    "strasse": "Berliner Straße 69",
+                    "plz": "16321",
+                    "ort": "Bernau bei Berlin",
+                    "distanz": "22.25259736303",
+                    "longitude": "13.5855667",
+                    "latitude": "52.6771663",
+                    "telefon": "+49 3338 769452",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "01.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "02.07.2025",
                     "endzeit": "08:00"
                 }
             ]
