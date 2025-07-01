@@ -37,46 +37,27 @@
             "anzahl": 8
         },
         "quota": {
-            "verwendet": "19811"
+            "verwendet": "20635"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Kranich-Apotheke",
+                    "name": "Ginkgo-Apotheke",
                     "kammer": "lakt",
-                    "id": "417",
-                    "apo_id": "lakt417",
-                    "strasse": "Kranichfelder Str. 103",
-                    "plz": "99097",
+                    "id": "626",
+                    "apo_id": "lakt626",
+                    "strasse": "Schillerstraße 43",
+                    "plz": "99096",
                     "ort": "Erfurt",
-                    "distanz": "6.40537271737",
-                    "longitude": "11.0694661",
-                    "latitude": "50.9554566",
-                    "telefon": "+49 361 4170056",
+                    "distanz": "7.2903344601199995",
+                    "longitude": "11.0260411",
+                    "latitude": "50.9665835",
+                    "telefon": "+49 361 6021702",
                     "fax": [],
                     "email": [],
-                    "startdatum": "30.06.2025",
+                    "startdatum": "01.07.2025",
                     "startzeit": "09:00",
-                    "enddatum": "01.07.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Apotheke am Mainzerhofplatz",
-                    "kammer": "lakt",
-                    "id": "370",
-                    "apo_id": "lakt370",
-                    "strasse": "Mainzerhofplatz 14",
-                    "plz": "99084",
-                    "ort": "Erfurt",
-                    "distanz": "8.30700070373",
-                    "longitude": "11.0192855",
-                    "latitude": "50.9752233",
-                    "telefon": "+49 361 6431836",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "30.06.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "01.07.2025",
+                    "enddatum": "02.07.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -97,6 +78,25 @@
                     "startzeit": "08:00",
                     "enddatum": "02.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Rosen-Apotheke",
+                    "kammer": "lakt",
+                    "id": "405",
+                    "apo_id": "lakt405",
+                    "strasse": "Ringstraße 28",
+                    "plz": "99091",
+                    "ort": "Erfurt-Gispersleben",
+                    "distanz": "13.737095771800002",
+                    "longitude": "10.9932804",
+                    "latitude": "51.0217134",
+                    "telefon": "+49 361 7916096",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "01.07.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "02.07.2025",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Ahorn-Apotheke",
