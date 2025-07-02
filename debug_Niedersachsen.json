@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 17
+            "anzahl": 18
         },
         "quota": {
-            "verwendet": "19262"
+            "verwendet": "19690"
         },
         "apotheken": {
             "apotheke": [
@@ -74,22 +74,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Leintor Apotheke",
+                    "name": "Bahnhof-Apotheke",
                     "kammer": "aknds",
-                    "id": "956",
-                    "apo_id": "aknds956",
-                    "strasse": "Hannoversche Str. 12",
+                    "id": "953",
+                    "apo_id": "aknds953",
+                    "strasse": "Wilhelmstr. 19",
                     "plz": "31582",
                     "ort": "Nienburg",
-                    "distanz": "24.42755959594",
-                    "longitude": "9.2117242",
-                    "latitude": "52.6363944",
-                    "telefon": "+49 5021 3250",
-                    "fax": "+49 5021 926200",
+                    "distanz": "23.71717046696",
+                    "longitude": "9.2136038",
+                    "latitude": "52.6437781",
+                    "telefon": "+49 5021 2232",
+                    "fax": "+49 5021 17681",
                     "email": [],
-                    "startdatum": "01.07.2025",
+                    "startdatum": "02.07.2025",
                     "startzeit": "08:00",
-                    "enddatum": "02.07.2025",
+                    "enddatum": "03.07.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -131,25 +131,6 @@
                     "endzeit": "08:30"
                 },
                 {
-                    "name": "Apotheke Landesbergen",
-                    "kammer": "aknds",
-                    "id": "906",
-                    "apo_id": "aknds906",
-                    "strasse": "Lange Straße 66 A",
-                    "plz": "31628",
-                    "ort": "Landesbergen",
-                    "distanz": "31.129186285150002",
-                    "longitude": "9.1240584",
-                    "latitude": "52.5616472",
-                    "telefon": "+49 5025 6122",
-                    "fax": "+49 5025 1333",
-                    "email": [],
-                    "startdatum": "01.07.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "02.07.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Apotheke Außer der Schleifmühle",
                     "kammer": "akbr",
                     "id": "10019",
@@ -167,6 +148,25 @@
                     "startzeit": "09:00",
                     "enddatum": "02.07.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Heide-Apotheke",
+                    "kammer": "aknds",
+                    "id": "892",
+                    "apo_id": "aknds892",
+                    "strasse": "Lange Straße 15",
+                    "plz": "27245",
+                    "ort": "Kirchdorf",
+                    "distanz": "31.78059218123",
+                    "longitude": "8.8314911",
+                    "latitude": "52.5958794",
+                    "telefon": "+49 4273 93130",
+                    "fax": "+49 4273 931314",
+                    "email": [],
+                    "startdatum": "02.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "03.07.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "sk-Apotheke in Varrel OHG",
@@ -207,25 +207,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke Große in der Stadtmitte",
-                    "kammer": "aknds",
-                    "id": "1392",
-                    "apo_id": "aknds1392",
-                    "strasse": "Große Straße 29 - 33",
-                    "plz": "27356",
-                    "ort": "Rotenburg (Wümme)",
-                    "distanz": "37.35352450451",
-                    "longitude": "9.4046467",
-                    "latitude": "53.1105924",
-                    "telefon": "+49 4261 4591",
-                    "fax": "+49 4261 2259",
-                    "email": [],
-                    "startdatum": "01.07.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "02.07.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Schauburg-Apotheke Delcare oHG",
                     "kammer": "aknds",
                     "id": "1674",
@@ -243,6 +224,25 @@
                     "startzeit": "08:30",
                     "enddatum": "02.07.2025",
                     "endzeit": "08:30"
+                },
+                {
+                    "name": "Markt-Apotheke",
+                    "kammer": "aknds",
+                    "id": "977",
+                    "apo_id": "aknds977",
+                    "strasse": "Heidtorstr. 10",
+                    "plz": "31547",
+                    "ort": "Rehburg-Loccum",
+                    "distanz": "41.83381240491",
+                    "longitude": "9.2295641",
+                    "latitude": "52.4757072",
+                    "telefon": "+49 5037 98650",
+                    "fax": "+49 5037 98651",
+                    "email": [],
+                    "startdatum": "02.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "03.07.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Kur-Apotheke",
@@ -283,22 +283,41 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Marien-Apotheke",
+                    "name": "Markt-Apotheke",
                     "kammer": "aknds",
-                    "id": "1771",
-                    "apo_id": "aknds1771",
-                    "strasse": "Hauptstr. 43",
+                    "id": "1772",
+                    "apo_id": "aknds1772",
+                    "strasse": "Zur Lieth 5",
                     "plz": "49424",
                     "ort": "Goldenstedt",
-                    "distanz": "43.890645507529996",
-                    "longitude": "8.4307084",
-                    "latitude": "52.7877855",
-                    "telefon": "+49 4444 381",
-                    "fax": "+49 4444 961140",
+                    "distanz": "43.84059195079001",
+                    "longitude": "8.4313649",
+                    "latitude": "52.7881934",
+                    "telefon": "+49 4444 2627",
+                    "fax": "+49 4444 1291",
                     "email": [],
-                    "startdatum": "01.07.2025",
+                    "startdatum": "02.07.2025",
                     "startzeit": "08:00",
-                    "enddatum": "02.07.2025",
+                    "enddatum": "03.07.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Beeke-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1404",
+                    "apo_id": "aknds1404",
+                    "strasse": "Harburger Str. 2",
+                    "plz": "27383",
+                    "ort": "Scheeßel",
+                    "distanz": "45.82529462128",
+                    "longitude": "9.4860803",
+                    "latitude": "53.1690333",
+                    "telefon": "+49 4263 985270",
+                    "fax": "+49 4263 985275",
+                    "email": [],
+                    "startdatum": "02.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "03.07.2025",
                     "endzeit": "08:00"
                 },
                 {
