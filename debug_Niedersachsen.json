@@ -28,49 +28,49 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 4
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "22207"
+            "verwendet": "22747"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Apotheke am Rathaus",
+                    "name": "Morsumer Apotheke",
                     "kammer": "aknds",
-                    "id": "1491",
-                    "apo_id": "aknds1491",
-                    "strasse": "Große Str. 5",
-                    "plz": "27283",
-                    "ort": "Verden",
-                    "distanz": "13.86068392375",
-                    "longitude": "9.2281548",
-                    "latitude": "52.9237387",
-                    "telefon": "+49 4231 920511",
-                    "fax": "+49 4231 931977",
+                    "id": "1528",
+                    "apo_id": "aknds1528",
+                    "strasse": "Verdener Str. 19",
+                    "plz": "27321",
+                    "ort": "Thedinghausen",
+                    "distanz": "13.04936147193",
+                    "longitude": "9.0780221",
+                    "latitude": "52.9571079",
+                    "telefon": "+49 4204 1611",
+                    "fax": "+49 4204 69918",
                     "email": [],
-                    "startdatum": "01.07.2025",
+                    "startdatum": "02.07.2025",
                     "startzeit": "09:00",
-                    "enddatum": "02.07.2025",
+                    "enddatum": "03.07.2025",
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Rats-Apotheke",
+                    "name": "Schloß-Apotheke",
                     "kammer": "aknds",
-                    "id": "1119",
-                    "apo_id": "aknds1119",
-                    "strasse": "Obernstraße 22",
-                    "plz": "28832",
-                    "ort": "Achim",
-                    "distanz": "18.86855997126",
-                    "longitude": "9.042328",
-                    "latitude": "53.0081822",
-                    "telefon": "+49 4202 8016",
-                    "fax": "+49 4202 8002",
+                    "id": "1309",
+                    "apo_id": "aknds1309",
+                    "strasse": "Etelser Bahnhofstr. 12",
+                    "plz": "27299",
+                    "ort": "Langwedel",
+                    "distanz": "17.64767621009",
+                    "longitude": "9.1176822",
+                    "latitude": "52.9964166",
+                    "telefon": "+49 4235 94141",
+                    "fax": "+49 4235 94143",
                     "email": [],
-                    "startdatum": "01.07.2025",
+                    "startdatum": "02.07.2025",
                     "startzeit": "09:00",
-                    "enddatum": "02.07.2025",
+                    "enddatum": "03.07.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -110,6 +110,25 @@
                     "startzeit": "08:00",
                     "enddatum": "03.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Linden-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1053",
+                    "apo_id": "aknds1053",
+                    "strasse": "Bassumer Str. 32",
+                    "plz": "28816",
+                    "ort": "Stuhr",
+                    "distanz": "27.14017003032",
+                    "longitude": "8.78498",
+                    "latitude": "53.00883",
+                    "telefon": "+49 421 807570",
+                    "fax": "+49 421 8075735",
+                    "email": [],
+                    "startdatum": "02.07.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "03.07.2025",
+                    "endzeit": "09:00"
                 }
             ]
         }
