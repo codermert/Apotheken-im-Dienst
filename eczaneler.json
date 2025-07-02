@@ -405,6 +405,14 @@
       "mesafe": "16.3 km"
     },
     {
+      "eczaneAdi": "Markt-Apotheke",
+      "adres": "Schulstr. 44, 21220 Seevetal",
+      "telefon": "+49 4105 82061",
+      "enlem": "53.3965761",
+      "boylam": "10.0428773",
+      "mesafe": "17.3 km"
+    },
+    {
       "eczaneAdi": "Neue Apotheke im Casinopark",
       "adres": "Am Casinopark 14, 21465 Wentorf",
       "telefon": "+49 40 7202360",
@@ -445,14 +453,6 @@
       "mesafe": "21.8 km"
     },
     {
-      "eczaneAdi": "wir leben-Apotheke im Luhepark",
-      "adres": "Löhnfeld 10, 21423 Winsen (Luhe)",
-      "telefon": "+49 4171 605770",
-      "enlem": "53.3622",
-      "boylam": "10.1955",
-      "mesafe": "24.6 km"
-    },
-    {
       "eczaneAdi": "Widder Apotheke-Moorrege",
       "adres": "Wedeler Chaussee 43a, 25436 Moorrege",
       "telefon": "04122-9996300",
@@ -471,92 +471,68 @@
   ],
   "Baden-Württemberg": [
     {
-      "eczaneAdi": "Apotheke im E-Center Tübingen",
-      "adres": "Eugenstr. 74, 72072 Tübingen",
-      "telefon": "+49 7071 152813",
-      "enlem": "48.5128189",
-      "boylam": "9.0699619",
-      "mesafe": "3.5 km"
+      "eczaneAdi": "pharmaphant Apotheke am Hechinger Eck",
+      "adres": "Hechinger Str. 70, 72072 Tübingen",
+      "telefon": "+49 7071 35588",
+      "enlem": "48.51551",
+      "boylam": "9.0605099",
+      "mesafe": "2.9 km"
     },
     {
-      "eczaneAdi": "Apotheke am Bahnhof Pfäffingen",
-      "adres": "Nagolder Str. 23, 72119 Ammerbuch",
-      "telefon": "+49 7073 6259",
-      "enlem": "48.5310715",
-      "boylam": "8.9628578",
-      "mesafe": "5.8 km"
+      "eczaneAdi": "Bahnhof-Apotheke Rottenburg",
+      "adres": "Tübinger Str. 1, 72108 Rottenburg am Neckar",
+      "telefon": "+49 7472 96250",
+      "enlem": "48.4736492",
+      "boylam": "8.9355708",
+      "mesafe": "10.6 km"
     },
     {
-      "eczaneAdi": "Fortuna-Apotheke Dettenhausen",
-      "adres": "Störrenstr. 35, 72135 Dettenhausen",
-      "telefon": "+49 7157 61015",
-      "enlem": "48.6088728",
-      "boylam": "9.0998493",
-      "mesafe": "9.0 km"
-    },
-    {
-      "eczaneAdi": "Apotheke im E-Center Reutlingen",
-      "adres": "Emil-Adolff-Str. 21, 72760 Reutlingen",
-      "telefon": "+49 7121 372930",
-      "enlem": "48.4976781",
-      "boylam": "9.1980401",
+      "eczaneAdi": "Apotheke am Rathaus Pliezhausen",
+      "adres": "Schulberg 5, 72124 Pliezhausen",
+      "telefon": "+49 7127 80212",
+      "enlem": "48.5584275",
+      "boylam": "9.2063097",
       "mesafe": "12.4 km"
     },
     {
-      "eczaneAdi": "Sonnen-Apotheke Gärtringen",
-      "adres": "Grabenstr. 62 B, 71116 Gärtringen",
-      "telefon": "+49 7034 21029",
-      "enlem": "48.6370743",
-      "boylam": "8.8974204",
-      "mesafe": "15.3 km"
+      "eczaneAdi": "Markt-Apotheke Reutlingen",
+      "adres": "Obere Wässere 3-7, 72764 Reutlingen",
+      "telefon": "+49 7121 1594700",
+      "enlem": "48.4890161",
+      "boylam": "9.2170539",
+      "mesafe": "14.1 km"
     },
     {
-      "eczaneAdi": "Staufer-Apotheke Sindelfingen",
-      "adres": "Gartenstr. 25, 71063 Sindelfingen",
-      "telefon": "+49 7031 874487",
-      "enlem": "48.7068753",
-      "boylam": "9.0004959",
-      "mesafe": "19.0 km"
+      "eczaneAdi": "Markt-Apotheke Gärtringen",
+      "adres": "Hauptstr. 1, 71116 Gärtringen",
+      "telefon": "+49 7034 22013",
+      "enlem": "48.6424903",
+      "boylam": "8.8954849",
+      "mesafe": "15.8 km"
     },
     {
-      "eczaneAdi": "Fleinsbach-Apotheke Bernhausen",
-      "adres": "Talstr. 23, 70794 Filderstadt",
-      "telefon": "+49 711 702111",
-      "enlem": "48.6730496",
-      "boylam": "9.2152574",
-      "mesafe": "19.8 km"
+      "eczaneAdi": "Mörike-Apotheke Plattenhardt",
+      "adres": "Uhlbergstr. 37, 70794 Filderstadt",
+      "telefon": "+49 711 771132",
+      "enlem": "48.65439",
+      "boylam": "9.19681",
+      "mesafe": "17.3 km"
     },
     {
-      "eczaneAdi": "Central Apotheke Nagold",
-      "adres": "Freudenstädter Str. 25, 72202 Nagold",
-      "telefon": "+49 7452 8979880",
-      "enlem": "48.5494602",
-      "boylam": "8.7224642",
-      "mesafe": "23.6 km"
+      "eczaneAdi": "Sonnen-Apotheke Sindelfingen",
+      "adres": "Mercedesstr. 11/1, 71063 Sindelfingen",
+      "telefon": "+49 7031 794999",
+      "enlem": "48.7056979",
+      "boylam": "9.0005879",
+      "mesafe": "18.9 km"
     },
     {
-      "eczaneAdi": "Steinach-Apotheke Nürtingen",
-      "adres": "Steinengrabenstr. 17, 72622 Nürtingen",
-      "telefon": "+49 7022 34747",
-      "enlem": "48.6247869",
-      "boylam": "9.3419768",
-      "mesafe": "24.2 km"
-    },
-    {
-      "eczaneAdi": "Forum-Apotheke Sillenbuch",
-      "adres": "Kirchheimer Str. 128, 70619 Stuttgart",
-      "telefon": "+49 711 4791910",
-      "enlem": "48.7402039",
-      "boylam": "9.2191123",
-      "mesafe": "26.1 km"
-    },
-    {
-      "eczaneAdi": "Rathaus-Apotheke Denkendorf",
-      "adres": "Friedrichstr. 6, 73770 Denkendorf",
-      "telefon": "+49 711 344103",
-      "enlem": "48.6943138",
-      "boylam": "9.3166774",
-      "mesafe": "26.8 km"
+      "eczaneAdi": "Stadt-Apotheke Neuffen",
+      "adres": "Hauptstr. 8, 72639 Neuffen",
+      "telefon": "+49 7025 2200",
+      "enlem": "48.5549446",
+      "boylam": "9.3750202",
+      "mesafe": "24.7 km"
     }
   ],
   "Bayern": [

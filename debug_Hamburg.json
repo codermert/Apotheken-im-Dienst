@@ -3194,7 +3194,7 @@
             "anzahl": 18
         },
         "quota": {
-            "verwendet": "20929"
+            "verwendet": "22056"
         },
         "apotheken": {
             "apotheke": [
@@ -3389,6 +3389,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Markt-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1418",
+                    "apo_id": "aknds1418",
+                    "strasse": "Schulstr. 44",
+                    "plz": "21220",
+                    "ort": "Seevetal",
+                    "distanz": "17.34142706463",
+                    "longitude": "10.0428773",
+                    "latitude": "53.3965761",
+                    "telefon": "+49 4105 82061",
+                    "fax": "+49 4105 81668",
+                    "email": [],
+                    "startdatum": "02.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "03.07.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Neue Apotheke im Casinopark",
                     "kammer": "aksh",
                     "id": "10478",
@@ -3482,25 +3501,6 @@
                     "startzeit": "08:00",
                     "enddatum": "03.07.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "wir leben-Apotheke im Luhepark",
-                    "kammer": "aknds",
-                    "id": "6737",
-                    "apo_id": "aknds6737",
-                    "strasse": "Löhnfeld 10",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "24.61644853109",
-                    "longitude": "10.1955",
-                    "latitude": "53.3622",
-                    "telefon": "+49 4171 605770",
-                    "fax": "+49 4171 6057719",
-                    "email": [],
-                    "startdatum": "01.07.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "02.07.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Widder Apotheke-Moorrege",
