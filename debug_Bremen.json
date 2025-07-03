@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "21142"
+            "verwendet": "22692"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,6 +1310,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Apotheke Schierbrok",
+                    "kammer": "aknds",
+                    "id": "1753",
+                    "apo_id": "aknds1753",
+                    "strasse": "Bahnhofstr. 49",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "10.35027715195",
+                    "longitude": "8.5769381",
+                    "latitude": "53.0836028",
+                    "telefon": "+49 4221 89335",
+                    "fax": "+49 4221 88151",
+                    "email": [],
+                    "startdatum": "03.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "03.07.2025",
+                    "endzeit": "20:00"
+                },
+                {
                     "name": "Nordsee-Apotheke",
                     "kammer": "akbr",
                     "id": "10124",
@@ -1329,22 +1348,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Süd Apotheke",
+                    "name": "West-Apotheke",
                     "kammer": "aknds",
-                    "id": "1679",
-                    "apo_id": "aknds1679",
-                    "strasse": "Düsternortstr. 114",
-                    "plz": "27755",
+                    "id": "1680",
+                    "apo_id": "aknds1680",
+                    "strasse": "Oldenburger Str. 79",
+                    "plz": "27753",
                     "ort": "Delmenhorst",
-                    "distanz": "12.97849030241",
-                    "longitude": "8.6395399",
-                    "latitude": "53.0328179",
-                    "telefon": "+49 4221 96630",
-                    "fax": "+49 4221 966320",
+                    "distanz": "12.10518761083",
+                    "longitude": "8.6071553",
+                    "latitude": "53.0492285",
+                    "telefon": "+49 4221 987098",
+                    "fax": "+49 4221 987096",
                     "email": [],
-                    "startdatum": "02.07.2025",
+                    "startdatum": "03.07.2025",
                     "startzeit": "08:30",
-                    "enddatum": "03.07.2025",
+                    "enddatum": "04.07.2025",
                     "endzeit": "08:30"
                 },
                 {
