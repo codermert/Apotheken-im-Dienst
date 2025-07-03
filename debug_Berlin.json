@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 34
+            "anzahl": 32
         },
         "quota": {
-            "verwendet": "19639"
+            "verwendet": "21010"
         },
         "apotheken": {
             "apotheke": [
@@ -5743,22 +5743,22 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Apotheke Kleinmachnow",
+                    "name": "Apotheke im Markt",
                     "kammer": "lakbb",
-                    "id": "286",
-                    "apo_id": "lakbb286",
-                    "strasse": "Ernst-Thälmann-Straße 88 a",
-                    "plz": "14532",
-                    "ort": "Kleinmachnow",
-                    "distanz": "15.94184176161",
-                    "longitude": "13.22614",
-                    "latitude": "52.41385",
-                    "telefon": "+49 33203 22263",
+                    "id": "613",
+                    "apo_id": "lakbb613",
+                    "strasse": "Potsdamer Straße 6-8",
+                    "plz": "14513",
+                    "ort": "Teltow",
+                    "distanz": "16.75796073415",
+                    "longitude": "13.2406798",
+                    "latitude": "52.3966795",
+                    "telefon": "+49 3328 3380033",
                     "fax": [],
                     "email": [],
-                    "startdatum": "02.07.2025",
+                    "startdatum": "03.07.2025",
                     "startzeit": "08:00",
-                    "enddatum": "03.07.2025",
+                    "enddatum": "04.07.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -5781,22 +5781,22 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Neue Apotheke",
+                    "name": "Hönow-Apotheke",
                     "kammer": "lakbb",
-                    "id": "403",
-                    "apo_id": "lakbb403",
-                    "strasse": "Trebbiner Straße 19",
-                    "plz": "15831",
-                    "ort": "Blankenfelde-Mahlow - OT Mahlow",
-                    "distanz": "17.42632296352",
-                    "longitude": "13.4114011",
-                    "latitude": "52.3610386",
-                    "telefon": "03379  / 360 061",
-                    "fax": "03379  / 360 063",
-                    "email": "info@neue-apotheke-mahlow.de",
-                    "startdatum": "02.07.2025",
+                    "id": "587",
+                    "apo_id": "lakbb587",
+                    "strasse": "Am Grünzug 12+14",
+                    "plz": "15366",
+                    "ort": "Hoppegarten - OT Hönow",
+                    "distanz": "17.444140174700003",
+                    "longitude": "13.643244",
+                    "latitude": "52.5394951",
+                    "telefon": "+49 3342 211877",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "03.07.2025",
                     "startzeit": "08:00",
-                    "enddatum": "03.07.2025",
+                    "enddatum": "04.07.2025",
                     "endzeit": "08:00"
                 }
             ]

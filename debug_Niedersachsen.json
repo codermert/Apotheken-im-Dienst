@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "19811"
+            "verwendet": "21217"
         },
         "apotheken": {
             "apotheke": [
@@ -93,22 +93,41 @@
                     "endzeit": "08:30"
                 },
                 {
-                    "name": "Bahnhof-Apotheke",
+                    "name": "Neue Apotheke",
                     "kammer": "aknds",
-                    "id": "953",
-                    "apo_id": "aknds953",
-                    "strasse": "Wilhelmstr. 19",
+                    "id": "958",
+                    "apo_id": "aknds958",
+                    "strasse": "Lange Straße 81",
                     "plz": "31582",
                     "ort": "Nienburg",
-                    "distanz": "23.71717046696",
-                    "longitude": "9.2136038",
-                    "latitude": "52.6437781",
-                    "telefon": "+49 5021 2232",
-                    "fax": "+49 5021 17681",
+                    "distanz": "23.840288223349997",
+                    "longitude": "9.2066251",
+                    "latitude": "52.6408368",
+                    "telefon": "+49 5021 97680",
+                    "fax": "+49 5021 976820",
                     "email": [],
-                    "startdatum": "02.07.2025",
+                    "startdatum": "03.07.2025",
                     "startzeit": "08:00",
-                    "enddatum": "03.07.2025",
+                    "enddatum": "04.07.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Brunnen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1061",
+                    "apo_id": "aknds1061",
+                    "strasse": "Lange Str. 9",
+                    "plz": "27232",
+                    "ort": "Sulingen",
+                    "distanz": "25.00528910764",
+                    "longitude": "8.8111754",
+                    "latitude": "52.6827223",
+                    "telefon": "+49 4271 93300",
+                    "fax": "+49 4271 933035",
+                    "email": [],
+                    "startdatum": "03.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "04.07.2025",
                     "endzeit": "08:00"
                 },
                 {
