@@ -3194,7 +3194,7 @@
             "anzahl": 18
         },
         "quota": {
-            "verwendet": "24269"
+            "verwendet": "26554"
         },
         "apotheken": {
             "apotheke": [
@@ -3351,6 +3351,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Apotheke Mitten im Leben",
+                    "kammer": "aknds",
+                    "id": "5859",
+                    "apo_id": "aknds5859",
+                    "strasse": "Am Saal 16",
+                    "plz": "21217",
+                    "ort": "Seevetal",
+                    "distanz": "14.65357934397",
+                    "longitude": "10.0197091",
+                    "latitude": "53.4191686",
+                    "telefon": "+49 40 70108642",
+                    "fax": "+49 40 70108703",
+                    "email": [],
+                    "startdatum": "04.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "05.07.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Apotheke im Herold Center",
                     "kammer": "aksh",
                     "id": "10356",
@@ -3482,25 +3501,6 @@
                     "startzeit": "08:00",
                     "enddatum": "05.07.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Sonnen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1512",
-                    "apo_id": "aknds1512",
-                    "strasse": "Bahnhofstr. 34",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "25.32874904419",
-                    "longitude": "10.2060682",
-                    "latitude": "53.3586093",
-                    "telefon": "+49 4171 3611",
-                    "fax": "+49 4171 653650",
-                    "email": [],
-                    "startdatum": "03.07.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "04.07.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Löns-Apotheke",
