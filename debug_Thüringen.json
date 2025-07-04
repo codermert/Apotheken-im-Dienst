@@ -37,46 +37,27 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "26865"
+            "verwendet": "27797"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Theater-Apotheke",
+                    "name": "Apotheke am Dom",
                     "kammer": "lakt",
-                    "id": "367",
-                    "apo_id": "lakt367",
-                    "strasse": "Dalbergsweg 9",
+                    "id": "520",
+                    "apo_id": "lakt520",
+                    "strasse": "Marktstr. 23-25",
                     "plz": "99084",
                     "ort": "Erfurt",
-                    "distanz": "7.81386179811",
-                    "longitude": "11.0228492",
-                    "latitude": "50.9710741",
-                    "telefon": "+49 361 2258820",
+                    "distanz": "8.507781919580001",
+                    "longitude": "11.0251592",
+                    "latitude": "50.9775314",
+                    "telefon": "+49 361 5401673",
                     "fax": [],
                     "email": [],
-                    "startdatum": "03.07.2025",
+                    "startdatum": "04.07.2025",
                     "startzeit": "09:00",
-                    "enddatum": "04.07.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Lilien-Apotheke",
-                    "kammer": "lakt",
-                    "id": "3991",
-                    "apo_id": "lakt3991",
-                    "strasse": "Domplatz 6/9",
-                    "plz": "99084",
-                    "ort": "Erfurt",
-                    "distanz": "8.54898929134",
-                    "longitude": "11.0248279",
-                    "latitude": "50.9778817",
-                    "telefon": "+49 361 6003742",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "03.07.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "04.07.2025",
+                    "enddatum": "05.07.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -97,6 +78,25 @@
                     "startzeit": "08:00",
                     "enddatum": "05.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Brunnen-Apotheke",
+                    "kammer": "lakt",
+                    "id": "3990",
+                    "apo_id": "lakt3990",
+                    "strasse": "Erfurter Straße 72",
+                    "plz": "99095",
+                    "ort": "Erfurt-Mittelhausen",
+                    "distanz": "15.0503896404",
+                    "longitude": "11.00229",
+                    "latitude": "51.03489",
+                    "telefon": "+49 361 2624442",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "04.07.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "05.07.2025",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Stadt-Apotheke Lattmann Apotheken OHG",
