@@ -381,7 +381,7 @@
             "anzahl": 18
         },
         "quota": {
-            "verwendet": "103556"
+            "verwendet": "105886"
         },
         "apotheken": {
             "apotheke": [
@@ -690,6 +690,25 @@
                     "endzeit": "18:00"
                 },
                 {
+                    "name": "Markt-Apotheke",
+                    "kammer": "slak",
+                    "id": "369",
+                    "apo_id": "slak369",
+                    "strasse": "Markt 4",
+                    "plz": "01662",
+                    "ort": "Meißen",
+                    "distanz": "25.97493282653",
+                    "longitude": "13.4708351",
+                    "latitude": "51.1629347",
+                    "telefon": "+49 3521 459051",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "05.07.2025",
+                    "startzeit": "16:00",
+                    "enddatum": "06.07.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Apotheke im SEC",
                     "kammer": "slak",
                     "id": "827",
@@ -707,25 +726,6 @@
                     "startzeit": "12:00",
                     "enddatum": "05.07.2025",
                     "endzeit": "18:00"
-                },
-                {
-                    "name": "Elbtal-Apotheke",
-                    "kammer": "slak",
-                    "id": "837",
-                    "apo_id": "slak837",
-                    "strasse": "Niederauer Straße 43",
-                    "plz": "01662",
-                    "ort": "Meißen",
-                    "distanz": "26.72724801908",
-                    "longitude": "13.50182",
-                    "latitude": "51.16827",
-                    "telefon": "+49 3521 72030",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "05.07.2025",
-                    "startzeit": "12:00",
-                    "enddatum": "05.07.2025",
-                    "endzeit": "16:00"
                 }
             ]
         }
