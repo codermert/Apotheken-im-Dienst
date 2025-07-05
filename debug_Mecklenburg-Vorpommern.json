@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "122494"
+            "verwendet": "127947"
         },
         "apotheken": {
             "apotheke": [
@@ -93,6 +93,44 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Apotheke im Tessinum",
+                    "kammer": "akmv",
+                    "id": "178383",
+                    "apo_id": "akmv178383",
+                    "strasse": "Karl-Marx-Straße 14",
+                    "plz": "18195",
+                    "ort": "Tessin",
+                    "distanz": "29.26330939673",
+                    "longitude": "12.4611487",
+                    "latitude": "54.0275934",
+                    "telefon": "+49 38205 71766",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "05.07.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "05.07.2025",
+                    "endzeit": "18:00"
+                },
+                {
+                    "name": "Rosenhof-Apotheke",
+                    "kammer": "akmv",
+                    "id": "174320",
+                    "apo_id": "akmv174320",
+                    "strasse": "Stavenhagener  Str. 25",
+                    "plz": "17091",
+                    "ort": "Rosenow",
+                    "distanz": "34.43305968765",
+                    "longitude": "13.0355102",
+                    "latitude": "53.6278546",
+                    "telefon": "+49 39602 20480",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "05.07.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "05.07.2025",
+                    "endzeit": "18:00"
+                },
+                {
                     "name": "Marien-Apotheke",
                     "kammer": "akmv",
                     "id": "171855",
@@ -110,6 +148,25 @@
                     "startzeit": "08:00",
                     "enddatum": "06.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Schwan-Apotheke",
+                    "kammer": "akmv",
+                    "id": "172365",
+                    "apo_id": "akmv172365",
+                    "strasse": "Hohe Str. 25",
+                    "plz": "17207",
+                    "ort": "Röbel",
+                    "distanz": "44.37339286095",
+                    "longitude": "12.6059568",
+                    "latitude": "53.3752241",
+                    "telefon": "+49 39931 52426",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "05.07.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "05.07.2025",
+                    "endzeit": "18:00"
                 },
                 {
                     "name": "Cityblick-Apotheke",
