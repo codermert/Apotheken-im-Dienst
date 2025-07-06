@@ -3191,10 +3191,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 18
+            "anzahl": 19
         },
         "quota": {
-            "verwendet": "307259"
+            "verwendet": "317288"
         },
         "apotheken": {
             "apotheke": [
@@ -3587,6 +3587,25 @@
                         "nachname": "Schulz",
                         "position": "Inhaber"
                     }
+                },
+                {
+                    "name": "wir leben-Apotheke im Luhepark",
+                    "kammer": "aknds",
+                    "id": "6737",
+                    "apo_id": "aknds6737",
+                    "strasse": "Löhnfeld 10",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "24.61644853109",
+                    "longitude": "10.1955",
+                    "latitude": "53.3622",
+                    "telefon": "+49 4171 605770",
+                    "fax": "+49 4171 6057719",
+                    "email": [],
+                    "startdatum": "06.07.2025",
+                    "startzeit": "16:00",
+                    "enddatum": "06.07.2025",
+                    "endzeit": "19:00"
                 }
             ]
         }
