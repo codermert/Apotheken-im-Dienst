@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "188880"
+            "verwendet": "205407"
         },
         "apotheken": {
             "apotheke": [
@@ -53,25 +53,6 @@
                     "startzeit": "08:00",
                     "enddatum": "07.07.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Hubertus-Apotheke",
-                    "kammer": "akmv",
-                    "id": "172433",
-                    "apo_id": "akmv172433",
-                    "strasse": "Friedensstr. 29",
-                    "plz": "17179",
-                    "ort": "Gnoien",
-                    "distanz": "23.52636928311",
-                    "longitude": "12.7102512",
-                    "latitude": "53.9693156",
-                    "telefon": "+49 39971 1830",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "06.07.2025",
-                    "startzeit": "11:00",
-                    "enddatum": "06.07.2025",
-                    "endzeit": "12:00"
                 },
                 {
                     "name": "Rats-Apotheke",
