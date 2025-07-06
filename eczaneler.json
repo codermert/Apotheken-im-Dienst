@@ -575,7 +575,72 @@
       "mesafe": "27.4 km"
     }
   ],
-  "Bayern": [],
+  "Bayern": [
+    {
+      "eczaneAdi": "Apotheke am Adlmannsberg",
+      "adres": "Ziegelberg 2, 85139 Wettstetten",
+      "telefon": "+49 841 99365388",
+      "enlem": "48.8165067",
+      "boylam": "11.4144851",
+      "mesafe": "14.5 km"
+    },
+    {
+      "eczaneAdi": "Engel-Apotheke",
+      "adres": "Nürnbergerstr. 8, 91177 Thalmässing",
+      "telefon": "+49 9173 79600",
+      "enlem": "49.08859",
+      "boylam": "11.21705",
+      "mesafe": "20.9 km"
+    },
+    {
+      "eczaneAdi": "Mohren-Apotheke",
+      "adres": "Kirchplatz 20, 85051 Ingolstadt",
+      "telefon": "+49 8450 690",
+      "enlem": "48.7109228",
+      "boylam": "11.4058535",
+      "mesafe": "26.2 km"
+    },
+    {
+      "eczaneAdi": "easy-Apotheke Neuburg an der Donau",
+      "adres": "Am Südpark 7, 86633 Neuburg a. d. Donau",
+      "telefon": "+49 8431 909530",
+      "enlem": "48.7216421",
+      "boylam": "11.1701877",
+      "mesafe": "30.3 km"
+    },
+    {
+      "eczaneAdi": "Stadt-Apotheke",
+      "adres": "Marktstr. 1, 92331 Parsberg",
+      "telefon": "+49 9492 5050",
+      "enlem": "49.1601579",
+      "boylam": "11.7188756",
+      "mesafe": "33.1 km"
+    },
+    {
+      "eczaneAdi": "Ludwigs-Apotheke",
+      "adres": "Brunngasse 1, 93309 Kelheim",
+      "telefon": "+49 9441 3292",
+      "enlem": "48.9188568",
+      "boylam": "11.8710631",
+      "mesafe": "34.4 km"
+    },
+    {
+      "eczaneAdi": "Aesculap-Apotheke Filialapotheke im Ärztehaus West",
+      "adres": "Ziegetsdorfer Str. 113, 93051 Regensburg",
+      "telefon": "+49 941 30785985",
+      "enlem": "49.0098906",
+      "boylam": "12.0580953",
+      "mesafe": "48.4 km"
+    },
+    {
+      "eczaneAdi": "Markt-Apotheke",
+      "adres": "Collegiengasse 1, 90518 Altdorf b.Nürnberg",
+      "telefon": "+49 9187 902874",
+      "enlem": "49.3855923",
+      "boylam": "11.3565912",
+      "mesafe": "48.9 km"
+    }
+  ],
   "Brandenburg": [
     {
       "eczaneAdi": "Preussen Apotheke Oranienburg",
@@ -624,14 +689,6 @@
       "enlem": "52.97618",
       "boylam": "12.98677",
       "mesafe": "22.7 km"
-    },
-    {
-      "eczaneAdi": "Leuchtturm Apotheke",
-      "adres": "Heinsestr. 32-34, 13467 Berlin",
-      "telefon": "+49 30 40508240",
-      "enlem": "52.61714",
-      "boylam": "13.30741",
-      "mesafe": "25.8 km"
     }
   ],
   "Bremen": [
@@ -718,36 +775,52 @@
   ],
   "Hessen": [
     {
-      "eczaneAdi": "Rathaus Apotheke",
-      "adres": "Frankfurter Str. 25, 35315 Homberg",
-      "telefon": "+49 6633 325",
-      "enlem": "50.72897",
-      "boylam": "8.99753",
-      "mesafe": "13.6 km"
+      "eczaneAdi": "Ohm Apotheke Nieder-Ohmen",
+      "adres": "Bernsfelderstr. 6, 35325 Mücke",
+      "telefon": "+49 6400 5368",
+      "enlem": "50.6464777",
+      "boylam": "9.032303",
+      "mesafe": "4.3 km"
     },
     {
-      "eczaneAdi": "Lohberg Apotheke",
-      "adres": "Rhönstr. 18, 63667 Nidda",
-      "telefon": "+49 6043 3100",
-      "enlem": "50.4457562",
-      "boylam": "9.0350538",
-      "mesafe": "18.1 km"
-    },
-    {
-      "eczaneAdi": "Burg Apotheke",
-      "adres": "Am Alten Kirchenweg 5, 35460 Staufenberg",
-      "telefon": "+49 6406 4078",
-      "enlem": "50.65926",
-      "boylam": "8.73497",
+      "eczaneAdi": "Münch'sche Apotheke",
+      "adres": "Schillerstraße 30, 63667 Nidda",
+      "telefon": "+49 6043 4614",
+      "enlem": "50.4154269",
+      "boylam": "9.0073719",
       "mesafe": "21.5 km"
     },
     {
-      "eczaneAdi": "Löwen Apotheke",
-      "adres": "Friedrichstr. 11-13, 35392 Gießen",
-      "telefon": "+49 641 74242",
-      "enlem": "50.5785021",
-      "boylam": "8.6649119",
-      "mesafe": "26.0 km"
+      "eczaneAdi": "Neue Apotheke",
+      "adres": "Schwabenröder Str. 4, 36304 Alsfeld",
+      "telefon": "+49 6631 96400",
+      "enlem": "50.75361",
+      "boylam": "9.26922",
+      "mesafe": "23.5 km"
+    },
+    {
+      "eczaneAdi": "Albert Schweitzer Apotheke",
+      "adres": "Albert-Schweitzer-Str. 26, 35260 Stadtallendorf",
+      "telefon": "+49 6428 92480",
+      "enlem": "50.82317",
+      "boylam": "9.01024",
+      "mesafe": "24.0 km"
+    },
+    {
+      "eczaneAdi": "Universitätsapotheke zum Goldenen Engel",
+      "adres": "Marktplatz 8, 35390 Gießen",
+      "telefon": "+49 641 33366",
+      "enlem": "50.5867192",
+      "boylam": "8.6748982",
+      "mesafe": "25.1 km"
+    },
+    {
+      "eczaneAdi": "Adler Apotheke",
+      "adres": "Kirchgasse 30, 35516 Münzenberg",
+      "telefon": "+49 6033 64488",
+      "enlem": "50.4606173",
+      "boylam": "8.7289467",
+      "mesafe": "26.8 km"
     }
   ],
   "Mecklenburg-Vorpommern": [
@@ -761,19 +834,19 @@
     },
     {
       "eczaneAdi": "Rats-Apotheke",
+      "adres": "Lange Str. 14, 18292 Krakow a. See",
+      "telefon": "+49 38457 22322",
+      "enlem": "53.6531425",
+      "boylam": "12.2689391",
+      "mesafe": "24.3 km"
+    },
+    {
+      "eczaneAdi": "Rats-Apotheke",
       "adres": "Markt 24, 18273 Güstrow",
       "telefon": "+49 3843 682030",
       "enlem": "53.7928243",
       "boylam": "12.1760016",
       "mesafe": "26.4 km"
-    },
-    {
-      "eczaneAdi": "Apotheke im Tessinum",
-      "adres": "Karl-Marx-Straße 14, 18195 Tessin",
-      "telefon": "+49 38205 71766",
-      "enlem": "54.0275934",
-      "boylam": "12.4611487",
-      "mesafe": "29.3 km"
     },
     {
       "eczaneAdi": "Fontane-Apotheke",
@@ -810,20 +883,28 @@
   ],
   "Niedersachsen": [
     {
-      "eczaneAdi": "Raths-Apotheke am Dom",
-      "adres": "Lugenstein 4, 27283 Verden",
-      "telefon": "+49 4231 2654",
-      "enlem": "52.9175845",
-      "boylam": "9.2289552",
-      "mesafe": "13.5 km"
+      "eczaneAdi": "Central-Apotheke",
+      "adres": "Große Str. 61, 27313 Dörverden",
+      "telefon": "+49 4234 1308",
+      "enlem": "52.8484675",
+      "boylam": "9.2302053",
+      "mesafe": "10.4 km"
     },
     {
-      "eczaneAdi": "Rieder Apotheke",
-      "adres": "Dorfstr. 45, 27339 Riede",
-      "telefon": "+49 4294 795858",
-      "enlem": "52.9675139",
-      "boylam": "8.9388791",
-      "mesafe": "16.9 km"
+      "eczaneAdi": "Alte Apotheke",
+      "adres": "Obernstraße 5, 28832 Achim",
+      "telefon": "+49 4202 8999",
+      "enlem": "53.0126733",
+      "boylam": "9.0310955",
+      "mesafe": "19.5 km"
+    },
+    {
+      "eczaneAdi": "Geest-Apotheke",
+      "adres": "Drohmweg 37, 28844 Weyhe",
+      "telefon": "+49 4203 81751",
+      "enlem": "52.98729",
+      "boylam": "8.86201",
+      "mesafe": "21.8 km"
     },
     {
       "eczaneAdi": "Lindenmarkt-Apotheke",
@@ -840,22 +921,6 @@
       "enlem": "52.6422229",
       "boylam": "9.2096738",
       "mesafe": "23.8 km"
-    },
-    {
-      "eczaneAdi": "Apotheke 55 im Augenzentrum",
-      "adres": "Henry-Wetjen-Platz 3, 28844 Weyhe",
-      "telefon": "+49 421 83056800",
-      "enlem": "52.9875338",
-      "boylam": "8.8169272",
-      "mesafe": "24.0 km"
-    },
-    {
-      "eczaneAdi": "Engel-Apotheke",
-      "adres": "Sankt-Gotthard-Str. 33 A, 28325 Bremen",
-      "telefon": "+49 421 4093400",
-      "enlem": "53.065767",
-      "boylam": "8.9526864",
-      "mesafe": "26.5 km"
     }
   ],
   "Rheinland-Pfalz": [
@@ -1150,12 +1215,12 @@
   ],
   "Thüringen": [
     {
-      "eczaneAdi": "Löwen-Apotheke",
-      "adres": "Johannesstraße 143, 99084 Erfurt",
-      "telefon": "+49 361 5402272",
-      "enlem": "50.9822133",
-      "boylam": "11.0317976",
-      "mesafe": "9.0 km"
+      "eczaneAdi": "Wilhelm-Busch-Apotheke",
+      "adres": "Wilhelm-Busch-Straße 70, 99099 Erfurt",
+      "telefon": "+49 361 3457515",
+      "enlem": "50.9712502",
+      "boylam": "11.0450191",
+      "mesafe": "7.8 km"
     },
     {
       "eczaneAdi": "Schloss-Apotheke",
@@ -1166,12 +1231,12 @@
       "mesafe": "9.8 km"
     },
     {
-      "eczaneAdi": "Rieth-Apotheke",
-      "adres": "Mainzer Straße 35, 99089 Erfurt",
-      "telefon": "+49 361 7922040",
-      "enlem": "51.0050127",
-      "boylam": "11.0155075",
-      "mesafe": "11.6 km"
+      "eczaneAdi": "Park-Apotheke Thüringen Park",
+      "adres": "Nordhäuser Str. 73T, 99091 Erfurt",
+      "telefon": "+49 361 6538390",
+      "enlem": "51.0086349",
+      "boylam": "10.9937716",
+      "mesafe": "12.3 km"
     },
     {
       "eczaneAdi": "Burgen-Apotheke",
