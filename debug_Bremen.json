@@ -1267,7 +1267,7 @@
             "anzahl": 10
         },
         "quota": {
-            "verwendet": "63359"
+            "verwendet": "75391"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,6 +1310,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Anker Apotheke",
+                    "kammer": "aknds",
+                    "id": "1664",
+                    "apo_id": "aknds1664",
+                    "strasse": "Mühlenstr. 31",
+                    "plz": "27753",
+                    "ort": "Delmenhorst",
+                    "distanz": "11.03481046511",
+                    "longitude": "8.6236758",
+                    "latitude": "53.0549856",
+                    "telefon": "+49 4221 14489",
+                    "fax": "+49 4221 14907",
+                    "email": [],
+                    "startdatum": "06.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "07.07.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Alte Apotheke",
                     "kammer": "aknds",
                     "id": "1368",
@@ -1327,25 +1346,6 @@
                     "startzeit": "09:00",
                     "enddatum": "06.07.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Andreas-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1663",
-                    "apo_id": "aknds1663",
-                    "strasse": "Oldenburger Str. 25",
-                    "plz": "27753",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.683725943999999",
-                    "longitude": "8.6205462",
-                    "latitude": "53.0494339",
-                    "telefon": "+49 4221 150990",
-                    "fax": "+49 4221 120711",
-                    "email": [],
-                    "startdatum": "05.07.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "06.07.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Hohwisch-Apotheke",
@@ -1367,22 +1367,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke am famila",
+                    "name": "Ring-Apotheke",
                     "kammer": "aknds",
-                    "id": "6801",
-                    "apo_id": "aknds6801",
-                    "strasse": "Markt 5",
+                    "id": "1749",
+                    "apo_id": "aknds1749",
+                    "strasse": "Ring 26",
                     "plz": "27777",
                     "ort": "Ganderkesee",
-                    "distanz": "15.77459148283",
-                    "longitude": "8.54525",
-                    "latitude": "53.03462",
-                    "telefon": "+49 4222 9473270",
-                    "fax": "+49 4222 9473271",
+                    "distanz": "15.89569036873",
+                    "longitude": "8.5473054",
+                    "latitude": "53.03225",
+                    "telefon": "+49 4222 950288",
+                    "fax": "+49 4222 950290",
                     "email": [],
-                    "startdatum": "05.07.2025",
+                    "startdatum": "06.07.2025",
                     "startzeit": "08:30",
-                    "enddatum": "06.07.2025",
+                    "enddatum": "07.07.2025",
                     "endzeit": "08:30"
                 },
                 {
