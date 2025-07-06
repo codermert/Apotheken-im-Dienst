@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "49401"
+            "verwendet": "52511"
         },
         "apotheken": {
             "apotheke": [
@@ -167,6 +167,25 @@
                     "startzeit": "08:30",
                     "enddatum": "06.07.2025",
                     "endzeit": "08:30"
+                },
+                {
+                    "name": "Marien-Apotheke",
+                    "kammer": "aksaar",
+                    "id": "1671",
+                    "apo_id": "aksaar1671",
+                    "strasse": "Baumholderstr. 5",
+                    "plz": "66629",
+                    "ort": "Freisen",
+                    "distanz": "44.74746260075",
+                    "longitude": "7.2492141",
+                    "latitude": "49.5528162",
+                    "telefon": "06855/854",
+                    "fax": "06855/7704",
+                    "email": "kontakt@marienapo-freisen.de",
+                    "startdatum": "06.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "07.07.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Servatius-Apotheke",

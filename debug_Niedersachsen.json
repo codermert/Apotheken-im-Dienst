@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "49226"
+            "verwendet": "52322"
         },
         "apotheken": {
             "apotheke": [
@@ -74,25 +74,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Uhlen Apotheke",
-                    "kammer": "aknds",
-                    "id": "941",
-                    "apo_id": "aknds941",
-                    "strasse": "Rathausstr. 2",
-                    "plz": "31608",
-                    "ort": "Marklohe",
-                    "distanz": "20.764561643180002",
-                    "longitude": "9.1586733",
-                    "latitude": "52.6601345",
-                    "telefon": "+49 5021 15025",
-                    "fax": "+49 5021 910838",
-                    "email": [],
-                    "startdatum": "05.07.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "06.07.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Stifts-Apotheke",
                     "kammer": "aknds",
                     "id": "525",
@@ -112,6 +93,25 @@
                     "endzeit": "08:30"
                 },
                 {
+                    "name": "Apotheke am Goetheplatz",
+                    "kammer": "aknds",
+                    "id": "961",
+                    "apo_id": "aknds961",
+                    "strasse": "Goetheplatz 6",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "23.774463096319998",
+                    "longitude": "9.2096738",
+                    "latitude": "52.6422229",
+                    "telefon": "+49 5021 13100",
+                    "fax": "+49 5021 910919",
+                    "email": [],
+                    "startdatum": "06.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "07.07.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Apotheke 55 im Augenzentrum",
                     "kammer": "aknds",
                     "id": "7375",
@@ -129,25 +129,6 @@
                     "startzeit": "09:00",
                     "enddatum": "06.07.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Stern-Apotheke",
-                    "kammer": "aknds",
-                    "id": "938",
-                    "apo_id": "aknds938",
-                    "strasse": "Sternstr. 1 B",
-                    "plz": "31618",
-                    "ort": "Liebenau",
-                    "distanz": "25.9555785569",
-                    "longitude": "9.0897493",
-                    "latitude": "52.6067599",
-                    "telefon": "+49 5023 94444",
-                    "fax": "+49 5023 94446",
-                    "email": [],
-                    "startdatum": "05.07.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "06.07.2025",
-                    "endzeit": "08:00"
                 },
                 {
                     "name": "Engel-Apotheke",
