@@ -31,7 +31,7 @@
             "anzahl": 5
         },
         "quota": {
-            "verwendet": "20120"
+            "verwendet": "22296"
         },
         "apotheken": {
             "apotheke": [
@@ -93,6 +93,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Eichen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "954",
+                    "apo_id": "aknds954",
+                    "strasse": "Verdener Landstr. 134",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "22.105350231280003",
+                    "longitude": "9.2215718",
+                    "latitude": "52.66194",
+                    "telefon": "+49 5021 18831",
+                    "fax": "+49 5021 64644",
+                    "email": [],
+                    "startdatum": "07.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "08.07.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Lindenmarkt-Apotheke",
                     "kammer": "aknds",
                     "id": "526",
@@ -110,25 +129,6 @@
                     "startzeit": "08:30",
                     "enddatum": "07.07.2025",
                     "endzeit": "08:30"
-                },
-                {
-                    "name": "Apotheke am Goetheplatz",
-                    "kammer": "aknds",
-                    "id": "961",
-                    "apo_id": "aknds961",
-                    "strasse": "Goetheplatz 6",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "23.774463096319998",
-                    "longitude": "9.2096738",
-                    "latitude": "52.6422229",
-                    "telefon": "+49 5021 13100",
-                    "fax": "+49 5021 910919",
-                    "email": [],
-                    "startdatum": "06.07.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "07.07.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }
