@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 7
         },
         "quota": {
-            "verwendet": "13650"
+            "verwendet": "15393"
         },
         "apotheken": {
             "apotheke": [
@@ -112,23 +112,42 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Eichen-Apotheke",
+                    "name": "Apotheke Erichshagen",
                     "kammer": "aknds",
-                    "id": "954",
-                    "apo_id": "aknds954",
-                    "strasse": "Verdener Landstr. 134",
+                    "id": "962",
+                    "apo_id": "aknds962",
+                    "strasse": "Celler Str. 62",
                     "plz": "31582",
                     "ort": "Nienburg",
-                    "distanz": "22.105350231280003",
-                    "longitude": "9.2215718",
-                    "latitude": "52.66194",
-                    "telefon": "+49 5021 18831",
-                    "fax": "+49 5021 64644",
+                    "distanz": "22.87586663499",
+                    "longitude": "9.2267429",
+                    "latitude": "52.6557705",
+                    "telefon": "+49 5021 63938",
+                    "fax": "+49 5021 961008",
                     "email": [],
-                    "startdatum": "07.07.2025",
+                    "startdatum": "08.07.2025",
                     "startzeit": "08:00",
-                    "enddatum": "08.07.2025",
+                    "enddatum": "09.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Stifts-Apotheke",
+                    "kammer": "aknds",
+                    "id": "525",
+                    "apo_id": "aknds525",
+                    "strasse": "Sulinger Str. 11 A",
+                    "plz": "27211",
+                    "ort": "Bassum",
+                    "distanz": "23.475387189699997",
+                    "longitude": "8.7277453",
+                    "latitude": "52.8467512",
+                    "telefon": "+49 4241 93060",
+                    "fax": "+49 4241 930666",
+                    "email": [],
+                    "startdatum": "08.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "09.07.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Arsterdamm-Apotheke",
