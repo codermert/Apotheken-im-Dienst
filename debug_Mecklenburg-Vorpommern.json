@@ -8,7 +8,7 @@
         "action": "result",
         "controller": "Search",
         "search": {
-            "date": "2025-07-09",
+            "date": "2025-07-10",
             "lat": "",
             "lng": "",
             "plzort": "Mecklenburg-Vorpommern",
@@ -25,16 +25,35 @@
             "longitude": "12.5755471",
             "latitude": "53.773506399999995",
             "limit": [],
-            "datum": "09.07.2025"
+            "datum": "10.07.2025"
         },
         "statistik": {
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "172732"
+            "verwendet": "653"
         },
         "apotheken": {
             "apotheke": [
+                {
+                    "name": "Apotheke am Wasserturm",
+                    "kammer": "akmv",
+                    "id": "179080",
+                    "apo_id": "akmv179080",
+                    "strasse": "Rosenstraße 2",
+                    "plz": "17166",
+                    "ort": "Teterow",
+                    "distanz": "0.55284527602",
+                    "longitude": "12.579",
+                    "latitude": "53.76898",
+                    "telefon": "+49 3996 1629790",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "10.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "11.07.2025",
+                    "endzeit": "08:00"
+                },
                 {
                     "name": "Apotheke am Park",
                     "kammer": "akmv",
@@ -49,29 +68,10 @@
                     "telefon": "+49 38452 20592",
                     "fax": [],
                     "email": [],
-                    "startdatum": "09.07.2025",
+                    "startdatum": "10.07.2025",
                     "startzeit": "18:00",
-                    "enddatum": "09.07.2025",
-                    "endzeit": "19:00"
-                },
-                {
-                    "name": "Rats-Apotheke",
-                    "kammer": "akmv",
-                    "id": "171940",
-                    "apo_id": "akmv171940",
-                    "strasse": "Markt 14",
-                    "plz": "17154",
-                    "ort": "Neukalen",
-                    "distanz": "15.23178372123",
-                    "longitude": "12.7912883",
-                    "latitude": "53.822651",
-                    "telefon": "+49 39956 20201",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "09.07.2025",
-                    "startzeit": "08:00",
                     "enddatum": "10.07.2025",
-                    "endzeit": "08:00"
+                    "endzeit": "19:00"
                 },
                 {
                     "name": "Recknitztal-Apotheke",
@@ -87,9 +87,9 @@
                     "telefon": "+49 38459 36235",
                     "fax": [],
                     "email": [],
-                    "startdatum": "09.07.2025",
+                    "startdatum": "10.07.2025",
                     "startzeit": "18:00",
-                    "enddatum": "09.07.2025",
+                    "enddatum": "10.07.2025",
                     "endzeit": "20:00"
                 },
                 {
@@ -106,9 +106,9 @@
                     "telefon": "+49 39959 337177",
                     "fax": [],
                     "email": [],
-                    "startdatum": "09.07.2025",
+                    "startdatum": "10.07.2025",
                     "startzeit": "18:00",
-                    "enddatum": "09.07.2025",
+                    "enddatum": "10.07.2025",
                     "endzeit": "20:00"
                 },
                 {
@@ -125,28 +125,28 @@
                     "telefon": "+49 39954 24850",
                     "fax": [],
                     "email": [],
-                    "startdatum": "09.07.2025",
+                    "startdatum": "10.07.2025",
                     "startzeit": "18:00",
-                    "enddatum": "09.07.2025",
+                    "enddatum": "10.07.2025",
                     "endzeit": "20:00"
                 },
                 {
-                    "name": "Südstadt-Apotheke",
+                    "name": "Apotheke am Distelberg",
                     "kammer": "akmv",
-                    "id": "172875",
-                    "apo_id": "akmv172875",
-                    "strasse": "Goldberger Str. 70 c",
+                    "id": "173963",
+                    "apo_id": "akmv173963",
+                    "strasse": "Am Eicheneck 6",
                     "plz": "18273",
                     "ort": "Güstrow",
-                    "distanz": "26.35565644871",
-                    "longitude": "12.1759445",
-                    "latitude": "53.7805327",
-                    "telefon": "+49 3843 331011",
+                    "distanz": "25.77112356222",
+                    "longitude": "12.1891445",
+                    "latitude": "53.809078",
+                    "telefon": "+49 3843 212068",
                     "fax": [],
                     "email": [],
-                    "startdatum": "09.07.2025",
+                    "startdatum": "10.07.2025",
                     "startzeit": "08:00",
-                    "enddatum": "10.07.2025",
+                    "enddatum": "11.07.2025",
                     "endzeit": "08:00"
                 }
             ]
