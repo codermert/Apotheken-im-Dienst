@@ -25,33 +25,33 @@
             "longitude": "12.5755471",
             "latitude": "53.773506399999995",
             "limit": [],
-            "datum": "11.07.2025"
+            "datum": "12.07.2025"
         },
         "statistik": {
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "42819"
+            "verwendet": "45000"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Rats-Apotheke",
+                    "name": "Apotheke am Wasserturm",
                     "kammer": "akmv",
-                    "id": "172416",
-                    "apo_id": "akmv172416",
-                    "strasse": "Marktplatz 4",
+                    "id": "179080",
+                    "apo_id": "akmv179080",
+                    "strasse": "Rosenstraße 2",
                     "plz": "17166",
                     "ort": "Teterow",
-                    "distanz": "0.036946261810000006",
-                    "longitude": "12.5750741",
-                    "latitude": "53.7736844",
-                    "telefon": "+49 3996 172041",
+                    "distanz": "0.55284527602",
+                    "longitude": "12.579",
+                    "latitude": "53.76898",
+                    "telefon": "+49 3996 1629790",
                     "fax": [],
                     "email": [],
-                    "startdatum": "11.07.2025",
+                    "startdatum": "12.07.2025",
                     "startzeit": "08:00",
-                    "enddatum": "12.07.2025",
+                    "enddatum": "13.07.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -68,10 +68,10 @@
                     "telefon": "+49 38452 20592",
                     "fax": [],
                     "email": [],
-                    "startdatum": "11.07.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "11.07.2025",
-                    "endzeit": "19:00"
+                    "startdatum": "12.07.2025",
+                    "startzeit": "07:00",
+                    "enddatum": "12.07.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Recknitztal-Apotheke",
@@ -87,10 +87,10 @@
                     "telefon": "+49 38459 36235",
                     "fax": [],
                     "email": [],
-                    "startdatum": "11.07.2025",
+                    "startdatum": "12.07.2025",
                     "startzeit": "18:00",
-                    "enddatum": "11.07.2025",
-                    "endzeit": "20:00"
+                    "enddatum": "12.07.2025",
+                    "endzeit": "19:00"
                 },
                 {
                     "name": "Schloss-Apotheke",
@@ -106,10 +106,10 @@
                     "telefon": "+49 39959 337177",
                     "fax": [],
                     "email": [],
-                    "startdatum": "11.07.2025",
+                    "startdatum": "12.07.2025",
                     "startzeit": "18:00",
-                    "enddatum": "11.07.2025",
-                    "endzeit": "20:00"
+                    "enddatum": "12.07.2025",
+                    "endzeit": "19:00"
                 },
                 {
                     "name": "Schweden Apotheke",
@@ -125,28 +125,28 @@
                     "telefon": "+49 39954 24850",
                     "fax": [],
                     "email": [],
-                    "startdatum": "11.07.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "11.07.2025",
-                    "endzeit": "20:00"
+                    "startdatum": "12.07.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "12.07.2025",
+                    "endzeit": "18:00"
                 },
                 {
-                    "name": "Apotheke am Wall",
+                    "name": "Godewind-Apotheke",
                     "kammer": "akmv",
-                    "id": "175255",
-                    "apo_id": "akmv175255",
-                    "strasse": "Hageböcker Str. 19",
+                    "id": "175374",
+                    "apo_id": "akmv175374",
+                    "strasse": "Haselstr. 2",
                     "plz": "18273",
                     "ort": "Güstrow",
-                    "distanz": "26.72827393409",
-                    "longitude": "12.1714502",
-                    "latitude": "53.7934156",
-                    "telefon": "+49 3843 684096",
+                    "distanz": "25.60505132885",
+                    "longitude": "12.1914359",
+                    "latitude": "53.8080658",
+                    "telefon": "+49 3843 215630",
                     "fax": [],
                     "email": [],
-                    "startdatum": "11.07.2025",
+                    "startdatum": "12.07.2025",
                     "startzeit": "08:00",
-                    "enddatum": "12.07.2025",
+                    "enddatum": "13.07.2025",
                     "endzeit": "08:00"
                 }
             ]
