@@ -25,13 +25,13 @@
             "longitude": "12.5755471",
             "latitude": "53.773506399999995",
             "limit": [],
-            "datum": "12.07.2025"
+            "datum": "13.07.2025"
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "112690"
+            "verwendet": "124770"
         },
         "apotheken": {
             "apotheke": [
@@ -49,28 +49,9 @@
                     "telefon": "+49 3996 1629790",
                     "fax": [],
                     "email": [],
-                    "startdatum": "12.07.2025",
+                    "startdatum": "13.07.2025",
                     "startzeit": "08:00",
-                    "enddatum": "13.07.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Apotheke am Park",
-                    "kammer": "akmv",
-                    "id": "177210",
-                    "apo_id": "akmv177210",
-                    "strasse": "Zu den Wiesen 9",
-                    "plz": "18279",
-                    "ort": "Lalendorf",
-                    "distanz": "12.7158404106",
-                    "longitude": "12.38463",
-                    "latitude": "53.75746",
-                    "telefon": "+49 38452 20592",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "12.07.2025",
-                    "startzeit": "07:00",
-                    "enddatum": "12.07.2025",
+                    "enddatum": "14.07.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -87,9 +68,47 @@
                     "telefon": "+49 38459 36235",
                     "fax": [],
                     "email": [],
-                    "startdatum": "12.07.2025",
+                    "startdatum": "13.07.2025",
                     "startzeit": "18:00",
-                    "enddatum": "12.07.2025",
+                    "enddatum": "13.07.2025",
+                    "endzeit": "19:00"
+                },
+                {
+                    "name": "Recknitztal-Apotheke",
+                    "kammer": "akmv",
+                    "id": "176921",
+                    "apo_id": "akmv176921",
+                    "strasse": "Breesener Str. 37",
+                    "plz": "18299",
+                    "ort": "Laage",
+                    "distanz": "22.86848685063",
+                    "longitude": "12.3460061",
+                    "latitude": "53.9277616",
+                    "telefon": "+49 38459 36235",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "13.07.2025",
+                    "startzeit": "10:00",
+                    "enddatum": "13.07.2025",
+                    "endzeit": "11:00"
+                },
+                {
+                    "name": "Schloss-Apotheke",
+                    "kammer": "akmv",
+                    "id": "178757",
+                    "apo_id": "akmv178757",
+                    "strasse": "Schlossstraße 23",
+                    "plz": "17159",
+                    "ort": "Dargun",
+                    "distanz": "22.88897876966",
+                    "longitude": "12.8515406",
+                    "latitude": "53.8985743",
+                    "telefon": "+49 39959 337177",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "13.07.2025",
+                    "startzeit": "18:00",
+                    "enddatum": "13.07.2025",
                     "endzeit": "19:00"
                 },
                 {
@@ -106,10 +125,10 @@
                     "telefon": "+49 39959 337177",
                     "fax": [],
                     "email": [],
-                    "startdatum": "12.07.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "12.07.2025",
-                    "endzeit": "19:00"
+                    "startdatum": "13.07.2025",
+                    "startzeit": "11:00",
+                    "enddatum": "13.07.2025",
+                    "endzeit": "12:00"
                 },
                 {
                     "name": "Schweden Apotheke",
@@ -125,28 +144,47 @@
                     "telefon": "+49 39954 24850",
                     "fax": [],
                     "email": [],
-                    "startdatum": "12.07.2025",
+                    "startdatum": "13.07.2025",
                     "startzeit": "17:00",
-                    "enddatum": "12.07.2025",
+                    "enddatum": "13.07.2025",
                     "endzeit": "18:00"
                 },
                 {
-                    "name": "Godewind-Apotheke",
+                    "name": "Schweden Apotheke",
                     "kammer": "akmv",
-                    "id": "175374",
-                    "apo_id": "akmv175374",
-                    "strasse": "Haselstr. 2",
-                    "plz": "18273",
-                    "ort": "Güstrow",
-                    "distanz": "25.60505132885",
-                    "longitude": "12.1914359",
-                    "latitude": "53.8080658",
-                    "telefon": "+49 3843 215630",
+                    "id": "178315",
+                    "apo_id": "akmv178315",
+                    "strasse": "Werdohler Str. 3",
+                    "plz": "17153",
+                    "ort": "Reuterstadt Stavenhagen",
+                    "distanz": "24.330255971070002",
+                    "longitude": "12.9150862",
+                    "latitude": "53.688362",
+                    "telefon": "+49 39954 24850",
                     "fax": [],
                     "email": [],
-                    "startdatum": "12.07.2025",
-                    "startzeit": "08:00",
+                    "startdatum": "13.07.2025",
+                    "startzeit": "10:00",
                     "enddatum": "13.07.2025",
+                    "endzeit": "11:00"
+                },
+                {
+                    "name": "Apotheke am Petershof",
+                    "kammer": "akmv",
+                    "id": "179114",
+                    "apo_id": "akmv179114",
+                    "strasse": "Schwaaner Straße 21",
+                    "plz": "18273",
+                    "ort": "Güstrow",
+                    "distanz": "26.56353024385",
+                    "longitude": "12.17597",
+                    "latitude": "53.80476",
+                    "telefon": "+49 3843 466969",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "13.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "14.07.2025",
                     "endzeit": "08:00"
                 }
             ]
