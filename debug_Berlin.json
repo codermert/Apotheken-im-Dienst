@@ -8,7 +8,7 @@
         "action": "result",
         "controller": "Search",
         "search": {
-            "date": "2025-07-14",
+            "date": "",
             "lat": "",
             "lng": "",
             "plzort": "Berlin",
@@ -25,7 +25,7 @@
             "longitude": "13.3888599",
             "latitude": "52.517036499999996",
             "limit": [],
-            "datum": "14.07.2025",
+            "datum": [],
             "alternative": [
                 {
                     "latitude": "52.4647079",
@@ -5320,7 +5320,7 @@
             "anzahl": 33
         },
         "quota": {
-            "verwendet": "68939"
+            "verwendet": "72565"
         },
         "apotheken": {
             "apotheke": [

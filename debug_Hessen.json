@@ -8,7 +8,7 @@
         "action": "result",
         "controller": "Search",
         "search": {
-            "date": "2025-07-14",
+            "date": "",
             "lat": "",
             "lng": "",
             "plzort": "Hessen",
@@ -25,7 +25,7 @@
             "longitude": "9.028464699999999",
             "latitude": "50.6080651",
             "limit": [],
-            "datum": "14.07.2025",
+            "datum": [],
             "alternative": [
                 {
                     "latitude": "52.0141926",
@@ -104,7 +104,7 @@
             "anzahl": 5
         },
         "quota": {
-            "verwendet": "69156"
+            "verwendet": "72842"
         },
         "apotheken": {
             "apotheke": [

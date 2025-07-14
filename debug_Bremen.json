@@ -8,7 +8,7 @@
         "action": "result",
         "controller": "Search",
         "search": {
-            "date": "2025-07-14",
+            "date": "",
             "lat": "",
             "lng": "",
             "plzort": "Bremen",
@@ -25,7 +25,7 @@
             "longitude": "8.6932343",
             "latitude": "53.144869",
             "limit": [],
-            "datum": "14.07.2025",
+            "datum": [],
             "alternative": [
                 {
                     "latitude": "53.0811178",
@@ -1267,7 +1267,7 @@
             "anzahl": 9
         },
         "quota": {
-            "verwendet": "69126"
+            "verwendet": "72810"
         },
         "apotheken": {
             "apotheke": [

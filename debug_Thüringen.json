@@ -8,7 +8,7 @@
         "action": "result",
         "controller": "Search",
         "search": {
-            "date": "2025-07-14",
+            "date": "",
             "lat": "",
             "lng": "",
             "plzort": "Thüringen",
@@ -25,7 +25,7 @@
             "longitude": "11.037783899999999",
             "latitude": "50.9014721",
             "limit": [],
-            "datum": "14.07.2025",
+            "datum": [],
             "alternative": {
                 "latitude": "51.2703905",
                 "longitude": "10.8135959",
@@ -37,7 +37,7 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "69532"
+            "verwendet": "73090"
         },
         "apotheken": {
             "apotheke": [

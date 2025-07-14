@@ -8,7 +8,7 @@
         "action": "result",
         "controller": "Search",
         "search": {
-            "date": "2025-07-14",
+            "date": "",
             "lat": "",
             "lng": "",
             "plzort": "Sachsen-Anhalt",
@@ -25,13 +25,13 @@
             "longitude": "11.7003344",
             "latitude": "52.008906499999995",
             "limit": [],
-            "datum": "14.07.2025"
+            "datum": []
         },
         "statistik": {
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "69458"
+            "verwendet": "73021"
         },
         "apotheken": {
             "apotheke": [

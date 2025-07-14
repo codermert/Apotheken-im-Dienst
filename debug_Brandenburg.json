@@ -8,7 +8,7 @@
         "action": "result",
         "controller": "Search",
         "search": {
-            "date": "2025-07-14",
+            "date": "",
             "lat": "",
             "lng": "",
             "plzort": "Brandenburg",
@@ -25,7 +25,7 @@
             "longitude": "13.2461296",
             "latitude": "52.8455492",
             "limit": [],
-            "datum": "14.07.2025",
+            "datum": [],
             "alternative": [
                 {
                     "latitude": "52.4103105",
@@ -544,7 +544,7 @@
             "anzahl": 5
         },
         "quota": {
-            "verwendet": "69104"
+            "verwendet": "72782"
         },
         "apotheken": {
             "apotheke": [
