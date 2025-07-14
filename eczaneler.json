@@ -661,14 +661,6 @@
       "mesafe": "14.3 km"
     },
     {
-      "eczaneAdi": "Apotheke am famila",
-      "adres": "Markt 5, 27777 Ganderkesee",
-      "telefon": "+49 4222 9473270",
-      "enlem": "53.03462",
-      "boylam": "8.54525",
-      "mesafe": "15.8 km"
-    },
-    {
       "eczaneAdi": "Waldecksche Apotheke",
       "adres": "Bremer Str. 7, 28816 Stuhr",
       "telefon": "+49 421 895809",
@@ -737,28 +729,44 @@
       "mesafe": "13.0 km"
     },
     {
-      "eczaneAdi": "Apotheke zum Klostersee",
-      "adres": "Schloßstr. 60, 17159 Dargun",
-      "telefon": "+49 39959 20372",
-      "enlem": "53.8972319",
-      "boylam": "12.8547925",
-      "mesafe": "23.0 km"
-    },
-    {
-      "eczaneAdi": "Fritz-Reuter-Apotheke",
-      "adres": "Am Markt 16, 17153 Reuterstadt Stavenhagen",
-      "telefon": "+49 39954 21082",
-      "enlem": "53.6957432",
-      "boylam": "12.9085263",
-      "mesafe": "23.6 km"
-    },
-    {
       "eczaneAdi": "Rats-Apotheke",
       "adres": "Markt 24, 18273 Güstrow",
       "telefon": "+49 3843 682030",
       "enlem": "53.7928243",
       "boylam": "12.1760016",
       "mesafe": "26.4 km"
+    },
+    {
+      "eczaneAdi": "Kranich-Apotheke",
+      "adres": "Hans-Beimler-Str. 42 b, 17192 Waren",
+      "telefon": "+49 3991 17570",
+      "enlem": "53.5206875",
+      "boylam": "12.6605961",
+      "mesafe": "28.7 km"
+    },
+    {
+      "eczaneAdi": "Pommern-Apotheke",
+      "adres": "Adolf-Pompe-Str. 24, 17109 Demmin",
+      "telefon": "+49 3998 362366",
+      "enlem": "53.90266",
+      "boylam": "13.04724",
+      "mesafe": "34.2 km"
+    },
+    {
+      "eczaneAdi": "Hopfenmarkt-Apotheke",
+      "adres": "Rostocker Heide 2, 18055 Rostock",
+      "telefon": "+49 381 4909434",
+      "enlem": "54.0877949",
+      "boylam": "12.1373181",
+      "mesafe": "45.3 km"
+    },
+    {
+      "eczaneAdi": "Rosen-Apotheke",
+      "adres": "Carl-v.-Ossietzky-Str. 1 c, 18507 Grimmen",
+      "telefon": "+49 38326 80264",
+      "enlem": "54.10639",
+      "boylam": "13.04246",
+      "mesafe": "48.1 km"
     }
   ],
   "Niedersachsen": [
@@ -861,7 +869,88 @@
       "mesafe": "48.1 km"
     }
   ],
-  "Saarland": [],
+  "Saarland": [
+    {
+      "eczaneAdi": "Bahnhof-Apotheke",
+      "adres": "Am Bahnhof 8, 66822 Lebach",
+      "telefon": "06881/2838",
+      "enlem": "49.4085189",
+      "boylam": "6.9092216",
+      "mesafe": "4.2 km"
+    },
+    {
+      "eczaneAdi": "Hubertus-Apotheke",
+      "adres": "Bahnhofstraße 18, 66589 Merchweiler-Wemmetsweiler",
+      "telefon": "06825/2573",
+      "enlem": "49.37125",
+      "boylam": "7.08594",
+      "mesafe": "9.7 km"
+    },
+    {
+      "eczaneAdi": "Rathaus-Apotheke",
+      "adres": "Pickardstraße 2, 66346 Püttlingen",
+      "telefon": "06898/67171",
+      "enlem": "49.2882491",
+      "boylam": "6.8835833",
+      "mesafe": "11.8 km"
+    },
+    {
+      "eczaneAdi": "Saar-Apotheke",
+      "adres": "Lothringer Str. 1, 66740 Saarlouis",
+      "telefon": "06831/41051",
+      "enlem": "49.3133988",
+      "boylam": "6.7528617",
+      "mesafe": "16.6 km"
+    },
+    {
+      "eczaneAdi": "Linden-Apotheke",
+      "adres": "Kirchstraße 3a, 66606 St. Wendel-Bliesen",
+      "telefon": "06854/76911",
+      "enlem": "49.4943223",
+      "boylam": "7.1133781",
+      "mesafe": "16.9 km"
+    },
+    {
+      "eczaneAdi": "Tal-Apotheke",
+      "adres": "Honzratherstr. 69, 66701 Beckingen-Honzrath",
+      "telefon": "06835/93351",
+      "enlem": "49.4282972",
+      "boylam": "6.7304882",
+      "mesafe": "16.9 km"
+    },
+    {
+      "eczaneAdi": "Neue-Apotheke",
+      "adres": "Kräwigstr. 2 - 6, 66687 Wadern",
+      "telefon": "06871/3081",
+      "enlem": "49.5378094",
+      "boylam": "6.8893738",
+      "mesafe": "17.7 km"
+    },
+    {
+      "eczaneAdi": "Johannis-Apotheke",
+      "adres": "Obere Kaiserstraße 113, 66386 St. Ingbert-Rohrbach",
+      "telefon": "06894/53500",
+      "enlem": "49.2835187",
+      "boylam": "7.1601412",
+      "mesafe": "18.7 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Bübinger Markt",
+      "adres": "Saargemünder Str. 133 a, 66129 Saarbrücken-Bübingen",
+      "telefon": "06805/2986",
+      "enlem": "49.18175",
+      "boylam": "7.0389901",
+      "mesafe": "23.4 km"
+    },
+    {
+      "eczaneAdi": "Saargau-Apotheke",
+      "adres": "Fitter Str. 1, 66663 Merzig-Hilbringen",
+      "telefon": "+49 6861 74944",
+      "enlem": "49.44111",
+      "boylam": "6.6145",
+      "mesafe": "25.4 km"
+    }
+  ],
   "Sachsen": [
     {
       "eczaneAdi": "Gimmlitz-Apotheke",
