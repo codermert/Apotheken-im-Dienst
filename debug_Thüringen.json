@@ -37,27 +37,46 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "40677"
+            "verwendet": "41739"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Stadtpark-Apotheke",
+                    "name": "EGA-Apotheke",
                     "kammer": "lakt",
-                    "id": "13",
-                    "apo_id": "lakt13",
-                    "strasse": "Schillerstraße 25",
-                    "plz": "99096",
+                    "id": "649",
+                    "apo_id": "lakt649",
+                    "strasse": "Gothaer Straße 22",
+                    "plz": "99094",
                     "ort": "Erfurt",
-                    "distanz": "7.38124570357",
-                    "longitude": "11.0312432",
-                    "latitude": "50.9676933",
-                    "telefon": "+49 361 74733749",
+                    "distanz": "7.5742521412",
+                    "longitude": "10.9857271",
+                    "latitude": "50.9610823",
+                    "telefon": "+49 361 7893490",
                     "fax": [],
                     "email": [],
-                    "startdatum": "14.07.2025",
+                    "startdatum": "15.07.2025",
                     "startzeit": "09:00",
-                    "enddatum": "15.07.2025",
+                    "enddatum": "16.07.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Germania-Apotheke",
+                    "kammer": "lakt",
+                    "id": "3929",
+                    "apo_id": "lakt3929",
+                    "strasse": "Thälmannstraße 25",
+                    "plz": "99085",
+                    "ort": "Erfurt",
+                    "distanz": "8.649941977360001",
+                    "longitude": "11.04247",
+                    "latitude": "50.97917",
+                    "telefon": "+49 361 5623214",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "15.07.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "16.07.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "16.07.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Luther-Apotheke",
-                    "kammer": "lakt",
-                    "id": "481",
-                    "apo_id": "lakt481",
-                    "strasse": "Ammertalweg 15",
-                    "plz": "99086",
-                    "ort": "Erfurt",
-                    "distanz": "10.609739457929999",
-                    "longitude": "11.0289565",
-                    "latitude": "50.9966797",
-                    "telefon": "+49 361 7456176",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "14.07.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "15.07.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Liszt-Apotheke",
