@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 13
+            "anzahl": 15
         },
         "quota": {
-            "verwendet": "38126"
+            "verwendet": "40509"
         },
         "apotheken": {
             "apotheke": [
@@ -112,25 +112,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Hirsch-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1069",
-                    "apo_id": "aknds1069",
-                    "strasse": "Große Str. 32",
-                    "plz": "27239",
-                    "ort": "Twistringen",
-                    "distanz": "29.82473494903",
-                    "longitude": "8.6385506",
-                    "latitude": "52.7997329",
-                    "telefon": "+49 4243 92980",
-                    "fax": "+49 4243 929820",
-                    "email": [],
-                    "startdatum": "14.07.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "15.07.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Oranien-Apotheke",
                     "kammer": "akbr",
                     "id": "10129",
@@ -167,6 +148,25 @@
                     "startzeit": "09:00",
                     "enddatum": "15.07.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Linden-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1794",
+                    "apo_id": "aknds1794",
+                    "strasse": "Lange Straße 13",
+                    "plz": "27243",
+                    "ort": "Harpstedt",
+                    "distanz": "33.772269761770005",
+                    "longitude": "8.5873073",
+                    "latitude": "52.9082947",
+                    "telefon": "+49 4244 95144",
+                    "fax": "+49 4244 95146",
+                    "email": [],
+                    "startdatum": "15.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "16.07.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Löns-Apotheke",
@@ -226,22 +226,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Pelikan-Apotheke im Deichhorst-Center",
+                    "name": "Pluspunkt Apotheke Delmenhorst",
                     "kammer": "aknds",
-                    "id": "2714",
-                    "apo_id": "aknds2714",
-                    "strasse": "Hannah-Arendt-Str. 7",
-                    "plz": "27753",
+                    "id": "1669",
+                    "apo_id": "aknds1669",
+                    "strasse": "Lange Str. 108",
+                    "plz": "27749",
                     "ort": "Delmenhorst",
-                    "distanz": "39.345136562369994",
-                    "longitude": "8.5950774",
-                    "latitude": "53.0413565",
-                    "telefon": "+49 4221 7806801",
-                    "fax": "+49 4221 7806802",
+                    "distanz": "37.990671652290004",
+                    "longitude": "8.6292516",
+                    "latitude": "53.0489636",
+                    "telefon": "+49 4221 151514",
+                    "fax": "+49 4221 151515",
                     "email": [],
-                    "startdatum": "14.07.2025",
+                    "startdatum": "15.07.2025",
                     "startzeit": "08:30",
-                    "enddatum": "15.07.2025",
+                    "enddatum": "16.07.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -264,6 +264,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Königs-Apotheke",
+                    "kammer": "aknds",
+                    "id": "952",
+                    "apo_id": "aknds952",
+                    "strasse": "Königsberger Str. 43",
+                    "plz": "31535",
+                    "ort": "Neustadt am Rübenberge",
+                    "distanz": "44.5150704332",
+                    "longitude": "9.4498306",
+                    "latitude": "52.5106419",
+                    "telefon": "+49 5032 894517",
+                    "fax": "+49 5032 894518",
+                    "email": [],
+                    "startdatum": "15.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "16.07.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Meyerhof-Apotheke",
                     "kammer": "aknds",
                     "id": "1402",
@@ -281,6 +300,25 @@
                     "startzeit": "08:00",
                     "enddatum": "16.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke Bookholzberg",
+                    "kammer": "aknds",
+                    "id": "1752",
+                    "apo_id": "aknds1752",
+                    "strasse": "Stedinger Str. 63",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "46.43552509672",
+                    "longitude": "8.530713",
+                    "latitude": "53.0962681",
+                    "telefon": "+49 4223 3070",
+                    "fax": "+49 4223 1332",
+                    "email": [],
+                    "startdatum": "15.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "15.07.2025",
+                    "endzeit": "20:00"
                 }
             ]
         }
