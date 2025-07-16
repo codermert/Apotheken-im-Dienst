@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 4
+            "anzahl": 7
         },
         "quota": {
-            "verwendet": "20868"
+            "verwendet": "21732"
         },
         "apotheken": {
             "apotheke": [
@@ -53,6 +53,25 @@
                     "startzeit": "09:00",
                     "enddatum": "16.07.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Linden-Apotheke",
+                    "kammer": "aknds",
+                    "id": "581",
+                    "apo_id": "aknds581",
+                    "strasse": "Bahnhofstr. 32",
+                    "plz": "27324",
+                    "ort": "Eystrup",
+                    "distanz": "11.69217346801",
+                    "longitude": "9.2184781",
+                    "latitude": "52.7800073",
+                    "telefon": "+49 4254 8360",
+                    "fax": "+49 4254 2326",
+                    "email": [],
+                    "startdatum": "16.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "17.07.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Brunsviga-Apotheke",
@@ -93,6 +112,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Uhlen Apotheke",
+                    "kammer": "aknds",
+                    "id": "941",
+                    "apo_id": "aknds941",
+                    "strasse": "Rathausstr. 2",
+                    "plz": "31608",
+                    "ort": "Marklohe",
+                    "distanz": "20.764561643180002",
+                    "longitude": "9.1586733",
+                    "latitude": "52.6601345",
+                    "telefon": "+49 5021 15025",
+                    "fax": "+49 5021 910838",
+                    "email": [],
+                    "startdatum": "16.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "17.07.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Apotheke 55 im Rudolf-Virchow-Haus",
                     "kammer": "aknds",
                     "id": "1096",
@@ -110,6 +148,25 @@
                     "startzeit": "09:00",
                     "enddatum": "16.07.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Bären-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1060",
+                    "apo_id": "aknds1060",
+                    "strasse": "Lange Str. 13",
+                    "plz": "27232",
+                    "ort": "Sulingen",
+                    "distanz": "25.044733911719998",
+                    "longitude": "8.81042",
+                    "latitude": "52.6826842",
+                    "telefon": "+49 4271 3475",
+                    "fax": "+49 4271 6754",
+                    "email": [],
+                    "startdatum": "16.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "17.07.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }

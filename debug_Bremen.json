@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "20762"
+            "verwendet": "21618"
         },
         "apotheken": {
             "apotheke": [
@@ -1384,6 +1384,25 @@
                     "startzeit": "09:00",
                     "enddatum": "16.07.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Anker-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1700",
+                    "apo_id": "aknds1700",
+                    "strasse": "Steinstr. 25",
+                    "plz": "26931",
+                    "ort": "Elsfleth",
+                    "distanz": "18.49621829229",
+                    "longitude": "8.4612494",
+                    "latitude": "53.2354695",
+                    "telefon": "+49 4404 2189",
+                    "fax": "+49 4404 1725",
+                    "email": [],
+                    "startdatum": "16.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "17.07.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Apotheke 55 im Rudolf-Virchow-Haus",
