@@ -1267,7 +1267,7 @@
             "anzahl": 10
         },
         "quota": {
-            "verwendet": "21618"
+            "verwendet": "23852"
         },
         "apotheken": {
             "apotheke": [
@@ -1289,25 +1289,6 @@
                     "startzeit": "09:00",
                     "enddatum": "16.07.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Pluspunkt Apotheke Delmenhorst",
-                    "kammer": "aknds",
-                    "id": "1669",
-                    "apo_id": "aknds1669",
-                    "strasse": "Lange Str. 108",
-                    "plz": "27749",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.501539801749999",
-                    "longitude": "8.6292516",
-                    "latitude": "53.0489636",
-                    "telefon": "+49 4221 151514",
-                    "fax": "+49 4221 151515",
-                    "email": [],
-                    "startdatum": "15.07.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "16.07.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Malteser-Apotheke",
@@ -1348,6 +1329,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Polaris-Apotheke-Hasport",
+                    "kammer": "aknds",
+                    "id": "6902",
+                    "apo_id": "aknds6902",
+                    "strasse": "Hasporter Damm 166",
+                    "plz": "27755",
+                    "ort": "Delmenhorst",
+                    "distanz": "12.727373871760001",
+                    "longitude": "8.6511508",
+                    "latitude": "53.0333463",
+                    "telefon": "+49 4221 2927078",
+                    "fax": "+49 4221 2926171",
+                    "email": [],
+                    "startdatum": "16.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "17.07.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Kaisen Apotheke",
                     "kammer": "akbr",
                     "id": "10092",
@@ -1384,6 +1384,25 @@
                     "startzeit": "09:00",
                     "enddatum": "16.07.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Flores-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1817",
+                    "apo_id": "aknds1817",
+                    "strasse": "Parkstr. 47",
+                    "plz": "27798",
+                    "ort": "Hude",
+                    "distanz": "16.22079185705",
+                    "longitude": "8.4566718",
+                    "latitude": "53.1132591",
+                    "telefon": "+49 4408 6363",
+                    "fax": "+49 4408 970631",
+                    "email": [],
+                    "startdatum": "16.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "16.07.2025",
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Anker-Apotheke",
@@ -1441,25 +1460,6 @@
                     "startzeit": "09:00",
                     "enddatum": "16.07.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Linden-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1794",
-                    "apo_id": "aknds1794",
-                    "strasse": "Lange Straße 13",
-                    "plz": "27243",
-                    "ort": "Harpstedt",
-                    "distanz": "27.27003655484",
-                    "longitude": "8.5873073",
-                    "latitude": "52.9082947",
-                    "telefon": "+49 4244 95144",
-                    "fax": "+49 4244 95146",
-                    "email": [],
-                    "startdatum": "15.07.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "16.07.2025",
-                    "endzeit": "08:30"
                 }
             ]
         }
