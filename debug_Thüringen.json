@@ -37,46 +37,27 @@
             "anzahl": 8
         },
         "quota": {
-            "verwendet": "16964"
+            "verwendet": "17851"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Ginkgo-Apotheke",
+                    "name": "Neue MARIEN APOTHEKE im Facharztzentrum Angerbrunnen",
                     "kammer": "lakt",
-                    "id": "626",
-                    "apo_id": "lakt626",
-                    "strasse": "Schillerstraße 43",
-                    "plz": "99096",
-                    "ort": "Erfurt",
-                    "distanz": "7.2903344601199995",
-                    "longitude": "11.0260411",
-                    "latitude": "50.9665835",
-                    "telefon": "+49 361 6021702",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "16.07.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "17.07.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Bahnhof-Apotheke",
-                    "kammer": "lakt",
-                    "id": "5",
-                    "apo_id": "lakt5",
-                    "strasse": "Bahnhofstraße 40",
+                    "id": "480",
+                    "apo_id": "lakt480",
+                    "strasse": "Neuwerkstr. 51/Regierungsstr. 3",
                     "plz": "99084",
                     "ort": "Erfurt",
-                    "distanz": "8.15849796899",
-                    "longitude": "11.0350444",
-                    "latitude": "50.9747884",
-                    "telefon": "+49 361 555410",
+                    "distanz": "8.12249611308",
+                    "longitude": "11.0302266",
+                    "latitude": "50.9743289",
+                    "telefon": "+49 361 6442674",
                     "fax": [],
                     "email": [],
-                    "startdatum": "16.07.2025",
+                    "startdatum": "17.07.2025",
                     "startzeit": "09:00",
-                    "enddatum": "17.07.2025",
+                    "enddatum": "18.07.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -97,6 +78,25 @@
                     "startzeit": "08:00",
                     "enddatum": "18.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Bären-Apotheke",
+                    "kammer": "lakt",
+                    "id": "113",
+                    "apo_id": "lakt113",
+                    "strasse": "Erfurter Landstraße 86",
+                    "plz": "99095",
+                    "ort": "Erfurt, OT Stotternheim",
+                    "distanz": "16.80725542248",
+                    "longitude": "11.0433921",
+                    "latitude": "51.05251",
+                    "telefon": "+49 36204 52033",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "17.07.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "18.07.2025",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Apotheke Remda",

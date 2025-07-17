@@ -28,49 +28,68 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "16876"
+            "verwendet": "17754"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Raths-Apotheke am Dom",
+                    "name": "Central-Apotheke",
                     "kammer": "aknds",
-                    "id": "1488",
-                    "apo_id": "aknds1488",
-                    "strasse": "Lugenstein 4",
-                    "plz": "27283",
-                    "ort": "Verden",
-                    "distanz": "13.4507623487",
-                    "longitude": "9.2289552",
-                    "latitude": "52.9175845",
-                    "telefon": "+49 4231 2654",
-                    "fax": "+49 4231 2688",
+                    "id": "1243",
+                    "apo_id": "aknds1243",
+                    "strasse": "Große Str. 61",
+                    "plz": "27313",
+                    "ort": "Dörverden",
+                    "distanz": "10.4368325965",
+                    "longitude": "9.2302053",
+                    "latitude": "52.8484675",
+                    "telefon": "+49 4234 1308",
+                    "fax": "+49 4234 943405",
                     "email": [],
-                    "startdatum": "16.07.2025",
+                    "startdatum": "17.07.2025",
                     "startzeit": "09:00",
-                    "enddatum": "17.07.2025",
+                    "enddatum": "18.07.2025",
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Hansa-Apotheke",
+                    "name": "Rieder Apotheke",
                     "kammer": "aknds",
-                    "id": "1117",
-                    "apo_id": "aknds1117",
-                    "strasse": "Meislahnstr. 2",
-                    "plz": "28832",
-                    "ort": "Achim",
-                    "distanz": "18.88471847142",
-                    "longitude": "9.0426248",
-                    "latitude": "53.00835",
-                    "telefon": "+49 4202 4900",
-                    "fax": "+49 4202 83347",
+                    "id": "1548",
+                    "apo_id": "aknds1548",
+                    "strasse": "Dorfstr. 45",
+                    "plz": "27339",
+                    "ort": "Riede",
+                    "distanz": "16.93836242527",
+                    "longitude": "8.9388791",
+                    "latitude": "52.9675139",
+                    "telefon": "+49 4294 795858",
+                    "fax": "+49 4294 795859",
                     "email": [],
-                    "startdatum": "16.07.2025",
+                    "startdatum": "17.07.2025",
                     "startzeit": "09:00",
-                    "enddatum": "17.07.2025",
+                    "enddatum": "18.07.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Rats-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1066",
+                    "apo_id": "aknds1066",
+                    "strasse": "Herrlichkeit 12",
+                    "plz": "28857",
+                    "ort": "Syke",
+                    "distanz": "18.64159821497",
+                    "longitude": "8.8279949",
+                    "latitude": "52.9143802",
+                    "telefon": "+49 4242 2001",
+                    "fax": "+49 4242 2002",
+                    "email": [],
+                    "startdatum": "17.07.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "18.07.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -93,25 +112,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Niedersachsen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1094",
-                    "apo_id": "aknds1094",
-                    "strasse": "Bahnhofstr. 56",
-                    "plz": "28844",
-                    "ort": "Weyhe",
-                    "distanz": "21.722384228859998",
-                    "longitude": "8.8584782",
-                    "latitude": "52.9841328",
-                    "telefon": "+49 4203 81620",
-                    "fax": "+49 4203 816222",
-                    "email": [],
-                    "startdatum": "16.07.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "17.07.2025",
-                    "endzeit": "09:00"
-                },
-                {
                     "name": "Apotheke am Goetheplatz",
                     "kammer": "aknds",
                     "id": "961",
@@ -129,6 +129,25 @@
                     "startzeit": "08:00",
                     "enddatum": "18.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke bei Dodenhof",
+                    "kammer": "aknds",
+                    "id": "2701",
+                    "apo_id": "aknds2701",
+                    "strasse": "Posthausen 1",
+                    "plz": "28870",
+                    "ort": "Ottersberg",
+                    "distanz": "25.365282849390002",
+                    "longitude": "9.1708141",
+                    "latitude": "53.0604662",
+                    "telefon": "+49 4297 816816",
+                    "fax": "+49 4297 816818",
+                    "email": [],
+                    "startdatum": "17.07.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "18.07.2025",
+                    "endzeit": "09:00"
                 }
             ]
         }
