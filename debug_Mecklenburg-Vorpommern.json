@@ -28,32 +28,13 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 4
         },
         "quota": {
-            "verwendet": "47993"
+            "verwendet": "50042"
         },
         "apotheken": {
             "apotheke": [
-                {
-                    "name": "Apotheke am Park",
-                    "kammer": "akmv",
-                    "id": "177210",
-                    "apo_id": "akmv177210",
-                    "strasse": "Zu den Wiesen 9",
-                    "plz": "18279",
-                    "ort": "Lalendorf",
-                    "distanz": "12.7158404106",
-                    "longitude": "12.38463",
-                    "latitude": "53.75746",
-                    "telefon": "+49 38452 20592",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "17.07.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "17.07.2025",
-                    "endzeit": "19:00"
-                },
                 {
                     "name": "Rats-Apotheke",
                     "kammer": "akmv",
@@ -110,25 +91,6 @@
                     "startzeit": "18:00",
                     "enddatum": "17.07.2025",
                     "endzeit": "20:00"
-                },
-                {
-                    "name": "Rats-Apotheke",
-                    "kammer": "akmv",
-                    "id": "172926",
-                    "apo_id": "akmv172926",
-                    "strasse": "Lange Str. 14",
-                    "plz": "18292",
-                    "ort": "Krakow a. See",
-                    "distanz": "24.2751057582",
-                    "longitude": "12.2689391",
-                    "latitude": "53.6531425",
-                    "telefon": "+49 38457 22322",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "17.07.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "17.07.2025",
-                    "endzeit": "19:00"
                 },
                 {
                     "name": "Südstadt-Apotheke",
