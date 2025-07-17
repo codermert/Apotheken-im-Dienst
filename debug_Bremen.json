@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "15652"
+            "verwendet": "16845"
         },
         "apotheken": {
             "apotheke": [
@@ -1329,23 +1329,42 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Polaris-Apotheke-Hasport",
+                    "name": "Apotheke im Zurbrüggen-Zentrum",
                     "kammer": "aknds",
-                    "id": "6902",
-                    "apo_id": "aknds6902",
-                    "strasse": "Hasporter Damm 166",
+                    "id": "5610",
+                    "apo_id": "aknds5610",
+                    "strasse": "Seestr. 5",
                     "plz": "27755",
                     "ort": "Delmenhorst",
-                    "distanz": "12.727373871760001",
-                    "longitude": "8.6511508",
-                    "latitude": "53.0333463",
-                    "telefon": "+49 4221 2927078",
-                    "fax": "+49 4221 2926171",
+                    "distanz": "12.902705588209999",
+                    "longitude": "8.66095",
+                    "latitude": "53.03057",
+                    "telefon": "+49 4221 6893551",
+                    "fax": "+49 4221 6893545",
                     "email": [],
-                    "startdatum": "16.07.2025",
+                    "startdatum": "17.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "18.07.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Ring-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1749",
+                    "apo_id": "aknds1749",
+                    "strasse": "Ring 26",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.89569036873",
+                    "longitude": "8.5473054",
+                    "latitude": "53.03225",
+                    "telefon": "+49 4222 950288",
+                    "fax": "+49 4222 950290",
+                    "email": [],
+                    "startdatum": "17.07.2025",
                     "startzeit": "08:30",
                     "enddatum": "17.07.2025",
-                    "endzeit": "08:30"
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Hemberg Apotheke",

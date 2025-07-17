@@ -3194,7 +3194,7 @@
             "anzahl": 16
         },
         "quota": {
-            "verwendet": "15600"
+            "verwendet": "16803"
         },
         "apotheken": {
             "apotheke": [
@@ -3408,25 +3408,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Rathaus Apotheke Hittfeld",
-                    "kammer": "aknds",
-                    "id": "6069",
-                    "apo_id": "aknds6069",
-                    "strasse": "Kirchstraße 3",
-                    "plz": "21218",
-                    "ort": "Seevetal",
-                    "distanz": "18.48701084197",
-                    "longitude": "9.97957",
-                    "latitude": "53.38471",
-                    "telefon": "+49 4105 6678095",
-                    "fax": "+49 4105 6678096",
-                    "email": [],
-                    "startdatum": "16.07.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "17.07.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Erlen-Apotheke",
                     "kammer": "aksh",
                     "id": "10602",
@@ -3482,6 +3463,25 @@
                     "startzeit": "08:00",
                     "enddatum": "18.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Alte Rats-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1507",
+                    "apo_id": "aknds1507",
+                    "strasse": "Rathausstr. 22",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "24.94546823474",
+                    "longitude": "10.2075161",
+                    "latitude": "53.3632732",
+                    "telefon": "+49 4171 2206",
+                    "fax": "+49 4171 4436",
+                    "email": [],
+                    "startdatum": "17.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "18.07.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Apotheke Lütjensee",

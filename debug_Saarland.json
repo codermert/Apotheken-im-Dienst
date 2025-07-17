@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 11
+            "anzahl": 12
         },
         "quota": {
-            "verwendet": "15736"
+            "verwendet": "16907"
         },
         "apotheken": {
             "apotheke": [
@@ -205,6 +205,25 @@
                     "startzeit": "08:00",
                     "enddatum": "18.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Saarpfalz-Apotheke",
+                    "kammer": "lakrlp",
+                    "id": "22034",
+                    "apo_id": "lakrlp22034",
+                    "strasse": "Lautenbacherstraße 2",
+                    "plz": "66916",
+                    "ort": "Breitenbach",
+                    "distanz": "23.737272163649997",
+                    "longitude": "7.2717265",
+                    "latitude": "49.4341897",
+                    "telefon": "+49 6386 6996",
+                    "fax": "+49 6386 7848",
+                    "email": [],
+                    "startdatum": "17.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "18.07.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "St. Oranna-Apotheke",
