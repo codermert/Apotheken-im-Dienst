@@ -37,27 +37,46 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "25308"
+            "verwendet": "27140"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Neue MARIEN APOTHEKE im Facharztzentrum Angerbrunnen",
+                    "name": "Apotheke im Hauptbahnhof",
                     "kammer": "lakt",
-                    "id": "480",
-                    "apo_id": "lakt480",
-                    "strasse": "Neuwerkstr. 51/Regierungsstr. 3",
+                    "id": "781",
+                    "apo_id": "lakt781",
+                    "strasse": "Willy-Brandt-Platz 12",
                     "plz": "99084",
                     "ort": "Erfurt",
-                    "distanz": "8.12249611308",
-                    "longitude": "11.0302266",
-                    "latitude": "50.9743289",
-                    "telefon": "+49 361 6442674",
+                    "distanz": "7.87878553959",
+                    "longitude": "11.0381159",
+                    "latitude": "50.9722942",
+                    "telefon": "+49 361 3453519",
                     "fax": [],
                     "email": [],
-                    "startdatum": "17.07.2025",
+                    "startdatum": "18.07.2025",
                     "startzeit": "09:00",
-                    "enddatum": "18.07.2025",
+                    "enddatum": "19.07.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Linderbach-Apotheke",
+                    "kammer": "lakt",
+                    "id": "631",
+                    "apo_id": "lakt631",
+                    "strasse": "Weimarische Str. 117",
+                    "plz": "99098",
+                    "ort": "Erfurt-Linderbach",
+                    "distanz": "9.56832827235",
+                    "longitude": "11.1057169",
+                    "latitude": "50.9760061",
+                    "telefon": "+49 361 6539150",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.07.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.07.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "19.07.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Bären-Apotheke",
-                    "kammer": "lakt",
-                    "id": "113",
-                    "apo_id": "lakt113",
-                    "strasse": "Erfurter Landstraße 86",
-                    "plz": "99095",
-                    "ort": "Erfurt, OT Stotternheim",
-                    "distanz": "16.80725542248",
-                    "longitude": "11.0433921",
-                    "latitude": "51.05251",
-                    "telefon": "+49 36204 52033",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "17.07.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "18.07.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Klosterberg-Apotheke",
