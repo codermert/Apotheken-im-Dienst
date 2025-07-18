@@ -1267,7 +1267,7 @@
             "anzahl": 9
         },
         "quota": {
-            "verwendet": "22022"
+            "verwendet": "22537"
         },
         "apotheken": {
             "apotheke": [
@@ -1386,6 +1386,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Sonnen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1632",
+                    "apo_id": "aknds1632",
+                    "strasse": "Breite Str. 56",
+                    "plz": "26919",
+                    "ort": "Brake",
+                    "distanz": "24.75118083984",
+                    "longitude": "8.4790649",
+                    "latitude": "53.326394",
+                    "telefon": "+49 4401 4485",
+                    "fax": "+49 4401 5668",
+                    "email": [],
+                    "startdatum": "18.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "19.07.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Rieder Apotheke",
                     "kammer": "aknds",
                     "id": "1548",
@@ -1422,25 +1441,6 @@
                     "startzeit": "09:00",
                     "enddatum": "18.07.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Geest-Apotheke",
-                    "kammer": "aknds",
-                    "id": "2286",
-                    "apo_id": "aknds2286",
-                    "strasse": "Hauptstr. 20",
-                    "plz": "27801",
-                    "ort": "Dötlingen",
-                    "distanz": "27.3859458544",
-                    "longitude": "8.3978022",
-                    "latitude": "52.9749282",
-                    "telefon": "+49 4432 94233",
-                    "fax": "+49 4432 94234",
-                    "email": [],
-                    "startdatum": "17.07.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "18.07.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }
