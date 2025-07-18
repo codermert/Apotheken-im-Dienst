@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 11
         },
         "quota": {
-            "verwendet": "22537"
+            "verwendet": "25087"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,6 +1310,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Rosen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1676",
+                    "apo_id": "aknds1676",
+                    "strasse": "Cramerstr. 15",
+                    "plz": "27749",
+                    "ort": "Delmenhorst",
+                    "distanz": "11.49851462493",
+                    "longitude": "8.6348904",
+                    "latitude": "53.0476985",
+                    "telefon": "+49 4221 93590",
+                    "fax": "+49 4221 935935",
+                    "email": [],
+                    "startdatum": "18.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "19.07.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Ostertor-Apotheke",
                     "kammer": "akbr",
                     "id": "10132",
@@ -1327,25 +1346,6 @@
                     "startzeit": "09:00",
                     "enddatum": "18.07.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Apotheke im Zurbrüggen-Zentrum",
-                    "kammer": "aknds",
-                    "id": "5610",
-                    "apo_id": "aknds5610",
-                    "strasse": "Seestr. 5",
-                    "plz": "27755",
-                    "ort": "Delmenhorst",
-                    "distanz": "12.902705588209999",
-                    "longitude": "8.66095",
-                    "latitude": "53.03057",
-                    "telefon": "+49 4221 6893551",
-                    "fax": "+49 4221 6893545",
-                    "email": [],
-                    "startdatum": "17.07.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "18.07.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Alte Apotheke",
@@ -1386,6 +1386,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Alte Raben Apotheke",
+                    "kammer": "aknds",
+                    "id": "1815",
+                    "apo_id": "aknds1815",
+                    "strasse": "Parkstr. 12",
+                    "plz": "27798",
+                    "ort": "Hude",
+                    "distanz": "16.03848971665",
+                    "longitude": "8.4602241",
+                    "latitude": "53.1112996",
+                    "telefon": "+49 4408 321",
+                    "fax": "+49 4408 60121",
+                    "email": [],
+                    "startdatum": "18.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "18.07.2025",
+                    "endzeit": "20:00"
+                },
+                {
                     "name": "Sonnen-Apotheke",
                     "kammer": "aknds",
                     "id": "1632",
@@ -1422,6 +1441,25 @@
                     "startzeit": "09:00",
                     "enddatum": "18.07.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Mühlen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1795",
+                    "apo_id": "aknds1795",
+                    "strasse": "Burgstr. 17",
+                    "plz": "27243",
+                    "ort": "Harpstedt",
+                    "distanz": "27.171589531869998",
+                    "longitude": "8.5871724",
+                    "latitude": "52.909233",
+                    "telefon": "+49 4244 93530",
+                    "fax": "+49 4244 935353",
+                    "email": [],
+                    "startdatum": "18.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "19.07.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Rats-Apotheke",
