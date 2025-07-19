@@ -12,7 +12,7 @@
             "lat": "",
             "lng": "",
             "plzort": "Bayern",
-            "radius": 45,
+            "radius": 65,
             "street": ""
         },
         "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
@@ -21,17 +21,17 @@
         "parameter": {
             "plzort": "Bayern",
             "strasse": [],
-            "radius": "45.0",
+            "radius": "65.0",
             "longitude": "11.4038717",
             "latitude": "48.946756199999996",
             "limit": [],
             "datum": []
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 13
         },
         "quota": {
-            "verwendet": "270693"
+            "verwendet": "272516"
         },
         "apotheken": {
             "apotheke": [
@@ -200,6 +200,82 @@
                     "latitude": "48.98145",
                     "telefon": "+49 941 97897",
                     "fax": "+49 941 998326",
+                    "email": [],
+                    "startdatum": "19.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "20.07.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Sonnen-Apotheke",
+                    "kammer": "blak",
+                    "id": "4319",
+                    "apo_id": "blak4319",
+                    "strasse": "Pfaffenhofenerstr. 6",
+                    "plz": "84072",
+                    "ort": "Au / Hallertau",
+                    "distanz": "49.619725146819995",
+                    "longitude": "11.7358073",
+                    "latitude": "48.558272",
+                    "telefon": "+49 8752 8690000",
+                    "fax": "+49 8752 86900015",
+                    "email": [],
+                    "startdatum": "19.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "20.07.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Flora-Apotheke",
+                    "kammer": "blak",
+                    "id": "3280",
+                    "apo_id": "blak3280",
+                    "strasse": "Prüfeninger Str. 7",
+                    "plz": "93049",
+                    "ort": "Regensburg",
+                    "distanz": "50.28916214619",
+                    "longitude": "12.0822999",
+                    "latitude": "49.0181145",
+                    "telefon": "+49 941 28289",
+                    "fax": "+49 941 299311",
+                    "email": [],
+                    "startdatum": "19.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "20.07.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Engel-Apotheke",
+                    "kammer": "blak",
+                    "id": "1823",
+                    "apo_id": "blak1823",
+                    "strasse": "Buehringer Str. 12",
+                    "plz": "91710",
+                    "ort": "Gunzenhausen",
+                    "distanz": "50.8860671944",
+                    "longitude": "10.7563986",
+                    "latitude": "49.1144036",
+                    "telefon": "+49 9831 2379",
+                    "fax": "+49 9831 80807",
+                    "email": [],
+                    "startdatum": "19.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "20.07.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Christophorus-Apotheke",
+                    "kammer": "blak",
+                    "id": "2039",
+                    "apo_id": "blak2039",
+                    "strasse": "Wolkersdorfer Hauptstr. 42",
+                    "plz": "91126",
+                    "ort": "Schwabach",
+                    "distanz": "53.74468637506",
+                    "longitude": "11.0301553",
+                    "latitude": "49.3632387",
+                    "telefon": "+49 911 635538",
+                    "fax": "+49 911 6370139",
                     "email": [],
                     "startdatum": "19.07.2025",
                     "startzeit": "08:30",
