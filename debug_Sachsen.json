@@ -381,7 +381,7 @@
             "anzahl": 19
         },
         "quota": {
-            "verwendet": "111608"
+            "verwendet": "116240"
         },
         "apotheken": {
             "apotheke": [
@@ -671,6 +671,25 @@
                     "endzeit": "18:00"
                 },
                 {
+                    "name": "Spitzgrund-Apotheke",
+                    "kammer": "slak",
+                    "id": "740",
+                    "apo_id": "slak740",
+                    "strasse": "Moritzburger Str. 74",
+                    "plz": "01640",
+                    "ort": "Coswig",
+                    "distanz": "24.97586611562",
+                    "longitude": "13.59041",
+                    "latitude": "51.13811",
+                    "telefon": "+49 3523 62762",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "19.07.2025",
+                    "startzeit": "16:00",
+                    "enddatum": "20.07.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Apotheke im Neustädter Bahnhof",
                     "kammer": "slak",
                     "id": "1287",
@@ -726,25 +745,6 @@
                     "startzeit": "12:00",
                     "enddatum": "19.07.2025",
                     "endzeit": "18:00"
-                },
-                {
-                    "name": "Elbtal-Apotheke",
-                    "kammer": "slak",
-                    "id": "837",
-                    "apo_id": "slak837",
-                    "strasse": "Niederauer Straße 43",
-                    "plz": "01662",
-                    "ort": "Meißen",
-                    "distanz": "26.72724801908",
-                    "longitude": "13.50182",
-                    "latitude": "51.16827",
-                    "telefon": "+49 3521 72030",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "19.07.2025",
-                    "startzeit": "12:00",
-                    "enddatum": "19.07.2025",
-                    "endzeit": "16:00"
                 }
             ]
         }
