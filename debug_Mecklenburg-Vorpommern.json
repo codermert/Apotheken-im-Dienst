@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 11
+            "anzahl": 7
         },
         "quota": {
-            "verwendet": "167248"
+            "verwendet": "171287"
         },
         "apotheken": {
             "apotheke": [
@@ -53,25 +53,6 @@
                     "startzeit": "08:00",
                     "enddatum": "20.07.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Apotheke zum Klostersee",
-                    "kammer": "akmv",
-                    "id": "171923",
-                    "apo_id": "akmv171923",
-                    "strasse": "Schloßstr. 60",
-                    "plz": "17159",
-                    "ort": "Dargun",
-                    "distanz": "22.969634493090002",
-                    "longitude": "12.8547925",
-                    "latitude": "53.8972319",
-                    "telefon": "+49 39959 20372",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "19.07.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "19.07.2025",
-                    "endzeit": "19:00"
                 },
                 {
                     "name": "Apotheke am Wall",
@@ -131,44 +112,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Stadt Apotheke Malchow",
-                    "kammer": "akmv",
-                    "id": "173878",
-                    "apo_id": "akmv173878",
-                    "strasse": "Güstrower Straße 25",
-                    "plz": "17213",
-                    "ort": "Malchow",
-                    "distanz": "34.572889820620006",
-                    "longitude": "12.4256345",
-                    "latitude": "53.4759312",
-                    "telefon": "+49 39932 19373",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "19.07.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "19.07.2025",
-                    "endzeit": "19:00"
-                },
-                {
-                    "name": "Adler-Apotheke",
-                    "kammer": "akmv",
-                    "id": "173198",
-                    "apo_id": "akmv173198",
-                    "strasse": "Markt 8",
-                    "plz": "18258",
-                    "ort": "Schwaan",
-                    "distanz": "35.941774879570005",
-                    "longitude": "12.1068944",
-                    "latitude": "53.9393783",
-                    "telefon": "+49 3844 813696",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "19.07.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "19.07.2025",
-                    "endzeit": "19:00"
-                },
-                {
                     "name": "Rats-Apotheke",
                     "kammer": "akmv",
                     "id": "171311",
@@ -224,25 +167,6 @@
                     "startzeit": "08:00",
                     "enddatum": "20.07.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Alaska-Apotheke",
-                    "kammer": "akmv",
-                    "id": "175204",
-                    "apo_id": "akmv175204",
-                    "strasse": "An der Brücke 1",
-                    "plz": "19386",
-                    "ort": "Lübz",
-                    "distanz": "49.26192615195",
-                    "longitude": "12.0398246",
-                    "latitude": "53.4661651",
-                    "telefon": "+49 38731 5040",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "19.07.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "19.07.2025",
-                    "endzeit": "19:00"
                 }
             ]
         }
