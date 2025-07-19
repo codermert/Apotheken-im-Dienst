@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "129457"
+            "verwendet": "132057"
         },
         "apotheken": {
             "apotheke": [
@@ -53,6 +53,25 @@
                     "startzeit": "08:00",
                     "enddatum": "20.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Fritz-Reuter-Apotheke",
+                    "kammer": "akmv",
+                    "id": "171872",
+                    "apo_id": "akmv171872",
+                    "strasse": "Am Markt 16",
+                    "plz": "17153",
+                    "ort": "Reuterstadt Stavenhagen",
+                    "distanz": "23.617059265250003",
+                    "longitude": "12.9085263",
+                    "latitude": "53.6957432",
+                    "telefon": "+49 39954 21082",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "19.07.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "19.07.2025",
+                    "endzeit": "18:00"
                 },
                 {
                     "name": "Apotheke am Wall",
@@ -112,6 +131,44 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Weiden-Apotheke",
+                    "kammer": "akmv",
+                    "id": "171447",
+                    "apo_id": "akmv171447",
+                    "strasse": "John Brinckmann Str. 10 a",
+                    "plz": "18190",
+                    "ort": "Sanitz",
+                    "distanz": "36.09963410576",
+                    "longitude": "12.37375",
+                    "latitude": "54.07518",
+                    "telefon": "+49 38209 288",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "19.07.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "19.07.2025",
+                    "endzeit": "18:00"
+                },
+                {
+                    "name": "Schwan-Apotheke",
+                    "kammer": "akmv",
+                    "id": "172365",
+                    "apo_id": "akmv172365",
+                    "strasse": "Hohe Str. 25",
+                    "plz": "17207",
+                    "ort": "Röbel",
+                    "distanz": "44.37339286095",
+                    "longitude": "12.6059568",
+                    "latitude": "53.3752241",
+                    "telefon": "+49 39931 52426",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "19.07.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "19.07.2025",
+                    "endzeit": "18:00"
+                },
+                {
                     "name": "Augusten-Apotheke",
                     "kammer": "akmv",
                     "id": "173861",
@@ -129,6 +186,25 @@
                     "startzeit": "08:00",
                     "enddatum": "20.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Storchen-Apotheke",
+                    "kammer": "akmv",
+                    "id": "175935",
+                    "apo_id": "akmv175935",
+                    "strasse": "Am Mattenstieg 16",
+                    "plz": "19406",
+                    "ort": "Dabel",
+                    "distanz": "46.27079803482",
+                    "longitude": "11.9016151",
+                    "latitude": "53.6593812",
+                    "telefon": "+49 38485 20111",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "19.07.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "19.07.2025",
+                    "endzeit": "18:00"
                 },
                 {
                     "name": "Apotheke am Mühlentor",
