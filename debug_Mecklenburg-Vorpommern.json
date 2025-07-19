@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "49795"
+            "verwendet": "51125"
         },
         "apotheken": {
             "apotheke": [
@@ -112,6 +112,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Rosen-Apotheke",
+                    "kammer": "akmv",
+                    "id": "178196",
+                    "apo_id": "akmv178196",
+                    "strasse": "Wismarsche Str. 2",
+                    "plz": "18246",
+                    "ort": "Bützow",
+                    "distanz": "40.4574095216",
+                    "longitude": "11.9734493",
+                    "latitude": "53.8451818",
+                    "telefon": "+49 38461 911396",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "19.07.2025",
+                    "startzeit": "12:00",
+                    "enddatum": "19.07.2025",
+                    "endzeit": "13:00"
+                },
+                {
                     "name": "Augusten-Apotheke",
                     "kammer": "akmv",
                     "id": "173861",
@@ -129,6 +148,25 @@
                     "startzeit": "08:00",
                     "enddatum": "20.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Linden-Apotheke",
+                    "kammer": "akmv",
+                    "id": "171804",
+                    "apo_id": "akmv171804",
+                    "strasse": "Poststraße 12 b",
+                    "plz": "17087",
+                    "ort": "Altentreptow",
+                    "distanz": "45.25792338239",
+                    "longitude": "13.2472257",
+                    "latitude": "53.6914805",
+                    "telefon": "+49 3961 214626",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "19.07.2025",
+                    "startzeit": "12:00",
+                    "enddatum": "19.07.2025",
+                    "endzeit": "13:00"
                 },
                 {
                     "name": "Apotheke am Mühlentor",
