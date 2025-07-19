@@ -527,8 +527,130 @@
       "mesafe": "24.1 km"
     }
   ],
-  "Bayern": [],
-  "Brandenburg": [],
+  "Bayern": [
+    {
+      "eczaneAdi": "Alte Stadtapotheke",
+      "adres": "Marktplatz 17, 91171 Greding",
+      "telefon": "+49 8463 60044",
+      "enlem": "49.046",
+      "boylam": "11.35329",
+      "mesafe": "11.6 km"
+    },
+    {
+      "eczaneAdi": "Florian-Apotheke",
+      "adres": "Berliner Str. 7 B, 85051 Ingolstadt",
+      "telefon": "+49 841 74199",
+      "enlem": "48.7404224",
+      "boylam": "11.412329",
+      "mesafe": "23.0 km"
+    },
+    {
+      "eczaneAdi": "Agnes-Bernauer-Apotheke",
+      "adres": "Griesstr. 1, 85088 Vohburg",
+      "telefon": "+49 8457 1000",
+      "enlem": "48.769524",
+      "boylam": "11.618864",
+      "mesafe": "25.2 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Rathaus",
+      "adres": "Stadtplatz 3, 93155 Hemau",
+      "telefon": "+49 9491 1850",
+      "enlem": "49.0519438",
+      "boylam": "11.7827499",
+      "mesafe": "30.1 km"
+    },
+    {
+      "eczaneAdi": "Kreuz-Apotheke",
+      "adres": "Rothenburger Str. 43, 91781 Weißenburg",
+      "telefon": "+49 9141 3820",
+      "enlem": "49.0384516",
+      "boylam": "10.9759949",
+      "mesafe": "32.9 km"
+    },
+    {
+      "eczaneAdi": "Kloster-Apotheke",
+      "adres": "Bahnhofstr. 2 A, 92318 Neumarkt i.d.OPf.",
+      "telefon": "+49 9181 259922",
+      "enlem": "49.2765536",
+      "boylam": "11.4596787",
+      "mesafe": "36.9 km"
+    },
+    {
+      "eczaneAdi": "Kreuz-Apotheke",
+      "adres": "Lenbachstr. 31, 86529 Schrobenhausen",
+      "telefon": "+49 8252 887930",
+      "enlem": "48.5601769",
+      "boylam": "11.2649218",
+      "mesafe": "44.2 km"
+    },
+    {
+      "eczaneAdi": "Bonifatius-Apotheke",
+      "adres": "Schützenheimweg 21, 93049 Regensburg",
+      "telefon": "+49 941 33314",
+      "enlem": "49.0154904",
+      "boylam": "12.0429595",
+      "mesafe": "47.4 km"
+    },
+    {
+      "eczaneAdi": "St. Nikolaus-Apotheke",
+      "adres": "Hölkeringer Str. 9, 93080 Pentling",
+      "telefon": "+49 941 97897",
+      "enlem": "48.98145",
+      "boylam": "12.0604",
+      "mesafe": "48.2 km"
+    }
+  ],
+  "Brandenburg": [
+    {
+      "eczaneAdi": "Preussen Apotheke Oranienburg",
+      "adres": "Bernauer Straße 100, 16515 Oranienburg",
+      "telefon": "+49 3301 81910",
+      "enlem": "52.7584676",
+      "boylam": "13.2530331",
+      "mesafe": "9.7 km"
+    },
+    {
+      "eczaneAdi": "Adler-Apotheke",
+      "adres": "Am Markt 7, 16766 Kremmen",
+      "telefon": "+49 33055 7780",
+      "enlem": "52.76044",
+      "boylam": "13.02506",
+      "mesafe": "17.7 km"
+    },
+    {
+      "eczaneAdi": "Concordia-Apotheke",
+      "adres": "Breite Straße 75, 16727 Velten",
+      "telefon": "+49 3304 502418",
+      "enlem": "52.68863",
+      "boylam": "13.18286",
+      "mesafe": "18.0 km"
+    },
+    {
+      "eczaneAdi": "Rosen-Apotheke",
+      "adres": "Prenzlauer Chaussee 164, 16348 Wandlitz",
+      "telefon": "+49 33397 645870",
+      "enlem": "52.7556102",
+      "boylam": "13.4727457",
+      "mesafe": "18.3 km"
+    },
+    {
+      "eczaneAdi": "Fortuna-Apotheke",
+      "adres": "Hauptstraße 14, 16567 Mühlenbecker Land - OT Mühlenbeck",
+      "telefon": "+49 33056 74488",
+      "enlem": "52.6658452",
+      "boylam": "13.3797557",
+      "mesafe": "21.9 km"
+    },
+    {
+      "eczaneAdi": "Lindow Apotheke",
+      "adres": "Rheinsberger Straße 2, 16835 Lindow (Mark)",
+      "telefon": "+49 33933 900320",
+      "enlem": "52.97618",
+      "boylam": "12.98677",
+      "mesafe": "22.7 km"
+    }
+  ],
   "Bremen": [
     {
       "eczaneAdi": "Ritterhuder Apotheke",
