@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "27194"
+            "verwendet": "28736"
         },
         "apotheken": {
             "apotheke": [
@@ -167,6 +167,25 @@
                     "startzeit": "08:30",
                     "enddatum": "20.07.2025",
                     "endzeit": "08:30"
+                },
+                {
+                    "name": "Rheingau Apotheke",
+                    "kammer": "lakh",
+                    "id": "613",
+                    "apo_id": "lakh613",
+                    "strasse": "Winkeler Str. 68",
+                    "plz": "65366",
+                    "ort": "Geisenheim",
+                    "distanz": "47.44120485206",
+                    "longitude": "7.9700231",
+                    "latitude": "49.9855233",
+                    "telefon": "+49 6722 8119",
+                    "fax": "+49 6722 8159",
+                    "email": [],
+                    "startdatum": "19.07.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "20.07.2025",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Hirsch-Apotheke",
