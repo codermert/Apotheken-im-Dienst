@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 35
+            "anzahl": 39
         },
         "quota": {
-            "verwendet": "56909"
+            "verwendet": "69553"
         },
         "apotheken": {
             "apotheke": [
@@ -5781,23 +5781,23 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Ginkgo-Apotheke",
-                    "kammer": "akb",
-                    "id": "100183",
-                    "apo_id": "akb100183",
-                    "strasse": "Walter-Friedrich-Str. 6",
-                    "plz": "13125",
-                    "ort": "Berlin",
-                    "distanz": "14.87803898221",
-                    "longitude": "13.4942725",
-                    "latitude": "52.6343046",
-                    "telefon": "+49 30 94113322",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "19.07.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "20.07.2025",
-                    "endzeit": "08:59"
+                    "name": "Neue Roland Apotheke",
+                    "kammer": "lakbb",
+                    "id": "537",
+                    "apo_id": "lakbb537",
+                    "strasse": "Oranienburger Chaussee 17",
+                    "plz": "16548",
+                    "ort": "Glienicke/Nordbahn",
+                    "distanz": "14.00161131402",
+                    "longitude": "13.30969",
+                    "latitude": "52.63325",
+                    "telefon": "033056 94500",
+                    "fax": "033056 94501",
+                    "email": "info@neue-roland-apotheke.de",
+                    "startdatum": "20.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "21.07.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }
