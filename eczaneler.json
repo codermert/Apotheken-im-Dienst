@@ -853,12 +853,248 @@
       "mesafe": "24.5 km"
     }
   ],
-  "Hessen": [],
+  "Hessen": [
+    {
+      "eczaneAdi": "Gallus Apotheke OHG",
+      "adres": "Marktplatz 1, 35305 Grünberg",
+      "telefon": "+49 6401 7523",
+      "enlem": "50.5910772",
+      "boylam": "8.9605462",
+      "mesafe": "5.2 km"
+    },
+    {
+      "eczaneAdi": "Teich Apotheke",
+      "adres": "Niederkleiner Straße 5, 35260 Stadtallendorf",
+      "telefon": "+49 6428 921059",
+      "enlem": "50.8241765",
+      "boylam": "9.0150154",
+      "mesafe": "24.1 km"
+    },
+    {
+      "eczaneAdi": "Pelikan Apotheke in der Galerie",
+      "adres": "Neustadt 28, 35390 Gießen",
+      "telefon": "+49 641 3011031",
+      "enlem": "50.5871395",
+      "boylam": "8.6695752",
+      "mesafe": "25.5 km"
+    },
+    {
+      "eczaneAdi": "Linden Apotheke",
+      "adres": "Schubertstraße 1, 35043 Marburg",
+      "telefon": "+49 6421 9535890",
+      "enlem": "50.78572",
+      "boylam": "8.76811",
+      "mesafe": "27.0 km"
+    }
+  ],
   "Mecklenburg-Vorpommern": [],
   "Niedersachsen": [],
-  "Rheinland-Pfalz": [],
-  "Saarland": [],
-  "Sachsen": [],
+  "Rheinland-Pfalz": [
+    {
+      "eczaneAdi": "Linden-Apotheke",
+      "adres": "Hauptstr. 1, 55491 Büchenbeuren",
+      "telefon": "+49 6543 2078",
+      "enlem": "49.90295",
+      "boylam": "7.255",
+      "mesafe": "6.9 km"
+    },
+    {
+      "eczaneAdi": "Apo-Mosel OHG Johannes-Apotheke",
+      "adres": "Hauptstr. 6, 56253 Treis-Karden",
+      "telefon": "+49 2672 1372",
+      "enlem": "50.1741252",
+      "boylam": "7.3010737",
+      "mesafe": "24.6 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Globus",
+      "adres": "Zwischen Wasser 13, 55743 Idar-Oberstein",
+      "telefon": "+49 6784 903366",
+      "enlem": "49.7312284",
+      "boylam": "7.395239",
+      "mesafe": "25.4 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Markt Dres. Francke OHG",
+      "adres": "Am Markt 7 a, 56281 Emmelshausen",
+      "telefon": "+49 6747 93040",
+      "enlem": "50.1571383",
+      "boylam": "7.5590833",
+      "mesafe": "28.8 km"
+    },
+    {
+      "eczaneAdi": "Rheingrafen-Apotheke",
+      "adres": "Salinenstr. 53, 55543 Bad Kreuznach",
+      "telefon": "+49 671 33402",
+      "enlem": "49.8390575",
+      "boylam": "7.8576349",
+      "mesafe": "41.3 km"
+    },
+    {
+      "eczaneAdi": "Stephanus-Apotheke",
+      "adres": "Saarlandstr. 180, 55411 Bingen am Rhein",
+      "telefon": "+49 6721 44093",
+      "enlem": "49.9495783",
+      "boylam": "7.9119023",
+      "mesafe": "43.2 km"
+    },
+    {
+      "eczaneAdi": "Vulkaneifel Apotheken OHG Rosen-Apotheke",
+      "adres": "Abt-Richard-Str. 11, 54550 Daun",
+      "telefon": "+49 6592 601",
+      "enlem": "50.19631",
+      "boylam": "6.82837",
+      "mesafe": "43.9 km"
+    }
+  ],
+  "Saarland": [
+    {
+      "eczaneAdi": "St. Michael-Apotheke",
+      "adres": "Berliner Straße 4, 66839 Schmelz-Hüttersdorf",
+      "telefon": "06887/2441",
+      "enlem": "49.42474",
+      "boylam": "6.8445",
+      "mesafe": "9.1 km"
+    },
+    {
+      "eczaneAdi": "Marien-Apotheke",
+      "adres": "Marienstraße 3, 66646 Marpingen",
+      "telefon": "+49 6853 2444",
+      "enlem": "49.45114",
+      "boylam": "7.05709",
+      "mesafe": "10.6 km"
+    },
+    {
+      "eczaneAdi": "Vier-Winde-Apotheke",
+      "adres": "Hauptstr. 131, 66773 Schwalbach",
+      "telefon": "+49 6834 952236",
+      "enlem": "49.30126",
+      "boylam": "6.81023",
+      "mesafe": "13.9 km"
+    },
+    {
+      "eczaneAdi": "St. Barbara-Apotheke",
+      "adres": "Martin-Luther-Str. 56, 66280 Sulzbach-Neuweiler",
+      "telefon": "06897/3260",
+      "enlem": "49.2840303",
+      "boylam": "7.0687825",
+      "mesafe": "13.9 km"
+    },
+    {
+      "eczaneAdi": "Glückauf-Apotheke",
+      "adres": "Hauptstr. 213, 66128 Saarbrücken-Gersweiler",
+      "telefon": "0681/702284",
+      "enlem": "49.2396163",
+      "boylam": "6.9143542",
+      "mesafe": "16.3 km"
+    },
+    {
+      "eczaneAdi": "Bären-Apotheke im ZAB",
+      "adres": "Boxbergweg 3, 66538 Neunkirchen",
+      "telefon": "06821/9722822",
+      "enlem": "49.343448",
+      "boylam": "7.1725882",
+      "mesafe": "16.5 km"
+    },
+    {
+      "eczaneAdi": "Brunnen-Apotheke",
+      "adres": "Odilienplatz  7, 66763 Dillingen",
+      "telefon": "+49 6831 703936",
+      "enlem": "49.35492",
+      "boylam": "6.72645",
+      "mesafe": "16.8 km"
+    },
+    {
+      "eczaneAdi": "Mathilden-Apotheke",
+      "adres": "Provinzialstr. 4, 66787 Wadgassen-Schaffhausen",
+      "telefon": "+49 6834 41010",
+      "enlem": "49.26579",
+      "boylam": "6.80432",
+      "mesafe": "17.1 km"
+    },
+    {
+      "eczaneAdi": "Römer-Apotheke",
+      "adres": "Am Kieselhumes 42c, 66123 Saarbrücken",
+      "telefon": "0681/62417",
+      "enlem": "49.2320493",
+      "boylam": "7.021027",
+      "mesafe": "17.6 km"
+    },
+    {
+      "eczaneAdi": "Allerburg-Apotheke",
+      "adres": "Allerburg 16, 66640 Namborn-Eisweiler",
+      "telefon": "06857 9002979",
+      "enlem": "49.51665",
+      "boylam": "7.15844",
+      "mesafe": "20.9 km"
+    },
+    {
+      "eczaneAdi": "Burg-Apotheke",
+      "adres": "Goethestraße 4a, 66459 Kirkel",
+      "telefon": "06849/220",
+      "enlem": "49.2843257",
+      "boylam": "7.2274207",
+      "mesafe": "22.8 km"
+    },
+    {
+      "eczaneAdi": "Würzbach-Apotheke",
+      "adres": "Kirkeler Str. 21a, 66440 Blieskastel-Niederwürzbach",
+      "telefon": "06842/7499",
+      "enlem": "49.24533",
+      "boylam": "7.20358",
+      "mesafe": "23.8 km"
+    },
+    {
+      "eczaneAdi": "Rathaus-Apotheke",
+      "adres": "Poststraße 19, 66663 Merzig",
+      "telefon": "06861/2582",
+      "enlem": "49.4431255",
+      "boylam": "6.6374052",
+      "mesafe": "23.9 km"
+    }
+  ],
+  "Sachsen": [
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Obermarkt 23, 09599 Freiberg",
+      "telefon": "+49 3731 22301",
+      "enlem": "50.91746",
+      "boylam": "13.34288",
+      "mesafe": "8.2 km"
+    },
+    {
+      "eczaneAdi": "Heide-Apotheke am Krankenhaus",
+      "adres": "Rabenauer Straße 9, 01744 Dippoldiswalde",
+      "telefon": "+49 3504 620969",
+      "enlem": "50.90104",
+      "boylam": "13.66742",
+      "mesafe": "15.0 km"
+    },
+    {
+      "eczaneAdi": "Greifen-Apotheke Gorbitz Hof",
+      "adres": "Amalie-Dietrich-Platz 3, 01169 Dresden",
+      "telefon": "+49 351 4117055",
+      "enlem": "51.0446471",
+      "boylam": "13.6783726",
+      "mesafe": "20.1 km"
+    },
+    {
+      "eczaneAdi": "Ahorn Apotheke",
+      "adres": "Dresdner Straße 17, 01156 Dresden",
+      "telefon": "+49 351 45418146",
+      "enlem": "51.08783",
+      "boylam": "13.63266",
+      "mesafe": "21.4 km"
+    },
+    {
+      "eczaneAdi": "Lotos-Apotheke",
+      "adres": "Bärensteiner Straße 2, 01277 Dresden",
+      "telefon": "+49 351 3140373",
+      "enlem": "51.03935",
+      "boylam": "13.80536",
+      "mesafe": "27.2 km"
+    }
+  ],
   "Sachsen-Anhalt": [
     {
       "eczaneAdi": "Paracelsus-Apotheke",
