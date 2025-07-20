@@ -897,6 +897,14 @@
       "mesafe": "0.0 km"
     },
     {
+      "eczaneAdi": "Fritz-Reuter-Apotheke",
+      "adres": "Am Markt 16, 17153 Reuterstadt Stavenhagen",
+      "telefon": "+49 39954 21082",
+      "enlem": "53.6957432",
+      "boylam": "12.9085263",
+      "mesafe": "23.6 km"
+    },
+    {
       "eczaneAdi": "Godewind-Apotheke",
       "adres": "Haselstr. 2, 18273 Güstrow",
       "telefon": "+49 3843 215630",
@@ -911,6 +919,14 @@
       "enlem": "53.5188383",
       "boylam": "12.677138",
       "mesafe": "29.1 km"
+    },
+    {
+      "eczaneAdi": "Weiden-Apotheke",
+      "adres": "John Brinckmann Str. 10 a, 18190 Sanitz",
+      "telefon": "+49 38209 288",
+      "enlem": "54.07518",
+      "boylam": "12.37375",
+      "mesafe": "36.1 km"
     },
     {
       "eczaneAdi": "Marien-Apotheke",
@@ -929,6 +945,14 @@
       "mesafe": "46.1 km"
     },
     {
+      "eczaneAdi": "Storchen-Apotheke",
+      "adres": "Am Mattenstieg 16, 19406 Dabel",
+      "telefon": "+49 38485 20111",
+      "enlem": "53.6593812",
+      "boylam": "11.9016151",
+      "mesafe": "46.3 km"
+    },
+    {
       "eczaneAdi": "Apotheke am Mühlentor",
       "adres": "Bahnhofstraße 2, 18507 Grimmen",
       "telefon": "+49 38326 455440",
@@ -937,106 +961,8 @@
       "mesafe": "48.5 km"
     }
   ],
-  "Niedersachsen": [
-    {
-      "eczaneAdi": "Bären-Apotheke",
-      "adres": "Lange Straße 51, 27318 Hoya",
-      "telefon": "+49 4251 2244",
-      "enlem": "52.8053089",
-      "boylam": "9.1375017",
-      "mesafe": "5.7 km"
-    },
-    {
-      "eczaneAdi": "Burg-Apotheke Langwedel oHG",
-      "adres": "Große Straße 8, 27299 Langwedel",
-      "telefon": "+49 4232 93250",
-      "enlem": "52.9767586",
-      "boylam": "9.1869389",
-      "mesafe": "17.0 km"
-    },
-    {
-      "eczaneAdi": "Schloß-Apotheke",
-      "adres": "Etelser Bahnhofstr. 12, 27299 Langwedel",
-      "telefon": "+49 4235 94141",
-      "enlem": "52.9964166",
-      "boylam": "9.1176822",
-      "mesafe": "17.6 km"
-    },
-    {
-      "eczaneAdi": "Apotheke im Gesundheitszentrum",
-      "adres": "Marie-Hackfeld-Str. 8, 27211 Bassum",
-      "telefon": "+49 4241 802785",
-      "enlem": "52.84466",
-      "boylam": "8.7290224",
-      "mesafe": "23.4 km"
-    },
-    {
-      "eczaneAdi": "Meerbach-Apotheke",
-      "adres": "Ziegelkampstr. 37, 31582 Nienburg",
-      "telefon": "+49 5021 888740",
-      "enlem": "52.6346479",
-      "boylam": "9.223937",
-      "mesafe": "24.9 km"
-    }
-  ],
-  "Rheinland-Pfalz": [
-    {
-      "eczaneAdi": "Linden-Apotheke",
-      "adres": "Hauptstr. 1, 55491 Büchenbeuren",
-      "telefon": "+49 6543 2078",
-      "enlem": "49.90295",
-      "boylam": "7.255",
-      "mesafe": "6.9 km"
-    },
-    {
-      "eczaneAdi": "Apo-Mosel OHG Johannes-Apotheke",
-      "adres": "Hauptstr. 6, 56253 Treis-Karden",
-      "telefon": "+49 2672 1372",
-      "enlem": "50.1741252",
-      "boylam": "7.3010737",
-      "mesafe": "24.6 km"
-    },
-    {
-      "eczaneAdi": "Apotheke im Globus",
-      "adres": "Zwischen Wasser 13, 55743 Idar-Oberstein",
-      "telefon": "+49 6784 903366",
-      "enlem": "49.7312284",
-      "boylam": "7.395239",
-      "mesafe": "25.4 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Markt Dres. Francke OHG",
-      "adres": "Am Markt 7 a, 56281 Emmelshausen",
-      "telefon": "+49 6747 93040",
-      "enlem": "50.1571383",
-      "boylam": "7.5590833",
-      "mesafe": "28.8 km"
-    },
-    {
-      "eczaneAdi": "Rheingrafen-Apotheke",
-      "adres": "Salinenstr. 53, 55543 Bad Kreuznach",
-      "telefon": "+49 671 33402",
-      "enlem": "49.8390575",
-      "boylam": "7.8576349",
-      "mesafe": "41.3 km"
-    },
-    {
-      "eczaneAdi": "Stephanus-Apotheke",
-      "adres": "Saarlandstr. 180, 55411 Bingen am Rhein",
-      "telefon": "+49 6721 44093",
-      "enlem": "49.9495783",
-      "boylam": "7.9119023",
-      "mesafe": "43.2 km"
-    },
-    {
-      "eczaneAdi": "Vulkaneifel Apotheken OHG Rosen-Apotheke",
-      "adres": "Abt-Richard-Str. 11, 54550 Daun",
-      "telefon": "+49 6592 601",
-      "enlem": "50.19631",
-      "boylam": "6.82837",
-      "mesafe": "43.9 km"
-    }
-  ],
+  "Niedersachsen": [],
+  "Rheinland-Pfalz": [],
   "Saarland": [
     {
       "eczaneAdi": "St. Michael-Apotheke",
