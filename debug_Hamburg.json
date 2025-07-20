@@ -3191,10 +3191,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 18
+            "anzahl": 19
         },
         "quota": {
-            "verwendet": "331384"
+            "verwendet": "339712"
         },
         "apotheken": {
             "apotheke": [
@@ -3520,6 +3520,25 @@
                     "startzeit": "08:00",
                     "enddatum": "21.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Markt-Apotheke im Gesundheitszentrum",
+                    "kammer": "aknds",
+                    "id": "1511",
+                    "apo_id": "aknds1511",
+                    "strasse": "Marktstr. 4",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "24.78631206922",
+                    "longitude": "10.2058523",
+                    "latitude": "53.3643304",
+                    "telefon": "+49 4171 3300",
+                    "fax": "+49 4171 784353",
+                    "email": [],
+                    "startdatum": "20.07.2025",
+                    "startzeit": "16:00",
+                    "enddatum": "20.07.2025",
+                    "endzeit": "19:00"
                 },
                 {
                     "name": "Heide-Apotheke",
