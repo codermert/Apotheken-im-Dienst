@@ -31,7 +31,7 @@
             "anzahl": 5
         },
         "quota": {
-            "verwendet": "55019"
+            "verwendet": "58316"
         },
         "apotheken": {
             "apotheke": [
@@ -55,25 +55,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke Erichshagen",
-                    "kammer": "aknds",
-                    "id": "962",
-                    "apo_id": "aknds962",
-                    "strasse": "Celler Str. 62",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "22.87586663499",
-                    "longitude": "9.2267429",
-                    "latitude": "52.6557705",
-                    "telefon": "+49 5021 63938",
-                    "fax": "+49 5021 961008",
-                    "email": [],
-                    "startdatum": "19.07.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "20.07.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Eichen-Apotheke",
                     "kammer": "aknds",
                     "id": "1380",
@@ -91,6 +72,25 @@
                     "startzeit": "09:00",
                     "enddatum": "20.07.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Meerbach-Apotheke",
+                    "kammer": "aknds",
+                    "id": "964",
+                    "apo_id": "aknds964",
+                    "strasse": "Ziegelkampstr. 37",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "24.92702017755",
+                    "longitude": "9.223937",
+                    "latitude": "52.6346479",
+                    "telefon": "+49 5021 888740",
+                    "fax": "+49 5021 888745",
+                    "email": [],
+                    "startdatum": "20.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "21.07.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Osterholzer Apotheke",
