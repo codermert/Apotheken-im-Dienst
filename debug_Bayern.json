@@ -12,7 +12,7 @@
             "lat": "",
             "lng": "",
             "plzort": "Bayern",
-            "radius": 45,
+            "radius": 65,
             "street": ""
         },
         "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
@@ -21,17 +21,17 @@
         "parameter": {
             "plzort": "Bayern",
             "strasse": [],
-            "radius": "45.0",
+            "radius": "65.0",
             "longitude": "11.4038717",
             "latitude": "48.946756199999996",
             "limit": [],
             "datum": []
         },
         "statistik": {
-            "anzahl": 12
+            "anzahl": 16
         },
         "quota": {
-            "verwendet": "4935"
+            "verwendet": "11457"
         },
         "apotheken": {
             "apotheke": [
@@ -257,6 +257,82 @@
                     "latitude": "49.0163439",
                     "telefon": "+49 941 21431",
                     "fax": "+49 941 26691",
+                    "email": [],
+                    "startdatum": "20.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "21.07.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Ahorn-Apotheke",
+                    "kammer": "blak",
+                    "id": "3004",
+                    "apo_id": "blak3004",
+                    "strasse": "Osianderstr. 25",
+                    "plz": "91710",
+                    "ort": "Gunzenhausen",
+                    "distanz": "51.17210649108",
+                    "longitude": "10.7542552",
+                    "latitude": "49.1178603",
+                    "telefon": "+49 9831 4444",
+                    "fax": "+49 9831 4435",
+                    "email": [],
+                    "startdatum": "20.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "21.07.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Forum-Apotheke Filialapotheke der Abens-Apotheke OHG",
+                    "kammer": "blak",
+                    "id": "4185",
+                    "apo_id": "blak4185",
+                    "strasse": "Paracelsusstr. 2",
+                    "plz": "93053",
+                    "ort": "Regensburg",
+                    "distanz": "51.22406240024",
+                    "longitude": "12.0968651",
+                    "latitude": "49.0106396",
+                    "telefon": "+49 941 705740",
+                    "fax": "+49 941 7057411",
+                    "email": [],
+                    "startdatum": "20.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "21.07.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Center Apotheke",
+                    "kammer": "blak",
+                    "id": "4155",
+                    "apo_id": "blak4155",
+                    "strasse": "Neurieder Weg 33",
+                    "plz": "86609",
+                    "ort": "Donauwörth",
+                    "distanz": "53.36874878378",
+                    "longitude": "10.7627117",
+                    "latitude": "48.720589",
+                    "telefon": "+49 906 7056420",
+                    "fax": "+49 906 7056421",
+                    "email": [],
+                    "startdatum": "20.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "21.07.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Burg-Apotheke",
+                    "kammer": "blak",
+                    "id": "1276",
+                    "apo_id": "blak1276",
+                    "strasse": "Regensburger Str. 49",
+                    "plz": "93133",
+                    "ort": "Burglengenfeld",
+                    "distanz": "54.96206121454",
+                    "longitude": "12.04642",
+                    "latitude": "49.20377",
+                    "telefon": "+49 9471 5532",
+                    "fax": "+49 9471 808728",
                     "email": [],
                     "startdatum": "20.07.2025",
                     "startzeit": "08:30",
