@@ -37,46 +37,27 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "26001"
+            "verwendet": "28283"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Melchendorfer Apotheke",
+                    "name": "Arkaden-Apotheke",
                     "kammer": "lakt",
-                    "id": "524",
-                    "apo_id": "lakt524",
-                    "strasse": "Am Drosselberg 47",
-                    "plz": "99097",
+                    "id": "504",
+                    "apo_id": "lakt504",
+                    "strasse": "Friedrich-Engels-Straße 63",
+                    "plz": "99086",
                     "ort": "Erfurt",
-                    "distanz": "6.0666252079400005",
-                    "longitude": "11.0761843",
-                    "latitude": "50.9503069",
-                    "telefon": "+49 361 4172096",
+                    "distanz": "9.61309165868",
+                    "longitude": "11.0358571",
+                    "latitude": "50.9878755",
+                    "telefon": "+49 361 5402185",
                     "fax": [],
                     "email": [],
-                    "startdatum": "20.07.2025",
+                    "startdatum": "21.07.2025",
                     "startzeit": "09:00",
-                    "enddatum": "21.07.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Trommsdorff-Apotheke",
-                    "kammer": "lakt",
-                    "id": "3928",
-                    "apo_id": "lakt3928",
-                    "strasse": "Geschwister-Scholl-Straße 5",
-                    "plz": "99085",
-                    "ort": "Erfurt",
-                    "distanz": "8.89530102956",
-                    "longitude": "11.04315",
-                    "latitude": "50.98136",
-                    "telefon": "+49 361 5660052",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "20.07.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "21.07.2025",
+                    "enddatum": "22.07.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -97,6 +78,25 @@
                     "startzeit": "08:00",
                     "enddatum": "22.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Park-Apotheke Thüringen Park",
+                    "kammer": "lakt",
+                    "id": "478",
+                    "apo_id": "lakt478",
+                    "strasse": "Nordhäuser Str. 73T",
+                    "plz": "99091",
+                    "ort": "Erfurt",
+                    "distanz": "12.316168228439999",
+                    "longitude": "10.9937716",
+                    "latitude": "51.0086349",
+                    "telefon": "+49 361 6538390",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "21.07.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "22.07.2025",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Apotheke am Goetheplatz",
