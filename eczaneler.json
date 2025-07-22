@@ -741,8 +741,90 @@
       "mesafe": "27.3 km"
     }
   ],
-  "Hessen": [],
-  "Mecklenburg-Vorpommern": [],
+  "Hessen": [
+    {
+      "eczaneAdi": "Stirnberg Apotheke",
+      "adres": "Im Esp 2, 35418 Buseck",
+      "telefon": "+49 6408 65282",
+      "enlem": "50.62587",
+      "boylam": "8.8191515",
+      "mesafe": "14.9 km"
+    },
+    {
+      "eczaneAdi": "Albert Schweitzer Apotheke",
+      "adres": "Albert-Schweitzer-Str. 26, 35260 Stadtallendorf",
+      "telefon": "+49 6428 92480",
+      "enlem": "50.82317",
+      "boylam": "9.01024",
+      "mesafe": "24.0 km"
+    },
+    {
+      "eczaneAdi": "Hohhaus Apotheke",
+      "adres": "Eisenbacher Tor 2, 36341 Lauterbach",
+      "telefon": "+49 6641 4545",
+      "enlem": "50.63616",
+      "boylam": "9.3957898",
+      "mesafe": "26.2 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Klein-Linden",
+      "adres": "Hegweg 2, 35398 Gießen",
+      "telefon": "+49 641 22229",
+      "enlem": "50.5612949",
+      "boylam": "8.6491978",
+      "mesafe": "27.4 km"
+    }
+  ],
+  "Mecklenburg-Vorpommern": [
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Am Markt 11, 17139 Malchin",
+      "telefon": "+49 3994 222311",
+      "enlem": "53.7389999",
+      "boylam": "12.7634187",
+      "mesafe": "13.0 km"
+    },
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Markt 24, 18273 Güstrow",
+      "telefon": "+49 3843 682030",
+      "enlem": "53.7928243",
+      "boylam": "12.1760016",
+      "mesafe": "26.4 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Papenberg",
+      "adres": "Rosa-Luxemburg-Str.20b, 17192 Waren",
+      "telefon": "+49 3991 668877",
+      "enlem": "53.50911",
+      "boylam": "12.69992",
+      "mesafe": "30.6 km"
+    },
+    {
+      "eczaneAdi": "Peene-Apotheke",
+      "adres": "Am Krankenhaus 1, 17109 Demmin",
+      "telefon": "+49 3998 2828640",
+      "enlem": "53.902402",
+      "boylam": "13.0426609",
+      "mesafe": "33.9 km"
+    },
+    {
+      "eczaneAdi": "Linden-Apotheke",
+      "adres": "Wismarsche Str. 32, 18057 Rostock",
+      "telefon": "+49 381 4930200",
+      "enlem": "54.0857481",
+      "boylam": "12.1186666",
+      "mesafe": "45.9 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Mühlentor",
+      "adres": "Bahnhofstraße 2, 18507 Grimmen",
+      "telefon": "+49 38326 455440",
+      "enlem": "54.11176",
+      "boylam": "13.04009",
+      "mesafe": "48.5 km"
+    }
+  ],
   "Niedersachsen": [
     {
       "eczaneAdi": "Storchen-Apotheke",
@@ -1031,80 +1113,98 @@
       "enlem": "51.9602644",
       "boylam": "12.0921785",
       "mesafe": "27.5 km"
+    }
+  ],
+  "Schleswig-Holstein": [
+    {
+      "eczaneAdi": "Flora-Apotheke am Bahnhof",
+      "adres": "Kuhberg 8, 24534 Neumünster",
+      "telefon": "+49 4321 41090",
+      "enlem": "54.07573",
+      "boylam": "9.98158",
+      "mesafe": "16.1 km"
     },
     {
-      "eczaneAdi": "Apotheke am Markt",
-      "adres": "Köthener Str. 34, 06385 Aken",
-      "telefon": "+49 34909 82104",
-      "enlem": "51.8539788",
-      "boylam": "12.0446541",
-      "mesafe": "29.3 km"
+      "eczaneAdi": "Brunnen Apotheke",
+      "adres": "Rendsburger Str. 50a, 24787 Fockbek",
+      "telefon": "04331-669906",
+      "enlem": "54.3060073",
+      "boylam": "9.601651",
+      "mesafe": "19.7 km"
     },
     {
-      "eczaneAdi": "Adler-Apotheke Seehausen",
-      "adres": "Friedensplatz 21, 39164 Stadt Wanzleben-Börde",
-      "telefon": "+49 39407 224",
-      "enlem": "52.1006738",
-      "boylam": "11.2922475",
-      "mesafe": "29.8 km"
+      "eczaneAdi": "Hofholz-Apotheke",
+      "adres": "Hofholzallee 220, 24109 Kiel",
+      "telefon": "0431-5339870",
+      "enlem": "54.3171644",
+      "boylam": "10.067109",
+      "mesafe": "21.7 km"
     },
     {
-      "eczaneAdi": "Roland-Apotheke",
-      "adres": "Gerikestr. 4, 39340 Haldensleben",
-      "telefon": "+49 3904 71520",
-      "enlem": "52.2872721",
-      "boylam": "11.4071569",
-      "mesafe": "36.9 km"
+      "eczaneAdi": "FISCHERS Apotheke  Wittensee",
+      "adres": "Im Wiesengrund 2, 24361 Groß Wittensee",
+      "telefon": "04356-677",
+      "enlem": "54.4028475",
+      "boylam": "9.7681418",
+      "mesafe": "24.5 km"
     },
     {
-      "eczaneAdi": "Vitalis-Apotheke",
-      "adres": "Neumarktpassage 7, 06420 Könnern",
-      "telefon": "+49 34691 23312",
-      "enlem": "51.6714097",
-      "boylam": "11.769987",
-      "mesafe": "37.9 km"
-    },
+      "eczaneAdi": "Holsten-Apotheke",
+      "adres": "Holtenauer Str. 114a, 24105 Kiel",
+      "telefon": "0431-563060",
+      "enlem": "54.3361838",
+      "boylam": "10.1338096",
+      "mesafe": "26.4 km"
+    }
+  ],
+  "Thüringen": [
     {
-      "eczaneAdi": "Ring Apotheke Dessau",
-      "adres": "Grenzstr. 5, 06849 Dessau-Roßlau",
-      "telefon": "+49 340 800240",
-      "enlem": "51.8074212",
-      "boylam": "12.2426359",
-      "mesafe": "43.5 km"
-    },
-    {
-      "eczaneAdi": "Apotheke im Weyhegarten",
-      "adres": "Weyhegarten 1, 06484 Quedlinburg",
-      "telefon": "+49 3946 915637",
-      "enlem": "51.79422",
-      "boylam": "11.15367",
-      "mesafe": "44.6 km"
-    },
-    {
-      "eczaneAdi": "Center Apotheke",
-      "adres": "Braunschweiger Str. 83-88, 38820 Halberstadt",
-      "telefon": "+49 3941 68700",
-      "enlem": "51.89656",
-      "boylam": "11.03532",
-      "mesafe": "47.4 km"
+      "eczaneAdi": "Mohren-Apotheke",
+      "adres": "Schlösserstraße 9, 99084 Erfurt",
+      "telefon": "+49 361 6421500",
+      "enlem": "50.9765568",
+      "boylam": "11.032737",
+      "mesafe": "8.4 km"
     },
     {
       "eczaneAdi": "Stadt-Apotheke",
-      "adres": "Bismarckstr. 14, 39517 Tangerhütte",
-      "telefon": "+49 3935 29267",
-      "enlem": "52.4344374",
-      "boylam": "11.8074381",
-      "mesafe": "47.9 km"
+      "adres": "Turnvater-Jahn-Straße 4, 99310 Arnstadt",
+      "telefon": "+49 3628 585840",
+      "enlem": "50.8354836",
+      "boylam": "10.9456407",
+      "mesafe": "9.8 km"
     },
     {
-      "eczaneAdi": "Südharz-Apotheke",
-      "adres": "Friedensallee 84 a, 06343 Mansfeld/Leimbach",
-      "telefon": "+49 34782 21447",
-      "enlem": "51.6036",
-      "boylam": "11.46332",
-      "mesafe": "48.0 km"
+      "eczaneAdi": "Rosen-Apotheke",
+      "adres": "Ringstraße 28, 99091 Erfurt-Gispersleben",
+      "telefon": "+49 361 7916096",
+      "enlem": "51.0217134",
+      "boylam": "10.9932804",
+      "mesafe": "13.7 km"
+    },
+    {
+      "eczaneAdi": "Burgenland-Apotheke",
+      "adres": "Am Oberried 6, 99869 Drei Gleichen OT Günthersleben",
+      "telefon": "+49 36256 80329",
+      "enlem": "50.89867",
+      "boylam": "10.7661",
+      "mesafe": "19.1 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Klinikum",
+      "adres": "Henry-van-de-Velde-Str. 1/3, 99425 Weimar",
+      "telefon": "+49 3643 776260",
+      "enlem": "50.9615882",
+      "boylam": "11.3201475",
+      "mesafe": "20.9 km"
+    },
+    {
+      "eczaneAdi": "Lindenberg-Apotheke",
+      "adres": "Krankenhausstraße 26, 98693 Ilmenau",
+      "telefon": "+49 3677 888888",
+      "enlem": "50.6795131",
+      "boylam": "10.9172113",
+      "mesafe": "26.1 km"
     }
-  ],
-  "Schleswig-Holstein": [],
-  "Thüringen": []
+  ]
 }
