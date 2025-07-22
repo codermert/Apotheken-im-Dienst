@@ -633,134 +633,52 @@
       "mesafe": "46.5 km"
     }
   ],
-  "Brandenburg": [],
+  "Brandenburg": [
+    {
+      "eczaneAdi": "Askania-Apotheke",
+      "adres": "Berliner Straße 119, 16515 Oranienburg",
+      "telefon": "03301  / 543 80",
+      "enlem": "52.736035",
+      "boylam": "13.2412399",
+      "mesafe": "12.2 km"
+    },
+    {
+      "eczaneAdi": "Greifen-Apotheke",
+      "adres": "Amtswallstraße 1, 16792 Zehdenick",
+      "telefon": "+49 3307 310172",
+      "enlem": "52.9805621",
+      "boylam": "13.3339695",
+      "mesafe": "16.1 km"
+    },
+    {
+      "eczaneAdi": "Akazien Apotheke",
+      "adres": "Waldstraße 56, 16761 Hennigsdorf",
+      "telefon": "03302 800 655",
+      "enlem": "52.6471022",
+      "boylam": "13.1991106",
+      "mesafe": "22.3 km"
+    },
+    {
+      "eczaneAdi": "Steinbock Apotheke Schildow",
+      "adres": "Bahnhofstraße 5b, 16552 Mühlenbecker Land - OT Schildow",
+      "telefon": "+49 33056 270004",
+      "enlem": "52.6367557",
+      "boylam": "13.3749982",
+      "mesafe": "24.8 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Schönow",
+      "adres": "Dorfstraße 4, 16321 Bernau bei Berlin",
+      "telefon": "03338 / 704 230",
+      "enlem": "52.6763001",
+      "boylam": "13.5373192",
+      "mesafe": "27.2 km"
+    }
+  ],
   "Bremen": [],
-  "Hessen": [
-    {
-      "eczaneAdi": "Stirnberg Apotheke",
-      "adres": "Im Esp 2, 35418 Buseck",
-      "telefon": "+49 6408 65282",
-      "enlem": "50.62587",
-      "boylam": "8.8191515",
-      "mesafe": "14.9 km"
-    },
-    {
-      "eczaneAdi": "Albert Schweitzer Apotheke",
-      "adres": "Albert-Schweitzer-Str. 26, 35260 Stadtallendorf",
-      "telefon": "+49 6428 92480",
-      "enlem": "50.82317",
-      "boylam": "9.01024",
-      "mesafe": "24.0 km"
-    },
-    {
-      "eczaneAdi": "Hohhaus Apotheke",
-      "adres": "Eisenbacher Tor 2, 36341 Lauterbach",
-      "telefon": "+49 6641 4545",
-      "enlem": "50.63616",
-      "boylam": "9.3957898",
-      "mesafe": "26.2 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Klein-Linden",
-      "adres": "Hegweg 2, 35398 Gießen",
-      "telefon": "+49 641 22229",
-      "enlem": "50.5612949",
-      "boylam": "8.6491978",
-      "mesafe": "27.4 km"
-    }
-  ],
-  "Mecklenburg-Vorpommern": [
-    {
-      "eczaneAdi": "Rats-Apotheke",
-      "adres": "Am Markt 11, 17139 Malchin",
-      "telefon": "+49 3994 222311",
-      "enlem": "53.7389999",
-      "boylam": "12.7634187",
-      "mesafe": "13.0 km"
-    },
-    {
-      "eczaneAdi": "Rats-Apotheke",
-      "adres": "Markt 24, 18273 Güstrow",
-      "telefon": "+49 3843 682030",
-      "enlem": "53.7928243",
-      "boylam": "12.1760016",
-      "mesafe": "26.4 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Papenberg",
-      "adres": "Rosa-Luxemburg-Str.20b, 17192 Waren",
-      "telefon": "+49 3991 668877",
-      "enlem": "53.50911",
-      "boylam": "12.69992",
-      "mesafe": "30.6 km"
-    },
-    {
-      "eczaneAdi": "Peene-Apotheke",
-      "adres": "Am Krankenhaus 1, 17109 Demmin",
-      "telefon": "+49 3998 2828640",
-      "enlem": "53.902402",
-      "boylam": "13.0426609",
-      "mesafe": "33.9 km"
-    },
-    {
-      "eczaneAdi": "Linden-Apotheke",
-      "adres": "Wismarsche Str. 32, 18057 Rostock",
-      "telefon": "+49 381 4930200",
-      "enlem": "54.0857481",
-      "boylam": "12.1186666",
-      "mesafe": "45.9 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Mühlentor",
-      "adres": "Bahnhofstraße 2, 18507 Grimmen",
-      "telefon": "+49 38326 455440",
-      "enlem": "54.11176",
-      "boylam": "13.04009",
-      "mesafe": "48.5 km"
-    }
-  ],
-  "Niedersachsen": [
-    {
-      "eczaneAdi": "Storchen-Apotheke",
-      "adres": "Plattenberg 57, 27283 Verden",
-      "telefon": "+49 4231 5255",
-      "enlem": "52.9160608",
-      "boylam": "9.246528",
-      "mesafe": "14.3 km"
-    },
-    {
-      "eczaneAdi": "Schloss Apotheke Syke Hauptstraße",
-      "adres": "Hauptstr. 13, 28857 Syke",
-      "telefon": "+49 4242 2044",
-      "enlem": "52.9123306",
-      "boylam": "8.8238966",
-      "mesafe": "18.8 km"
-    },
-    {
-      "eczaneAdi": "Hansa-Apotheke",
-      "adres": "Meislahnstr. 2, 28832 Achim",
-      "telefon": "+49 4202 4900",
-      "enlem": "53.00835",
-      "boylam": "9.0426248",
-      "mesafe": "18.9 km"
-    },
-    {
-      "eczaneAdi": "Hansa Apotheke",
-      "adres": "Hansastr. 3, 31582 Nienburg",
-      "telefon": "+49 5021 910266",
-      "enlem": "52.6496656",
-      "boylam": "9.2148089",
-      "mesafe": "23.1 km"
-    },
-    {
-      "eczaneAdi": "Albrecht Dürer-Apotheke",
-      "adres": "Ohserstr. 4, 28279 Bremen",
-      "telefon": "+49 421 832050",
-      "enlem": "53.0413441",
-      "boylam": "8.8499252",
-      "mesafe": "27.1 km"
-    }
-  ],
+  "Hessen": [],
+  "Mecklenburg-Vorpommern": [],
+  "Niedersachsen": [],
   "Rheinland-Pfalz": [
     {
       "eczaneAdi": "Adler-Apotheke",
