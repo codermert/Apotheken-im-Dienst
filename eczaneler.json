@@ -727,7 +727,56 @@
       "mesafe": "23.8 km"
     }
   ],
-  "Mecklenburg-Vorpommern": [],
+  "Mecklenburg-Vorpommern": [
+    {
+      "eczaneAdi": "Neue Apotheke am Markt",
+      "adres": "Am Markt 6, 17139 Malchin",
+      "telefon": "+49 3994 223412",
+      "enlem": "53.7398283",
+      "boylam": "12.7625912",
+      "mesafe": "12.9 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Petershof",
+      "adres": "Schwaaner Straße 21, 18273 Güstrow",
+      "telefon": "+49 3843 466969",
+      "enlem": "53.80476",
+      "boylam": "12.17597",
+      "mesafe": "26.6 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Kietz",
+      "adres": "Kietzstr. 13 b, 17192 Waren",
+      "telefon": "+49 3991 15080",
+      "enlem": "53.5145114",
+      "boylam": "12.6813827",
+      "mesafe": "29.7 km"
+    },
+    {
+      "eczaneAdi": "Muhrbeck -Apotheke",
+      "adres": "Gartenstr. 2, 17109 Demmin",
+      "telefon": "+49 3998 362151",
+      "enlem": "53.9047535",
+      "boylam": "13.0423311",
+      "mesafe": "34.0 km"
+    },
+    {
+      "eczaneAdi": "Südstadt-Center-Apotheke",
+      "adres": "Nobelstr. 50 -51, 18059 Rostock",
+      "telefon": "+49 381 4053210",
+      "enlem": "54.0706392",
+      "boylam": "12.1174896",
+      "mesafe": "44.7 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Mühlentor",
+      "adres": "Bahnhofstraße 2, 18507 Grimmen",
+      "telefon": "+49 38326 455440",
+      "enlem": "54.11176",
+      "boylam": "13.04009",
+      "mesafe": "48.5 km"
+    }
+  ],
   "Niedersachsen": [
     {
       "eczaneAdi": "Rübezahl Apotheke",
@@ -786,80 +835,7 @@
       "mesafe": "27.1 km"
     }
   ],
-  "Rheinland-Pfalz": [
-    {
-      "eczaneAdi": "Flora-Apotheke",
-      "adres": "Spesenrother Weg 1, 56288 Kastellaun",
-      "telefon": "+49 6762 8242",
-      "enlem": "50.0711724",
-      "boylam": "7.442738",
-      "mesafe": "16.2 km"
-    },
-    {
-      "eczaneAdi": "Naheland-Apotheke Kirn",
-      "adres": "Kallenfelser Str. 32, 55606 Kirn",
-      "telefon": "+49 6752 2399",
-      "enlem": "49.7923",
-      "boylam": "7.45469",
-      "mesafe": "20.7 km"
-    },
-    {
-      "eczaneAdi": "Baldenau-Apotheke",
-      "adres": "Bahnhofstr. 10, 54497 Morbach",
-      "telefon": "+49 6533 93810",
-      "enlem": "49.8103076",
-      "boylam": "7.1216328",
-      "mesafe": "20.9 km"
-    },
-    {
-      "eczaneAdi": "Gräfenbach-Apotheke",
-      "adres": "Arthur-Rauner-Straße 4, 55595 Hargesheim",
-      "telefon": "+49 671 34994",
-      "enlem": "49.86569",
-      "boylam": "7.82253",
-      "mesafe": "38.0 km"
-    },
-    {
-      "eczaneAdi": "Adler-Apotheke",
-      "adres": "Leopoldstr. 4, 54550 Daun",
-      "telefon": "+49 6592 985266",
-      "enlem": "50.1975851",
-      "boylam": "6.8298899",
-      "mesafe": "43.9 km"
-    },
-    {
-      "eczaneAdi": "Lahn-Apotheke",
-      "adres": "Brückenstr. 17, 56112 Lahnstein",
-      "telefon": "+49 2621 922115",
-      "enlem": "50.30691",
-      "boylam": "7.60471",
-      "mesafe": "44.6 km"
-    },
-    {
-      "eczaneAdi": "Ostertal-Apotheke",
-      "adres": "Talbrückstraße 1, 66629 Freisen-Oberkirchen",
-      "telefon": "06855/237",
-      "enlem": "49.5253414",
-      "boylam": "7.2621537",
-      "mesafe": "47.7 km"
-    },
-    {
-      "eczaneAdi": "Mosel-Apotheke",
-      "adres": "Ehranger Str. 136, 54293 Trier",
-      "telefon": "+49 651 66178",
-      "enlem": "49.7948071",
-      "boylam": "6.6804758",
-      "mesafe": "48.6 km"
-    },
-    {
-      "eczaneAdi": "Markenbildchen-Apotheke",
-      "adres": "Markenbildchenweg 6, 56068 Koblenz",
-      "telefon": "+49 261 15008",
-      "enlem": "50.3498586",
-      "boylam": "7.5957713",
-      "mesafe": "48.6 km"
-    }
-  ],
+  "Rheinland-Pfalz": [],
   "Saarland": [
     {
       "eczaneAdi": "Einhorn-Apotheke am Markt",
