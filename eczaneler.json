@@ -551,8 +551,130 @@
       "mesafe": "27.0 km"
     }
   ],
-  "Bayern": [],
-  "Brandenburg": [],
+  "Bayern": [
+    {
+      "eczaneAdi": "Marien-Apotheke",
+      "adres": "Ringstr. 15, 92339 Beilngries",
+      "telefon": "+49 8461 308",
+      "enlem": "49.0342316",
+      "boylam": "11.4712623",
+      "mesafe": "10.9 km"
+    },
+    {
+      "eczaneAdi": "Mohren-Apotheke",
+      "adres": "Kirchplatz 20, 85051 Ingolstadt",
+      "telefon": "+49 8450 690",
+      "enlem": "48.7109228",
+      "boylam": "11.4058535",
+      "mesafe": "26.2 km"
+    },
+    {
+      "eczaneAdi": "Marien-Apotheke",
+      "adres": "Schmidstr. 132, 86633 Neuburg a. d. Donau",
+      "telefon": "+49 8431 67350",
+      "enlem": "48.7359653",
+      "boylam": "11.1830015",
+      "mesafe": "28.5 km"
+    },
+    {
+      "eczaneAdi": "Sofien-Apotheke",
+      "adres": "Krankenhausstr. 1 A, 93333 Neustadt a. d. Donau",
+      "telefon": "+49 9445 446",
+      "enlem": "48.8070912",
+      "boylam": "11.763261",
+      "mesafe": "30.6 km"
+    },
+    {
+      "eczaneAdi": "Einhorn-Apotheke",
+      "adres": "Rosenstr. 3, 91781 Weißenburg",
+      "telefon": "+49 9141 2307",
+      "enlem": "49.0312463",
+      "boylam": "10.9713222",
+      "mesafe": "33.0 km"
+    },
+    {
+      "eczaneAdi": "Sophien-Apotheke",
+      "adres": "Riedenburger Str. 2, 93309 Kelheim",
+      "telefon": "+49 9441 2266",
+      "enlem": "48.9211124",
+      "boylam": "11.8739268",
+      "mesafe": "34.6 km"
+    },
+    {
+      "eczaneAdi": "Wolfsteiner-Apotheke",
+      "adres": "Schlosshof 3, 90602 Pyrbaum",
+      "telefon": "+49 9180 2188",
+      "enlem": "49.29719",
+      "boylam": "11.28506",
+      "mesafe": "39.9 km"
+    },
+    {
+      "eczaneAdi": "Schloß-Apotheke",
+      "adres": "Hauptstr. 6, 91154 Roth",
+      "telefon": "+49 9171 97320",
+      "enlem": "49.2452565",
+      "boylam": "11.0908386",
+      "mesafe": "40.3 km"
+    },
+    {
+      "eczaneAdi": "Stadt-Apotheke",
+      "adres": "Hauptstr. 14, 91174 Spalt",
+      "telefon": "+49 9175 77920",
+      "enlem": "49.1753931",
+      "boylam": "10.9251716",
+      "mesafe": "43.2 km"
+    },
+    {
+      "eczaneAdi": "Kreis-Apotheke am Volksfestplatz, Kreisapotheken OHG",
+      "adres": "Ingolstädter Str. 57, 85276 Pfaffenhofen a.d.Ilm",
+      "telefon": "+49 8441 490410",
+      "enlem": "48.5345441",
+      "boylam": "11.5081841",
+      "mesafe": "46.5 km"
+    }
+  ],
+  "Brandenburg": [
+    {
+      "eczaneAdi": "Askania-Apotheke",
+      "adres": "Berliner Straße 119, 16515 Oranienburg",
+      "telefon": "03301  / 543 80",
+      "enlem": "52.736035",
+      "boylam": "13.2412399",
+      "mesafe": "12.2 km"
+    },
+    {
+      "eczaneAdi": "Greifen-Apotheke",
+      "adres": "Amtswallstraße 1, 16792 Zehdenick",
+      "telefon": "+49 3307 310172",
+      "enlem": "52.9805621",
+      "boylam": "13.3339695",
+      "mesafe": "16.1 km"
+    },
+    {
+      "eczaneAdi": "Akazien Apotheke",
+      "adres": "Waldstraße 56, 16761 Hennigsdorf",
+      "telefon": "03302 800 655",
+      "enlem": "52.6471022",
+      "boylam": "13.1991106",
+      "mesafe": "22.3 km"
+    },
+    {
+      "eczaneAdi": "Steinbock Apotheke Schildow",
+      "adres": "Bahnhofstraße 5b, 16552 Mühlenbecker Land - OT Schildow",
+      "telefon": "+49 33056 270004",
+      "enlem": "52.6367557",
+      "boylam": "13.3749982",
+      "mesafe": "24.8 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Schönow",
+      "adres": "Dorfstraße 4, 16321 Bernau bei Berlin",
+      "telefon": "03338 / 704 230",
+      "enlem": "52.6763001",
+      "boylam": "13.5373192",
+      "mesafe": "27.2 km"
+    }
+  ],
   "Bremen": [
     {
       "eczaneAdi": "Albert Schweitzer Apotheke",
