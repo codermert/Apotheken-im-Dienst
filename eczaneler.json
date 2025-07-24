@@ -837,98 +837,8 @@
       "mesafe": "22.4 km"
     }
   ],
-  "Hessen": [
-    {
-      "eczaneAdi": "Schloss Apotheke",
-      "adres": "Rosengasse 2, 35305 Grünberg",
-      "telefon": "+49 6401 1231",
-      "enlem": "50.5926",
-      "boylam": "8.95962",
-      "mesafe": "5.2 km"
-    },
-    {
-      "eczaneAdi": "Schwanen-Apotheke",
-      "adres": "Gießener Str. 122, 35396 Gießen",
-      "telefon": "+49 641 51608",
-      "enlem": "50.60156",
-      "boylam": "8.70078",
-      "mesafe": "23.2 km"
-    },
-    {
-      "eczaneAdi": "Hirsch Apotheke",
-      "adres": "Wilhelm-Leuschner-Str. 2, 63697 Hirzenhain",
-      "telefon": "+49 6045 4564",
-      "enlem": "50.39146",
-      "boylam": "9.13515",
-      "mesafe": "25.3 km"
-    },
-    {
-      "eczaneAdi": "Hirsch Apotheke",
-      "adres": "Kanalstr. 6, 36341 Lauterbach",
-      "telefon": "+49 6641 96300",
-      "enlem": "50.63562",
-      "boylam": "9.39615",
-      "mesafe": "26.2 km"
-    },
-    {
-      "eczaneAdi": "Abronsius Apotheke",
-      "adres": "Schönbacher Strasse 10 A, 35274 Kirchhain",
-      "telefon": "+49 6422 4450",
-      "enlem": "50.81892",
-      "boylam": "8.86012",
-      "mesafe": "26.3 km"
-    }
-  ],
-  "Mecklenburg-Vorpommern": [
-    {
-      "eczaneAdi": "Bergring-Apotheke",
-      "adres": "Poggestraße 8, 17166 Teterow",
-      "telefon": "+49 3996 182971",
-      "enlem": "53.7767664",
-      "boylam": "12.5662726",
-      "mesafe": "0.7 km"
-    },
-    {
-      "eczaneAdi": "Schloss-Apotheke",
-      "adres": "Mühlenstr. 1, 18273 Güstrow",
-      "telefon": "+49 3843 682307",
-      "enlem": "53.7938495",
-      "boylam": "12.1770443",
-      "mesafe": "26.4 km"
-    },
-    {
-      "eczaneAdi": "Fontane-Apotheke",
-      "adres": "Lange Straße 55, 17192 Waren",
-      "telefon": "+49 3991 64270",
-      "enlem": "53.5142062",
-      "boylam": "12.686791",
-      "mesafe": "29.8 km"
-    },
-    {
-      "eczaneAdi": "Löwen-Apotheke",
-      "adres": "Mühlenstraße 30, 17109 Demmin",
-      "telefon": "+49 3998 223152",
-      "enlem": "53.90655",
-      "boylam": "13.04078",
-      "mesafe": "34.0 km"
-    },
-    {
-      "eczaneAdi": "Gehlsdorfer-Apotheke",
-      "adres": "Fährstr.7, 18147 Rostock",
-      "telefon": "+49 381 690417",
-      "enlem": "54.10143",
-      "boylam": "12.11923",
-      "mesafe": "47.2 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Mühlentor",
-      "adres": "Bahnhofstraße 2, 18507 Grimmen",
-      "telefon": "+49 38326 455440",
-      "enlem": "54.11176",
-      "boylam": "13.04009",
-      "mesafe": "48.5 km"
-    }
-  ],
+  "Hessen": [],
+  "Mecklenburg-Vorpommern": [],
   "Niedersachsen": [
     {
       "eczaneAdi": "Morsumer Apotheke",
@@ -979,7 +889,80 @@
       "mesafe": "27.0 km"
     }
   ],
-  "Rheinland-Pfalz": [],
+  "Rheinland-Pfalz": [
+    {
+      "eczaneAdi": "Kirchspiel Apotheke",
+      "adres": "Hunsrückstr. 34, 56865 Blankenrath",
+      "telefon": "+49 6545 337",
+      "enlem": "50.03703",
+      "boylam": "7.30264",
+      "mesafe": "9.3 km"
+    },
+    {
+      "eczaneAdi": "Rosen-Apotheke",
+      "adres": "Rhein-Mosel-Str. 50, 56281 Emmelshausen",
+      "telefon": "+49 6747 93040",
+      "enlem": "50.1559097",
+      "boylam": "7.5529005",
+      "mesafe": "28.5 km"
+    },
+    {
+      "eczaneAdi": "Altstadt-Apotheke",
+      "adres": "Feldstr. 7 a, 54516 Wittlich",
+      "telefon": "+49 6571 97700",
+      "enlem": "49.9858174",
+      "boylam": "6.8864444",
+      "mesafe": "30.6 km"
+    },
+    {
+      "eczaneAdi": "Kur-Apotheke",
+      "adres": "Marktplatz 2, 55566 Bad Sobernheim",
+      "telefon": "+49 6751 857980",
+      "enlem": "49.7846409",
+      "boylam": "7.6521207",
+      "mesafe": "30.9 km"
+    },
+    {
+      "eczaneAdi": "Hirsch-Apotheke",
+      "adres": "Hauptstr. 3, 54424 Thalfang",
+      "telefon": "+49 6504 91430",
+      "enlem": "49.7534955",
+      "boylam": "6.9974132",
+      "mesafe": "31.6 km"
+    },
+    {
+      "eczaneAdi": "Neue Apotheke am Holzmarkt",
+      "adres": "Dessauer Str. 1, 55545 Bad Kreuznach",
+      "telefon": "+49 671 28418365558",
+      "enlem": "49.848",
+      "boylam": "7.85358",
+      "mesafe": "40.7 km"
+    },
+    {
+      "eczaneAdi": "Adler-Apotheke",
+      "adres": "Hauptstr. 24, 67752 Wolfstein",
+      "telefon": "+49 6304 92210",
+      "enlem": "49.5830161",
+      "boylam": "7.6085462",
+      "mesafe": "46.4 km"
+    },
+    {
+      "eczaneAdi": "Adler-Apotheke",
+      "adres": "Bahnstr. 40, 56743 Mendig",
+      "telefon": "+49 2652 4400",
+      "enlem": "50.3709886",
+      "boylam": "7.2827651",
+      "mesafe": "46.5 km"
+    },
+    {
+      "eczaneAdi": "Taunus-Apotheke",
+      "adres": "Marienfelser Str. 12, 56357 Miehlen",
+      "telefon": "+49 6772 1593",
+      "enlem": "50.2289329",
+      "boylam": "7.8286422",
+      "mesafe": "48.1 km"
+    }
+  ],
   "Saarland": [
     {
       "eczaneAdi": "Marien-Apotheke",
