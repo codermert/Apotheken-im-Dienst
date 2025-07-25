@@ -37,46 +37,27 @@
             "anzahl": 8
         },
         "quota": {
-            "verwendet": "23344"
+            "verwendet": "25326"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Melchendorfer Apotheke",
+                    "name": "Sonnen-Apotheke",
                     "kammer": "lakt",
-                    "id": "524",
-                    "apo_id": "lakt524",
-                    "strasse": "Am Drosselberg 47",
-                    "plz": "99097",
+                    "id": "3900",
+                    "apo_id": "lakt3900",
+                    "strasse": "Leipziger Straße 78",
+                    "plz": "99085",
                     "ort": "Erfurt",
-                    "distanz": "6.0666252079400005",
-                    "longitude": "11.0761843",
-                    "latitude": "50.9503069",
-                    "telefon": "+49 361 4172096",
+                    "distanz": "9.71827647149",
+                    "longitude": "11.05341",
+                    "latitude": "50.98827",
+                    "telefon": "+49 361 6020493",
                     "fax": [],
                     "email": [],
-                    "startdatum": "24.07.2025",
+                    "startdatum": "25.07.2025",
                     "startzeit": "09:00",
-                    "enddatum": "25.07.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Delphin-Apotheke",
-                    "kammer": "lakt",
-                    "id": "503",
-                    "apo_id": "lakt503",
-                    "strasse": "Hermsdorfer Straße 4",
-                    "plz": "99099",
-                    "ort": "Erfurt",
-                    "distanz": "7.82386343784",
-                    "longitude": "11.0598792",
-                    "latitude": "50.9704011",
-                    "telefon": "+49 361 3458213",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "24.07.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "25.07.2025",
+                    "enddatum": "26.07.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -97,6 +78,25 @@
                     "startzeit": "08:00",
                     "enddatum": "26.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Nord-Apotheke",
+                    "kammer": "lakt",
+                    "id": "10",
+                    "apo_id": "lakt10",
+                    "strasse": "Moskauer Platz 14",
+                    "plz": "99091",
+                    "ort": "Erfurt",
+                    "distanz": "12.169224268879999",
+                    "longitude": "11.000043",
+                    "latitude": "51.008232",
+                    "telefon": "+49 361 7913116",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "25.07.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "26.07.2025",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Apotheke zur alten Post Lattmann Apotheken OHG",
