@@ -929,9 +929,220 @@
       "mesafe": "48.5 km"
     }
   ],
-  "Niedersachsen": [],
-  "Rheinland-Pfalz": [],
-  "Saarland": [],
+  "Niedersachsen": [
+    {
+      "eczaneAdi": "Morsumer Apotheke",
+      "adres": "Verdener Str. 19, 27321 Thedinghausen",
+      "telefon": "+49 4204 1611",
+      "enlem": "52.9571079",
+      "boylam": "9.0780221",
+      "mesafe": "13.0 km"
+    },
+    {
+      "eczaneAdi": "Weser-Apotheke",
+      "adres": "Verdener Str. 157, 28832 Achim",
+      "telefon": "+49 4202 979197",
+      "enlem": "52.9982893",
+      "boylam": "9.080738",
+      "mesafe": "17.6 km"
+    },
+    {
+      "eczaneAdi": "Eichen-Apotheke",
+      "adres": "Syker Str. 6, 27211 Bassum",
+      "telefon": "+49 4241 93370",
+      "enlem": "52.8499285",
+      "boylam": "8.7279971",
+      "mesafe": "23.5 km"
+    },
+    {
+      "eczaneAdi": "Bahnhof-Apotheke",
+      "adres": "Wilhelmstr. 19, 31582 Nienburg",
+      "telefon": "+49 5021 2232",
+      "enlem": "52.6437781",
+      "boylam": "9.2136038",
+      "mesafe": "23.7 km"
+    },
+    {
+      "eczaneAdi": "Apotheke 55 im Augenzentrum",
+      "adres": "Henry-Wetjen-Platz 3, 28844 Weyhe",
+      "telefon": "+49 421 83056800",
+      "enlem": "52.9875338",
+      "boylam": "8.8169272",
+      "mesafe": "24.0 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Viamiko",
+      "adres": "Alfred-Faust-Str. 3, 28277 Bremen",
+      "telefon": "+49 421 841340",
+      "enlem": "53.0335556",
+      "boylam": "8.8329553",
+      "mesafe": "27.0 km"
+    }
+  ],
+  "Rheinland-Pfalz": [
+    {
+      "eczaneAdi": "Kirchspiel Apotheke",
+      "adres": "Hunsrückstr. 34, 56865 Blankenrath",
+      "telefon": "+49 6545 337",
+      "enlem": "50.03703",
+      "boylam": "7.30264",
+      "mesafe": "9.3 km"
+    },
+    {
+      "eczaneAdi": "Rosen-Apotheke",
+      "adres": "Rhein-Mosel-Str. 50, 56281 Emmelshausen",
+      "telefon": "+49 6747 93040",
+      "enlem": "50.1559097",
+      "boylam": "7.5529005",
+      "mesafe": "28.5 km"
+    },
+    {
+      "eczaneAdi": "Altstadt-Apotheke",
+      "adres": "Feldstr. 7 a, 54516 Wittlich",
+      "telefon": "+49 6571 97700",
+      "enlem": "49.9858174",
+      "boylam": "6.8864444",
+      "mesafe": "30.6 km"
+    },
+    {
+      "eczaneAdi": "Kur-Apotheke",
+      "adres": "Marktplatz 2, 55566 Bad Sobernheim",
+      "telefon": "+49 6751 857980",
+      "enlem": "49.7846409",
+      "boylam": "7.6521207",
+      "mesafe": "30.9 km"
+    },
+    {
+      "eczaneAdi": "Hirsch-Apotheke",
+      "adres": "Hauptstr. 3, 54424 Thalfang",
+      "telefon": "+49 6504 91430",
+      "enlem": "49.7534955",
+      "boylam": "6.9974132",
+      "mesafe": "31.6 km"
+    },
+    {
+      "eczaneAdi": "Neue Apotheke am Holzmarkt",
+      "adres": "Dessauer Str. 1, 55545 Bad Kreuznach",
+      "telefon": "+49 671 28418365558",
+      "enlem": "49.848",
+      "boylam": "7.85358",
+      "mesafe": "40.7 km"
+    },
+    {
+      "eczaneAdi": "Adler-Apotheke",
+      "adres": "Hauptstr. 24, 67752 Wolfstein",
+      "telefon": "+49 6304 92210",
+      "enlem": "49.5830161",
+      "boylam": "7.6085462",
+      "mesafe": "46.4 km"
+    },
+    {
+      "eczaneAdi": "Adler-Apotheke",
+      "adres": "Bahnstr. 40, 56743 Mendig",
+      "telefon": "+49 2652 4400",
+      "enlem": "50.3709886",
+      "boylam": "7.2827651",
+      "mesafe": "46.5 km"
+    },
+    {
+      "eczaneAdi": "Taunus-Apotheke",
+      "adres": "Marienfelser Str. 12, 56357 Miehlen",
+      "telefon": "+49 6772 1593",
+      "enlem": "50.2289329",
+      "boylam": "7.8286422",
+      "mesafe": "48.1 km"
+    }
+  ],
+  "Saarland": [
+    {
+      "eczaneAdi": "Marien-Apotheke",
+      "adres": "Kirchplatz 2, 66571 Eppelborn",
+      "telefon": "06881/7128",
+      "enlem": "49.405948",
+      "boylam": "6.9664913",
+      "mesafe": "2.6 km"
+    },
+    {
+      "eczaneAdi": "Berg- und Hütten-Apotheke OHG",
+      "adres": "Saarbrücker Str. 58, 66299 Friedrichsthal",
+      "telefon": "06897/8215",
+      "enlem": "49.3215396",
+      "boylam": "7.0946256",
+      "mesafe": "12.4 km"
+    },
+    {
+      "eczaneAdi": "Glückauf-Apotheke",
+      "adres": "Saarbrücker Str. 267, 66125 Saarbrücken-Dudweiler",
+      "telefon": "06897/77075",
+      "enlem": "49.2773447",
+      "boylam": "7.0362306",
+      "mesafe": "13.3 km"
+    },
+    {
+      "eczaneAdi": "St. Josef-Apotheke",
+      "adres": "Dillinger Straße 59, 66763 Dillingen-Diefflen",
+      "telefon": "06831/9663639",
+      "enlem": "49.3714809",
+      "boylam": "6.7604526",
+      "mesafe": "14.1 km"
+    },
+    {
+      "eczaneAdi": "Marien-Apotheke",
+      "adres": "Kirchstraße 9, 66359 Bous",
+      "telefon": "06834/2300",
+      "enlem": "49.2756306",
+      "boylam": "6.7968808",
+      "mesafe": "16.6 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am kleinen Markt",
+      "adres": "An der Kirche 1, 66687 Wadern",
+      "telefon": "06871/9013-0",
+      "enlem": "49.5389",
+      "boylam": "6.88978",
+      "mesafe": "17.8 km"
+    },
+    {
+      "eczaneAdi": "Alte-Apotheke",
+      "adres": "Schloßstraße 12, 66606 St. Wendel",
+      "telefon": "06851/2341",
+      "enlem": "49.46753",
+      "boylam": "7.16988",
+      "mesafe": "18.2 km"
+    },
+    {
+      "eczaneAdi": "Engel-Apotheke",
+      "adres": "Talstraße 128, 66701 Beckingen",
+      "telefon": "06835/2435",
+      "enlem": "49.394082",
+      "boylam": "6.7007654",
+      "mesafe": "18.4 km"
+    },
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Marktplatz 10a, 66386 St. Ingbert-Hassel",
+      "telefon": "06894/956028",
+      "enlem": "49.2646766",
+      "boylam": "7.1634216",
+      "mesafe": "20.2 km"
+    },
+    {
+      "eczaneAdi": "Furpach-Apotheke",
+      "adres": "Ludwigsthaler Str. 9, 66539 Neunkirchen",
+      "telefon": "06821/31859",
+      "enlem": "49.3234271",
+      "boylam": "7.2186961",
+      "mesafe": "20.4 km"
+    },
+    {
+      "eczaneAdi": "Einhorn-Apotheke",
+      "adres": "Saargemünder Str. 165, 66130 Saarbrücken-Güdingen",
+      "telefon": "0681/872157",
+      "enlem": "49.2003937",
+      "boylam": "7.0281963",
+      "mesafe": "21.1 km"
+    }
+  ],
   "Sachsen": [
     {
       "eczaneAdi": "Löwen-Apotheke",
