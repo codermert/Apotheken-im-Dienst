@@ -12,7 +12,7 @@
             "lat": "",
             "lng": "",
             "plzort": "Mecklenburg-Vorpommern",
-            "radius": 45,
+            "radius": "25",
             "street": ""
         },
         "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
@@ -21,20 +21,39 @@
         "parameter": {
             "plzort": "Mecklenburg-Vorpommern",
             "strasse": [],
-            "radius": "45.0",
+            "radius": "25.0",
             "longitude": "12.5755471",
             "latitude": "53.773506399999995",
             "limit": [],
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 4
         },
         "quota": {
-            "verwendet": "55853"
+            "verwendet": "56628"
         },
         "apotheken": {
             "apotheke": [
+                {
+                    "name": "Apotheke am Park",
+                    "kammer": "akmv",
+                    "id": "177210",
+                    "apo_id": "akmv177210",
+                    "strasse": "Zu den Wiesen 9",
+                    "plz": "18279",
+                    "ort": "Lalendorf",
+                    "distanz": "12.7158404106",
+                    "longitude": "12.38463",
+                    "latitude": "53.75746",
+                    "telefon": "+49 38452 20592",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "25.07.2025",
+                    "startzeit": "18:00",
+                    "enddatum": "25.07.2025",
+                    "endzeit": "19:00"
+                },
                 {
                     "name": "Rats-Apotheke",
                     "kammer": "akmv",
@@ -55,6 +74,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Hubertus-Apotheke",
+                    "kammer": "akmv",
+                    "id": "172433",
+                    "apo_id": "akmv172433",
+                    "strasse": "Friedensstr. 29",
+                    "plz": "17179",
+                    "ort": "Gnoien",
+                    "distanz": "23.52636928311",
+                    "longitude": "12.7102512",
+                    "latitude": "53.9693156",
+                    "telefon": "+49 39971 1830",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "25.07.2025",
+                    "startzeit": "18:00",
+                    "enddatum": "25.07.2025",
+                    "endzeit": "20:00"
+                },
+                {
                     "name": "Südstadt-Apotheke",
                     "kammer": "akmv",
                     "id": "172875",
@@ -66,63 +104,6 @@
                     "longitude": "12.1759445",
                     "latitude": "53.7805327",
                     "telefon": "+49 3843 331011",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "25.07.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "26.07.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Löwen-Apotheke",
-                    "kammer": "akmv",
-                    "id": "172552",
-                    "apo_id": "akmv172552",
-                    "strasse": "Neuer Markt 21",
-                    "plz": "17192",
-                    "ort": "Waren",
-                    "distanz": "29.78151345126",
-                    "longitude": "12.6887047",
-                    "latitude": "53.5145093",
-                    "telefon": "+49 3991 666153",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "25.07.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "26.07.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Pommern-Apotheke",
-                    "kammer": "akmv",
-                    "id": "174779",
-                    "apo_id": "akmv174779",
-                    "strasse": "Adolf-Pompe-Str. 24",
-                    "plz": "17109",
-                    "ort": "Demmin",
-                    "distanz": "34.21744704441",
-                    "longitude": "13.04724",
-                    "latitude": "53.90266",
-                    "telefon": "+49 3998 362366",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "25.07.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "26.07.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Werft-Apotheke",
-                    "kammer": "akmv",
-                    "id": "178536",
-                    "apo_id": "akmv178536",
-                    "strasse": "Werftstraße 50",
-                    "plz": "18057",
-                    "ort": "Rostock",
-                    "distanz": "47.1012231396",
-                    "longitude": "12.1072119",
-                    "latitude": "54.0939816",
-                    "telefon": "+49 381 3754400",
                     "fax": [],
                     "email": [],
                     "startdatum": "25.07.2025",
