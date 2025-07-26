@@ -12,7 +12,7 @@
             "lat": "",
             "lng": "",
             "plzort": "Rheinland-Pfalz",
-            "radius": 65,
+            "radius": 45,
             "street": ""
         },
         "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
@@ -21,17 +21,17 @@
         "parameter": {
             "plzort": "Rheinland-Pfalz",
             "strasse": [],
-            "radius": "65.0",
+            "radius": "45.0",
             "longitude": "7.310645999999999",
             "latitude": "49.953159899999996",
             "limit": [],
             "datum": []
         },
         "statistik": {
-            "anzahl": 10
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "75783"
+            "verwendet": "88120"
         },
         "apotheken": {
             "apotheke": [
@@ -181,44 +181,6 @@
                     "latitude": "50.3564163",
                     "telefon": "+49 261 9882550",
                     "fax": "+49 261 98825555",
-                    "email": [],
-                    "startdatum": "26.07.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "27.07.2025",
-                    "endzeit": "08:30"
-                },
-                {
-                    "name": "Apotheke Tarforst",
-                    "kammer": "lakrlp",
-                    "id": "22451",
-                    "apo_id": "lakrlp22451",
-                    "strasse": "Augustinusstr. 5",
-                    "plz": "54296",
-                    "ort": "Trier",
-                    "distanz": "50.23395408399",
-                    "longitude": "6.6957832",
-                    "latitude": "49.7389358",
-                    "telefon": "+49 651 10478",
-                    "fax": "+49 651 9990644",
-                    "email": [],
-                    "startdatum": "26.07.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "27.07.2025",
-                    "endzeit": "08:30"
-                },
-                {
-                    "name": "Johannis-Apotheke",
-                    "kammer": "lakrlp",
-                    "id": "21938",
-                    "apo_id": "lakrlp21938",
-                    "strasse": "Langgasse 26",
-                    "plz": "55435",
-                    "ort": "Gau-Algesheim",
-                    "distanz": "50.539627492890006",
-                    "longitude": "8.0148788",
-                    "latitude": "49.9579078",
-                    "telefon": "+49 6725 2228",
-                    "fax": "+49 6725 5719",
                     "email": [],
                     "startdatum": "26.07.2025",
                     "startzeit": "08:30",
