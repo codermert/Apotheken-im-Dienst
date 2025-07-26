@@ -823,56 +823,7 @@
       "mesafe": "24.8 km"
     }
   ],
-  "Mecklenburg-Vorpommern": [
-    {
-      "eczaneAdi": "Rats-Apotheke",
-      "adres": "Am Markt 11, 17139 Malchin",
-      "telefon": "+49 3994 222311",
-      "enlem": "53.7389999",
-      "boylam": "12.7634187",
-      "mesafe": "13.0 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Distelberg",
-      "adres": "Am Eicheneck 6, 18273 Güstrow",
-      "telefon": "+49 3843 212068",
-      "enlem": "53.809078",
-      "boylam": "12.1891445",
-      "mesafe": "25.8 km"
-    },
-    {
-      "eczaneAdi": "Linden-Apotheke",
-      "adres": "Goethestr. 48-51, 17192 Waren",
-      "telefon": "+49 3991 731932",
-      "enlem": "53.5188383",
-      "boylam": "12.677138",
-      "mesafe": "29.1 km"
-    },
-    {
-      "eczaneAdi": "Pommern-Apotheke",
-      "adres": "Adolf-Pompe-Str. 24, 17109 Demmin",
-      "telefon": "+49 3998 362366",
-      "enlem": "53.90266",
-      "boylam": "13.04724",
-      "mesafe": "34.2 km"
-    },
-    {
-      "eczaneAdi": "Fritz-Reuter-Apotheke",
-      "adres": "Doberaner Str. 43 b, 18057 Rostock",
-      "telefon": "+49 381 4932220",
-      "enlem": "54.0909952",
-      "boylam": "12.1149844",
-      "mesafe": "46.5 km"
-    },
-    {
-      "eczaneAdi": "Ahorn-Apotheke",
-      "adres": "S.-Allende-Str. 28, 18147 Rostock",
-      "telefon": "+49 381 699630",
-      "enlem": "54.1150976",
-      "boylam": "12.1451768",
-      "mesafe": "47.4 km"
-    }
-  ],
+  "Mecklenburg-Vorpommern": [],
   "Niedersachsen": [
     {
       "eczaneAdi": "Bären-Apotheke",
@@ -923,72 +874,7 @@
       "mesafe": "26.4 km"
     }
   ],
-  "Rheinland-Pfalz": [
-    {
-      "eczaneAdi": "Neue Apotheke",
-      "adres": "Hauptstr. 16, 55487 Sohren",
-      "telefon": "+49 6543 818410",
-      "enlem": "49.9325797",
-      "boylam": "7.309469",
-      "mesafe": "2.3 km"
-    },
-    {
-      "eczaneAdi": "Marien-Apotheke",
-      "adres": "Rathausstr. 1, 55430 Oberwesel",
-      "telefon": "+49 6744 94070",
-      "enlem": "50.1075882",
-      "boylam": "7.7263424",
-      "mesafe": "34.4 km"
-    },
-    {
-      "eczaneAdi": "Nahetal-Apotheke OHG",
-      "adres": "Ludwig-Kientzler-Straße 5, 55543 Bad Kreuznach",
-      "telefon": "+49 800 6388000",
-      "enlem": "49.8487639",
-      "boylam": "7.8892094",
-      "mesafe": "43.2 km"
-    },
-    {
-      "eczaneAdi": "Hubertus-Apotheke",
-      "adres": "Mayener Str. 6, 53539 Kelberg",
-      "telefon": "+49 2692 381",
-      "enlem": "50.2848528",
-      "boylam": "6.9199797",
-      "mesafe": "46.3 km"
-    },
-    {
-      "eczaneAdi": "Engel-Apotheke",
-      "adres": "Trierer Str. 12, 66869 Kusel",
-      "telefon": "+49 6381 2032",
-      "enlem": "49.5381609",
-      "boylam": "7.401762",
-      "mesafe": "46.6 km"
-    },
-    {
-      "eczaneAdi": "Kylltal-Apotheke",
-      "adres": "An der Ehranger Mühle 10, 54293 Trier",
-      "telefon": "+49 651 69825",
-      "enlem": "49.8084667",
-      "boylam": "6.6858877",
-      "mesafe": "47.7 km"
-    },
-    {
-      "eczaneAdi": "Pellenz-Apotheke",
-      "adres": "Bahnhofstr. 35, 56637 Plaidt",
-      "telefon": "+49 2632 953100",
-      "enlem": "50.3916004",
-      "boylam": "7.3913232",
-      "mesafe": "49.1 km"
-    },
-    {
-      "eczaneAdi": "Schloß-Apotheke",
-      "adres": "Schloßstr. 17, 56068 Koblenz",
-      "telefon": "+49 261 9882550",
-      "enlem": "50.3564163",
-      "boylam": "7.5964762",
-      "mesafe": "49.3 km"
-    }
-  ],
+  "Rheinland-Pfalz": [],
   "Saarland": [
     {
       "eczaneAdi": "Glückauf-Apotheke",
@@ -1187,7 +1073,48 @@
       "mesafe": "27.5 km"
     }
   ],
-  "Schleswig-Holstein": [],
+  "Schleswig-Holstein": [
+    {
+      "eczaneAdi": "Apotheke am Westensee",
+      "adres": "Hasselrader Weg 2, 24242 Felde",
+      "telefon": "+49 4340 8900",
+      "enlem": "54.304",
+      "boylam": "9.93686",
+      "mesafe": "15.2 km"
+    },
+    {
+      "eczaneAdi": "Parkcenter-Einhorn-Apotheke",
+      "adres": "Christianstr. 20, 24534 Neumünster",
+      "telefon": "+49 4321 94990",
+      "enlem": "54.07579",
+      "boylam": "9.9864",
+      "mesafe": "16.3 km"
+    },
+    {
+      "eczaneAdi": "Fockbeker-Apotheke",
+      "adres": "Rendsburger Str. 19, 24787 Fockbek",
+      "telefon": "04331-61404",
+      "enlem": "54.3081568",
+      "boylam": "9.6083364",
+      "mesafe": "19.5 km"
+    },
+    {
+      "eczaneAdi": "Citti-Park Apotheke",
+      "adres": "Mühlendamm 1, 24113 Kiel",
+      "telefon": "0431-2403630",
+      "enlem": "54.3126897",
+      "boylam": "10.0989206",
+      "mesafe": "22.9 km"
+    },
+    {
+      "eczaneAdi": "Brunnen-Apotheke",
+      "adres": "Blücherplatz 16, 24105 Kiel",
+      "telefon": "0431-801903",
+      "enlem": "54.3421719",
+      "boylam": "10.1384292",
+      "mesafe": "27.0 km"
+    }
+  ],
   "Thüringen": [
     {
       "eczaneAdi": "Theater-Apotheke",
