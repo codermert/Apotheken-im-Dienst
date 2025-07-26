@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "29598"
+            "verwendet": "31888"
         },
         "apotheken": {
             "apotheke": [
@@ -1291,6 +1291,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Spitzweg Apotheke (im Kaufland)",
+                    "kammer": "aknds",
+                    "id": "1684",
+                    "apo_id": "aknds1684",
+                    "strasse": "Stedinger Str. 101",
+                    "plz": "27753",
+                    "ort": "Delmenhorst",
+                    "distanz": "10.20032902012",
+                    "longitude": "8.6305287",
+                    "latitude": "53.0613418",
+                    "telefon": "+49 4221 588225",
+                    "fax": "+49 4221 588224",
+                    "email": [],
+                    "startdatum": "26.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "27.07.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Bahnhof-Apotheke",
                     "kammer": "akbr",
                     "id": "10021",
@@ -1310,22 +1329,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke am Markt",
+                    "name": "Apotheke Bookholzberg",
                     "kammer": "aknds",
-                    "id": "1672",
-                    "apo_id": "aknds1672",
-                    "strasse": "Lange Str. 103",
-                    "plz": "27749",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.52589507321",
-                    "longitude": "8.6294854",
-                    "latitude": "53.0486716",
-                    "telefon": "+49 4221 13739",
-                    "fax": "+49 4221 13759",
+                    "id": "1752",
+                    "apo_id": "aknds1752",
+                    "strasse": "Stedinger Str. 63",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "12.15097528613",
+                    "longitude": "8.530713",
+                    "latitude": "53.0962681",
+                    "telefon": "+49 4223 3070",
+                    "fax": "+49 4223 1332",
                     "email": [],
-                    "startdatum": "25.07.2025",
+                    "startdatum": "26.07.2025",
                     "startzeit": "08:30",
-                    "enddatum": "26.07.2025",
+                    "enddatum": "27.07.2025",
                     "endzeit": "08:30"
                 },
                 {
