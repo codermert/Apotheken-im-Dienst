@@ -825,14 +825,6 @@
       "mesafe": "13.0 km"
     },
     {
-      "eczaneAdi": "Hubertus-Apotheke",
-      "adres": "Friedensstr. 29, 17179 Gnoien",
-      "telefon": "+49 39971 1830",
-      "enlem": "53.9693156",
-      "boylam": "12.7102512",
-      "mesafe": "23.5 km"
-    },
-    {
       "eczaneAdi": "Apotheke am Wall",
       "adres": "Hageböcker Str. 19, 18273 Güstrow",
       "telefon": "+49 3843 684096",
@@ -857,36 +849,12 @@
       "mesafe": "34.0 km"
     },
     {
-      "eczaneAdi": "Birkholz-Apotheke",
-      "adres": "Clara-Zetkin-Ring 24, 17213 Malchow",
-      "telefon": "+49 39932 13365",
-      "enlem": "53.4744646",
-      "boylam": "12.4206711",
-      "mesafe": "34.8 km"
-    },
-    {
-      "eczaneAdi": "Schwanen-Apotheke",
-      "adres": "EKZ Mühlenteichplatz, 18258 Schwaan",
-      "telefon": "+49 3844 814219",
-      "enlem": "53.939859",
-      "boylam": "12.1076632",
-      "mesafe": "35.9 km"
-    },
-    {
       "eczaneAdi": "Recknitztal-Apotheke",
       "adres": "Am Markt 15, 18334 Bad Sülze",
       "telefon": "+49 38229 7020",
       "enlem": "54.1101836",
       "boylam": "12.660129",
       "mesafe": "37.9 km"
-    },
-    {
-      "eczaneAdi": "Plawe-Apotheke",
-      "adres": "Steinstr. 42, 19395 Plau",
-      "telefon": "+49 38735 42196",
-      "enlem": "53.4588403",
-      "boylam": "12.2617275",
-      "mesafe": "40.7 km"
     },
     {
       "eczaneAdi": "Apotheke am Doberaner Platz",
@@ -1259,7 +1227,64 @@
       "mesafe": "18.7 km"
     }
   ],
-  "Schleswig-Holstein": [],
+  "Schleswig-Holstein": [
+    {
+      "eczaneAdi": "Delphin-Apotheke",
+      "adres": "Hürsland 96, 24536 Neumünster",
+      "telefon": "04321-939121",
+      "enlem": "54.098726",
+      "boylam": "9.995913",
+      "mesafe": "14.9 km"
+    },
+    {
+      "eczaneAdi": "Klauder Apotheken oHG Sonnen-Apotheke",
+      "adres": "Königstr. 18, 24768 Rendsburg",
+      "telefon": "04331-14050",
+      "enlem": "54.298015",
+      "boylam": "9.6648405",
+      "mesafe": "16.2 km"
+    },
+    {
+      "eczaneAdi": "Sonnen-Apotheke",
+      "adres": "Hegereiterweg 2a, 24220 Flintbek",
+      "telefon": "04347-3263",
+      "enlem": "54.2384436",
+      "boylam": "10.0639012",
+      "mesafe": "16.8 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Freilichtmuseum",
+      "adres": "Am Museum 1a, 24113 Molfsee",
+      "telefon": "0431-651488",
+      "enlem": "54.2746616",
+      "boylam": "10.0743765",
+      "mesafe": "19.2 km"
+    },
+    {
+      "eczaneAdi": "Center Apotheke",
+      "adres": "Neumünsterstr. 51, 24598 Boostedt",
+      "telefon": "+49 4393 9791818",
+      "enlem": "54.014404",
+      "boylam": "10.0158559",
+      "mesafe": "22.9 km"
+    },
+    {
+      "eczaneAdi": "Ansgar-Apotheke",
+      "adres": "Holtenauer Str. 77, 24105 Kiel",
+      "telefon": "0431-565050",
+      "enlem": "54.334704",
+      "boylam": "10.1328341",
+      "mesafe": "26.2 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Andreas-Hofer-Platz",
+      "adres": "Andreas-Hofer-Platz 10, 24147 Kiel",
+      "telefon": "0431-781009",
+      "enlem": "54.2986169",
+      "boylam": "10.182575",
+      "mesafe": "26.7 km"
+    }
+  ],
   "Thüringen": [
     {
       "eczaneAdi": "Wilhelm-Hey-Apotheke",
