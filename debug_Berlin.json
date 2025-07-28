@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 31
+            "anzahl": 32
         },
         "quota": {
-            "verwendet": "22059"
+            "verwendet": "23884"
         },
         "apotheken": {
             "apotheke": [
@@ -5705,25 +5705,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Sonnen Apotheke",
-                    "kammer": "lakbb",
-                    "id": "211",
-                    "apo_id": "lakbb211",
-                    "strasse": "Potsdamer Straße 48",
-                    "plz": "14513",
-                    "ort": "Teltow",
-                    "distanz": "15.593748884290001",
-                    "longitude": "13.25726",
-                    "latitude": "52.40225",
-                    "telefon": "03328 303963",
-                    "fax": "03328 303964",
-                    "email": "sonnenapotheke-mitarbeiter@t-online.de",
-                    "startdatum": "27.07.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "28.07.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Sonnenhut Apotheke",
                     "kammer": "akb",
                     "id": "100669",
@@ -5741,6 +5722,25 @@
                     "startzeit": "09:00",
                     "enddatum": "28.07.2025",
                     "endzeit": "08:59"
+                },
+                {
+                    "name": "Apotheke Kleinmachnow",
+                    "kammer": "lakbb",
+                    "id": "286",
+                    "apo_id": "lakbb286",
+                    "strasse": "Ernst-Thälmann-Straße 88 a",
+                    "plz": "14532",
+                    "ort": "Kleinmachnow",
+                    "distanz": "15.94184176161",
+                    "longitude": "13.22614",
+                    "latitude": "52.41385",
+                    "telefon": "+49 33203 22263",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "28.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "29.07.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Apotheke in Nikolassee",
@@ -5762,41 +5762,41 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Havel-Apotheke",
+                    "name": "Neue Apotheke",
                     "kammer": "lakbb",
-                    "id": "169",
-                    "apo_id": "lakbb169",
-                    "strasse": "Berliner Straße 25",
-                    "plz": "16761",
-                    "ort": "Hennigsdorf",
-                    "distanz": "18.67261396079",
-                    "longitude": "13.2058259",
-                    "latitude": "52.6424369",
-                    "telefon": "+49 3302 800896",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "27.07.2025",
+                    "id": "403",
+                    "apo_id": "lakbb403",
+                    "strasse": "Trebbiner Straße 19",
+                    "plz": "15831",
+                    "ort": "Blankenfelde-Mahlow - OT Mahlow",
+                    "distanz": "17.42632296352",
+                    "longitude": "13.4114011",
+                    "latitude": "52.3610386",
+                    "telefon": "03379  / 360 061",
+                    "fax": "03379  / 360 063",
+                    "email": "info@neue-apotheke-mahlow.de",
+                    "startdatum": "28.07.2025",
                     "startzeit": "08:00",
-                    "enddatum": "28.07.2025",
+                    "enddatum": "29.07.2025",
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Steinbock Apotheke Bernau",
+                    "name": "Bergfelder Apotheke",
                     "kammer": "lakbb",
-                    "id": "439",
-                    "apo_id": "lakbb439",
-                    "strasse": "Berliner Straße 69",
-                    "plz": "16321",
-                    "ort": "Bernau bei Berlin",
-                    "distanz": "22.25259736303",
-                    "longitude": "13.5855667",
-                    "latitude": "52.6771663",
-                    "telefon": "+49 3338 769452",
+                    "id": "541",
+                    "apo_id": "lakbb541",
+                    "strasse": "Birkenwerder Straße 4",
+                    "plz": "16562",
+                    "ort": "Hohen Neuendorf - OT Bergfelde",
+                    "distanz": "18.10468792344",
+                    "longitude": "13.316764",
+                    "latitude": "52.673698",
+                    "telefon": "+49 3303 5095350",
                     "fax": [],
                     "email": [],
-                    "startdatum": "27.07.2025",
+                    "startdatum": "28.07.2025",
                     "startzeit": "08:00",
-                    "enddatum": "28.07.2025",
+                    "enddatum": "29.07.2025",
                     "endzeit": "08:00"
                 }
             ]
