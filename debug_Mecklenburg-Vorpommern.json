@@ -12,7 +12,7 @@
             "lat": "",
             "lng": "",
             "plzort": "Mecklenburg-Vorpommern",
-            "radius": 45,
+            "radius": 65,
             "street": ""
         },
         "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
@@ -21,17 +21,17 @@
         "parameter": {
             "plzort": "Mecklenburg-Vorpommern",
             "strasse": [],
-            "radius": "45.0",
+            "radius": "65.0",
             "longitude": "12.5755471",
             "latitude": "53.773506399999995",
             "limit": [],
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "129106"
+            "verwendet": "129904"
         },
         "apotheken": {
             "apotheke": [
@@ -123,6 +123,82 @@
                     "longitude": "12.07688",
                     "latitude": "54.10064",
                     "telefon": "+49 381 8096280",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "29.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "30.07.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Heide-Apotheke",
+                    "kammer": "akmv",
+                    "id": "175986",
+                    "apo_id": "akmv175986",
+                    "strasse": "Birkenstrat 25",
+                    "plz": "18182",
+                    "ort": "Rövershagen",
+                    "distanz": "49.92691393334",
+                    "longitude": "12.2356173",
+                    "latitude": "54.1748168",
+                    "telefon": "+49 38202 432271",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "29.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "30.07.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke zu den Hellbergen",
+                    "kammer": "akmv",
+                    "id": "170070",
+                    "apo_id": "akmv170070",
+                    "strasse": "Seminarstraße 1",
+                    "plz": "18461",
+                    "ort": "Franzburg",
+                    "distanz": "50.2566848166",
+                    "longitude": "12.8789144",
+                    "latitude": "54.1881154",
+                    "telefon": "+49 38322 719",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "29.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "30.07.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Scheele-Apotheke",
+                    "kammer": "akmv",
+                    "id": "171991",
+                    "apo_id": "akmv171991",
+                    "strasse": "Turmstraße 27",
+                    "plz": "17033",
+                    "ort": "Neubrandenburg",
+                    "distanz": "51.5644877953",
+                    "longitude": "13.26559",
+                    "latitude": "53.55741",
+                    "telefon": "+49 395 5822135",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "29.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "30.07.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke 24 am Boulevard Lütten Klein",
+                    "kammer": "akmv",
+                    "id": "178162",
+                    "apo_id": "akmv178162",
+                    "strasse": "St.-Petersburger-Straße 18 B",
+                    "plz": "18107",
+                    "ort": "Rostock",
+                    "distanz": "53.07057414569",
+                    "longitude": "12.0564982",
+                    "latitude": "54.1390694",
+                    "telefon": "+49 381 4405075",
                     "fax": [],
                     "email": [],
                     "startdatum": "29.07.2025",
