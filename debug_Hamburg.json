@@ -3194,7 +3194,7 @@
             "anzahl": 14
         },
         "quota": {
-            "verwendet": "29207"
+            "verwendet": "31796"
         },
         "apotheken": {
             "apotheke": [
@@ -3351,25 +3351,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Fleester Markt-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1422",
-                    "apo_id": "aknds1422",
-                    "strasse": "Fleestedter Ring 3",
-                    "plz": "21217",
-                    "ort": "Seevetal",
-                    "distanz": "15.66174434329",
-                    "longitude": "9.9902759",
-                    "latitude": "53.4097548",
-                    "telefon": "+49 4105 4385",
-                    "fax": "+49 4105 3430",
-                    "email": [],
-                    "startdatum": "28.07.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "29.07.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Erlen-Apotheke",
                     "kammer": "aksh",
                     "id": "10602",
@@ -3444,6 +3425,25 @@
                     "startzeit": "08:00",
                     "enddatum": "30.07.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "wir leben-Apotheke im Luhepark",
+                    "kammer": "aknds",
+                    "id": "6737",
+                    "apo_id": "aknds6737",
+                    "strasse": "Löhnfeld 10",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "24.61644853109",
+                    "longitude": "10.1955",
+                    "latitude": "53.3622",
+                    "telefon": "+49 4171 605770",
+                    "fax": "+49 4171 6057719",
+                    "email": [],
+                    "startdatum": "29.07.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "30.07.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Stadt-Apotheke",
