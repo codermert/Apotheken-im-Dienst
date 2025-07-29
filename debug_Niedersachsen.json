@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 4
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "28545"
+            "verwendet": "29439"
         },
         "apotheken": {
             "apotheke": [
@@ -55,6 +55,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Burg-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1023",
+                    "apo_id": "aknds1023",
+                    "strasse": "Mühlenstr. 16",
+                    "plz": "27254",
+                    "ort": "Siedenburg",
+                    "distanz": "18.709256427939998",
+                    "longitude": "8.9405518",
+                    "latitude": "52.6931561",
+                    "telefon": "+49 4272 1415",
+                    "fax": "+49 4272 1895",
+                    "email": [],
+                    "startdatum": "29.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "30.07.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Hansa-Apotheke",
                     "kammer": "aknds",
                     "id": "1117",
@@ -74,6 +93,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Eichen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "954",
+                    "apo_id": "aknds954",
+                    "strasse": "Verdener Landstr. 134",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "22.105350231280003",
+                    "longitude": "9.2215718",
+                    "latitude": "52.66194",
+                    "telefon": "+49 5021 18831",
+                    "fax": "+49 5021 64644",
+                    "email": [],
+                    "startdatum": "29.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "30.07.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Lindenmarkt-Apotheke",
                     "kammer": "aknds",
                     "id": "526",
@@ -91,25 +129,6 @@
                     "startzeit": "08:30",
                     "enddatum": "29.07.2025",
                     "endzeit": "08:30"
-                },
-                {
-                    "name": "Apotheke am Goetheplatz",
-                    "kammer": "aknds",
-                    "id": "961",
-                    "apo_id": "aknds961",
-                    "strasse": "Goetheplatz 6",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "23.774463096319998",
-                    "longitude": "9.2096738",
-                    "latitude": "52.6422229",
-                    "telefon": "+49 5021 13100",
-                    "fax": "+49 5021 910919",
-                    "email": [],
-                    "startdatum": "28.07.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "29.07.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }
