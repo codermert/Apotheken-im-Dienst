@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "19193"
+            "verwendet": "19925"
         },
         "apotheken": {
             "apotheke": [
@@ -93,25 +93,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Burg-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1023",
-                    "apo_id": "aknds1023",
-                    "strasse": "Mühlenstr. 16",
-                    "plz": "27254",
-                    "ort": "Siedenburg",
-                    "distanz": "18.709256427939998",
-                    "longitude": "8.9405518",
-                    "latitude": "52.6931561",
-                    "telefon": "+49 4272 1415",
-                    "fax": "+49 4272 1895",
-                    "email": [],
-                    "startdatum": "29.07.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "30.07.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Schloss Apotheke Syke am famila",
                     "kammer": "aknds",
                     "id": "6230",
@@ -131,22 +112,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Eichen-Apotheke",
+                    "name": "Apotheke Erichshagen",
                     "kammer": "aknds",
-                    "id": "954",
-                    "apo_id": "aknds954",
-                    "strasse": "Verdener Landstr. 134",
+                    "id": "962",
+                    "apo_id": "aknds962",
+                    "strasse": "Celler Str. 62",
                     "plz": "31582",
                     "ort": "Nienburg",
-                    "distanz": "22.105350231280003",
-                    "longitude": "9.2215718",
-                    "latitude": "52.66194",
-                    "telefon": "+49 5021 18831",
-                    "fax": "+49 5021 64644",
+                    "distanz": "22.87586663499",
+                    "longitude": "9.2267429",
+                    "latitude": "52.6557705",
+                    "telefon": "+49 5021 63938",
+                    "fax": "+49 5021 961008",
                     "email": [],
-                    "startdatum": "29.07.2025",
+                    "startdatum": "30.07.2025",
                     "startzeit": "08:00",
-                    "enddatum": "30.07.2025",
+                    "enddatum": "31.07.2025",
                     "endzeit": "08:00"
                 }
             ]
