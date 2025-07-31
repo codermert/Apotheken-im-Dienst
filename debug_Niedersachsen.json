@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 7
         },
         "quota": {
-            "verwendet": "21904"
+            "verwendet": "22296"
         },
         "apotheken": {
             "apotheke": [
@@ -74,25 +74,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke Erichshagen",
-                    "kammer": "aknds",
-                    "id": "962",
-                    "apo_id": "aknds962",
-                    "strasse": "Celler Str. 62",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "22.87586663499",
-                    "longitude": "9.2267429",
-                    "latitude": "52.6557705",
-                    "telefon": "+49 5021 63938",
-                    "fax": "+49 5021 961008",
-                    "email": [],
-                    "startdatum": "30.07.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "31.07.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Apotheke im Gesundheitszentrum",
                     "kammer": "aknds",
                     "id": "527",
@@ -129,6 +110,44 @@
                     "startzeit": "09:00",
                     "enddatum": "31.07.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Meerbach-Apotheke",
+                    "kammer": "aknds",
+                    "id": "964",
+                    "apo_id": "aknds964",
+                    "strasse": "Ziegelkampstr. 37",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "24.92702017755",
+                    "longitude": "9.223937",
+                    "latitude": "52.6346479",
+                    "telefon": "+49 5021 888740",
+                    "fax": "+49 5021 888745",
+                    "email": [],
+                    "startdatum": "31.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "01.08.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Brunnen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1061",
+                    "apo_id": "aknds1061",
+                    "strasse": "Lange Str. 9",
+                    "plz": "27232",
+                    "ort": "Sulingen",
+                    "distanz": "25.00528910764",
+                    "longitude": "8.8111754",
+                    "latitude": "52.6827223",
+                    "telefon": "+49 4271 93300",
+                    "fax": "+49 4271 933035",
+                    "email": [],
+                    "startdatum": "31.07.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "01.08.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Engel-Apotheke",
