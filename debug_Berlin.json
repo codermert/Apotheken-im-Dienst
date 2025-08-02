@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 36
+            "anzahl": 40
         },
         "quota": {
-            "verwendet": "23484"
+            "verwendet": "25283"
         },
         "apotheken": {
             "apotheke": [
@@ -5743,6 +5743,44 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Neue Roland Apotheke",
+                    "kammer": "lakbb",
+                    "id": "537",
+                    "apo_id": "lakbb537",
+                    "strasse": "Oranienburger Chaussee 17",
+                    "plz": "16548",
+                    "ort": "Glienicke/Nordbahn",
+                    "distanz": "14.00161131402",
+                    "longitude": "13.30969",
+                    "latitude": "52.63325",
+                    "telefon": "033056 94500",
+                    "fax": "033056 94501",
+                    "email": "info@neue-roland-apotheke.de",
+                    "startdatum": "02.08.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "03.08.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Kaufpark Apotheke",
+                    "kammer": "lakbb",
+                    "id": "459",
+                    "apo_id": "lakbb459",
+                    "strasse": "Landsberger Chaussee 17",
+                    "plz": "16356",
+                    "ort": "Ahrensfelde - OT Eiche-Süd",
+                    "distanz": "14.706543724700001",
+                    "longitude": "13.5988534",
+                    "latitude": "52.5497144",
+                    "telefon": "+49 30 9989607",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "02.08.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "03.08.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Falken-Apotheke",
                     "kammer": "akb",
                     "id": "100728",
@@ -5754,44 +5792,6 @@
                     "longitude": "13.1773055",
                     "latitude": "52.5475316",
                     "telefon": "+49 30 3722090",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "01.08.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "02.08.2025",
-                    "endzeit": "08:59"
-                },
-                {
-                    "name": "Kastanien Apotheke",
-                    "kammer": "akb",
-                    "id": "100277",
-                    "apo_id": "akb100277",
-                    "strasse": "Stendaler Str. 20-24",
-                    "plz": "12627",
-                    "ort": "Berlin",
-                    "distanz": "14.86656270389",
-                    "longitude": "13.6051908",
-                    "latitude": "52.5380285",
-                    "telefon": "+49 30 9939169",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "01.08.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "02.08.2025",
-                    "endzeit": "08:59"
-                },
-                {
-                    "name": "Pharmland Apotheke Köpenick",
-                    "kammer": "akb",
-                    "id": "110510",
-                    "apo_id": "akb110510",
-                    "strasse": "Friedrichshagener Str. 38-42",
-                    "plz": "12555",
-                    "ort": "Berlin",
-                    "distanz": "15.233750876710001",
-                    "longitude": "13.5866245",
-                    "latitude": "52.4525007",
-                    "telefon": "+49 30 65076005",
                     "fax": [],
                     "email": [],
                     "startdatum": "01.08.2025",
