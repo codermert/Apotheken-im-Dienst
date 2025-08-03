@@ -1267,7 +1267,7 @@
             "anzahl": 11
         },
         "quota": {
-            "verwendet": "50526"
+            "verwendet": "66805"
         },
         "apotheken": {
             "apotheke": [
@@ -1329,44 +1329,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Pluspunkt Apotheke Delmenhorst",
-                    "kammer": "aknds",
-                    "id": "1669",
-                    "apo_id": "aknds1669",
-                    "strasse": "Lange Str. 108",
-                    "plz": "27749",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.501539801749999",
-                    "longitude": "8.6292516",
-                    "latitude": "53.0489636",
-                    "telefon": "+49 4221 151514",
-                    "fax": "+49 4221 151515",
-                    "email": [],
-                    "startdatum": "02.08.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "03.08.2025",
-                    "endzeit": "08:30"
-                },
-                {
-                    "name": "Apotheke Bookholzberg",
-                    "kammer": "aknds",
-                    "id": "1752",
-                    "apo_id": "aknds1752",
-                    "strasse": "Stedinger Str. 63",
-                    "plz": "27777",
-                    "ort": "Ganderkesee",
-                    "distanz": "12.15097528613",
-                    "longitude": "8.530713",
-                    "latitude": "53.0962681",
-                    "telefon": "+49 4223 3070",
-                    "fax": "+49 4223 1332",
-                    "email": [],
-                    "startdatum": "02.08.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "03.08.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "St.-Jürgen-Apotheke",
                     "kammer": "akbr",
                     "id": "10171",
@@ -1384,6 +1346,25 @@
                     "startzeit": "09:00",
                     "enddatum": "03.08.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Polaris-Apotheke-Hasport",
+                    "kammer": "aknds",
+                    "id": "6902",
+                    "apo_id": "aknds6902",
+                    "strasse": "Hasporter Damm 166",
+                    "plz": "27755",
+                    "ort": "Delmenhorst",
+                    "distanz": "12.727373871760001",
+                    "longitude": "8.6511508",
+                    "latitude": "53.0333463",
+                    "telefon": "+49 4221 2927078",
+                    "fax": "+49 4221 2926171",
+                    "email": [],
+                    "startdatum": "03.08.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "04.08.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Rats-Apotheke",
@@ -1422,6 +1403,25 @@
                     "startzeit": "09:00",
                     "enddatum": "03.08.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Apotheke am famila",
+                    "kammer": "aknds",
+                    "id": "6801",
+                    "apo_id": "aknds6801",
+                    "strasse": "Markt 5",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.77459148283",
+                    "longitude": "8.54525",
+                    "latitude": "53.03462",
+                    "telefon": "+49 4222 9473270",
+                    "fax": "+49 4222 9473271",
+                    "email": [],
+                    "startdatum": "03.08.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "04.08.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Waldecksche Apotheke",
