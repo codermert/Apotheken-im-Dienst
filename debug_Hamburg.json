@@ -3191,10 +3191,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 18
+            "anzahl": 19
         },
         "quota": {
-            "verwendet": "330425"
+            "verwendet": "339627"
         },
         "apotheken": {
             "apotheke": [
@@ -3520,6 +3520,25 @@
                     "startzeit": "08:00",
                     "enddatum": "04.08.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke an der Stadthalle",
+                    "kammer": "aknds",
+                    "id": "1513",
+                    "apo_id": "aknds1513",
+                    "strasse": "Luhdorfer Str. 28",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "25.99575978553",
+                    "longitude": "10.2070035",
+                    "latitude": "53.3518837",
+                    "telefon": "+49 4171 783900",
+                    "fax": "+49 4171 7839020",
+                    "email": [],
+                    "startdatum": "03.08.2025",
+                    "startzeit": "16:00",
+                    "enddatum": "03.08.2025",
+                    "endzeit": "19:00"
                 },
                 {
                     "name": "Heide-Apotheke",
