@@ -1267,7 +1267,7 @@
             "anzahl": 10
         },
         "quota": {
-            "verwendet": "18590"
+            "verwendet": "21301"
         },
         "apotheken": {
             "apotheke": [
@@ -1424,6 +1424,25 @@
                     "endzeit": "08:30"
                 },
                 {
+                    "name": "Deich-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1701",
+                    "apo_id": "aknds1701",
+                    "strasse": "Mühlenstr. 13",
+                    "plz": "26931",
+                    "ort": "Elsfleth",
+                    "distanz": "18.48276551042",
+                    "longitude": "8.464316",
+                    "latitude": "53.2380316",
+                    "telefon": "+49 4404 92840",
+                    "fax": "+49 4404 928420",
+                    "email": [],
+                    "startdatum": "04.08.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "05.08.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Apotheke 55 im Rudolf-Virchow-Haus",
                     "kammer": "aknds",
                     "id": "1096",
@@ -1441,25 +1460,6 @@
                     "startzeit": "09:00",
                     "enddatum": "04.08.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Weser-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1634",
-                    "apo_id": "aknds1634",
-                    "strasse": "Bahnhofstr. 89",
-                    "plz": "26919",
-                    "ort": "Brake",
-                    "distanz": "25.43788224811",
-                    "longitude": "8.4778778",
-                    "latitude": "53.3334244",
-                    "telefon": "+49 4401 3595",
-                    "fax": "+49 4401 3091",
-                    "email": [],
-                    "startdatum": "03.08.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "04.08.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }

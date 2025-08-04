@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 35
+            "anzahl": 36
         },
         "quota": {
-            "verwendet": "18346"
+            "verwendet": "21101"
         },
         "apotheken": {
             "apotheke": [
@@ -5743,6 +5743,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Steinbock Apotheke Schildow",
+                    "kammer": "lakbb",
+                    "id": "653",
+                    "apo_id": "lakbb653",
+                    "strasse": "Bahnhofstraße 5b",
+                    "plz": "16552",
+                    "ort": "Mühlenbecker Land - OT Schildow",
+                    "distanz": "13.35524852805",
+                    "longitude": "13.3749982",
+                    "latitude": "52.6367557",
+                    "telefon": "+49 33056 270004",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "04.08.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "05.08.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Gartenstadt-Apotheke-Rudow",
                     "kammer": "akb",
                     "id": "100983",
@@ -5779,25 +5798,6 @@
                     "startzeit": "09:00",
                     "enddatum": "04.08.2025",
                     "endzeit": "08:59"
-                },
-                {
-                    "name": "Apotheke am Mädchenviertel",
-                    "kammer": "lakbb",
-                    "id": "673",
-                    "apo_id": "lakbb673",
-                    "strasse": "Schönfließer Straße 25 G",
-                    "plz": "16540",
-                    "ort": "Hohen Neuendorf",
-                    "distanz": "17.71036666798",
-                    "longitude": "13.2964504",
-                    "latitude": "52.6659077",
-                    "telefon": "03303 5416700",
-                    "fax": "03303 5416701",
-                    "email": "aam@apotheke-am-maedchenviertel.de",
-                    "startdatum": "03.08.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "04.08.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }
