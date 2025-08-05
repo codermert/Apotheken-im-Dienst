@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 34
+            "anzahl": 31
         },
         "quota": {
-            "verwendet": "21737"
+            "verwendet": "23362"
         },
         "apotheken": {
             "apotheke": [
@@ -5686,25 +5686,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Steinbock Apotheke Schildow",
-                    "kammer": "lakbb",
-                    "id": "653",
-                    "apo_id": "lakbb653",
-                    "strasse": "Bahnhofstraße 5b",
-                    "plz": "16552",
-                    "ort": "Mühlenbecker Land - OT Schildow",
-                    "distanz": "13.35524852805",
-                    "longitude": "13.3749982",
-                    "latitude": "52.6367557",
-                    "telefon": "+49 33056 270004",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "04.08.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "05.08.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Condor-Apotheke",
                     "kammer": "akb",
                     "id": "100862",
@@ -5762,6 +5743,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Kronenapotheke Teltow",
+                    "kammer": "lakbb",
+                    "id": "685",
+                    "apo_id": "lakbb685",
+                    "strasse": "Ruhlsdorfer Straße 3",
+                    "plz": "14513",
+                    "ort": "Teltow",
+                    "distanz": "15.385430335499999",
+                    "longitude": "13.26814",
+                    "latitude": "52.40008",
+                    "telefon": "+49 3328 4219333",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "05.08.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "06.08.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Süd-Apotheke",
                     "kammer": "akb",
                     "id": "100559",
@@ -5781,22 +5781,22 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Kranich Apotheke",
+                    "name": "Falken Apotheke am Kaufland",
                     "kammer": "lakbb",
-                    "id": "392",
-                    "apo_id": "lakbb392",
-                    "strasse": "Mahlsdorfer Straße 61",
-                    "plz": "15366",
-                    "ort": "Hoppegarten",
-                    "distanz": "16.71538435437",
-                    "longitude": "13.6329778",
-                    "latitude": "52.5369441",
-                    "telefon": "030 9983553",
-                    "fax": "030 99284061",
-                    "email": "info@kranich-apotheke.net",
-                    "startdatum": "04.08.2025",
+                    "id": "623",
+                    "apo_id": "lakbb623",
+                    "strasse": "Am Lückefeld 97",
+                    "plz": "15831",
+                    "ort": "Blankenfelde-Mahlow - OT Mahlow",
+                    "distanz": "18.037936057489997",
+                    "longitude": "13.4323881",
+                    "latitude": "52.3571329",
+                    "telefon": "+49 3379 203702",
+                    "fax": "+49 3379 203703",
+                    "email": [],
+                    "startdatum": "05.08.2025",
                     "startzeit": "08:00",
-                    "enddatum": "05.08.2025",
+                    "enddatum": "06.08.2025",
                     "endzeit": "08:00"
                 }
             ]
