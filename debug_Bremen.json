@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 11
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "89942"
+            "verwendet": "91920"
         },
         "apotheken": {
             "apotheke": [
@@ -1386,25 +1386,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Stedinger Apotheke",
-                    "kammer": "aknds",
-                    "id": "1612",
-                    "apo_id": "aknds1612",
-                    "strasse": "Weserstr. 28",
-                    "plz": "27804",
-                    "ort": "Berne",
-                    "distanz": "14.73436263223",
-                    "longitude": "8.484236",
-                    "latitude": "53.18675",
-                    "telefon": "+49 4406 202",
-                    "fax": "+49 4406 836",
-                    "email": [],
-                    "startdatum": "06.08.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "06.08.2025",
-                    "endzeit": "20:00"
-                },
-                {
                     "name": "Apotheke am Klinikum Links der Weser",
                     "kammer": "akbr",
                     "id": "10097",
@@ -1422,25 +1403,6 @@
                     "startzeit": "09:00",
                     "enddatum": "07.08.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Pelikan-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1748",
-                    "apo_id": "aknds1748",
-                    "strasse": "Grüppenbührener Str. 7",
-                    "plz": "27777",
-                    "ort": "Ganderkesee",
-                    "distanz": "15.632284368570001",
-                    "longitude": "8.5428808",
-                    "latitude": "53.0374524",
-                    "telefon": "+49 4222 5257",
-                    "fax": "+49 4222 6642",
-                    "email": [],
-                    "startdatum": "06.08.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "06.08.2025",
-                    "endzeit": "20:00"
                 },
                 {
                     "name": "Rieder Apotheke",
