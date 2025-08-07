@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 35
+            "anzahl": 32
         },
         "quota": {
-            "verwendet": "17977"
+            "verwendet": "19469"
         },
         "apotheken": {
             "apotheke": [
@@ -5705,25 +5705,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Dorf-Apotheke",
-                    "kammer": "lakbb",
-                    "id": "446",
-                    "apo_id": "lakbb446",
-                    "strasse": "Dorfstraße 17",
-                    "plz": "16356",
-                    "ort": "Ahrensfelde",
-                    "distanz": "14.103945313390001",
-                    "longitude": "13.5740345",
-                    "latitude": "52.5746579",
-                    "telefon": "+49 30 93772171",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "06.08.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "07.08.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Park-Apotheke",
                     "kammer": "akb",
                     "id": "100318",
@@ -5762,41 +5743,60 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Apotheke am Rathausmarkt",
+                    "name": "Heine-Apotheke",
                     "kammer": "lakbb",
-                    "id": "522",
-                    "apo_id": "lakbb522",
-                    "strasse": "Förster-Funke-Allee 104",
-                    "plz": "14532",
-                    "ort": "Kleinmachnow",
-                    "distanz": "17.013397893180002",
-                    "longitude": "13.21942",
-                    "latitude": "52.4045",
-                    "telefon": "+49 33203 77994",
+                    "id": "385",
+                    "apo_id": "lakbb385",
+                    "strasse": "Bahnhofstraße 83",
+                    "plz": "16341",
+                    "ort": "Panketal",
+                    "distanz": "17.117794892499997",
+                    "longitude": "13.5165561",
+                    "latitude": "52.6497512",
+                    "telefon": "+49 30 94417813",
                     "fax": [],
                     "email": [],
-                    "startdatum": "06.08.2025",
+                    "startdatum": "07.08.2025",
                     "startzeit": "08:00",
-                    "enddatum": "07.08.2025",
+                    "enddatum": "08.08.2025",
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Eger-Apotheke",
+                    "name": "avitario-Apotheke",
                     "kammer": "lakbb",
-                    "id": "567",
-                    "apo_id": "lakbb567",
-                    "strasse": "Schönfließer Straße 66",
-                    "plz": "16540",
-                    "ort": "Hohen Neuendorf",
-                    "distanz": "18.66281300885",
-                    "longitude": "13.2808696",
-                    "latitude": "52.671318",
-                    "telefon": "+49 3303 212207",
+                    "id": "622",
+                    "apo_id": "lakbb622",
+                    "strasse": "Neuendorfstraße 22 a",
+                    "plz": "16761",
+                    "ort": "Hennigsdorf",
+                    "distanz": "17.87995052917",
+                    "longitude": "13.20815",
+                    "latitude": "52.63407",
+                    "telefon": "+49 3302 801477",
                     "fax": [],
                     "email": [],
-                    "startdatum": "06.08.2025",
+                    "startdatum": "07.08.2025",
                     "startzeit": "08:00",
-                    "enddatum": "07.08.2025",
+                    "enddatum": "08.08.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke Stahnsdorf",
+                    "kammer": "lakbb",
+                    "id": "4",
+                    "apo_id": "lakbb4",
+                    "strasse": "Wannseestraße 10",
+                    "plz": "14532",
+                    "ort": "Stahnsdorf",
+                    "distanz": "18.245439241579998",
+                    "longitude": "13.212113",
+                    "latitude": "52.3936426",
+                    "telefon": "03329  / 621 84",
+                    "fax": "03329  / 614 820",
+                    "email": "team@apotheke-stahnsdorf.de",
+                    "startdatum": "07.08.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "08.08.2025",
                     "endzeit": "08:00"
                 }
             ]
