@@ -31,7 +31,7 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "50499"
+            "verwendet": "59794"
         },
         "apotheken": {
             "apotheke": [
@@ -93,6 +93,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Apotheke Erichshagen",
+                    "kammer": "aknds",
+                    "id": "962",
+                    "apo_id": "aknds962",
+                    "strasse": "Celler Str. 62",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "22.87586663499",
+                    "longitude": "9.2267429",
+                    "latitude": "52.6557705",
+                    "telefon": "+49 5021 63938",
+                    "fax": "+49 5021 961008",
+                    "email": [],
+                    "startdatum": "10.08.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "11.08.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Stifts-Apotheke",
                     "kammer": "aknds",
                     "id": "525",
@@ -112,41 +131,22 @@
                     "endzeit": "08:30"
                 },
                 {
-                    "name": "Leintor Apotheke",
+                    "name": "Stern-Apotheke",
                     "kammer": "aknds",
-                    "id": "956",
-                    "apo_id": "aknds956",
-                    "strasse": "Hannoversche Str. 12",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "24.42755959594",
-                    "longitude": "9.2117242",
-                    "latitude": "52.6363944",
-                    "telefon": "+49 5021 3250",
-                    "fax": "+49 5021 926200",
+                    "id": "938",
+                    "apo_id": "aknds938",
+                    "strasse": "Sternstr. 1 B",
+                    "plz": "31618",
+                    "ort": "Liebenau",
+                    "distanz": "25.9555785569",
+                    "longitude": "9.0897493",
+                    "latitude": "52.6067599",
+                    "telefon": "+49 5023 94444",
+                    "fax": "+49 5023 94446",
                     "email": [],
-                    "startdatum": "09.08.2025",
+                    "startdatum": "10.08.2025",
                     "startzeit": "08:00",
-                    "enddatum": "10.08.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Bären-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1060",
-                    "apo_id": "aknds1060",
-                    "strasse": "Lange Str. 13",
-                    "plz": "27232",
-                    "ort": "Sulingen",
-                    "distanz": "25.044733911719998",
-                    "longitude": "8.81042",
-                    "latitude": "52.6826842",
-                    "telefon": "+49 4271 3475",
-                    "fax": "+49 4271 6754",
-                    "email": [],
-                    "startdatum": "09.08.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "10.08.2025",
+                    "enddatum": "11.08.2025",
                     "endzeit": "08:00"
                 },
                 {
