@@ -37,27 +37,46 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "21648"
+            "verwendet": "22317"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Mohren-Apotheke",
+                    "name": "Trommsdorff-Apotheke",
                     "kammer": "lakt",
-                    "id": "9",
-                    "apo_id": "lakt9",
-                    "strasse": "Schlösserstraße 9",
-                    "plz": "99084",
+                    "id": "3928",
+                    "apo_id": "lakt3928",
+                    "strasse": "Geschwister-Scholl-Straße 5",
+                    "plz": "99085",
                     "ort": "Erfurt",
-                    "distanz": "8.36048529326",
-                    "longitude": "11.032737",
-                    "latitude": "50.9765568",
-                    "telefon": "+49 361 6421500",
+                    "distanz": "8.89530102956",
+                    "longitude": "11.04315",
+                    "latitude": "50.98136",
+                    "telefon": "+49 361 5660052",
                     "fax": [],
                     "email": [],
-                    "startdatum": "11.08.2025",
+                    "startdatum": "12.08.2025",
                     "startzeit": "09:00",
-                    "enddatum": "12.08.2025",
+                    "enddatum": "13.08.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Tal-Apotheke",
+                    "kammer": "lakt",
+                    "id": "17",
+                    "apo_id": "lakt17",
+                    "strasse": "Talstraße 5",
+                    "plz": "99089",
+                    "ort": "Erfurt",
+                    "distanz": "9.5555512492",
+                    "longitude": "11.0262981",
+                    "latitude": "50.9870598",
+                    "telefon": "+49 361 2606039",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "12.08.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "13.08.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "13.08.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Brunnen-Apotheke",
-                    "kammer": "lakt",
-                    "id": "3990",
-                    "apo_id": "lakt3990",
-                    "strasse": "Erfurter Straße 72",
-                    "plz": "99095",
-                    "ort": "Erfurt-Mittelhausen",
-                    "distanz": "15.0503896404",
-                    "longitude": "11.00229",
-                    "latitude": "51.03489",
-                    "telefon": "+49 361 2624442",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "11.08.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "12.08.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Stadt-Apotheke Lattmann Apotheken OHG",
