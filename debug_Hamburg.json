@@ -3194,7 +3194,7 @@
             "anzahl": 15
         },
         "quota": {
-            "verwendet": "16723"
+            "verwendet": "17980"
         },
         "apotheken": {
             "apotheke": [
@@ -3351,6 +3351,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Apotheke Mitten im Leben",
+                    "kammer": "aknds",
+                    "id": "5859",
+                    "apo_id": "aknds5859",
+                    "strasse": "Am Saal 16",
+                    "plz": "21217",
+                    "ort": "Seevetal",
+                    "distanz": "14.65357934397",
+                    "longitude": "10.0197091",
+                    "latitude": "53.4191686",
+                    "telefon": "+49 40 70108642",
+                    "fax": "+49 40 70108703",
+                    "email": [],
+                    "startdatum": "13.08.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "14.08.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Alte Apotheke Volksdorf",
                     "kammer": "akh",
                     "id": "10131",
@@ -3425,25 +3444,6 @@
                     "startzeit": "08:00",
                     "enddatum": "14.08.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Markt-Apotheke im Schanzenhof",
-                    "kammer": "aknds",
-                    "id": "1514",
-                    "apo_id": "aknds1514",
-                    "strasse": "Schanzenring 6",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "24.91904319162",
-                    "longitude": "10.2096115",
-                    "latitude": "53.3643894",
-                    "telefon": "+49 4171 653304",
-                    "fax": "+49 4171 653306",
-                    "email": [],
-                    "startdatum": "12.08.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "13.08.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Elbmarsch-Apotheke",

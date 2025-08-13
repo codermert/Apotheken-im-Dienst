@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "16816"
+            "verwendet": "18041"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,6 +1310,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Spitzweg Apotheke (im Kaufland)",
+                    "kammer": "aknds",
+                    "id": "1684",
+                    "apo_id": "aknds1684",
+                    "strasse": "Stedinger Str. 101",
+                    "plz": "27753",
+                    "ort": "Delmenhorst",
+                    "distanz": "10.20032902012",
+                    "longitude": "8.6305287",
+                    "latitude": "53.0613418",
+                    "telefon": "+49 4221 588225",
+                    "fax": "+49 4221 588224",
+                    "email": [],
+                    "startdatum": "13.08.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "14.08.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "AVIE Apotheke OHZ",
                     "kammer": "aknds",
                     "id": "6520",
@@ -1329,23 +1348,23 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke am Markt",
+                    "name": "Apotheke Bookholzberg",
                     "kammer": "aknds",
-                    "id": "1672",
-                    "apo_id": "aknds1672",
-                    "strasse": "Lange Str. 103",
-                    "plz": "27749",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.52589507321",
-                    "longitude": "8.6294854",
-                    "latitude": "53.0486716",
-                    "telefon": "+49 4221 13739",
-                    "fax": "+49 4221 13759",
+                    "id": "1752",
+                    "apo_id": "aknds1752",
+                    "strasse": "Stedinger Str. 63",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "12.15097528613",
+                    "longitude": "8.530713",
+                    "latitude": "53.0962681",
+                    "telefon": "+49 4223 3070",
+                    "fax": "+49 4223 1332",
                     "email": [],
-                    "startdatum": "12.08.2025",
+                    "startdatum": "13.08.2025",
                     "startzeit": "08:30",
                     "enddatum": "13.08.2025",
-                    "endzeit": "08:30"
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Hubertus-Apotheke",
