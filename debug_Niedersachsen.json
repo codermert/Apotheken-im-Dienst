@@ -31,29 +31,10 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "23893"
+            "verwendet": "24311"
         },
         "apotheken": {
             "apotheke": [
-                {
-                    "name": "Linden-Apotheke",
-                    "kammer": "aknds",
-                    "id": "581",
-                    "apo_id": "aknds581",
-                    "strasse": "Bahnhofstr. 32",
-                    "plz": "27324",
-                    "ort": "Eystrup",
-                    "distanz": "11.69217346801",
-                    "longitude": "9.2184781",
-                    "latitude": "52.7800073",
-                    "telefon": "+49 4254 8360",
-                    "fax": "+49 4254 2326",
-                    "email": [],
-                    "startdatum": "13.08.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "14.08.2025",
-                    "endzeit": "08:00"
-                },
                 {
                     "name": "Storchen-Apotheke",
                     "kammer": "aknds",
@@ -93,6 +74,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Rethemer Apotheke",
+                    "kammer": "aknds",
+                    "id": "1384",
+                    "apo_id": "aknds1384",
+                    "strasse": "Mühlenstraße 2",
+                    "plz": "27336",
+                    "ort": "Rethem",
+                    "distanz": "21.37822325996",
+                    "longitude": "9.3798974",
+                    "latitude": "52.7851639",
+                    "telefon": "+49 5165 2918848",
+                    "fax": "+49 5165 2918849",
+                    "email": [],
+                    "startdatum": "14.08.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "15.08.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Geest-Apotheke",
                     "kammer": "aknds",
                     "id": "1092",
@@ -112,25 +112,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Hansa Apotheke",
-                    "kammer": "aknds",
-                    "id": "955",
-                    "apo_id": "aknds955",
-                    "strasse": "Hansastr. 3",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "23.14845354176",
-                    "longitude": "9.2148089",
-                    "latitude": "52.6496656",
-                    "telefon": "+49 5021 910266",
-                    "fax": "+49 5021 910277",
-                    "email": [],
-                    "startdatum": "13.08.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "14.08.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Stifts-Apotheke",
                     "kammer": "aknds",
                     "id": "525",
@@ -148,6 +129,25 @@
                     "startzeit": "08:30",
                     "enddatum": "14.08.2025",
                     "endzeit": "08:30"
+                },
+                {
+                    "name": "Leintor Apotheke",
+                    "kammer": "aknds",
+                    "id": "956",
+                    "apo_id": "aknds956",
+                    "strasse": "Hannoversche Str. 12",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "24.42755959594",
+                    "longitude": "9.2117242",
+                    "latitude": "52.6363944",
+                    "telefon": "+49 5021 3250",
+                    "fax": "+49 5021 926200",
+                    "email": [],
+                    "startdatum": "14.08.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "15.08.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Osterholzer Apotheke",
