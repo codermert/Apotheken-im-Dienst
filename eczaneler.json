@@ -889,6 +889,14 @@
   ],
   "Mecklenburg-Vorpommern": [
     {
+      "eczaneAdi": "Apotheke am Park",
+      "adres": "Zu den Wiesen 9, 18279 Lalendorf",
+      "telefon": "+49 38452 20592",
+      "enlem": "53.75746",
+      "boylam": "12.38463",
+      "mesafe": "12.7 km"
+    },
+    {
       "eczaneAdi": "Neue Apotheke am Markt",
       "adres": "Am Markt 6, 17139 Malchin",
       "telefon": "+49 3994 223412",
@@ -897,44 +905,28 @@
       "mesafe": "12.9 km"
     },
     {
+      "eczaneAdi": "Schloss-Apotheke",
+      "adres": "Schlossstraße 23, 17159 Dargun",
+      "telefon": "+49 39959 337177",
+      "enlem": "53.8985743",
+      "boylam": "12.8515406",
+      "mesafe": "22.9 km"
+    },
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Lange Str. 14, 18292 Krakow a. See",
+      "telefon": "+49 38457 22322",
+      "enlem": "53.6531425",
+      "boylam": "12.2689391",
+      "mesafe": "24.3 km"
+    },
+    {
       "eczaneAdi": "Apotheke am Petershof",
       "adres": "Schwaaner Straße 21, 18273 Güstrow",
       "telefon": "+49 3843 466969",
       "enlem": "53.80476",
       "boylam": "12.17597",
       "mesafe": "26.6 km"
-    },
-    {
-      "eczaneAdi": "Kranich-Apotheke",
-      "adres": "Hans-Beimler-Str. 42 b, 17192 Waren",
-      "telefon": "+49 3991 17570",
-      "enlem": "53.5206875",
-      "boylam": "12.6605961",
-      "mesafe": "28.7 km"
-    },
-    {
-      "eczaneAdi": "Muhrbeck -Apotheke",
-      "adres": "Gartenstr. 2, 17109 Demmin",
-      "telefon": "+49 3998 362151",
-      "enlem": "53.9047535",
-      "boylam": "13.0423311",
-      "mesafe": "34.0 km"
-    },
-    {
-      "eczaneAdi": "Linden-Apotheke",
-      "adres": "Wismarsche Str. 32, 18057 Rostock",
-      "telefon": "+49 381 4930200",
-      "enlem": "54.0857481",
-      "boylam": "12.1186666",
-      "mesafe": "45.9 km"
-    },
-    {
-      "eczaneAdi": "Rosen-Apotheke",
-      "adres": "Carl-v.-Ossietzky-Str. 1 c, 18507 Grimmen",
-      "telefon": "+49 38326 80264",
-      "enlem": "54.10639",
-      "boylam": "13.04246",
-      "mesafe": "48.1 km"
     }
   ],
   "Niedersachsen": [
@@ -1235,6 +1227,112 @@
       "mesafe": "27.5 km"
     }
   ],
-  "Schleswig-Holstein": [],
-  "Thüringen": []
+  "Schleswig-Holstein": [
+    {
+      "eczaneAdi": "Klaus-Groth-Apotheke",
+      "adres": "Bahnhofstr. 55, 24582 Bordesholm",
+      "telefon": "+49 4322 5886",
+      "enlem": "54.17351",
+      "boylam": "10.03912",
+      "mesafe": "14.2 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Westerrönfeld",
+      "adres": "Am Glockenturm 8, 24784 Westerrönfeld",
+      "telefon": "04331-88216",
+      "enlem": "54.28299",
+      "boylam": "9.65052",
+      "mesafe": "15.6 km"
+    },
+    {
+      "eczaneAdi": "Holsten Apotheke",
+      "adres": "Gänsemarkt 1, 24534 Neumünster",
+      "telefon": "04321-49490",
+      "enlem": "54.0738515",
+      "boylam": "9.9818847",
+      "mesafe": "16.2 km"
+    },
+    {
+      "eczaneAdi": "impuls-Apotheke",
+      "adres": "Sophienblatt 36, 24103 Kiel",
+      "telefon": "0431-661510",
+      "enlem": "54.3154803",
+      "boylam": "10.1304699",
+      "mesafe": "24.8 km"
+    },
+    {
+      "eczaneAdi": "Krokodil-Apotheke",
+      "adres": "Hauptstr. 18a, 24623 Großenaspe",
+      "telefon": "04327-141618",
+      "enlem": "53.97581",
+      "boylam": "9.96712",
+      "mesafe": "25.2 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Andreas-Hofer-Platz",
+      "adres": "Andreas-Hofer-Platz 10, 24147 Kiel",
+      "telefon": "0431-781009",
+      "enlem": "54.2986169",
+      "boylam": "10.182575",
+      "mesafe": "26.7 km"
+    },
+    {
+      "eczaneAdi": "Hirsch-Apotheke",
+      "adres": "Herrenstr. 8, 24214 Gettorf",
+      "telefon": "04346-6632",
+      "enlem": "54.40977",
+      "boylam": "9.97678",
+      "mesafe": "26.9 km"
+    }
+  ],
+  "Thüringen": [
+    {
+      "eczaneAdi": "Kranich-Apotheke",
+      "adres": "Kranichfelder Str. 103, 99097 Erfurt",
+      "telefon": "+49 361 4170056",
+      "enlem": "50.9554566",
+      "boylam": "11.0694661",
+      "mesafe": "6.4 km"
+    },
+    {
+      "eczaneAdi": "Anger-Vital-Apotheke",
+      "adres": "Anger 58, 99084 Erfurt",
+      "telefon": "+49 361 5507333",
+      "enlem": "50.9757148",
+      "boylam": "11.0335363",
+      "mesafe": "8.3 km"
+    },
+    {
+      "eczaneAdi": "Stadt-Apotheke",
+      "adres": "Turnvater-Jahn-Straße 4, 99310 Arnstadt",
+      "telefon": "+49 3628 585840",
+      "enlem": "50.8354836",
+      "boylam": "10.9456407",
+      "mesafe": "9.8 km"
+    },
+    {
+      "eczaneAdi": "Burgen-Apotheke",
+      "adres": "Am Bahnhof 4, 99448 Kranichfeld",
+      "telefon": "+49 36450 446880",
+      "enlem": "50.8553201",
+      "boylam": "11.203528",
+      "mesafe": "12.7 km"
+    },
+    {
+      "eczaneAdi": "Sonnen-Apotheke",
+      "adres": "Marcel-Paul-Str. 48, 99427 Weimar",
+      "telefon": "+49 3643 422096",
+      "enlem": "50.9940435",
+      "boylam": "11.3159398",
+      "mesafe": "22.1 km"
+    },
+    {
+      "eczaneAdi": "Oststadt-Apotheke",
+      "adres": "Kindleber Straße 99, 99867 Gotha",
+      "telefon": "+49 3621 406258",
+      "enlem": "50.9620911",
+      "boylam": "10.7213597",
+      "mesafe": "23.2 km"
+    }
+  ]
 }
