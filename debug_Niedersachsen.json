@@ -28,49 +28,30 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 4
         },
         "quota": {
-            "verwendet": "48138"
+            "verwendet": "50792"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Apotheke am Rathaus",
+                    "name": "Storchen-Apotheke",
                     "kammer": "aknds",
-                    "id": "1491",
-                    "apo_id": "aknds1491",
-                    "strasse": "Große Str. 5",
-                    "plz": "27283",
-                    "ort": "Verden",
-                    "distanz": "13.86068392375",
-                    "longitude": "9.2281548",
-                    "latitude": "52.9237387",
-                    "telefon": "+49 4231 920511",
-                    "fax": "+49 4231 931977",
+                    "id": "1122",
+                    "apo_id": "aknds1122",
+                    "strasse": "Uphuser Heerstr. 35",
+                    "plz": "28832",
+                    "ort": "Achim",
+                    "distanz": "21.9515605273",
+                    "longitude": "8.9743033",
+                    "latitude": "53.0273012",
+                    "telefon": "+49 4202 910150",
+                    "fax": "+49 4202 910151",
                     "email": [],
-                    "startdatum": "14.08.2025",
+                    "startdatum": "15.08.2025",
                     "startzeit": "09:00",
-                    "enddatum": "15.08.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Hache-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1068",
-                    "apo_id": "aknds1068",
-                    "strasse": "Hauptstr. 56/58",
-                    "plz": "28857",
-                    "ort": "Syke",
-                    "distanz": "19.274732599740002",
-                    "longitude": "8.8175844",
-                    "latitude": "52.9144407",
-                    "telefon": "+49 4242 933033",
-                    "fax": "+49 4242 933034",
-                    "email": [],
-                    "startdatum": "14.08.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "15.08.2025",
+                    "enddatum": "16.08.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -112,22 +93,22 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Flora-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1381",
-                    "apo_id": "aknds1381",
-                    "strasse": "Hauptstr. 52",
-                    "plz": "28876",
-                    "ort": "Oyten",
-                    "distanz": "24.84988726887",
-                    "longitude": "9.0226419",
-                    "latitude": "53.0608175",
-                    "telefon": "+49 4207 3003",
-                    "fax": "+49 4207 913220",
+                    "name": "St. Gotthard Apotheke",
+                    "kammer": "akbr",
+                    "id": "10170",
+                    "apo_id": "akbr10170",
+                    "strasse": "St.-Gotthard-Str. 3",
+                    "plz": "28325",
+                    "ort": "Bremen",
+                    "distanz": "26.35562864546",
+                    "longitude": "8.950001",
+                    "latitude": "53.0641313",
+                    "telefon": "+49 421 422024",
+                    "fax": [],
                     "email": [],
-                    "startdatum": "14.08.2025",
+                    "startdatum": "15.08.2025",
                     "startzeit": "09:00",
-                    "enddatum": "15.08.2025",
+                    "enddatum": "16.08.2025",
                     "endzeit": "09:00"
                 }
             ]
