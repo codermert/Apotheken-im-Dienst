@@ -37,27 +37,46 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "27906"
+            "verwendet": "28647"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "EGA-Apotheke",
+                    "name": "Delphin-Apotheke",
                     "kammer": "lakt",
-                    "id": "649",
-                    "apo_id": "lakt649",
-                    "strasse": "Gothaer Straße 22",
-                    "plz": "99094",
+                    "id": "503",
+                    "apo_id": "lakt503",
+                    "strasse": "Hermsdorfer Straße 4",
+                    "plz": "99099",
                     "ort": "Erfurt",
-                    "distanz": "7.5742521412",
-                    "longitude": "10.9857271",
-                    "latitude": "50.9610823",
-                    "telefon": "+49 361 7893490",
+                    "distanz": "7.82386343784",
+                    "longitude": "11.0598792",
+                    "latitude": "50.9704011",
+                    "telefon": "+49 361 3458213",
                     "fax": [],
                     "email": [],
-                    "startdatum": "15.08.2025",
+                    "startdatum": "16.08.2025",
                     "startzeit": "09:00",
-                    "enddatum": "16.08.2025",
+                    "enddatum": "17.08.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Bahnhof-Apotheke",
+                    "kammer": "lakt",
+                    "id": "5",
+                    "apo_id": "lakt5",
+                    "strasse": "Bahnhofstraße 40",
+                    "plz": "99084",
+                    "ort": "Erfurt",
+                    "distanz": "8.15849796899",
+                    "longitude": "11.0350444",
+                    "latitude": "50.9747884",
+                    "telefon": "+49 361 555410",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "16.08.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "17.08.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "17.08.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Rosen-Apotheke",
-                    "kammer": "lakt",
-                    "id": "405",
-                    "apo_id": "lakt405",
-                    "strasse": "Ringstraße 28",
-                    "plz": "99091",
-                    "ort": "Erfurt-Gispersleben",
-                    "distanz": "13.737095771800002",
-                    "longitude": "10.9932804",
-                    "latitude": "51.0217134",
-                    "telefon": "+49 361 7916096",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "15.08.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "16.08.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Apotheke am Goetheplatz",
