@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 36
+            "anzahl": 35
         },
         "quota": {
-            "verwendet": "53357"
+            "verwendet": "65419"
         },
         "apotheken": {
             "apotheke": [
@@ -5724,6 +5724,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Steinbock Apotheke Schildow",
+                    "kammer": "lakbb",
+                    "id": "653",
+                    "apo_id": "lakbb653",
+                    "strasse": "Bahnhofstraße 5b",
+                    "plz": "16552",
+                    "ort": "Mühlenbecker Land - OT Schildow",
+                    "distanz": "13.35524852805",
+                    "longitude": "13.3749982",
+                    "latitude": "52.6367557",
+                    "telefon": "+49 33056 270004",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "17.08.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "18.08.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Apotheke am Markt",
                     "kammer": "akb",
                     "id": "100660",
@@ -5773,25 +5792,6 @@
                     "longitude": "13.16374",
                     "latitude": "52.55136",
                     "telefon": "+49 30 3735792",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "16.08.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "17.08.2025",
-                    "endzeit": "08:59"
-                },
-                {
-                    "name": "Löwenzahn-Apotheke",
-                    "kammer": "akb",
-                    "id": "100595",
-                    "apo_id": "akb100595",
-                    "strasse": "Louis-Lewin-Straße 99",
-                    "plz": "12627",
-                    "ort": "Berlin",
-                    "distanz": "15.806268207790001",
-                    "longitude": "13.6193199",
-                    "latitude": "52.53753",
-                    "telefon": "+49 30 99400609",
                     "fax": [],
                     "email": [],
                     "startdatum": "16.08.2025",

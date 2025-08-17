@@ -169,6 +169,14 @@
       "mesafe": "13.3 km"
     },
     {
+      "eczaneAdi": "Steinbock Apotheke Schildow",
+      "adres": "Bahnhofstraße 5b, 16552 Mühlenbecker Land - OT Schildow",
+      "telefon": "+49 33056 270004",
+      "enlem": "52.6367557",
+      "boylam": "13.3749982",
+      "mesafe": "13.4 km"
+    },
+    {
       "eczaneAdi": "Apotheke am Markt",
       "adres": "Bekassinenweg 18, 13503 Berlin",
       "telefon": "+49 30 4311247",
@@ -191,14 +199,6 @@
       "enlem": "52.55136",
       "boylam": "13.16374",
       "mesafe": "15.7 km"
-    },
-    {
-      "eczaneAdi": "Löwenzahn-Apotheke",
-      "adres": "Louis-Lewin-Straße 99, 12627 Berlin",
-      "telefon": "+49 30 99400609",
-      "enlem": "52.53753",
-      "boylam": "13.6193199",
-      "mesafe": "15.8 km"
     }
   ],
   "Nordrhein-Westfalen": [
@@ -363,7 +363,144 @@
       "mesafe": "25.9 km"
     }
   ],
-  "Hamburg": [],
+  "Hamburg": [
+    {
+      "eczaneAdi": "Pelikan-Apotheke",
+      "adres": "Großneumarkt 37, 20459 Hamburg",
+      "telefon": "+49 40 345383",
+      "enlem": "53.5501732",
+      "boylam": "9.9794512",
+      "mesafe": "1.4 km"
+    },
+    {
+      "eczaneAdi": "Eimsbütteler-Apotheke",
+      "adres": "Osterstraße 16, 20259 Hamburg",
+      "telefon": "+49 40 4922060",
+      "enlem": "53.5739221",
+      "boylam": "9.9612585",
+      "mesafe": "3.7 km"
+    },
+    {
+      "eczaneAdi": "Eulen-Apotheke",
+      "adres": "Hellbrookkamp 35, 22177 Hamburg",
+      "telefon": "+49 40 6915522",
+      "enlem": "53.5969578",
+      "boylam": "10.0587231",
+      "mesafe": "6.5 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Alsterdorfer Markt",
+      "adres": "Alsterdorfer Markt 8, 22297 Hamburg",
+      "telefon": "+49 40 55204880",
+      "enlem": "53.6126",
+      "boylam": "10.02527",
+      "mesafe": "7.1 km"
+    },
+    {
+      "eczaneAdi": "mAVI-Apotheke",
+      "adres": "Kirchdorfer Damm 3, 21109 Hamburg",
+      "telefon": "+49 40 7546474",
+      "enlem": "53.4853583",
+      "boylam": "10.0186982",
+      "mesafe": "7.3 km"
+    },
+    {
+      "eczaneAdi": "Beseler-Apotheke",
+      "adres": "Beselerstraße 46, 22607 Hamburg",
+      "telefon": "+49 40 8907500",
+      "enlem": "53.5648219",
+      "boylam": "9.8807689",
+      "mesafe": "8.1 km"
+    },
+    {
+      "eczaneAdi": "Blumen-Apotheke",
+      "adres": "Tibarg 44, 22459 Hamburg",
+      "telefon": "+49 40 587918",
+      "enlem": "53.621518",
+      "boylam": "9.9526046",
+      "mesafe": "8.5 km"
+    },
+    {
+      "eczaneAdi": "See-Apotheke",
+      "adres": "Seestr. 252, 25469 Halstenbek",
+      "telefon": "04101-41025",
+      "enlem": "53.6168254",
+      "boylam": "9.8668985",
+      "mesafe": "11.5 km"
+    },
+    {
+      "eczaneAdi": "Markt-Apotheke Poppenbüttel",
+      "adres": "Moorhof 11, 22399 Hamburg",
+      "telefon": "+49 40 6023665",
+      "enlem": "53.65991",
+      "boylam": "10.08569",
+      "mesafe": "13.4 km"
+    },
+    {
+      "eczaneAdi": "Tarpenbek-Apotheke",
+      "adres": "Am Tarpenufer 6, 22848 Norderstedt",
+      "telefon": "040-5296995",
+      "enlem": "53.681352",
+      "boylam": "9.9977624",
+      "mesafe": "14.6 km"
+    },
+    {
+      "eczaneAdi": "Mohnhof-Apotheke",
+      "adres": "Hinterm Graben 26, 21029 Hamburg",
+      "telefon": "+49 40 72410000",
+      "enlem": "53.4870929",
+      "boylam": "10.2132386",
+      "mesafe": "15.8 km"
+    },
+    {
+      "eczaneAdi": "Staggenborg Apotheke im Marktkauf",
+      "adres": "Peiner Hag 1, 25497 Prisdorf",
+      "telefon": "+49 4101 376877",
+      "enlem": "53.67131",
+      "boylam": "9.77323",
+      "mesafe": "20.2 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Aumühle",
+      "adres": "Hofriedeallee 22, 21521 Aumühle",
+      "telefon": "04104-1665",
+      "enlem": "53.52642",
+      "boylam": "10.3059",
+      "mesafe": "20.4 km"
+    },
+    {
+      "eczaneAdi": "Walddörfer-Apotheke",
+      "adres": "Ahrensfelder Weg 1, 22927 Großhansdorf",
+      "telefon": "04102-61178",
+      "enlem": "53.6531551",
+      "boylam": "10.2622752",
+      "mesafe": "20.8 km"
+    },
+    {
+      "eczaneAdi": "Gorch-Fock-Apotheke",
+      "adres": "Bahnhofstr. 19, 21614 Buxtehude",
+      "telefon": "+49 4161 512611",
+      "enlem": "53.4733126",
+      "boylam": "9.6939944",
+      "mesafe": "22.1 km"
+    },
+    {
+      "eczaneAdi": "wir leben-Apotheke im Luhepark",
+      "adres": "Löhnfeld 10, 21423 Winsen (Luhe)",
+      "telefon": "+49 4171 605770",
+      "enlem": "53.3622",
+      "boylam": "10.1955",
+      "mesafe": "24.6 km"
+    },
+    {
+      "eczaneAdi": "Hecht-Apotheke",
+      "adres": "Hauptstraße 47, 21266 Jesteburg",
+      "telefon": "+49 4183 7979741",
+      "enlem": "53.3066648",
+      "boylam": "9.9533168",
+      "mesafe": "27.3 km"
+    }
+  ],
   "Baden-Württemberg": [
     {
       "eczaneAdi": "pharmaphant Apotheke am Nonnenhaus",
@@ -514,36 +651,36 @@
   ],
   "Brandenburg": [
     {
-      "eczaneAdi": "Diana Apotheke Oranienpark",
-      "adres": "Friedensstraße 8, 16515 Oranienburg",
-      "telefon": "+49 3301 574875",
-      "enlem": "52.7492939",
-      "boylam": "13.2235078",
-      "mesafe": "10.8 km"
+      "eczaneAdi": "Askania-Apotheke",
+      "adres": "Berliner Straße 119, 16515 Oranienburg",
+      "telefon": "03301  / 543 80",
+      "enlem": "52.736035",
+      "boylam": "13.2412399",
+      "mesafe": "12.2 km"
+    },
+    {
+      "eczaneAdi": "Greifen-Apotheke",
+      "adres": "Amtswallstraße 1, 16792 Zehdenick",
+      "telefon": "+49 3307 310172",
+      "enlem": "52.9805621",
+      "boylam": "13.3339695",
+      "mesafe": "16.1 km"
     },
     {
       "eczaneAdi": "Ahorn-Apotheke",
-      "adres": "Klosterfelder Hauptstraße 48, 16348 Wandlitz - OT Klosterfelde",
-      "telefon": "+49 33396 280",
-      "enlem": "52.787937",
-      "boylam": "13.4804899",
-      "mesafe": "17.1 km"
+      "adres": "Bahnstraße 3, 16727 Velten",
+      "telefon": "03304   / 340 92",
+      "enlem": "52.6869719",
+      "boylam": "13.1718106",
+      "mesafe": "18.3 km"
     },
     {
-      "eczaneAdi": "Apotheke am Mädchenviertel",
-      "adres": "Schönfließer Straße 25 G, 16540 Hohen Neuendorf",
-      "telefon": "03303 5416700",
-      "enlem": "52.6659077",
-      "boylam": "13.2964504",
-      "mesafe": "20.3 km"
-    },
-    {
-      "eczaneAdi": "Storchen Apotheke",
-      "adres": "Havelplatz 2, 16761 Hennigsdorf",
-      "telefon": "+49 3302 88990",
-      "enlem": "52.63637",
-      "boylam": "13.20022",
-      "mesafe": "23.5 km"
+      "eczaneAdi": "Steinbock Apotheke Schildow",
+      "adres": "Bahnhofstraße 5b, 16552 Mühlenbecker Land - OT Schildow",
+      "telefon": "+49 33056 270004",
+      "enlem": "52.6367557",
+      "boylam": "13.3749982",
+      "mesafe": "24.8 km"
     },
     {
       "eczaneAdi": "Apotheke am Markt",
@@ -560,6 +697,14 @@
       "enlem": "52.6075045",
       "boylam": "13.3255993",
       "mesafe": "27.0 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Schönow",
+      "adres": "Dorfstraße 4, 16321 Bernau bei Berlin",
+      "telefon": "03338 / 704 230",
+      "enlem": "52.6763001",
+      "boylam": "13.5373192",
+      "mesafe": "27.2 km"
     }
   ],
   "Bremen": [
@@ -626,14 +771,6 @@
       "enlem": "53.0413441",
       "boylam": "8.8499252",
       "mesafe": "15.6 km"
-    },
-    {
-      "eczaneAdi": "Deich-Apotheke",
-      "adres": "Mühlenstr. 13, 26931 Elsfleth",
-      "telefon": "+49 4404 92840",
-      "enlem": "53.2380316",
-      "boylam": "8.464316",
-      "mesafe": "18.5 km"
     },
     {
       "eczaneAdi": "Kranich Apotheke",
