@@ -37,46 +37,27 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "81649"
+            "verwendet": "89386"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Delphin-Apotheke",
+                    "name": "Römer-Apotheke",
                     "kammer": "lakt",
-                    "id": "503",
-                    "apo_id": "lakt503",
-                    "strasse": "Hermsdorfer Straße 4",
-                    "plz": "99099",
-                    "ort": "Erfurt",
-                    "distanz": "7.82386343784",
-                    "longitude": "11.0598792",
-                    "latitude": "50.9704011",
-                    "telefon": "+49 361 3458213",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "16.08.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "17.08.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Bahnhof-Apotheke",
-                    "kammer": "lakt",
-                    "id": "5",
-                    "apo_id": "lakt5",
-                    "strasse": "Bahnhofstraße 40",
+                    "id": "373",
+                    "apo_id": "lakt373",
+                    "strasse": "Bonemilchstraße 2",
                     "plz": "99084",
                     "ort": "Erfurt",
-                    "distanz": "8.15849796899",
-                    "longitude": "11.0350444",
-                    "latitude": "50.9747884",
-                    "telefon": "+49 361 555410",
+                    "distanz": "7.92775100338",
+                    "longitude": "11.014578",
+                    "latitude": "50.9712098",
+                    "telefon": "+49 361 2219075",
                     "fax": [],
                     "email": [],
-                    "startdatum": "16.08.2025",
+                    "startdatum": "17.08.2025",
                     "startzeit": "09:00",
-                    "enddatum": "17.08.2025",
+                    "enddatum": "18.08.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -97,6 +78,25 @@
                     "startzeit": "08:00",
                     "enddatum": "18.08.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Sonnen-Apotheke",
+                    "kammer": "lakt",
+                    "id": "3900",
+                    "apo_id": "lakt3900",
+                    "strasse": "Leipziger Straße 78",
+                    "plz": "99085",
+                    "ort": "Erfurt",
+                    "distanz": "9.71827647149",
+                    "longitude": "11.05341",
+                    "latitude": "50.98827",
+                    "telefon": "+49 361 6020493",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "17.08.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "18.08.2025",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Burgenland-Apotheke",
