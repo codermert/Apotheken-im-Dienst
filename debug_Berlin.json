@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 34
+            "anzahl": 33
         },
         "quota": {
-            "verwendet": "24649"
+            "verwendet": "25288"
         },
         "apotheken": {
             "apotheke": [
@@ -5724,25 +5724,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Steinbock Apotheke Schildow",
-                    "kammer": "lakbb",
-                    "id": "653",
-                    "apo_id": "lakbb653",
-                    "strasse": "Bahnhofstraße 5b",
-                    "plz": "16552",
-                    "ort": "Mühlenbecker Land - OT Schildow",
-                    "distanz": "13.35524852805",
-                    "longitude": "13.3749982",
-                    "latitude": "52.6367557",
-                    "telefon": "+49 33056 270004",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "17.08.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "18.08.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Arcaden-Apotheke Spandau",
                     "kammer": "akb",
                     "id": "100308",
@@ -5792,6 +5773,25 @@
                     "longitude": "13.1695774",
                     "latitude": "52.5180486",
                     "telefon": "+49 30 3612040",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "17.08.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "18.08.2025",
+                    "endzeit": "08:59"
+                },
+                {
+                    "name": "Stadt-Apotheke Köpenick",
+                    "kammer": "akb",
+                    "id": "100516",
+                    "apo_id": "akb100516",
+                    "strasse": "Grünstraße 24",
+                    "plz": "12555",
+                    "ort": "Berlin",
+                    "distanz": "14.95753774085",
+                    "longitude": "13.5747018",
+                    "latitude": "52.4449684",
+                    "telefon": "+49 30 6557463",
                     "fax": [],
                     "email": [],
                     "startdatum": "17.08.2025",
