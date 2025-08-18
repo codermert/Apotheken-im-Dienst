@@ -3194,7 +3194,7 @@
             "anzahl": 18
         },
         "quota": {
-            "verwendet": "25378"
+            "verwendet": "28436"
         },
         "apotheken": {
             "apotheke": [
@@ -3408,25 +3408,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Fleester Markt-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1422",
-                    "apo_id": "aknds1422",
-                    "strasse": "Fleestedter Ring 3",
-                    "plz": "21217",
-                    "ort": "Seevetal",
-                    "distanz": "15.66174434329",
-                    "longitude": "9.9902759",
-                    "latitude": "53.4097548",
-                    "telefon": "+49 4105 4385",
-                    "fax": "+49 4105 3430",
-                    "email": [],
-                    "startdatum": "17.08.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "18.08.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Sachsenwald-Apotheke",
                     "kammer": "aksh",
                     "id": "10407",
@@ -3568,6 +3549,25 @@
                         "nachname": "Schulz",
                         "position": "Inhaber"
                     }
+                },
+                {
+                    "name": "Markt-Apotheke im Gesundheitszentrum",
+                    "kammer": "aknds",
+                    "id": "1511",
+                    "apo_id": "aknds1511",
+                    "strasse": "Marktstr. 4",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "24.78631206922",
+                    "longitude": "10.2058523",
+                    "latitude": "53.3643304",
+                    "telefon": "+49 4171 3300",
+                    "fax": "+49 4171 784353",
+                    "email": [],
+                    "startdatum": "18.08.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "19.08.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Alster-Apotheke",
