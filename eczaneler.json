@@ -925,14 +925,6 @@
       "mesafe": "15.5 km"
     },
     {
-      "eczaneAdi": "Apotheke am Schützenplatz",
-      "adres": "Schützenstr. 10, 27798 Hude",
-      "telefon": "+49 4408 92110",
-      "enlem": "53.1076988",
-      "boylam": "8.4593608",
-      "mesafe": "16.2 km"
-    },
-    {
       "eczaneAdi": "Fontane Apotheke",
       "adres": "Schulstr. 51, 28844 Weyhe",
       "telefon": "+49 421 808222",
@@ -1089,36 +1081,44 @@
       "mesafe": "0.2 km"
     },
     {
-      "eczaneAdi": "Recknitztal-Apotheke",
-      "adres": "Breesener Str. 37, 18299 Laage",
-      "telefon": "+49 38459 36235",
-      "enlem": "53.9277616",
-      "boylam": "12.3460061",
-      "mesafe": "22.9 km"
-    },
-    {
-      "eczaneAdi": "Apotheke zum Klostersee",
-      "adres": "Schloßstr. 60, 17159 Dargun",
-      "telefon": "+49 39959 20372",
-      "enlem": "53.8972319",
-      "boylam": "12.8547925",
-      "mesafe": "23.0 km"
-    },
-    {
-      "eczaneAdi": "Schweden Apotheke",
-      "adres": "Werdohler Str. 3, 17153 Reuterstadt Stavenhagen",
-      "telefon": "+49 39954 24850",
-      "enlem": "53.688362",
-      "boylam": "12.9150862",
-      "mesafe": "24.3 km"
-    },
-    {
       "eczaneAdi": "Südstadt-Apotheke",
       "adres": "Goldberger Str. 70 c, 18273 Güstrow",
       "telefon": "+49 3843 331011",
       "enlem": "53.7805327",
       "boylam": "12.1759445",
       "mesafe": "26.4 km"
+    },
+    {
+      "eczaneAdi": "Löwen-Apotheke",
+      "adres": "Neuer Markt 21, 17192 Waren",
+      "telefon": "+49 3991 666153",
+      "enlem": "53.5145093",
+      "boylam": "12.6887047",
+      "mesafe": "29.8 km"
+    },
+    {
+      "eczaneAdi": "Löwen-Apotheke",
+      "adres": "Mühlenstraße 30, 17109 Demmin",
+      "telefon": "+49 3998 223152",
+      "enlem": "53.90655",
+      "boylam": "13.04078",
+      "mesafe": "34.0 km"
+    },
+    {
+      "eczaneAdi": "Fritz-Reuter-Apotheke",
+      "adres": "Doberaner Str. 43b, 18057 Rostock",
+      "telefon": "+49 381 4932220",
+      "enlem": "54.0909952",
+      "boylam": "12.1149844",
+      "mesafe": "46.5 km"
+    },
+    {
+      "eczaneAdi": "Ahorn-Apotheke",
+      "adres": "S.-Allende-Str. 28, 18147 Rostock",
+      "telefon": "+49 381 699630",
+      "enlem": "54.1150976",
+      "boylam": "12.1451768",
+      "mesafe": "47.4 km"
     }
   ],
   "Niedersachsen": [
@@ -1335,72 +1335,7 @@
       "mesafe": "21.5 km"
     }
   ],
-  "Sachsen": [
-    {
-      "eczaneAdi": "Pluspunkt-Apotheke Friedeburg",
-      "adres": "Friedeburger Straße 11, 09599 Freiberg",
-      "telefon": "+49 3731 200346",
-      "enlem": "50.91761",
-      "boylam": "13.32813",
-      "mesafe": "9.3 km"
-    },
-    {
-      "eczaneAdi": "Bären-Apotheke",
-      "adres": "Dresdner Straße 287, 01705 Freital",
-      "telefon": "+49 351 6494753",
-      "enlem": "50.99176",
-      "boylam": "13.6437",
-      "mesafe": "14.7 km"
-    },
-    {
-      "eczaneAdi": "Markt-Apotheke",
-      "adres": "Markt 28, 01683 Nossen",
-      "telefon": "+49 35242 4050",
-      "enlem": "51.0575445",
-      "boylam": "13.2985278",
-      "mesafe": "18.1 km"
-    },
-    {
-      "eczaneAdi": "Center-Apotheke Gorbitz",
-      "adres": "Harthaer Straße 3, 01169 Dresden",
-      "telefon": "+49 351 4111464",
-      "enlem": "51.05024",
-      "boylam": "13.66173",
-      "mesafe": "19.6 km"
-    },
-    {
-      "eczaneAdi": "Rosen-Apotheke",
-      "adres": "Ziegelstraße 25, 09661 Hainichen",
-      "telefon": "+49 37207 50500",
-      "enlem": "50.96285",
-      "boylam": "13.11966",
-      "mesafe": "24.1 km"
-    },
-    {
-      "eczaneAdi": "Kristall-Apotheke",
-      "adres": "Hauptstraße 14, 01445 Radebeul",
-      "telefon": "+49 351 2722900",
-      "enlem": "51.10062",
-      "boylam": "13.67917",
-      "mesafe": "24.5 km"
-    },
-    {
-      "eczaneAdi": "Linden-Apotheke",
-      "adres": "Königsbrücker Straße 52, 01099 Dresden",
-      "telefon": "+49 351 8045426",
-      "enlem": "51.06936",
-      "boylam": "13.74915",
-      "mesafe": "25.7 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Leuben OHG",
-      "adres": "Zamenhofstraße 65, 01257 Dresden",
-      "telefon": "+49 351 2031640",
-      "enlem": "51.01023",
-      "boylam": "13.81547",
-      "mesafe": "26.6 km"
-    }
-  ],
+  "Sachsen": [],
   "Sachsen-Anhalt": [
     {
       "eczaneAdi": "Linden-Apotheke",
