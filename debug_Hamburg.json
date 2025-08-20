@@ -3194,7 +3194,7 @@
             "anzahl": 18
         },
         "quota": {
-            "verwendet": "19312"
+            "verwendet": "21810"
         },
         "apotheken": {
             "apotheke": [
@@ -3427,25 +3427,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Apotheke Hittfeld",
-                    "kammer": "aknds",
-                    "id": "1416",
-                    "apo_id": "aknds1416",
-                    "strasse": "Kirchstr. 26",
-                    "plz": "21218",
-                    "ort": "Seevetal",
-                    "distanz": "18.385607291550002",
-                    "longitude": "9.9815255",
-                    "latitude": "53.3855388",
-                    "telefon": "+49 4105 2405",
-                    "fax": "+49 4105 2588",
-                    "email": [],
-                    "startdatum": "19.08.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "20.08.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Accent-Apotheke",
                     "kammer": "aksh",
                     "id": "10792",
@@ -3501,6 +3482,25 @@
                     "startzeit": "08:00",
                     "enddatum": "21.08.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke an der Stadthalle",
+                    "kammer": "aknds",
+                    "id": "1513",
+                    "apo_id": "aknds1513",
+                    "strasse": "Luhdorfer Str. 28",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "25.99575978553",
+                    "longitude": "10.2070035",
+                    "latitude": "53.3518837",
+                    "telefon": "+49 4171 783900",
+                    "fax": "+49 4171 7839020",
+                    "email": [],
+                    "startdatum": "20.08.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "21.08.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "apo-rot Linden Apotheke",
