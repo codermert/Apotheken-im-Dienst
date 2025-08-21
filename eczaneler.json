@@ -315,128 +315,7 @@
       "mesafe": "27.0 km"
     }
   ],
-  "Hamburg": [
-    {
-      "eczaneAdi": "Lincoln-Apotheke",
-      "adres": "Nobistor 27, 22767 Hamburg",
-      "telefon": "+49 40 310875",
-      "enlem": "53.550085",
-      "boylam": "9.9548822",
-      "mesafe": "3.0 km"
-    },
-    {
-      "eczaneAdi": "Manstein-Apotheke",
-      "adres": "Eppendorfer Weg 180, 20253 Hamburg",
-      "telefon": "+49 40 4226280",
-      "enlem": "53.580611",
-      "boylam": "9.9694935",
-      "mesafe": "4.0 km"
-    },
-    {
-      "eczaneAdi": "Jarre-Apotheke",
-      "adres": "Jarrestraße 42, 22303 Hamburg",
-      "telefon": "+49 40 2708294",
-      "enlem": "53.5847788",
-      "boylam": "10.0250382",
-      "mesafe": "4.2 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Billstedter Platz",
-      "adres": "Billstedter Platz 9, 22111 Hamburg",
-      "telefon": "+49 40 7322222",
-      "enlem": "53.5418471",
-      "boylam": "10.1064762",
-      "mesafe": "7.1 km"
-    },
-    {
-      "eczaneAdi": "Ulex-Apotheke",
-      "adres": "Steendiek 8, 21129 Hamburg",
-      "telefon": "+49 40 7421710",
-      "enlem": "53.5331825",
-      "boylam": "9.8778506",
-      "mesafe": "8.4 km"
-    },
-    {
-      "eczaneAdi": "apo-rot Apotheke Rahlstedt",
-      "adres": "Rahlstedter Bahnhofstraße 20, 22143 Hamburg",
-      "telefon": "+49 40 6776053",
-      "enlem": "53.6025216",
-      "boylam": "10.1544051",
-      "mesafe": "11.7 km"
-    },
-    {
-      "eczaneAdi": "Herz-Apotheke",
-      "adres": "Industriestr. 1b, 22869 Schenefeld",
-      "telefon": "+49 40 8305384",
-      "enlem": "53.6015244",
-      "boylam": "9.8375714",
-      "mesafe": "12.2 km"
-    },
-    {
-      "eczaneAdi": "Johannis-Apotheke",
-      "adres": "Blankeneser Bahnhofstraße 26, 22587 Hamburg",
-      "telefon": "+49 40 860245",
-      "enlem": "53.5604763",
-      "boylam": "9.810916",
-      "mesafe": "12.6 km"
-    },
-    {
-      "eczaneAdi": "Regenbogen-Apotheke",
-      "adres": "Moorhof 7 b, 22399 Hamburg",
-      "telefon": "+49 40 80004577",
-      "enlem": "53.66087",
-      "boylam": "10.08607",
-      "mesafe": "13.5 km"
-    },
-    {
-      "eczaneAdi": "Apotheke im Herold Center",
-      "adres": "Berliner Allee 38, 22850 Norderstedt",
-      "telefon": "040-5235064",
-      "enlem": "53.68463",
-      "boylam": "9.98627",
-      "mesafe": "15.0 km"
-    },
-    {
-      "eczaneAdi": "Kloster-Apotheke oHG",
-      "adres": "Am Ladenzentrum 4, 21465 Reinbek",
-      "telefon": "040-7222500",
-      "enlem": "53.510826",
-      "boylam": "10.2347172",
-      "mesafe": "16.1 km"
-    },
-    {
-      "eczaneAdi": "Apotheke im Gesundheitszentrum",
-      "adres": "Hamburger Str. 23, 22926 Ahrensburg",
-      "telefon": "04102-888972",
-      "enlem": "53.6715927",
-      "boylam": "10.2366485",
-      "mesafe": "20.6 km"
-    },
-    {
-      "eczaneAdi": "Eidig-Apotheke",
-      "adres": "Bürgermeister-Glade-Str. 1, 21224 Rosengarten",
-      "telefon": "+49 4105 65560",
-      "enlem": "53.3672014",
-      "boylam": "9.9290501",
-      "mesafe": "20.9 km"
-    },
-    {
-      "eczaneAdi": "Kloster-Apotheke",
-      "adres": "Stader Str. 17, 21614 Buxtehude",
-      "telefon": "+49 4161 82881",
-      "enlem": "53.4688856",
-      "boylam": "9.6860624",
-      "mesafe": "22.8 km"
-    },
-    {
-      "eczaneAdi": "Pluspunkt Apotheke Uetersen",
-      "adres": "Großer Sand 12, 25436 Uetersen",
-      "telefon": "04122-9278270",
-      "enlem": "53.6829075",
-      "boylam": "9.6655415",
-      "mesafe": "26.6 km"
-    }
-  ],
+  "Hamburg": [],
   "Baden-Württemberg": [
     {
       "eczaneAdi": "pharmaphant Apotheke am Hechinger Eck",
@@ -849,36 +728,44 @@
       "mesafe": "0.2 km"
     },
     {
+      "eczaneAdi": "Apotheke am Park",
+      "adres": "Zu den Wiesen 9, 18279 Lalendorf",
+      "telefon": "+49 38452 20592",
+      "enlem": "53.75746",
+      "boylam": "12.38463",
+      "mesafe": "12.7 km"
+    },
+    {
+      "eczaneAdi": "Recknitztal-Apotheke",
+      "adres": "Breesener Str. 37, 18299 Laage",
+      "telefon": "+49 38459 36235",
+      "enlem": "53.9277616",
+      "boylam": "12.3460061",
+      "mesafe": "22.9 km"
+    },
+    {
+      "eczaneAdi": "Hubertus-Apotheke",
+      "adres": "Friedensstr. 29, 17179 Gnoien",
+      "telefon": "+49 39971 1830",
+      "enlem": "53.9693156",
+      "boylam": "12.7102512",
+      "mesafe": "23.5 km"
+    },
+    {
+      "eczaneAdi": "Schweden Apotheke",
+      "adres": "Werdohler Str. 3, 17153 Reuterstadt Stavenhagen",
+      "telefon": "+49 39954 24850",
+      "enlem": "53.688362",
+      "boylam": "12.9150862",
+      "mesafe": "24.3 km"
+    },
+    {
       "eczaneAdi": "Godewind-Apotheke",
       "adres": "Haselstr. 2, 18273 Güstrow",
       "telefon": "+49 3843 215630",
       "enlem": "53.8080658",
       "boylam": "12.1914359",
       "mesafe": "25.6 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Kietz",
-      "adres": "Kietzstr. 13 b, 17192 Waren",
-      "telefon": "+49 3991 15080",
-      "enlem": "53.5145114",
-      "boylam": "12.6813827",
-      "mesafe": "29.7 km"
-    },
-    {
-      "eczaneAdi": "Peene-Apotheke",
-      "adres": "Am Krankenhaus 1, 17109 Demmin",
-      "telefon": "+49 3998 2828640",
-      "enlem": "53.902402",
-      "boylam": "13.0426609",
-      "mesafe": "33.9 km"
-    },
-    {
-      "eczaneAdi": "Rosen-Apotheke",
-      "adres": "Schulenburgstr. 20, 18069 Rostock",
-      "telefon": "+49 381 8096280",
-      "enlem": "54.10064",
-      "boylam": "12.07688",
-      "mesafe": "49.0 km"
     }
   ],
   "Niedersachsen": [
