@@ -37,27 +37,46 @@
             "anzahl": 9
         },
         "quota": {
-            "verwendet": "26781"
+            "verwendet": "27420"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Apollo-Apotheke Mitte",
+                    "name": "Stadtpark-Apotheke",
                     "kammer": "lakt",
-                    "id": "585",
-                    "apo_id": "lakt585",
-                    "strasse": "Juri-Gagarin-Ring 94",
-                    "plz": "99084",
+                    "id": "13",
+                    "apo_id": "lakt13",
+                    "strasse": "Schillerstraße 25",
+                    "plz": "99096",
                     "ort": "Erfurt",
-                    "distanz": "8.0216642427",
-                    "longitude": "11.0350273",
-                    "latitude": "50.9735578",
-                    "telefon": "+49 361 241166",
+                    "distanz": "7.38124570357",
+                    "longitude": "11.0312432",
+                    "latitude": "50.9676933",
+                    "telefon": "+49 361 74733749",
                     "fax": [],
                     "email": [],
-                    "startdatum": "21.08.2025",
+                    "startdatum": "22.08.2025",
                     "startzeit": "09:00",
-                    "enddatum": "22.08.2025",
+                    "enddatum": "23.08.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Anger-Vital-Apotheke",
+                    "kammer": "lakt",
+                    "id": "613",
+                    "apo_id": "lakt613",
+                    "strasse": "Anger 58",
+                    "plz": "99084",
+                    "ort": "Erfurt",
+                    "distanz": "8.264679781049999",
+                    "longitude": "11.0335363",
+                    "latitude": "50.9757148",
+                    "telefon": "+49 361 5507333",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "22.08.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "23.08.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "23.08.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Apotheke am Zoopark",
-                    "kammer": "lakt",
-                    "id": "474",
-                    "apo_id": "lakt474",
-                    "strasse": "Julius-Leber-Ring 5a",
-                    "plz": "99087",
-                    "ort": "Erfurt",
-                    "distanz": "12.894783930460001",
-                    "longitude": "11.0220655",
-                    "latitude": "51.016957",
-                    "telefon": "+49 361 7454736",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "21.08.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "22.08.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Ahorn-Apotheke",
