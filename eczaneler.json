@@ -651,7 +651,72 @@
       "mesafe": "22.8 km"
     }
   ],
-  "Bremen": [],
+  "Bremen": [
+    {
+      "eczaneAdi": "Lesum Apotheke",
+      "adres": "Charlotte-Wolff-Allee 7, 28717 Bremen",
+      "telefon": "+49 421 6369080",
+      "enlem": "53.1740678",
+      "boylam": "8.6826821",
+      "mesafe": "3.3 km"
+    },
+    {
+      "eczaneAdi": "Neue Apotheke Heidkrug",
+      "adres": "Bremer Str. 323, 27751 Delmenhorst",
+      "telefon": "+49 4221 8005663",
+      "enlem": "53.0560112",
+      "boylam": "8.6793451",
+      "mesafe": "9.9 km"
+    },
+    {
+      "eczaneAdi": "Delme-Apotheke",
+      "adres": "Pappelstr. 91, 28199 Bremen",
+      "telefon": "+49 421 500201",
+      "enlem": "53.0673407",
+      "boylam": "8.7917076",
+      "mesafe": "10.9 km"
+    },
+    {
+      "eczaneAdi": "Sanaris-Apotheke",
+      "adres": "Gerold-Janssen-Straße 2, 28359 Bremen",
+      "telefon": "+49 421 84529815",
+      "enlem": "53.10269",
+      "boylam": "8.87921",
+      "mesafe": "13.3 km"
+    },
+    {
+      "eczaneAdi": "Lilien-Apotheke",
+      "adres": "Hauptstr. 59, 28865 Lilienthal",
+      "telefon": "+49 4298 915144",
+      "enlem": "53.14252",
+      "boylam": "8.90753",
+      "mesafe": "14.3 km"
+    },
+    {
+      "eczaneAdi": "Robert-Koch-Apotheke",
+      "adres": "Robert-Koch-Str. 42, 28277 Bremen",
+      "telefon": "+49 421 875111",
+      "enlem": "53.0406348",
+      "boylam": "8.8223187",
+      "mesafe": "14.5 km"
+    },
+    {
+      "eczaneAdi": "Ring-Apotheke",
+      "adres": "Ring 26, 27777 Ganderkesee",
+      "telefon": "+49 4222 950288",
+      "enlem": "53.03225",
+      "boylam": "8.5473054",
+      "mesafe": "15.9 km"
+    },
+    {
+      "eczaneAdi": "Apotheke 55 im Rudolf-Virchow-Haus",
+      "adres": "Hauptstr. 55, 28844 Weyhe",
+      "telefon": "+49 4203 6955",
+      "enlem": "52.98363",
+      "boylam": "8.83345",
+      "mesafe": "20.3 km"
+    }
+  ],
   "Hessen": [
     {
       "eczaneAdi": "Rathaus Apotheke",
@@ -712,6 +777,14 @@
   ],
   "Mecklenburg-Vorpommern": [
     {
+      "eczaneAdi": "Apotheke am Park",
+      "adres": "Zu den Wiesen 9, 18279 Lalendorf",
+      "telefon": "+49 38452 20592",
+      "enlem": "53.75746",
+      "boylam": "12.38463",
+      "mesafe": "12.7 km"
+    },
+    {
       "eczaneAdi": "Neue Apotheke am Markt",
       "adres": "Am Markt 6, 17139 Malchin",
       "telefon": "+49 3994 223412",
@@ -720,44 +793,36 @@
       "mesafe": "12.9 km"
     },
     {
+      "eczaneAdi": "Recknitztal-Apotheke",
+      "adres": "Breesener Str. 37, 18299 Laage",
+      "telefon": "+49 38459 36235",
+      "enlem": "53.9277616",
+      "boylam": "12.3460061",
+      "mesafe": "22.9 km"
+    },
+    {
+      "eczaneAdi": "Hubertus-Apotheke",
+      "adres": "Friedensstr. 29, 17179 Gnoien",
+      "telefon": "+49 39971 1830",
+      "enlem": "53.9693156",
+      "boylam": "12.7102512",
+      "mesafe": "23.5 km"
+    },
+    {
+      "eczaneAdi": "Schweden Apotheke",
+      "adres": "Werdohler Str. 3, 17153 Reuterstadt Stavenhagen",
+      "telefon": "+49 39954 24850",
+      "enlem": "53.688362",
+      "boylam": "12.9150862",
+      "mesafe": "24.3 km"
+    },
+    {
       "eczaneAdi": "Apotheke am Petershof",
       "adres": "Schwaaner Straße 21, 18273 Güstrow",
       "telefon": "+49 3843 466969",
       "enlem": "53.80476",
       "boylam": "12.17597",
       "mesafe": "26.6 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Papenberg",
-      "adres": "Rosa-Luxemburg-Str. 20b, 17192 Waren",
-      "telefon": "+49 3991 668877",
-      "enlem": "53.50911",
-      "boylam": "12.69992",
-      "mesafe": "30.6 km"
-    },
-    {
-      "eczaneAdi": "Marien-Apotheke",
-      "adres": "Am Postberg 1, 17121 Loitz",
-      "telefon": "+49 39998 10381",
-      "enlem": "53.9737119",
-      "boylam": "13.129453",
-      "mesafe": "42.7 km"
-    },
-    {
-      "eczaneAdi": "John-Brinckman-Apotheke Schröder und Weiß oHG",
-      "adres": "Schillingallee 28, 18057 Rostock",
-      "telefon": "+49 381 2002457",
-      "enlem": "54.087759",
-      "boylam": "12.1034945",
-      "mesafe": "46.7 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Mühlentor",
-      "adres": "Bahnhofstraße 2, 18507 Grimmen",
-      "telefon": "+49 38326 455440",
-      "enlem": "54.11176",
-      "boylam": "13.04009",
-      "mesafe": "48.5 km"
     }
   ],
   "Niedersachsen": [
