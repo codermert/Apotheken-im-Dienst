@@ -37,46 +37,27 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "45671"
+            "verwendet": "47001"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Stadtpark-Apotheke",
+                    "name": "Ginkgo-Apotheke",
                     "kammer": "lakt",
-                    "id": "13",
-                    "apo_id": "lakt13",
-                    "strasse": "Schillerstraße 25",
+                    "id": "626",
+                    "apo_id": "lakt626",
+                    "strasse": "Schillerstraße 43",
                     "plz": "99096",
                     "ort": "Erfurt",
-                    "distanz": "7.38124570357",
-                    "longitude": "11.0312432",
-                    "latitude": "50.9676933",
-                    "telefon": "+49 361 74733749",
+                    "distanz": "7.2903344601199995",
+                    "longitude": "11.0260411",
+                    "latitude": "50.9665835",
+                    "telefon": "+49 361 6021702",
                     "fax": [],
                     "email": [],
-                    "startdatum": "22.08.2025",
+                    "startdatum": "23.08.2025",
                     "startzeit": "09:00",
-                    "enddatum": "23.08.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Anger-Vital-Apotheke",
-                    "kammer": "lakt",
-                    "id": "613",
-                    "apo_id": "lakt613",
-                    "strasse": "Anger 58",
-                    "plz": "99084",
-                    "ort": "Erfurt",
-                    "distanz": "8.264679781049999",
-                    "longitude": "11.0335363",
-                    "latitude": "50.9757148",
-                    "telefon": "+49 361 5507333",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "22.08.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "23.08.2025",
+                    "enddatum": "24.08.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -97,6 +78,25 @@
                     "startzeit": "08:00",
                     "enddatum": "24.08.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Rosen-Apotheke",
+                    "kammer": "lakt",
+                    "id": "405",
+                    "apo_id": "lakt405",
+                    "strasse": "Ringstraße 28",
+                    "plz": "99091",
+                    "ort": "Erfurt-Gispersleben",
+                    "distanz": "13.737095771800002",
+                    "longitude": "10.9932804",
+                    "latitude": "51.0217134",
+                    "telefon": "+49 361 7916096",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "23.08.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "24.08.2025",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Liszt-Apotheke",
