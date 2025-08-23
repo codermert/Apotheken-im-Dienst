@@ -767,56 +767,7 @@
       "mesafe": "25.7 km"
     }
   ],
-  "Mecklenburg-Vorpommern": [
-    {
-      "eczaneAdi": "Apotheke am Wasserturm",
-      "adres": "Rosenstraße 2, 17166 Teterow",
-      "telefon": "+49 3996 1629790",
-      "enlem": "53.76898",
-      "boylam": "12.579",
-      "mesafe": "0.6 km"
-    },
-    {
-      "eczaneAdi": "Rats-Apotheke",
-      "adres": "Markt 24, 18273 Güstrow",
-      "telefon": "+49 3843 682030",
-      "enlem": "53.7928243",
-      "boylam": "12.1760016",
-      "mesafe": "26.4 km"
-    },
-    {
-      "eczaneAdi": "da Vinci-Apotheke am Bahnhof",
-      "adres": "Beethovenstr. 1, 17192 Waren",
-      "telefon": "+49 3991 631384",
-      "enlem": "53.5202876",
-      "boylam": "12.6826483",
-      "mesafe": "29.1 km"
-    },
-    {
-      "eczaneAdi": "Muhrbeck -Apotheke",
-      "adres": "Gartenstr. 2, 17109 Demmin",
-      "telefon": "+49 3998 362151",
-      "enlem": "53.9047535",
-      "boylam": "13.0423311",
-      "mesafe": "34.0 km"
-    },
-    {
-      "eczaneAdi": "Altstadt-Apotheke",
-      "adres": "Grubenstr. 20, 18055 Rostock",
-      "telefon": "+49 381 4590409",
-      "enlem": "54.0910645",
-      "boylam": "12.1427681",
-      "mesafe": "45.4 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Mühlentor",
-      "adres": "Bahnhofstraße 2, 18507 Grimmen",
-      "telefon": "+49 38326 455440",
-      "enlem": "54.11176",
-      "boylam": "13.04009",
-      "mesafe": "48.5 km"
-    }
-  ],
+  "Mecklenburg-Vorpommern": [],
   "Niedersachsen": [
     {
       "eczaneAdi": "Stern-Apotheke",
@@ -1089,6 +1040,14 @@
       "mesafe": "22.9 km"
     },
     {
+      "eczaneAdi": "Kronen-Apotheke",
+      "adres": "Dresdner Straße 60, 01640 Coswig",
+      "telefon": "+49 3523 75234",
+      "enlem": "51.12501",
+      "boylam": "13.5798",
+      "mesafe": "23.3 km"
+    },
+    {
       "eczaneAdi": "Saxonia Apotheke - Internationale Apotheke",
       "adres": "Prager Straße 8 a, 01069 Dresden",
       "telefon": "+49 351 4904949",
@@ -1159,17 +1118,58 @@
       "enlem": "51.02915",
       "boylam": "13.80234",
       "mesafe": "26.6 km"
-    },
-    {
-      "eczaneAdi": "Elbtal-Apotheke",
-      "adres": "Niederauer Straße 43, 01662 Meißen",
-      "telefon": "+49 3521 72030",
-      "enlem": "51.16827",
-      "boylam": "13.50182",
-      "mesafe": "26.7 km"
     }
   ],
-  "Sachsen-Anhalt": [],
+  "Sachsen-Anhalt": [
+    {
+      "eczaneAdi": "Hopfengarten-Apotheke",
+      "adres": "Hopfenplatz 6, 39120 Magdeburg",
+      "telefon": "+49 391 6229228",
+      "enlem": "52.09119",
+      "boylam": "11.626",
+      "mesafe": "10.5 km"
+    },
+    {
+      "eczaneAdi": "Dr. Löwe-Apotheke",
+      "adres": "Magdeburger Str. 105, 39240 Calbe/Saale",
+      "telefon": "+49 39291 2860",
+      "enlem": "51.9055525",
+      "boylam": "11.7717242",
+      "mesafe": "12.5 km"
+    },
+    {
+      "eczaneAdi": "Nordpark-Apotheke",
+      "adres": "Agnetenstr. 24, 39106 Magdeburg",
+      "telefon": "+49 391 5611696",
+      "enlem": "52.14741",
+      "boylam": "11.64422",
+      "mesafe": "15.9 km"
+    },
+    {
+      "eczaneAdi": "Arnika-Apotheke",
+      "adres": "Hospitalstr. 9a, 39164 Stadt Wanzleben-Börde",
+      "telefon": "+49 39209 699660",
+      "enlem": "52.0601872",
+      "boylam": "11.443052",
+      "mesafe": "18.6 km"
+    },
+    {
+      "eczaneAdi": "Neue Adler-Apotheke",
+      "adres": "Steinstraße 7, 39418 Staßfurt",
+      "telefon": "+49 3925 323087",
+      "enlem": "51.8501553",
+      "boylam": "11.5835007",
+      "mesafe": "19.4 km"
+    },
+    {
+      "eczaneAdi": "Neue Apotheke",
+      "adres": "Dessauer Straße 41/43, 39261 Zerbst/Anhalt",
+      "telefon": "+49 3923 3406",
+      "enlem": "51.9602644",
+      "boylam": "12.0921785",
+      "mesafe": "27.5 km"
+    }
+  ],
   "Schleswig-Holstein": [
     {
       "eczaneAdi": "Stadt Apotheke",
