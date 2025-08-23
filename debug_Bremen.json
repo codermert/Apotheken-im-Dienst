@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "40790"
+            "verwendet": "44437"
         },
         "apotheken": {
             "apotheke": [
@@ -1291,25 +1291,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Neue Apotheke Heidkrug",
-                    "kammer": "aknds",
-                    "id": "1683",
-                    "apo_id": "aknds1683",
-                    "strasse": "Bremer Str. 323",
-                    "plz": "27751",
-                    "ort": "Delmenhorst",
-                    "distanz": "9.93248560797",
-                    "longitude": "8.6793451",
-                    "latitude": "53.0560112",
-                    "telefon": "+49 4221 8005663",
-                    "fax": "+49 4221 8005664",
-                    "email": [],
-                    "startdatum": "22.08.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "23.08.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Delme-Apotheke",
                     "kammer": "akbr",
                     "id": "10039",
@@ -1327,6 +1308,25 @@
                     "startzeit": "09:00",
                     "enddatum": "23.08.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Rosen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1676",
+                    "apo_id": "aknds1676",
+                    "strasse": "Cramerstr. 15",
+                    "plz": "27749",
+                    "ort": "Delmenhorst",
+                    "distanz": "11.49851462493",
+                    "longitude": "8.6348904",
+                    "latitude": "53.0476985",
+                    "telefon": "+49 4221 93590",
+                    "fax": "+49 4221 935935",
+                    "email": [],
+                    "startdatum": "23.08.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "24.08.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Sanaris-Apotheke",
@@ -1384,6 +1384,25 @@
                     "startzeit": "09:00",
                     "enddatum": "23.08.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Alte Raben Apotheke",
+                    "kammer": "aknds",
+                    "id": "1815",
+                    "apo_id": "aknds1815",
+                    "strasse": "Parkstr. 12",
+                    "plz": "27798",
+                    "ort": "Hude",
+                    "distanz": "16.03848971665",
+                    "longitude": "8.4602241",
+                    "latitude": "53.1112996",
+                    "telefon": "+49 4408 321",
+                    "fax": "+49 4408 60121",
+                    "email": [],
+                    "startdatum": "23.08.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "24.08.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Apotheke 55 im Rudolf-Virchow-Haus",
