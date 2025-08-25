@@ -331,144 +331,7 @@
       "mesafe": "26.1 km"
     }
   ],
-  "Hamburg": [
-    {
-      "eczaneAdi": "Alsterarkaden-Apotheke",
-      "adres": "Alsterarkaden 13, 20354 Hamburg",
-      "telefon": "+49 40 345859",
-      "enlem": "53.5519076",
-      "boylam": "9.9921882",
-      "mesafe": "0.6 km"
-    },
-    {
-      "eczaneAdi": "Nikolai-Apotheke",
-      "adres": "Eppendorfer Baum 3, 20249 Hamburg",
-      "telefon": "+49 40 461914",
-      "enlem": "53.5820124",
-      "boylam": "9.9871463",
-      "mesafe": "3.6 km"
-    },
-    {
-      "eczaneAdi": "Kronen-Apotheke",
-      "adres": "Düppelstraße 1, 22769 Hamburg",
-      "telefon": "+49 40 88302377",
-      "enlem": "53.562991",
-      "boylam": "9.9483049",
-      "mesafe": "3.7 km"
-    },
-    {
-      "eczaneAdi": "Apotheke im Quarree",
-      "adres": "Wandsbeker Marktstraße 103-107, 22041 Hamburg",
-      "telefon": "+49 40 89720088",
-      "enlem": "53.57276",
-      "boylam": "10.06809",
-      "mesafe": "5.1 km"
-    },
-    {
-      "eczaneAdi": "Doppeleiche-Apotheke",
-      "adres": "Waitzstraße 16, 22607 Hamburg",
-      "telefon": "+49 40 8992210",
-      "enlem": "53.5596796",
-      "boylam": "9.8838229",
-      "mesafe": "7.8 km"
-    },
-    {
-      "eczaneAdi": "Kleist-Apotheke",
-      "adres": "Eidelstedter Platz 10 d, 22523 Hamburg",
-      "telefon": "+49 40 576102",
-      "enlem": "53.6082658",
-      "boylam": "9.9030795",
-      "mesafe": "9.1 km"
-    },
-    {
-      "eczaneAdi": "Hansa-Apotheke",
-      "adres": "Heimfelder Straße 1, 21075 Hamburg",
-      "telefon": "+49 40 773909",
-      "enlem": "53.4651299",
-      "boylam": "9.9632918",
-      "mesafe": "9.8 km"
-    },
-    {
-      "eczaneAdi": "VIVA Apotheke Marktkauf-Center Bergedorf",
-      "adres": "Alte Holstenstraße 30 - 32, 21031 Hamburg",
-      "telefon": "+49 40 63643003",
-      "enlem": "53.4919343",
-      "boylam": "10.2068821",
-      "mesafe": "15.1 km"
-    },
-    {
-      "eczaneAdi": "Rosen-Apotheke",
-      "adres": "Hauptstr. 82, 25462 Rellingen",
-      "telefon": "+49 4101 22833",
-      "enlem": "53.65389",
-      "boylam": "9.82887",
-      "mesafe": "16.2 km"
-    },
-    {
-      "eczaneAdi": "Heide Apotheke",
-      "adres": "Stüffeleck 10, 22359 Hamburg",
-      "telefon": "+49 40 6047471",
-      "enlem": "53.66989",
-      "boylam": "10.14347",
-      "mesafe": "16.3 km"
-    },
-    {
-      "eczaneAdi": "Vitalhus. Die Apotheke",
-      "adres": "Stormarnstr. 33-41, 22844 Norderstedt",
-      "telefon": "040-87977881",
-      "enlem": "53.7089344",
-      "boylam": "10.0187003",
-      "mesafe": "17.7 km"
-    },
-    {
-      "eczaneAdi": "Rathaus Apotheke Hittfeld",
-      "adres": "Kirchstraße 3, 21218 Seevetal",
-      "telefon": "+49 4105 6678095",
-      "enlem": "53.38471",
-      "boylam": "9.97957",
-      "mesafe": "18.5 km"
-    },
-    {
-      "eczaneAdi": "Dalbek Apotheke Börnsen",
-      "adres": "Beim Sachsenwald 2, 21039 Börnsen",
-      "telefon": "040-18098008",
-      "enlem": "53.4857729",
-      "boylam": "10.2870226",
-      "mesafe": "20.3 km"
-    },
-    {
-      "eczaneAdi": "Apotheke im Gesundheitszentrum",
-      "adres": "Hamburger Str. 23, 22926 Ahrensburg",
-      "telefon": "04102-888972",
-      "enlem": "53.6715927",
-      "boylam": "10.2366485",
-      "mesafe": "20.6 km"
-    },
-    {
-      "eczaneAdi": "Süd-Apotheke",
-      "adres": "Torfweg 8, 21614 Buxtehude",
-      "telefon": "+49 4161 85144",
-      "enlem": "53.4630662",
-      "boylam": "9.6671587",
-      "mesafe": "24.2 km"
-    },
-    {
-      "eczaneAdi": "Fasanen-Apotheke",
-      "adres": "Wilhelmstr. 2c, 25436 Tornesch",
-      "telefon": "04122-52506",
-      "enlem": "53.6987726",
-      "boylam": "9.7177816",
-      "mesafe": "25.0 km"
-    },
-    {
-      "eczaneAdi": "Stadt-Apotheke",
-      "adres": "Kirchenstr. 7, 21244 Buchholz in der Nordheide",
-      "telefon": "+49 4181 31313",
-      "enlem": "53.3282041",
-      "boylam": "9.8825732",
-      "mesafe": "25.9 km"
-    }
-  ],
+  "Hamburg": [],
   "Baden-Württemberg": [
     {
       "eczaneAdi": "Nordring-Apotheke Tübingen-WHO",
@@ -585,7 +448,48 @@
       "mesafe": "24.9 km"
     }
   ],
-  "Brandenburg": [],
+  "Brandenburg": [
+    {
+      "eczaneAdi": "Apotheke zu Bötzow",
+      "adres": "Breite Straße 7, 16515 Oranienburg",
+      "telefon": "03301 / 868 07 60",
+      "enlem": "52.7524521",
+      "boylam": "13.2354459",
+      "mesafe": "10.4 km"
+    },
+    {
+      "eczaneAdi": "Löwen-Apotheke",
+      "adres": "Hauptstraße 38/40, 16547 Birkenwerder",
+      "telefon": "+49 3303 5068868",
+      "enlem": "52.688974",
+      "boylam": "13.2821288",
+      "mesafe": "17.6 km"
+    },
+    {
+      "eczaneAdi": "Stadt-Apotheke",
+      "adres": "Schinkelplatz 6, 16775 Gransee",
+      "telefon": "03306 / 2275",
+      "enlem": "53.0072982",
+      "boylam": "13.1551371",
+      "mesafe": "19.0 km"
+    },
+    {
+      "eczaneAdi": "Löwen-Apotheke",
+      "adres": "Rigaer Straße 30 c, 16761 Hennigsdorf",
+      "telefon": "03302 / 801440",
+      "enlem": "52.65587",
+      "boylam": "13.1968546",
+      "mesafe": "21.4 km"
+    },
+    {
+      "eczaneAdi": "Ludolfinger Apotheke",
+      "adres": "Ludolfinger Platz 8, 13465 Berlin",
+      "telefon": "+49 30 4011033",
+      "enlem": "52.6323983",
+      "boylam": "13.2868686",
+      "mesafe": "23.9 km"
+    }
+  ],
   "Bremen": [
     {
       "eczaneAdi": "Delfin-Apotheke",
