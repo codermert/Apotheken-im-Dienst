@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 41
+            "anzahl": 37
         },
         "quota": {
-            "verwendet": "35820"
+            "verwendet": "38314"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,25 +5762,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Apotheke im Sonnengarten",
-                    "kammer": "lakbb",
-                    "id": "241",
-                    "apo_id": "lakbb241",
-                    "strasse": "Märkische Allee 76",
-                    "plz": "16548",
-                    "ort": "Glienicke/Nordbahn",
-                    "distanz": "13.48323987355",
-                    "longitude": "13.3230005",
-                    "latitude": "52.6313669",
-                    "telefon": "+49 33056 42996",
-                    "fax": [],
-                    "email": "ais@online.de",
-                    "startdatum": "26.08.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "27.08.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "easyApotheke Adlershof",
                     "kammer": "akb",
                     "id": "100029",
@@ -5792,6 +5773,25 @@
                     "longitude": "13.5350464",
                     "latitude": "52.4326321",
                     "telefon": "+49 30 25203800",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "26.08.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "27.08.2025",
+                    "endzeit": "08:59"
+                },
+                {
+                    "name": "Augusta-Apotheke",
+                    "kammer": "akb",
+                    "id": "100402",
+                    "apo_id": "akb100402",
+                    "strasse": "Argentinische Allee 1",
+                    "plz": "14163",
+                    "ort": "Berlin",
+                    "distanz": "13.73835708877",
+                    "longitude": "13.2333041",
+                    "latitude": "52.4381614",
+                    "telefon": "+49 30 8017020",
                     "fax": [],
                     "email": [],
                     "startdatum": "26.08.2025",
