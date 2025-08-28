@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 34
+            "anzahl": 37
         },
         "quota": {
-            "verwendet": "28610"
+            "verwendet": "31874"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,41 +5762,41 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Georginen Apotheke",
-                    "kammer": "akb",
-                    "id": "100469",
-                    "apo_id": "akb100469",
-                    "strasse": "Treskowstr. 76",
-                    "plz": "12623",
-                    "ort": "Berlin",
-                    "distanz": "15.152782744149999",
-                    "longitude": "13.6118459",
-                    "latitude": "52.5110633",
-                    "telefon": "+49 30 5665731",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "27.08.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "28.08.2025",
-                    "endzeit": "08:59"
+                    "name": "Neue Roland Apotheke",
+                    "kammer": "lakbb",
+                    "id": "537",
+                    "apo_id": "lakbb537",
+                    "strasse": "Oranienburger Chaussee 17",
+                    "plz": "16548",
+                    "ort": "Glienicke/Nordbahn",
+                    "distanz": "14.00161131402",
+                    "longitude": "13.30969",
+                    "latitude": "52.63325",
+                    "telefon": "033056 94500",
+                    "fax": "033056 94501",
+                    "email": "info@neue-roland-apotheke.de",
+                    "startdatum": "28.08.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "29.08.2025",
+                    "endzeit": "08:00"
                 },
                 {
-                    "name": "Teltow Apotheke",
+                    "name": "Kaufpark Apotheke",
                     "kammer": "lakbb",
-                    "id": "654",
-                    "apo_id": "lakbb654",
-                    "strasse": "Oderstraße 29",
-                    "plz": "14513",
-                    "ort": "Teltow",
-                    "distanz": "15.65303656493",
-                    "longitude": "13.2523341",
-                    "latitude": "52.4037538",
-                    "telefon": "+49 3328 3345678",
+                    "id": "459",
+                    "apo_id": "lakbb459",
+                    "strasse": "Landsberger Chaussee 17",
+                    "plz": "16356",
+                    "ort": "Ahrensfelde - OT Eiche-Süd",
+                    "distanz": "14.706543724700001",
+                    "longitude": "13.5988534",
+                    "latitude": "52.5497144",
+                    "telefon": "+49 30 9989607",
                     "fax": [],
                     "email": [],
-                    "startdatum": "27.08.2025",
+                    "startdatum": "28.08.2025",
                     "startzeit": "08:00",
-                    "enddatum": "28.08.2025",
+                    "enddatum": "29.08.2025",
                     "endzeit": "08:00"
                 }
             ]
