@@ -3194,7 +3194,7 @@
             "anzahl": 17
         },
         "quota": {
-            "verwendet": "36038"
+            "verwendet": "39144"
         },
         "apotheken": {
             "apotheke": [
@@ -3427,6 +3427,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Linden-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1454",
+                    "apo_id": "aknds1454",
+                    "strasse": "Harburger Str. 28 a",
+                    "plz": "21435",
+                    "ort": "Stelle",
+                    "distanz": "19.62766191653",
+                    "longitude": "10.1049754",
+                    "latitude": "53.385335",
+                    "telefon": "+49 4174 2335",
+                    "fax": "+49 4174 4840",
+                    "email": [],
+                    "startdatum": "29.08.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "30.08.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Gorch-Fock-Apotheke",
                     "kammer": "aknds",
                     "id": "1178",
@@ -3463,25 +3482,6 @@
                     "startzeit": "08:00",
                     "enddatum": "30.08.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Luhe-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1510",
-                    "apo_id": "aknds1510",
-                    "strasse": "Bahnhofstr. 1",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "25.17002885461",
-                    "longitude": "10.2060052",
-                    "latitude": "53.3602785",
-                    "telefon": "+49 4171 4055",
-                    "fax": "+49 4171 64814",
-                    "email": [],
-                    "startdatum": "28.08.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "29.08.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Rathaus - Apotheke",

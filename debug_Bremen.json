@@ -1267,7 +1267,7 @@
             "anzahl": 11
         },
         "quota": {
-            "verwendet": "36203"
+            "verwendet": "39317"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,22 +1310,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Andreas-Apotheke",
+                    "name": "Anker Apotheke",
                     "kammer": "aknds",
-                    "id": "1663",
-                    "apo_id": "aknds1663",
-                    "strasse": "Oldenburger Str. 25",
+                    "id": "1664",
+                    "apo_id": "aknds1664",
+                    "strasse": "Mühlenstr. 31",
                     "plz": "27753",
                     "ort": "Delmenhorst",
-                    "distanz": "11.683725943999999",
-                    "longitude": "8.6205462",
-                    "latitude": "53.0494339",
-                    "telefon": "+49 4221 150990",
-                    "fax": "+49 4221 120711",
+                    "distanz": "11.03481046511",
+                    "longitude": "8.6236758",
+                    "latitude": "53.0549856",
+                    "telefon": "+49 4221 14489",
+                    "fax": "+49 4221 14907",
                     "email": [],
-                    "startdatum": "28.08.2025",
+                    "startdatum": "29.08.2025",
                     "startzeit": "08:30",
-                    "enddatum": "29.08.2025",
+                    "enddatum": "30.08.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -1346,6 +1346,25 @@
                     "startzeit": "09:00",
                     "enddatum": "29.08.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Apotheke Bookholzberg",
+                    "kammer": "aknds",
+                    "id": "1752",
+                    "apo_id": "aknds1752",
+                    "strasse": "Stedinger Str. 63",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "12.15097528613",
+                    "longitude": "8.530713",
+                    "latitude": "53.0962681",
+                    "telefon": "+49 4223 3070",
+                    "fax": "+49 4223 1332",
+                    "email": [],
+                    "startdatum": "29.08.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "29.08.2025",
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Apotheke am Klinikum Bremen Mitte",
@@ -1422,25 +1441,6 @@
                     "startzeit": "09:00",
                     "enddatum": "29.08.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Kranich Apotheke",
-                    "kammer": "aknds",
-                    "id": "1265",
-                    "apo_id": "aknds1265",
-                    "strasse": "Amtsdamm 39",
-                    "plz": "27628",
-                    "ort": "Hagen im Bremischen",
-                    "distanz": "23.681015648789998",
-                    "longitude": "8.6430292",
-                    "latitude": "53.3555124",
-                    "telefon": "+49 4746 951060",
-                    "fax": "+49 4746 951061",
-                    "email": [],
-                    "startdatum": "28.08.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "29.08.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Wilstedter Apotheke",
