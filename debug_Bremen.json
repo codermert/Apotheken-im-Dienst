@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "31151"
+            "verwendet": "33130"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,22 +1310,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Anker Apotheke",
+                    "name": "Apotheke Schierbrok",
                     "kammer": "aknds",
-                    "id": "1664",
-                    "apo_id": "aknds1664",
-                    "strasse": "Mühlenstr. 31",
-                    "plz": "27753",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.03481046511",
-                    "longitude": "8.6236758",
-                    "latitude": "53.0549856",
-                    "telefon": "+49 4221 14489",
-                    "fax": "+49 4221 14907",
+                    "id": "1753",
+                    "apo_id": "aknds1753",
+                    "strasse": "Bahnhofstr. 49",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "10.35027715195",
+                    "longitude": "8.5769381",
+                    "latitude": "53.0836028",
+                    "telefon": "+49 4221 89335",
+                    "fax": "+49 4221 88151",
                     "email": [],
-                    "startdatum": "29.08.2025",
+                    "startdatum": "30.08.2025",
                     "startzeit": "08:30",
-                    "enddatum": "30.08.2025",
+                    "enddatum": "31.08.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -1346,6 +1346,25 @@
                     "startzeit": "09:00",
                     "enddatum": "30.08.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Apotheke am Markt",
+                    "kammer": "aknds",
+                    "id": "1672",
+                    "apo_id": "aknds1672",
+                    "strasse": "Lange Str. 103",
+                    "plz": "27749",
+                    "ort": "Delmenhorst",
+                    "distanz": "11.52589507321",
+                    "longitude": "8.6294854",
+                    "latitude": "53.0486716",
+                    "telefon": "+49 4221 13739",
+                    "fax": "+49 4221 13759",
+                    "email": [],
+                    "startdatum": "30.08.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "31.08.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Apotheke im Medicum",
