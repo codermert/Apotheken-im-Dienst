@@ -28,49 +28,49 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 4
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "34137"
+            "verwendet": "34717"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Raths-Apotheke am Dom",
+                    "name": "Central-Apotheke",
                     "kammer": "aknds",
-                    "id": "1488",
-                    "apo_id": "aknds1488",
-                    "strasse": "Lugenstein 4",
-                    "plz": "27283",
-                    "ort": "Verden",
-                    "distanz": "13.4507623487",
-                    "longitude": "9.2289552",
-                    "latitude": "52.9175845",
-                    "telefon": "+49 4231 2654",
-                    "fax": "+49 4231 2688",
+                    "id": "1243",
+                    "apo_id": "aknds1243",
+                    "strasse": "Große Str. 61",
+                    "plz": "27313",
+                    "ort": "Dörverden",
+                    "distanz": "10.4368325965",
+                    "longitude": "9.2302053",
+                    "latitude": "52.8484675",
+                    "telefon": "+49 4234 1308",
+                    "fax": "+49 4234 943405",
                     "email": [],
-                    "startdatum": "29.08.2025",
+                    "startdatum": "30.08.2025",
                     "startzeit": "09:00",
-                    "enddatum": "30.08.2025",
+                    "enddatum": "31.08.2025",
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Schloss Apotheke Syke Hauptstraße",
+                    "name": "Hansa-Apotheke",
                     "kammer": "aknds",
-                    "id": "1067",
-                    "apo_id": "aknds1067",
-                    "strasse": "Hauptstr. 13",
-                    "plz": "28857",
-                    "ort": "Syke",
-                    "distanz": "18.79044492107",
-                    "longitude": "8.8238966",
-                    "latitude": "52.9123306",
-                    "telefon": "+49 4242 2044",
-                    "fax": "+49 4242 4210",
+                    "id": "1117",
+                    "apo_id": "aknds1117",
+                    "strasse": "Meislahnstr. 2",
+                    "plz": "28832",
+                    "ort": "Achim",
+                    "distanz": "18.88471847142",
+                    "longitude": "9.0426248",
+                    "latitude": "53.00835",
+                    "telefon": "+49 4202 4900",
+                    "fax": "+49 4202 83347",
                     "email": [],
-                    "startdatum": "29.08.2025",
+                    "startdatum": "30.08.2025",
                     "startzeit": "09:00",
-                    "enddatum": "30.08.2025",
+                    "enddatum": "31.08.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -110,6 +110,25 @@
                     "startzeit": "08:00",
                     "enddatum": "31.08.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Gänse-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1058",
+                    "apo_id": "aknds1058",
+                    "strasse": "Hauptstr. 52 a",
+                    "plz": "28816",
+                    "ort": "Stuhr",
+                    "distanz": "27.126545560809998",
+                    "longitude": "8.75856",
+                    "latitude": "52.99021",
+                    "telefon": "+49 421 8099636",
+                    "fax": "+49 421 8099637",
+                    "email": [],
+                    "startdatum": "30.08.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "31.08.2025",
+                    "endzeit": "09:00"
                 }
             ]
         }
