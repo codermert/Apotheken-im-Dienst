@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 13
+            "anzahl": 12
         },
         "quota": {
-            "verwendet": "28734"
+            "verwendet": "29497"
         },
         "apotheken": {
             "apotheke": [
@@ -74,22 +74,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Uhlen Apotheke",
+                    "name": "Apotheke am Goetheplatz",
                     "kammer": "aknds",
-                    "id": "941",
-                    "apo_id": "aknds941",
-                    "strasse": "Rathausstr. 2",
-                    "plz": "31608",
-                    "ort": "Marklohe",
-                    "distanz": "20.764561643180002",
-                    "longitude": "9.1586733",
-                    "latitude": "52.6601345",
-                    "telefon": "+49 5021 15025",
-                    "fax": "+49 5021 910838",
+                    "id": "961",
+                    "apo_id": "aknds961",
+                    "strasse": "Goetheplatz 6",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "23.774463096319998",
+                    "longitude": "9.2096738",
+                    "latitude": "52.6422229",
+                    "telefon": "+49 5021 13100",
+                    "fax": "+49 5021 910919",
                     "email": [],
-                    "startdatum": "29.08.2025",
+                    "startdatum": "30.08.2025",
                     "startzeit": "08:00",
-                    "enddatum": "30.08.2025",
+                    "enddatum": "31.08.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -131,6 +131,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Heide-Apotheke",
+                    "kammer": "aknds",
+                    "id": "892",
+                    "apo_id": "aknds892",
+                    "strasse": "Lange Straße 15",
+                    "plz": "27245",
+                    "ort": "Kirchdorf",
+                    "distanz": "31.78059218123",
+                    "longitude": "8.8314911",
+                    "latitude": "52.5958794",
+                    "telefon": "+49 4273 93130",
+                    "fax": "+49 4273 931314",
+                    "email": [],
+                    "startdatum": "30.08.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "31.08.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "sk-Apotheke im Einkaufspark Duckwitz",
                     "kammer": "akbr",
                     "id": "10184",
@@ -148,25 +167,6 @@
                     "startzeit": "09:00",
                     "enddatum": "30.08.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Rosen Apotheke",
-                    "kammer": "aknds",
-                    "id": "994",
-                    "apo_id": "aknds994",
-                    "strasse": "Hauptstr. 67",
-                    "plz": "31637",
-                    "ort": "Rodewald",
-                    "distanz": "34.50569836652",
-                    "longitude": "9.4860586",
-                    "latitude": "52.654873",
-                    "telefon": "+49 5074 202",
-                    "fax": "+49 5074 92093",
-                    "email": [],
-                    "startdatum": "29.08.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "30.08.2025",
-                    "endzeit": "08:00"
                 },
                 {
                     "name": "Michaelis-Apotheke",
@@ -188,6 +188,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Alte Apotheke",
+                    "kammer": "aknds",
+                    "id": "1390",
+                    "apo_id": "aknds1390",
+                    "strasse": "Goethestr. 12",
+                    "plz": "27356",
+                    "ort": "Rotenburg (Wümme)",
+                    "distanz": "37.08331827802",
+                    "longitude": "9.4018498",
+                    "latitude": "53.1088163",
+                    "telefon": "+49 4261 2254",
+                    "fax": "+49 4261 3483",
+                    "email": [],
+                    "startdatum": "30.08.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "31.08.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Anker Apotheke",
                     "kammer": "aknds",
                     "id": "1664",
@@ -207,22 +226,22 @@
                     "endzeit": "08:30"
                 },
                 {
-                    "name": "Rats-Apotheke Uchte",
+                    "name": "Kloster-Apotheke Loccum",
                     "kammer": "aknds",
-                    "id": "1074",
-                    "apo_id": "aknds1074",
-                    "strasse": "Mühlenstr. 15",
-                    "plz": "31600",
-                    "ort": "Uchte",
-                    "distanz": "39.65132017848",
-                    "longitude": "8.9061258",
-                    "latitude": "52.4988187",
-                    "telefon": "+49 5763 96090",
-                    "fax": "+49 5763 960923",
+                    "id": "981",
+                    "apo_id": "aknds981",
+                    "strasse": "Leeser Str. 23",
+                    "plz": "31547",
+                    "ort": "Rehburg-Loccum",
+                    "distanz": "42.68960142363",
+                    "longitude": "9.1488433",
+                    "latitude": "52.458798",
+                    "telefon": "+49 5766 93040",
+                    "fax": "+49 5766 93042",
                     "email": [],
-                    "startdatum": "29.08.2025",
+                    "startdatum": "30.08.2025",
                     "startzeit": "08:00",
-                    "enddatum": "30.08.2025",
+                    "enddatum": "31.08.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -243,44 +262,6 @@
                     "startzeit": "09:00",
                     "enddatum": "30.08.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Meyerhof-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1402",
-                    "apo_id": "aknds1402",
-                    "strasse": "Am Meyerhof 7",
-                    "plz": "27383",
-                    "ort": "Scheeßel",
-                    "distanz": "45.51131335644",
-                    "longitude": "9.479839",
-                    "latitude": "53.1683217",
-                    "telefon": "+49 4263 93190",
-                    "fax": "+49 4263 93193",
-                    "email": [],
-                    "startdatum": "29.08.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "30.08.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Geest-Apotheke",
-                    "kammer": "aknds",
-                    "id": "2286",
-                    "apo_id": "aknds2286",
-                    "strasse": "Hauptstr. 20",
-                    "plz": "27801",
-                    "ort": "Dötlingen",
-                    "distanz": "48.039228758099995",
-                    "longitude": "8.3978022",
-                    "latitude": "52.9749282",
-                    "telefon": "+49 4432 94233",
-                    "fax": "+49 4432 94234",
-                    "email": [],
-                    "startdatum": "29.08.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "30.08.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }
