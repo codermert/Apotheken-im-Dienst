@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "50935"
+            "verwendet": "59775"
         },
         "apotheken": {
             "apotheke": [
@@ -74,6 +74,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Eichen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "954",
+                    "apo_id": "aknds954",
+                    "strasse": "Verdener Landstr. 134",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "22.105350231280003",
+                    "longitude": "9.2215718",
+                    "latitude": "52.66194",
+                    "telefon": "+49 5021 18831",
+                    "fax": "+49 5021 64644",
+                    "email": [],
+                    "startdatum": "31.08.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "01.09.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Lindenmarkt-Apotheke",
                     "kammer": "aknds",
                     "id": "526",
@@ -93,22 +112,22 @@
                     "endzeit": "08:30"
                 },
                 {
-                    "name": "Apotheke am Goetheplatz",
+                    "name": "Bären-Apotheke",
                     "kammer": "aknds",
-                    "id": "961",
-                    "apo_id": "aknds961",
-                    "strasse": "Goetheplatz 6",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "23.774463096319998",
-                    "longitude": "9.2096738",
-                    "latitude": "52.6422229",
-                    "telefon": "+49 5021 13100",
-                    "fax": "+49 5021 910919",
+                    "id": "1060",
+                    "apo_id": "aknds1060",
+                    "strasse": "Lange Str. 13",
+                    "plz": "27232",
+                    "ort": "Sulingen",
+                    "distanz": "25.044733911719998",
+                    "longitude": "8.81042",
+                    "latitude": "52.6826842",
+                    "telefon": "+49 4271 3475",
+                    "fax": "+49 4271 6754",
                     "email": [],
-                    "startdatum": "30.08.2025",
+                    "startdatum": "31.08.2025",
                     "startzeit": "08:00",
-                    "enddatum": "31.08.2025",
+                    "enddatum": "01.09.2025",
                     "endzeit": "08:00"
                 },
                 {
