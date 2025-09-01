@@ -769,9 +769,212 @@
       "mesafe": "47.2 km"
     }
   ],
-  "Niedersachsen": [],
-  "Rheinland-Pfalz": [],
-  "Saarland": [],
+  "Niedersachsen": [
+    {
+      "eczaneAdi": "Hirsch-Apotheke am Holzmarkt",
+      "adres": "Holzmarkt 8, 27283 Verden",
+      "telefon": "+49 4231 2680",
+      "enlem": "52.9219332",
+      "boylam": "9.2348008",
+      "mesafe": "14.1 km"
+    },
+    {
+      "eczaneAdi": "Geest-Apotheke",
+      "adres": "Drohmweg 37, 28844 Weyhe",
+      "telefon": "+49 4203 81751",
+      "enlem": "52.98729",
+      "boylam": "8.86201",
+      "mesafe": "21.8 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Erichshagen",
+      "adres": "Celler Str. 62, 31582 Nienburg",
+      "telefon": "+49 5021 63938",
+      "enlem": "52.6557705",
+      "boylam": "9.2267429",
+      "mesafe": "22.9 km"
+    },
+    {
+      "eczaneAdi": "Flora-Apotheke",
+      "adres": "Hauptstr. 52, 28876 Oyten",
+      "telefon": "+49 4207 3003",
+      "enlem": "53.0608175",
+      "boylam": "9.0226419",
+      "mesafe": "24.8 km"
+    },
+    {
+      "eczaneAdi": "antares-apotheke",
+      "adres": "Hannoversche Str. 69, 28309 Bremen",
+      "telefon": "+49 421 6963570",
+      "enlem": "53.05232",
+      "boylam": "8.88556",
+      "mesafe": "26.9 km"
+    }
+  ],
+  "Rheinland-Pfalz": [
+    {
+      "eczaneAdi": "Adler-Apotheke",
+      "adres": "Hauptstr. 21, 55624 Rhaunen",
+      "telefon": "+49 6544 230",
+      "enlem": "49.8633117",
+      "boylam": "7.3479508",
+      "mesafe": "10.3 km"
+    },
+    {
+      "eczaneAdi": "Rosen-Apotheke",
+      "adres": "Rhein-Mosel-Str. 50, 56281 Emmelshausen",
+      "telefon": "+49 6747 93040",
+      "enlem": "50.1559097",
+      "boylam": "7.5529005",
+      "mesafe": "28.5 km"
+    },
+    {
+      "eczaneAdi": "Markt-Apotheke",
+      "adres": "Hauptstr. 32, 55596 Waldböckelheim",
+      "telefon": "+49 6758 1564",
+      "enlem": "49.8158655",
+      "boylam": "7.7155271",
+      "mesafe": "32.9 km"
+    },
+    {
+      "eczaneAdi": "Rosen-Apotheke",
+      "adres": "Staatsstr. 6, 55442 Stromberg",
+      "telefon": "+49 6724 592",
+      "enlem": "49.9436625",
+      "boylam": "7.7712243",
+      "mesafe": "33.1 km"
+    },
+    {
+      "eczaneAdi": "Schloss-Apotheke",
+      "adres": "Schneewiesenstr. 29, 55765 Birkenfeld",
+      "telefon": "+49 6782 2227",
+      "enlem": "49.6476656",
+      "boylam": "7.1647785",
+      "mesafe": "35.6 km"
+    },
+    {
+      "eczaneAdi": "Rochus-Vital-Apotheke im Globus",
+      "adres": "Binger Straße 29, 55457 Gensingen",
+      "telefon": "+49 6727 89580",
+      "enlem": "49.89811",
+      "boylam": "7.924",
+      "mesafe": "44.5 km"
+    },
+    {
+      "eczaneAdi": "Florian-Apotheke",
+      "adres": "Bahnhofstr. 34, 66885 Altenglan",
+      "telefon": "+49 6381 7492",
+      "enlem": "49.5499968",
+      "boylam": "7.4616428",
+      "mesafe": "46.1 km"
+    },
+    {
+      "eczaneAdi": "Mosel-Apotheke",
+      "adres": "Ehranger Str. 136, 54293 Trier",
+      "telefon": "+49 651 66178",
+      "enlem": "49.7948071",
+      "boylam": "6.6804758",
+      "mesafe": "48.6 km"
+    }
+  ],
+  "Saarland": [
+    {
+      "eczaneAdi": "St. Barbara-Apotheke",
+      "adres": "Brühlstraße 18, 66571 Eppelborn-Wiesbach",
+      "telefon": "06806/988280",
+      "enlem": "49.37153",
+      "boylam": "6.97878",
+      "mesafe": "2.3 km"
+    },
+    {
+      "eczaneAdi": "easy-Apotheke",
+      "adres": "Quierschieder Weg 3d, 66280 Sulzbach",
+      "telefon": "+49 6897 924807",
+      "enlem": "49.30178",
+      "boylam": "7.05729",
+      "mesafe": "11.9 km"
+    },
+    {
+      "eczaneAdi": "Hirsch-Apotheke",
+      "adres": "Metzer Straße 10, 66636 Tholey",
+      "telefon": "06853/2203",
+      "enlem": "49.4821261",
+      "boylam": "7.0306054",
+      "mesafe": "12.2 km"
+    },
+    {
+      "eczaneAdi": "Barbara-Apotheke",
+      "adres": "Alleestraße 32, 66126 Saarbrücken-Altenkessel",
+      "telefon": "06898/80055",
+      "enlem": "49.2599612",
+      "boylam": "6.9165113",
+      "mesafe": "14.1 km"
+    },
+    {
+      "eczaneAdi": "Sebastianus-Apotheke",
+      "adres": "Saarbrücker Str. 4, 66687 Wadern-Nunkirchen",
+      "telefon": "06874/18620",
+      "enlem": "49.48696",
+      "boylam": "6.83973",
+      "mesafe": "14.1 km"
+    },
+    {
+      "eczaneAdi": "Einhorn-Apotheke",
+      "adres": "Anton-Hansen-Straße 7, 66564 Ottweiler",
+      "telefon": "+49 6824 2049920",
+      "enlem": "49.40235",
+      "boylam": "7.16422",
+      "mesafe": "15.4 km"
+    },
+    {
+      "eczaneAdi": "Arndt-Apotheke",
+      "adres": "Mainzer Str. 105, 66121 Saarbrücken",
+      "telefon": "+49 681 64587",
+      "enlem": "49.22934",
+      "boylam": "7.00919",
+      "mesafe": "17.7 km"
+    },
+    {
+      "eczaneAdi": "Pachtener-Apotheke",
+      "adres": "Nachtsheimstraße 2, 66763 Dillingen",
+      "telefon": "+49 6831 73309",
+      "enlem": "49.356192",
+      "boylam": "6.7138016",
+      "mesafe": "17.7 km"
+    },
+    {
+      "eczaneAdi": "Florian-Apotheke",
+      "adres": "Hauptstr. 119, 66386 St. Ingbert-Oberwürzbach",
+      "telefon": "06894/966322",
+      "enlem": "49.2424535",
+      "boylam": "7.1426428",
+      "mesafe": "20.9 km"
+    },
+    {
+      "eczaneAdi": "Europa-Apotheke",
+      "adres": "Alleestraße 1, 66802 Überherrn",
+      "telefon": "06836/5781",
+      "enlem": "49.2431637",
+      "boylam": "6.6978708",
+      "mesafe": "24.3 km"
+    },
+    {
+      "eczaneAdi": "Saargau-Apotheke",
+      "adres": "Fitter Str. 1, 66663 Merzig-Hilbringen",
+      "telefon": "+49 6861 74944",
+      "enlem": "49.44111",
+      "boylam": "6.6145",
+      "mesafe": "25.4 km"
+    },
+    {
+      "eczaneAdi": "Schloss-Apotheke",
+      "adres": "Saar-Pfalz-Str. 84, 66424 Homburg-Jägersburg",
+      "telefon": "06841/72058",
+      "enlem": "49.3699299",
+      "boylam": "7.3239203",
+      "mesafe": "26.9 km"
+    }
+  ],
   "Sachsen": [
     {
       "eczaneAdi": "Pluspunkt-Apotheke am Erbischen Tor",
