@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 30
+            "anzahl": 35
         },
         "quota": {
-            "verwendet": "52913"
+            "verwendet": "58469"
         },
         "apotheken": {
             "apotheke": [
@@ -5705,6 +5705,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Dorf-Apotheke",
+                    "kammer": "lakbb",
+                    "id": "446",
+                    "apo_id": "lakbb446",
+                    "strasse": "Dorfstraße 17",
+                    "plz": "16356",
+                    "ort": "Ahrensfelde",
+                    "distanz": "14.103945313390001",
+                    "longitude": "13.5740345",
+                    "latitude": "52.5746579",
+                    "telefon": "+49 30 93772171",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "01.09.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "02.09.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Bahnhof-Apotheke",
                     "kammer": "akb",
                     "id": "100784",
@@ -5743,25 +5762,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Kronenapotheke Teltow",
-                    "kammer": "lakbb",
-                    "id": "685",
-                    "apo_id": "lakbb685",
-                    "strasse": "Ruhlsdorfer Straße 3",
-                    "plz": "14513",
-                    "ort": "Teltow",
-                    "distanz": "15.385430335499999",
-                    "longitude": "13.26814",
-                    "latitude": "52.40008",
-                    "telefon": "+49 3328 4219333",
-                    "fax": "+49 3328 4919330",
-                    "email": "team-@ka-teltow.de",
-                    "startdatum": "31.08.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "01.09.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Süd-Apotheke",
                     "kammer": "akb",
                     "id": "100559",
@@ -5781,22 +5781,22 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Falken Apotheke am Kaufland",
+                    "name": "Apotheke am Rathausmarkt",
                     "kammer": "lakbb",
-                    "id": "623",
-                    "apo_id": "lakbb623",
-                    "strasse": "Am Lückefeld 97",
-                    "plz": "15831",
-                    "ort": "Blankenfelde-Mahlow - OT Mahlow",
-                    "distanz": "18.037936057489997",
-                    "longitude": "13.4323881",
-                    "latitude": "52.3571329",
-                    "telefon": "+49 3379 203702",
-                    "fax": "+49 3379 203703",
+                    "id": "522",
+                    "apo_id": "lakbb522",
+                    "strasse": "Förster-Funke-Allee 104",
+                    "plz": "14532",
+                    "ort": "Kleinmachnow",
+                    "distanz": "17.013397893180002",
+                    "longitude": "13.21942",
+                    "latitude": "52.4045",
+                    "telefon": "+49 33203 77994",
+                    "fax": [],
                     "email": [],
-                    "startdatum": "31.08.2025",
+                    "startdatum": "01.09.2025",
                     "startzeit": "08:00",
-                    "enddatum": "01.09.2025",
+                    "enddatum": "02.09.2025",
                     "endzeit": "08:00"
                 }
             ]
