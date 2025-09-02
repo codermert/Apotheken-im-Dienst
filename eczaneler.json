@@ -567,7 +567,40 @@
       "mesafe": "27.2 km"
     }
   ],
-  "Bayern": [],
+  "Bayern": [
+    {
+      "eczaneAdi": "St. Georgs-Apotheke",
+      "adres": "Frankenring 5, 85110 Kipfenberg",
+      "telefon": "+49 8465 1065",
+      "enlem": "48.9495793",
+      "boylam": "11.3938895",
+      "mesafe": "0.8 km"
+    },
+    {
+      "eczaneAdi": "Michael-Apotheke",
+      "adres": "St.-Michael-Str. 5, 85055 Ingolstadt",
+      "telefon": "+49 841 38177",
+      "enlem": "48.8035953",
+      "boylam": "11.4031722",
+      "mesafe": "15.9 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Sollnau",
+      "adres": "Sollnau 23, 85072 Eichstätt",
+      "telefon": "+49 8421 9378854",
+      "enlem": "48.8781",
+      "boylam": "11.21072",
+      "mesafe": "16.1 km"
+    },
+    {
+      "eczaneAdi": "Agnes-Bernauer-Apotheke",
+      "adres": "Griesstr. 1, 85088 Vohburg",
+      "telefon": "+49 8457 1000",
+      "enlem": "48.769524",
+      "boylam": "11.618864",
+      "mesafe": "25.2 km"
+    }
+  ],
   "Brandenburg": [
     {
       "eczaneAdi": "Löwen-Apotheke",
