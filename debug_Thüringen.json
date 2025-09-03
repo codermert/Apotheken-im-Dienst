@@ -37,46 +37,27 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "54749"
+            "verwendet": "55830"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Bahnhof-Apotheke",
+                    "name": "Apotheke am Dom",
                     "kammer": "lakt",
-                    "id": "5",
-                    "apo_id": "lakt5",
-                    "strasse": "Bahnhofstraße 40",
+                    "id": "520",
+                    "apo_id": "lakt520",
+                    "strasse": "Marktstr. 23-25",
                     "plz": "99084",
                     "ort": "Erfurt",
-                    "distanz": "8.15849796899",
-                    "longitude": "11.0350444",
-                    "latitude": "50.9747884",
-                    "telefon": "+49 361 555410",
+                    "distanz": "8.507781919580001",
+                    "longitude": "11.0251592",
+                    "latitude": "50.9775314",
+                    "telefon": "+49 361 5401673",
                     "fax": [],
                     "email": [],
-                    "startdatum": "02.09.2025",
+                    "startdatum": "03.09.2025",
                     "startzeit": "09:00",
-                    "enddatum": "03.09.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Pluspunkt-Apotheke im Anger 1",
-                    "kammer": "lakt",
-                    "id": "602",
-                    "apo_id": "lakt602",
-                    "strasse": "Anger 1",
-                    "plz": "99084",
-                    "ort": "Erfurt",
-                    "distanz": "8.48630963645",
-                    "longitude": "11.0366094",
-                    "latitude": "50.9777519",
-                    "telefon": "+49 361 2621666",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "02.09.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "03.09.2025",
+                    "enddatum": "04.09.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -97,6 +78,25 @@
                     "startzeit": "08:00",
                     "enddatum": "04.09.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Brunnen-Apotheke",
+                    "kammer": "lakt",
+                    "id": "3990",
+                    "apo_id": "lakt3990",
+                    "strasse": "Erfurter Straße 72",
+                    "plz": "99095",
+                    "ort": "Erfurt-Mittelhausen",
+                    "distanz": "15.0503896404",
+                    "longitude": "11.00229",
+                    "latitude": "51.03489",
+                    "telefon": "+49 361 2624442",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "03.09.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "04.09.2025",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "easyApotheke Weimar",

@@ -28,32 +28,13 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "54466"
+            "verwendet": "55523"
         },
         "apotheken": {
             "apotheke": [
-                {
-                    "name": "Rübezahl Apotheke",
-                    "kammer": "aknds",
-                    "id": "485",
-                    "apo_id": "aknds485",
-                    "strasse": "Bahnhofstr. 4",
-                    "plz": "27330",
-                    "ort": "Asendorf",
-                    "distanz": "8.862473136090001",
-                    "longitude": "9.0063233",
-                    "latitude": "52.7723144",
-                    "telefon": "+49 4253 315",
-                    "fax": "+49 4253 1751",
-                    "email": [],
-                    "startdatum": "02.09.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "03.09.2025",
-                    "endzeit": "09:00"
-                },
                 {
                     "name": "Linden-Apotheke",
                     "kammer": "aknds",
@@ -74,22 +55,22 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Morsumer Apotheke",
+                    "name": "Nordertor-Apotheke",
                     "kammer": "aknds",
-                    "id": "1528",
-                    "apo_id": "aknds1528",
-                    "strasse": "Verdener Str. 19",
-                    "plz": "27321",
-                    "ort": "Thedinghausen",
-                    "distanz": "13.04936147193",
-                    "longitude": "9.0780221",
-                    "latitude": "52.9571079",
-                    "telefon": "+49 4204 1611",
-                    "fax": "+49 4204 69918",
+                    "id": "1486",
+                    "apo_id": "aknds1486",
+                    "strasse": "Große Str. 2",
+                    "plz": "27283",
+                    "ort": "Verden",
+                    "distanz": "13.89368580883",
+                    "longitude": "9.227984",
+                    "latitude": "52.9242917",
+                    "telefon": "+49 4231 3398",
+                    "fax": "+49 4231 83963",
                     "email": [],
-                    "startdatum": "02.09.2025",
+                    "startdatum": "03.09.2025",
                     "startzeit": "09:00",
-                    "enddatum": "03.09.2025",
+                    "enddatum": "04.09.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -112,22 +93,22 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Hache-Apotheke",
+                    "name": "Rats-Apotheke",
                     "kammer": "aknds",
-                    "id": "1068",
-                    "apo_id": "aknds1068",
-                    "strasse": "Hauptstr. 56/58",
-                    "plz": "28857",
-                    "ort": "Syke",
-                    "distanz": "19.274732599740002",
-                    "longitude": "8.8175844",
-                    "latitude": "52.9144407",
-                    "telefon": "+49 4242 933033",
-                    "fax": "+49 4242 933034",
+                    "id": "1119",
+                    "apo_id": "aknds1119",
+                    "strasse": "Obernstraße 22",
+                    "plz": "28832",
+                    "ort": "Achim",
+                    "distanz": "18.86855997126",
+                    "longitude": "9.042328",
+                    "latitude": "53.0081822",
+                    "telefon": "+49 4202 8016",
+                    "fax": "+49 4202 8002",
                     "email": [],
-                    "startdatum": "02.09.2025",
+                    "startdatum": "03.09.2025",
                     "startzeit": "09:00",
-                    "enddatum": "03.09.2025",
+                    "enddatum": "04.09.2025",
                     "endzeit": "09:00"
                 },
                 {
