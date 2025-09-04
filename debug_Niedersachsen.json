@@ -28,32 +28,13 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "48932"
+            "verwendet": "49836"
         },
         "apotheken": {
             "apotheke": [
-                {
-                    "name": "Linden-Apotheke",
-                    "kammer": "aknds",
-                    "id": "581",
-                    "apo_id": "aknds581",
-                    "strasse": "Bahnhofstr. 32",
-                    "plz": "27324",
-                    "ort": "Eystrup",
-                    "distanz": "11.69217346801",
-                    "longitude": "9.2184781",
-                    "latitude": "52.7800073",
-                    "telefon": "+49 4254 8360",
-                    "fax": "+49 4254 2326",
-                    "email": [],
-                    "startdatum": "03.09.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "04.09.2025",
-                    "endzeit": "08:00"
-                },
                 {
                     "name": "Nordertor-Apotheke",
                     "kammer": "aknds",
@@ -72,25 +53,6 @@
                     "startzeit": "09:00",
                     "enddatum": "04.09.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Domino-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1111",
-                    "apo_id": "aknds1111",
-                    "strasse": "Alter Kirchweg 1",
-                    "plz": "31627",
-                    "ort": "Rohrsen",
-                    "distanz": "18.03914767201",
-                    "longitude": "9.233263",
-                    "latitude": "52.7087912",
-                    "telefon": "+49 5024 765",
-                    "fax": "+49 5024 8303",
-                    "email": [],
-                    "startdatum": "03.09.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "04.09.2025",
-                    "endzeit": "08:00"
                 },
                 {
                     "name": "Rats-Apotheke",
@@ -112,6 +74,44 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Rethemer Apotheke",
+                    "kammer": "aknds",
+                    "id": "1384",
+                    "apo_id": "aknds1384",
+                    "strasse": "Mühlenstraße 2",
+                    "plz": "27336",
+                    "ort": "Rethem",
+                    "distanz": "21.37822325996",
+                    "longitude": "9.3798974",
+                    "latitude": "52.7851639",
+                    "telefon": "+49 5165 2918848",
+                    "fax": "+49 5165 2918849",
+                    "email": [],
+                    "startdatum": "04.09.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "05.09.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Hansa Apotheke",
+                    "kammer": "aknds",
+                    "id": "955",
+                    "apo_id": "aknds955",
+                    "strasse": "Hansastr. 3",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "23.14845354176",
+                    "longitude": "9.2148089",
+                    "latitude": "52.6496656",
+                    "telefon": "+49 5021 910266",
+                    "fax": "+49 5021 910277",
+                    "email": [],
+                    "startdatum": "04.09.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "05.09.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Eichen-Apotheke",
                     "kammer": "aknds",
                     "id": "523",
@@ -129,25 +129,6 @@
                     "startzeit": "08:30",
                     "enddatum": "04.09.2025",
                     "endzeit": "08:30"
-                },
-                {
-                    "name": "Brunnen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1061",
-                    "apo_id": "aknds1061",
-                    "strasse": "Lange Str. 9",
-                    "plz": "27232",
-                    "ort": "Sulingen",
-                    "distanz": "25.00528910764",
-                    "longitude": "8.8111754",
-                    "latitude": "52.6827223",
-                    "telefon": "+49 4271 93300",
-                    "fax": "+49 4271 933035",
-                    "email": [],
-                    "startdatum": "03.09.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "04.09.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }
