@@ -801,44 +801,28 @@
       "mesafe": "0.7 km"
     },
     {
+      "eczaneAdi": "Apotheke am Park",
+      "adres": "Zu den Wiesen 9, 18279 Lalendorf",
+      "telefon": "+49 38452 20592",
+      "enlem": "53.75746",
+      "boylam": "12.38463",
+      "mesafe": "12.7 km"
+    },
+    {
+      "eczaneAdi": "Schloss-Apotheke",
+      "adres": "Schlossstraße 23, 17159 Dargun",
+      "telefon": "+49 39959 337177",
+      "enlem": "53.8985743",
+      "boylam": "12.8515406",
+      "mesafe": "22.9 km"
+    },
+    {
       "eczaneAdi": "Apotheke am Wall",
       "adres": "Hageböcker Str. 19, 18273 Güstrow",
       "telefon": "+49 3843 684096",
       "enlem": "53.7934156",
       "boylam": "12.1714502",
       "mesafe": "26.7 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Kietz",
-      "adres": "Kietzstr. 13 b, 17192 Waren",
-      "telefon": "+49 3991 15080",
-      "enlem": "53.5145114",
-      "boylam": "12.6813827",
-      "mesafe": "29.7 km"
-    },
-    {
-      "eczaneAdi": "Pommern-Apotheke",
-      "adres": "Adolf-Pompe-Str. 24, 17109 Demmin",
-      "telefon": "+49 3998 362366",
-      "enlem": "53.90266",
-      "boylam": "13.04724",
-      "mesafe": "34.2 km"
-    },
-    {
-      "eczaneAdi": "Südstadt-Center-Apotheke",
-      "adres": "Nobelstr. 50 -51, 18059 Rostock",
-      "telefon": "+49 381 4053210",
-      "enlem": "54.0706392",
-      "boylam": "12.1174896",
-      "mesafe": "44.7 km"
-    },
-    {
-      "eczaneAdi": "Rats-Apotheke",
-      "adres": "Mühlenstr. 2, 18507 Grimmen",
-      "telefon": "+49 38326 2390",
-      "enlem": "54.1126491",
-      "boylam": "13.0424136",
-      "mesafe": "48.6 km"
     }
   ],
   "Niedersachsen": [
@@ -1113,7 +1097,56 @@
       "mesafe": "26.2 km"
     }
   ],
-  "Sachsen-Anhalt": [],
+  "Sachsen-Anhalt": [
+    {
+      "eczaneAdi": "Salz Mischer Apotheke",
+      "adres": "Pfännerstr. 43, 39218 Schönebeck",
+      "telefon": "+49 3928 7294711",
+      "enlem": "52.0053629",
+      "boylam": "11.7249416",
+      "mesafe": "1.7 km"
+    },
+    {
+      "eczaneAdi": "Löwen-Apotheke",
+      "adres": "Bahrendorfer Weg 24, 39171 Sülzetal",
+      "telefon": "+49 39205 21275",
+      "enlem": "51.9981455",
+      "boylam": "11.5374224",
+      "mesafe": "11.3 km"
+    },
+    {
+      "eczaneAdi": "Rats-Apotheke im Ulrichshaus",
+      "adres": "Ulrichplatz 2, 39104 Magdeburg",
+      "telefon": "+49 391 5975844",
+      "enlem": "52.130095",
+      "boylam": "11.6345988",
+      "mesafe": "14.2 km"
+    },
+    {
+      "eczaneAdi": "Ginkgo-Apotheke OHG",
+      "adres": "Johannes-R.-Becher-Str. 42, 39128 Magdeburg",
+      "telefon": "+49 391 2899877",
+      "enlem": "52.1674686",
+      "boylam": "11.6242338",
+      "mesafe": "18.4 km"
+    },
+    {
+      "eczaneAdi": "Sonnen-Apotheke",
+      "adres": "Steinstraße 6a, 06406 Bernburg",
+      "telefon": "+49 3471 3646470",
+      "enlem": "51.79254",
+      "boylam": "11.74465",
+      "mesafe": "24.3 km"
+    },
+    {
+      "eczaneAdi": "Rathaus-Apotheke",
+      "adres": "August-Bebel-Str. 32, 39326 Wolmirstedt",
+      "telefon": "+49 39201 4600",
+      "enlem": "52.2501534",
+      "boylam": "11.6281275",
+      "mesafe": "27.3 km"
+    }
+  ],
   "Schleswig-Holstein": [
     {
       "eczaneAdi": "Falderapark-Apotheke",
