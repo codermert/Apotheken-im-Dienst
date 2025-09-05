@@ -37,46 +37,27 @@
             "anzahl": 5
         },
         "quota": {
-            "verwendet": "41260"
+            "verwendet": "42424"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Melchendorfer Apotheke",
+                    "name": "Kranich-Apotheke",
                     "kammer": "lakt",
-                    "id": "524",
-                    "apo_id": "lakt524",
-                    "strasse": "Am Drosselberg 47",
+                    "id": "417",
+                    "apo_id": "lakt417",
+                    "strasse": "Kranichfelder Str. 103",
                     "plz": "99097",
                     "ort": "Erfurt",
-                    "distanz": "6.0666252079400005",
-                    "longitude": "11.0761843",
-                    "latitude": "50.9503069",
-                    "telefon": "+49 361 4172096",
+                    "distanz": "6.40537271737",
+                    "longitude": "11.0694661",
+                    "latitude": "50.9554566",
+                    "telefon": "+49 361 4170056",
                     "fax": [],
                     "email": [],
-                    "startdatum": "04.09.2025",
+                    "startdatum": "05.09.2025",
                     "startzeit": "09:00",
-                    "enddatum": "05.09.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Trommsdorff-Apotheke",
-                    "kammer": "lakt",
-                    "id": "3928",
-                    "apo_id": "lakt3928",
-                    "strasse": "Geschwister-Scholl-Straße 5",
-                    "plz": "99085",
-                    "ort": "Erfurt",
-                    "distanz": "8.89530102956",
-                    "longitude": "11.04315",
-                    "latitude": "50.98136",
-                    "telefon": "+49 361 5660052",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "04.09.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "05.09.2025",
+                    "enddatum": "06.09.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -97,6 +78,25 @@
                     "startzeit": "08:00",
                     "enddatum": "06.09.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Bären-Apotheke",
+                    "kammer": "lakt",
+                    "id": "113",
+                    "apo_id": "lakt113",
+                    "strasse": "Erfurter Landstraße 86",
+                    "plz": "99095",
+                    "ort": "Erfurt, OT Stotternheim",
+                    "distanz": "16.80725542248",
+                    "longitude": "11.0433921",
+                    "latitude": "51.05251",
+                    "telefon": "+49 36204 52033",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "05.09.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "06.09.2025",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Liszt-Apotheke",
