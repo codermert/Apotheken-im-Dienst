@@ -34,10 +34,10 @@
             }
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "95792"
+            "verwendet": "97703"
         },
         "apotheken": {
             "apotheke": [
@@ -61,22 +61,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Rosen-Apotheke",
+                    "name": "Stadt-Apotheke",
                     "kammer": "lakt",
-                    "id": "76",
-                    "apo_id": "lakt76",
-                    "strasse": "Stadtilmer Straße 5",
+                    "id": "1576",
+                    "apo_id": "lakt1576",
+                    "strasse": "Turnvater-Jahn-Straße 4",
                     "plz": "99310",
                     "ort": "Arnstadt",
-                    "distanz": "9.63920677606",
-                    "longitude": "10.9563088",
-                    "latitude": "50.8318337",
-                    "telefon": "+49 3628 600015",
+                    "distanz": "9.796130168600001",
+                    "longitude": "10.9456407",
+                    "latitude": "50.8354836",
+                    "telefon": "+49 3628 585840",
                     "fax": [],
                     "email": [],
-                    "startdatum": "05.09.2025",
+                    "startdatum": "06.09.2025",
                     "startzeit": "08:00",
-                    "enddatum": "06.09.2025",
+                    "enddatum": "07.09.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -99,22 +99,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Liszt-Apotheke",
+                    "name": "Löwen-Apotheke",
                     "kammer": "lakt",
-                    "id": "366",
-                    "apo_id": "lakt366",
-                    "strasse": "Lisztstr. 1",
+                    "id": "54",
+                    "apo_id": "lakt54",
+                    "strasse": "Goetheplatz 1",
                     "plz": "99423",
                     "ort": "Weimar",
-                    "distanz": "21.95985651008",
-                    "longitude": "11.3236855",
-                    "latitude": "50.9810788",
-                    "telefon": "+49 3643 53111",
+                    "distanz": "22.02206207683",
+                    "longitude": "11.3247387",
+                    "latitude": "50.980954",
+                    "telefon": "+49 3643 24760",
                     "fax": [],
                     "email": [],
-                    "startdatum": "05.09.2025",
+                    "startdatum": "06.09.2025",
                     "startzeit": "08:00",
-                    "enddatum": "06.09.2025",
+                    "enddatum": "07.09.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -131,9 +131,28 @@
                     "telefon": "+49 3621 852717",
                     "fax": [],
                     "email": [],
-                    "startdatum": "05.09.2025",
+                    "startdatum": "06.09.2025",
                     "startzeit": "08:00",
-                    "enddatum": "06.09.2025",
+                    "enddatum": "07.09.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Stadt-Apotheke",
+                    "kammer": "lakt",
+                    "id": "4135",
+                    "apo_id": "lakt4135",
+                    "strasse": "Marktstraße 1",
+                    "plz": "98693",
+                    "ort": "Ilmenau",
+                    "distanz": "25.55957135347",
+                    "longitude": "10.91453",
+                    "latitude": "50.6854",
+                    "telefon": "+49 3677 202097",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "06.09.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "07.09.2025",
                     "endzeit": "08:00"
                 }
             ]
