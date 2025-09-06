@@ -37,27 +37,46 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "111392"
+            "verwendet": "113286"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Kranich-Apotheke",
+                    "name": "Anger-Vital-Apotheke",
                     "kammer": "lakt",
-                    "id": "417",
-                    "apo_id": "lakt417",
-                    "strasse": "Kranichfelder Str. 103",
-                    "plz": "99097",
+                    "id": "613",
+                    "apo_id": "lakt613",
+                    "strasse": "Anger 58",
+                    "plz": "99084",
                     "ort": "Erfurt",
-                    "distanz": "6.40537271737",
-                    "longitude": "11.0694661",
-                    "latitude": "50.9554566",
-                    "telefon": "+49 361 4170056",
+                    "distanz": "8.264679781049999",
+                    "longitude": "11.0335363",
+                    "latitude": "50.9757148",
+                    "telefon": "+49 361 5507333",
                     "fax": [],
                     "email": [],
-                    "startdatum": "05.09.2025",
+                    "startdatum": "06.09.2025",
                     "startzeit": "09:00",
-                    "enddatum": "06.09.2025",
+                    "enddatum": "07.09.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Arkaden-Apotheke",
+                    "kammer": "lakt",
+                    "id": "504",
+                    "apo_id": "lakt504",
+                    "strasse": "Friedrich-Engels-Straße 63",
+                    "plz": "99086",
+                    "ort": "Erfurt",
+                    "distanz": "9.61309165868",
+                    "longitude": "11.0358571",
+                    "latitude": "50.9878755",
+                    "telefon": "+49 361 5402185",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "06.09.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "07.09.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "07.09.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Bären-Apotheke",
-                    "kammer": "lakt",
-                    "id": "113",
-                    "apo_id": "lakt113",
-                    "strasse": "Erfurter Landstraße 86",
-                    "plz": "99095",
-                    "ort": "Erfurt, OT Stotternheim",
-                    "distanz": "16.80725542248",
-                    "longitude": "11.0433921",
-                    "latitude": "51.05251",
-                    "telefon": "+49 36204 52033",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "05.09.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "06.09.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Löwen-Apotheke",
