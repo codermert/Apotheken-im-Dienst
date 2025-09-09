@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 40
+            "anzahl": 35
         },
         "quota": {
-            "verwendet": "86420"
+            "verwendet": "92455"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,25 +5762,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Apotheke im Sonnengarten",
-                    "kammer": "lakbb",
-                    "id": "241",
-                    "apo_id": "lakbb241",
-                    "strasse": "Märkische Allee 76",
-                    "plz": "16548",
-                    "ort": "Glienicke/Nordbahn",
-                    "distanz": "13.48323987355",
-                    "longitude": "13.3230005",
-                    "latitude": "52.6313669",
-                    "telefon": "+49 33056 42996",
-                    "fax": [],
-                    "email": "ais@online.de",
-                    "startdatum": "08.09.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "09.09.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Marien-Apotheke",
                     "kammer": "akb",
                     "id": "100579",
@@ -5792,6 +5773,25 @@
                     "longitude": "13.1834028",
                     "latitude": "52.5128679",
                     "telefon": "+49 30 3616707",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "08.09.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "09.09.2025",
+                    "endzeit": "08:59"
+                },
+                {
+                    "name": "Dr. Rothes Apotheke",
+                    "kammer": "akb",
+                    "id": "100404",
+                    "apo_id": "akb100404",
+                    "strasse": "Bahnhofstr. 10",
+                    "plz": "12555",
+                    "ort": "Berlin",
+                    "distanz": "14.513538287220001",
+                    "longitude": "13.5770394",
+                    "latitude": "52.4552771",
+                    "telefon": "+49 30 6572151",
                     "fax": [],
                     "email": [],
                     "startdatum": "08.09.2025",
