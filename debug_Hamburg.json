@@ -3194,7 +3194,7 @@
             "anzahl": 16
         },
         "quota": {
-            "verwendet": "119861"
+            "verwendet": "126554"
         },
         "apotheken": {
             "apotheke": [
@@ -3427,6 +3427,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Eidig-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1389",
+                    "apo_id": "aknds1389",
+                    "strasse": "Bürgermeister-Glade-Str. 1",
+                    "plz": "21224",
+                    "ort": "Rosengarten",
+                    "distanz": "20.93006057904",
+                    "longitude": "9.9290501",
+                    "latitude": "53.3672014",
+                    "telefon": "+49 4105 65560",
+                    "fax": "+49 4105 655617",
+                    "email": [],
+                    "startdatum": "10.09.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "11.09.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Kloster-Apotheke",
                     "kammer": "aknds",
                     "id": "1180",
@@ -3511,25 +3530,6 @@
                         "nachname": "Schulz",
                         "position": "Inhaber"
                     }
-                },
-                {
-                    "name": "Alte Rats-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1507",
-                    "apo_id": "aknds1507",
-                    "strasse": "Rathausstr. 22",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "24.94546823474",
-                    "longitude": "10.2075161",
-                    "latitude": "53.3632732",
-                    "telefon": "+49 4171 2206",
-                    "fax": "+49 4171 4436",
-                    "email": [],
-                    "startdatum": "09.09.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "10.09.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Hecht-Apotheke",
