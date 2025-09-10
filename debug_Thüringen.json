@@ -37,27 +37,46 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "127871"
+            "verwendet": "130572"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Mohren-Apotheke",
+                    "name": "Theater-Apotheke",
                     "kammer": "lakt",
-                    "id": "9",
-                    "apo_id": "lakt9",
-                    "strasse": "Schlösserstraße 9",
+                    "id": "367",
+                    "apo_id": "lakt367",
+                    "strasse": "Dalbergsweg 9",
                     "plz": "99084",
                     "ort": "Erfurt",
-                    "distanz": "8.36048529326",
-                    "longitude": "11.032737",
-                    "latitude": "50.9765568",
-                    "telefon": "+49 361 6421500",
+                    "distanz": "7.81386179811",
+                    "longitude": "11.0228492",
+                    "latitude": "50.9710741",
+                    "telefon": "+49 361 2258820",
                     "fax": [],
                     "email": [],
-                    "startdatum": "09.09.2025",
+                    "startdatum": "10.09.2025",
                     "startzeit": "09:00",
-                    "enddatum": "10.09.2025",
+                    "enddatum": "11.09.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Lilien-Apotheke",
+                    "kammer": "lakt",
+                    "id": "3991",
+                    "apo_id": "lakt3991",
+                    "strasse": "Domplatz 6/9",
+                    "plz": "99084",
+                    "ort": "Erfurt",
+                    "distanz": "8.54898929134",
+                    "longitude": "11.0248279",
+                    "latitude": "50.9778817",
+                    "telefon": "+49 361 6003742",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "10.09.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "11.09.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "11.09.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Rosen-Apotheke",
-                    "kammer": "lakt",
-                    "id": "405",
-                    "apo_id": "lakt405",
-                    "strasse": "Ringstraße 28",
-                    "plz": "99091",
-                    "ort": "Erfurt-Gispersleben",
-                    "distanz": "13.737095771800002",
-                    "longitude": "10.9932804",
-                    "latitude": "51.0217134",
-                    "telefon": "+49 361 7916096",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "09.09.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "10.09.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Stadt-Apotheke",
