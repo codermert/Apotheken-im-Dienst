@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 36
+            "anzahl": 35
         },
         "quota": {
-            "verwendet": "132529"
+            "verwendet": "142341"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,6 +5762,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Steinbock Apotheke Schildow",
+                    "kammer": "lakbb",
+                    "id": "653",
+                    "apo_id": "lakbb653",
+                    "strasse": "Bahnhofstraße 5b",
+                    "plz": "16552",
+                    "ort": "Mühlenbecker Land - OT Schildow",
+                    "distanz": "13.35524852805",
+                    "longitude": "13.3749982",
+                    "latitude": "52.6367557",
+                    "telefon": "+49 33056 270004",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "12.09.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "13.09.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Elefanten Apotheke",
                     "kammer": "akb",
                     "id": "100449",
@@ -5773,25 +5792,6 @@
                     "longitude": "13.5483317",
                     "latitude": "52.4383455",
                     "telefon": "+49 30 67894942",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "11.09.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "12.09.2025",
-                    "endzeit": "08:59"
-                },
-                {
-                    "name": "Ginkgo-Apotheke",
-                    "kammer": "akb",
-                    "id": "100183",
-                    "apo_id": "akb100183",
-                    "strasse": "Walter-Friedrich-Str. 6",
-                    "plz": "13125",
-                    "ort": "Berlin",
-                    "distanz": "14.87803898221",
-                    "longitude": "13.4942725",
-                    "latitude": "52.6343046",
-                    "telefon": "+49 30 94113322",
                     "fax": [],
                     "email": [],
                     "startdatum": "11.09.2025",
