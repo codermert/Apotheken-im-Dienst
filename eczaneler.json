@@ -833,44 +833,52 @@
       "mesafe": "0.7 km"
     },
     {
+      "eczaneAdi": "Apotheke am Park",
+      "adres": "Zu den Wiesen 9, 18279 Lalendorf",
+      "telefon": "+49 38452 20592",
+      "enlem": "53.75746",
+      "boylam": "12.38463",
+      "mesafe": "12.7 km"
+    },
+    {
+      "eczaneAdi": "Recknitztal-Apotheke",
+      "adres": "Breesener Str. 37, 18299 Laage",
+      "telefon": "+49 38459 36235",
+      "enlem": "53.9277616",
+      "boylam": "12.3460061",
+      "mesafe": "22.9 km"
+    },
+    {
+      "eczaneAdi": "Hubertus-Apotheke",
+      "adres": "Friedensstr. 29, 17179 Gnoien",
+      "telefon": "+49 39971 1830",
+      "enlem": "53.9693156",
+      "boylam": "12.7102512",
+      "mesafe": "23.5 km"
+    },
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Lange Str. 14, 18292 Krakow a. See",
+      "telefon": "+49 38457 22322",
+      "enlem": "53.6531425",
+      "boylam": "12.2689391",
+      "mesafe": "24.3 km"
+    },
+    {
+      "eczaneAdi": "Schweden Apotheke",
+      "adres": "Werdohler Str. 3, 17153 Reuterstadt Stavenhagen",
+      "telefon": "+49 39954 24850",
+      "enlem": "53.688362",
+      "boylam": "12.9150862",
+      "mesafe": "24.3 km"
+    },
+    {
       "eczaneAdi": "Apotheke am Distelberg",
       "adres": "Am Eicheneck 6, 18273 Güstrow",
       "telefon": "+49 3843 212068",
       "enlem": "53.809078",
       "boylam": "12.1891445",
       "mesafe": "25.8 km"
-    },
-    {
-      "eczaneAdi": "Löwen-Apotheke",
-      "adres": "Neuer Markt 21, 17192 Waren",
-      "telefon": "+49 3991 666153",
-      "enlem": "53.5145093",
-      "boylam": "12.6887047",
-      "mesafe": "29.8 km"
-    },
-    {
-      "eczaneAdi": "Peene-Apotheke",
-      "adres": "Am Krankenhaus 1, 17109 Demmin",
-      "telefon": "+49 3998 2828640",
-      "enlem": "53.902402",
-      "boylam": "13.0426609",
-      "mesafe": "33.9 km"
-    },
-    {
-      "eczaneAdi": "Cityblick-Apotheke",
-      "adres": "Joliot-Curie-Allee 49, 18147 Rostock",
-      "telefon": "+49 381 6867030",
-      "enlem": "54.1121186",
-      "boylam": "12.1379214",
-      "mesafe": "47.4 km"
-    },
-    {
-      "eczaneAdi": "Apotheke in der Reuterpassage",
-      "adres": "Gördelerstr. 50, 18069 Rostock",
-      "telefon": "+49 381 260531304",
-      "enlem": "54.0991851",
-      "boylam": "12.0731185",
-      "mesafe": "49.0 km"
     }
   ],
   "Niedersachsen": [
@@ -1063,7 +1071,48 @@
       "mesafe": "25.4 km"
     }
   ],
-  "Sachsen": [],
+  "Sachsen": [
+    {
+      "eczaneAdi": "Gesundbrunnen-Apotheke",
+      "adres": "Friedeburger Straße 13, 09599 Freiberg",
+      "telefon": "+49 3731 34684",
+      "enlem": "50.9179494",
+      "boylam": "13.3272311",
+      "mesafe": "9.3 km"
+    },
+    {
+      "eczaneAdi": "Heide-Apotheke am Krankenhaus",
+      "adres": "Rabenauer Straße 9, 01744 Dippoldiswalde",
+      "telefon": "+49 3504 620969",
+      "enlem": "50.90104",
+      "boylam": "13.66742",
+      "mesafe": "15.0 km"
+    },
+    {
+      "eczaneAdi": "Panorama-Apotheke",
+      "adres": "Kohlenstraße 18, 01189 Dresden",
+      "telefon": "+49 351 4034508",
+      "enlem": "51.01941",
+      "boylam": "13.72226",
+      "mesafe": "21.0 km"
+    },
+    {
+      "eczaneAdi": "Königswald-Apotheke",
+      "adres": "Elisenstraße 23, 01307 Dresden",
+      "telefon": "+49 351 79995550",
+      "enlem": "51.05389",
+      "boylam": "13.76043",
+      "mesafe": "25.3 km"
+    },
+    {
+      "eczaneAdi": "Hahnemann-Apotheke",
+      "adres": "Neugasse 11, 01662 Meißen",
+      "telefon": "+49 3521 453384",
+      "enlem": "51.16076",
+      "boylam": "13.47114",
+      "mesafe": "25.7 km"
+    }
+  ],
   "Sachsen-Anhalt": [
     {
       "eczaneAdi": "St. Jakobi-Apotheke",
