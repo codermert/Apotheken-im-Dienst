@@ -833,12 +833,20 @@
       "mesafe": "0.0 km"
     },
     {
-      "eczaneAdi": "Schweden Apotheke",
-      "adres": "Werdohler Str. 3, 17153 Reuterstadt Stavenhagen",
-      "telefon": "+49 39954 24850",
-      "enlem": "53.688362",
-      "boylam": "12.9150862",
-      "mesafe": "24.3 km"
+      "eczaneAdi": "Recknitztal-Apotheke",
+      "adres": "Breesener Str. 37, 18299 Laage",
+      "telefon": "+49 38459 36235",
+      "enlem": "53.9277616",
+      "boylam": "12.3460061",
+      "mesafe": "22.9 km"
+    },
+    {
+      "eczaneAdi": "Hubertus-Apotheke",
+      "adres": "Friedensstr. 29, 17179 Gnoien",
+      "telefon": "+49 39971 1830",
+      "enlem": "53.9693156",
+      "boylam": "12.7102512",
+      "mesafe": "23.5 km"
     },
     {
       "eczaneAdi": "Apotheke am Wall",
@@ -847,54 +855,6 @@
       "enlem": "53.7934156",
       "boylam": "12.1714502",
       "mesafe": "26.7 km"
-    },
-    {
-      "eczaneAdi": "Linden-Apotheke",
-      "adres": "Goethestr. 48-51, 17192 Waren",
-      "telefon": "+49 3991 731932",
-      "enlem": "53.5188383",
-      "boylam": "12.677138",
-      "mesafe": "29.1 km"
-    },
-    {
-      "eczaneAdi": "Buchen-Apotheke",
-      "adres": "Friedrich-von-Flotow-Ring 15, 18190 Sanitz",
-      "telefon": "+49 38209 490016",
-      "enlem": "54.0779007",
-      "boylam": "12.3834443",
-      "mesafe": "36.2 km"
-    },
-    {
-      "eczaneAdi": "Marien-Apotheke",
-      "adres": "Am Postberg 1, 17121 Loitz",
-      "telefon": "+49 39998 10381",
-      "enlem": "53.9737119",
-      "boylam": "13.129453",
-      "mesafe": "42.7 km"
-    },
-    {
-      "eczaneAdi": "Schwan-Apotheke",
-      "adres": "Hohe Str. 25, 17207 Röbel",
-      "telefon": "+49 39931 52426",
-      "enlem": "53.3752241",
-      "boylam": "12.6059568",
-      "mesafe": "44.4 km"
-    },
-    {
-      "eczaneAdi": "Storchen-Apotheke",
-      "adres": "Am Mattenstieg 16, 19406 Dabel",
-      "telefon": "+49 38485 20111",
-      "enlem": "53.6593812",
-      "boylam": "11.9016151",
-      "mesafe": "46.3 km"
-    },
-    {
-      "eczaneAdi": "Rosen-Apotheke",
-      "adres": "Schulenburgstr. 20, 18069 Rostock",
-      "telefon": "+49 381 8096280",
-      "enlem": "54.10064",
-      "boylam": "12.07688",
-      "mesafe": "49.0 km"
     }
   ],
   "Niedersachsen": [
@@ -939,7 +899,64 @@
       "mesafe": "26.5 km"
     }
   ],
-  "Rheinland-Pfalz": [],
+  "Rheinland-Pfalz": [
+    {
+      "eczaneAdi": "Dr. Hückstädt's-Apotheke",
+      "adres": "Zur alten Schanze 2, 56856 Zell",
+      "telefon": "+49 6542 960442",
+      "enlem": "50.0292",
+      "boylam": "7.15849",
+      "mesafe": "13.8 km"
+    },
+    {
+      "eczaneAdi": "Schwanen-Apotheke",
+      "adres": "Marktstr. 65, 55469 Simmern",
+      "telefon": "+49 6761 2201",
+      "enlem": "49.98279",
+      "boylam": "7.52102",
+      "mesafe": "15.4 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Kirschweiler",
+      "adres": "Hauptstr. 62, 55743 Kirschweiler",
+      "telefon": "+49 6781 3297",
+      "enlem": "49.7528035",
+      "boylam": "7.2422954",
+      "mesafe": "22.8 km"
+    },
+    {
+      "eczaneAdi": "Bacchus-Apotheke",
+      "adres": "Raiffeisenstr. 1, 54340 Leiwen",
+      "telefon": "+49 6507 3178",
+      "enlem": "49.8198351",
+      "boylam": "6.8827203",
+      "mesafe": "34.1 km"
+    },
+    {
+      "eczaneAdi": "Faust-Apotheke",
+      "adres": "Mannheimer Str. 144, 55543 Bad Kreuznach",
+      "telefon": "+49 671 27280",
+      "enlem": "49.8429445",
+      "boylam": "7.8607184",
+      "mesafe": "41.4 km"
+    },
+    {
+      "eczaneAdi": "Dr. Schlags Apotheke im HIT",
+      "adres": "Hausener Str. 2-6, 56727 Mayen",
+      "telefon": "+49 2651 703976",
+      "enlem": "50.32714",
+      "boylam": "7.24361",
+      "mesafe": "41.9 km"
+    },
+    {
+      "eczaneAdi": "Asterstein-Apotheke",
+      "adres": "Fritz-von-Unruh-Str. 1, 56077 Koblenz",
+      "telefon": "+49 261 75888",
+      "enlem": "50.3461525",
+      "boylam": "7.6196654",
+      "mesafe": "49.0 km"
+    }
+  ],
   "Saarland": [
     {
       "eczaneAdi": "Winter'sche-Apotheke",
