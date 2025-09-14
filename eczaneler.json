@@ -875,7 +875,80 @@
       "mesafe": "40.2 km"
     }
   ],
-  "Bremen": [],
+  "Bremen": [
+    {
+      "eczaneAdi": "Bermpohl-Apotheke",
+      "adres": "Gerhard-Rohlfs-Str. 54 c, 28757 Bremen",
+      "telefon": "+49 421 6599565",
+      "enlem": "53.1740632",
+      "boylam": "8.6144458",
+      "mesafe": "6.2 km"
+    },
+    {
+      "eczaneAdi": "Birken-Apotheke",
+      "adres": "In den Barken 25, 28237 Bremen",
+      "telefon": "+49 421 611808",
+      "enlem": "53.1135478",
+      "boylam": "8.7703605",
+      "mesafe": "6.2 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Außer der Schleifmühle",
+      "adres": "Außer der Schleifmühle 80, 28203 Bremen",
+      "telefon": "+49 421 326665",
+      "enlem": "53.0792406",
+      "boylam": "8.8248671",
+      "mesafe": "11.4 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Zurbrüggen-Zentrum",
+      "adres": "Seestr. 5, 27755 Delmenhorst",
+      "telefon": "+49 4221 6893551",
+      "enlem": "53.03057",
+      "boylam": "8.66095",
+      "mesafe": "12.9 km"
+    },
+    {
+      "eczaneAdi": "Flores-Apotheke",
+      "adres": "Parkstr. 47, 27798 Hude",
+      "telefon": "+49 4408 6363",
+      "enlem": "53.1132591",
+      "boylam": "8.4566718",
+      "mesafe": "16.2 km"
+    },
+    {
+      "eczaneAdi": "farma-plus Apotheke Briseck",
+      "adres": "Jupiterstr. 1, 28816 Stuhr",
+      "telefon": "+49 421 80950800",
+      "enlem": "53.00366",
+      "boylam": "8.779",
+      "mesafe": "16.7 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Blockdiek",
+      "adres": "Max-Säume-Str. 4, 28327 Bremen",
+      "telefon": "+49 421 470737",
+      "enlem": "53.074505",
+      "boylam": "8.925062",
+      "mesafe": "17.4 km"
+    },
+    {
+      "eczaneAdi": "Hemberg Apotheke",
+      "adres": "Hembergstr. 14, 27726 Worpswede",
+      "telefon": "+49 4792 1262",
+      "enlem": "53.2221727",
+      "boylam": "8.9274512",
+      "mesafe": "17.9 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Kröger",
+      "adres": "Weserstr. 80, 26919 Brake",
+      "telefon": "+49 4401 930240",
+      "enlem": "53.3336661",
+      "boylam": "8.4635966",
+      "mesafe": "26.0 km"
+    }
+  ],
   "Hessen": [
     {
       "eczaneAdi": "Felsen Apotheke",
@@ -1370,6 +1443,120 @@
       "mesafe": "26.9 km"
     }
   ],
-  "Schleswig-Holstein": [],
-  "Thüringen": []
+  "Schleswig-Holstein": [
+    {
+      "eczaneAdi": "Linden-Apotheke",
+      "adres": "Holstenstr. 40, 24582 Bordesholm",
+      "telefon": "04322-3011",
+      "enlem": "54.173938",
+      "boylam": "10.0328589",
+      "mesafe": "13.8 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Westensee",
+      "adres": "Hasselrader Weg 2, 24242 Felde",
+      "telefon": "+49 4340 8900",
+      "enlem": "54.304",
+      "boylam": "9.93686",
+      "mesafe": "15.2 km"
+    },
+    {
+      "eczaneAdi": "Flora-Apotheke am Bahnhof",
+      "adres": "Kuhberg 8, 24534 Neumünster",
+      "telefon": "+49 4321 41090",
+      "enlem": "54.07573",
+      "boylam": "9.98158",
+      "mesafe": "16.1 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Wallstraße",
+      "adres": "Wallstr. 42-44, 24768 Rendsburg",
+      "telefon": "04331-1234888",
+      "enlem": "54.3041997",
+      "boylam": "9.6620619",
+      "mesafe": "16.8 km"
+    },
+    {
+      "eczaneAdi": "Krokodil-Apotheke",
+      "adres": "Hauptstr. 18a, 24623 Großenaspe",
+      "telefon": "04327-141618",
+      "enlem": "53.97581",
+      "boylam": "9.96712",
+      "mesafe": "25.2 km"
+    },
+    {
+      "eczaneAdi": "CMP-Apotheke",
+      "adres": "Elisabethstraße 68, 24143 Kiel",
+      "telefon": "0431-9968304",
+      "enlem": "54.3113808",
+      "boylam": "10.1456845",
+      "mesafe": "25.3 km"
+    },
+    {
+      "eczaneAdi": "Ring-Apotheke am Dreiecksplatz",
+      "adres": "Holtenauer Str. 2-6, 24105 Kiel",
+      "telefon": "0431-554125",
+      "enlem": "54.3287896",
+      "boylam": "10.1335142",
+      "mesafe": "25.8 km"
+    }
+  ],
+  "Thüringen": [
+    {
+      "eczaneAdi": "Altstadt-Apotheke",
+      "adres": "Michaelisstraße 31, 99084 Erfurt",
+      "telefon": "+49 361 2603433",
+      "enlem": "50.9802072",
+      "boylam": "11.0268958",
+      "mesafe": "8.8 km"
+    },
+    {
+      "eczaneAdi": "Nord-Apotheke",
+      "adres": "Moskauer Platz 14, 99091 Erfurt",
+      "telefon": "+49 361 7913116",
+      "enlem": "51.008232",
+      "boylam": "11.000043",
+      "mesafe": "12.2 km"
+    },
+    {
+      "eczaneAdi": "Sonnen-Apotheke",
+      "adres": "Markt 17/19, 99326 Stadtilm",
+      "telefon": "+49 3629 3483",
+      "enlem": "50.7749647",
+      "boylam": "11.0820167",
+      "mesafe": "14.4 km"
+    },
+    {
+      "eczaneAdi": "Atrium-Apotheke",
+      "adres": "Friedensstr. 1, 99423 Weimar",
+      "telefon": "+49 3643 908720",
+      "enlem": "50.98511",
+      "boylam": "11.32959",
+      "mesafe": "22.5 km"
+    },
+    {
+      "eczaneAdi": "Schloß-Apotheke",
+      "adres": "Marktstraße 4, 99885 Ohrdruf",
+      "telefon": "+49 3624 314670",
+      "enlem": "50.82722",
+      "boylam": "10.73471",
+      "mesafe": "22.9 km"
+    },
+    {
+      "eczaneAdi": "Goethe-Apotheke",
+      "adres": "Hauptmarkt 10, 99867 Gotha",
+      "telefon": "+49 3621 852717",
+      "enlem": "50.9485337",
+      "boylam": "10.7023121",
+      "mesafe": "24.2 km"
+    },
+    {
+      "eczaneAdi": "Stadt-Apotheke Langewiesen",
+      "adres": "Hauptstraße 22, 98693 Ilmenau, OT Langewiesen",
+      "telefon": "+49 3677 812831",
+      "enlem": "50.6731429",
+      "boylam": "10.9706474",
+      "mesafe": "25.8 km"
+    }
+  ]
 }
