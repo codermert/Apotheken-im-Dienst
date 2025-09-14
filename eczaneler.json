@@ -5,46 +5,106 @@
   "Baden-Württemberg": [],
   "Bayern": [],
   "Brandenburg": [],
-  "Bremen": [
+  "Bremen": [],
+  "Hessen": [],
+  "Mecklenburg-Vorpommern": [
     {
-      "eczaneAdi": "Bermpohl-Apotheke",
-      "adres": "Gerhard-Rohlfs-Str. 54 c, 28757 Bremen",
-      "telefon": "+49 421 6599565",
-      "enlem": "53.1740632",
-      "boylam": "8.6144458",
-      "mesafe": "6.2 km"
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Marktplatz 4, 17166 Teterow",
+      "telefon": "+49 3996 172041",
+      "enlem": "53.7736844",
+      "boylam": "12.5750741",
+      "mesafe": "0.0 km"
     },
     {
-      "eczaneAdi": "Birken-Apotheke",
-      "adres": "In den Barken 25, 28237 Bremen",
-      "telefon": "+49 421 611808",
-      "enlem": "53.1135478",
-      "boylam": "8.7703605",
-      "mesafe": "6.2 km"
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Lange Str. 14, 18292 Krakow a. See",
+      "telefon": "+49 38457 22322",
+      "enlem": "53.6531425",
+      "boylam": "12.2689391",
+      "mesafe": "24.3 km"
     },
     {
-      "eczaneAdi": "Apotheke Außer der Schleifmühle",
-      "adres": "Außer der Schleifmühle 80, 28203 Bremen",
-      "telefon": "+49 421 326665",
-      "enlem": "53.0792406",
-      "boylam": "8.8248671",
-      "mesafe": "11.4 km"
+      "eczaneAdi": "Godewind-Apotheke",
+      "adres": "Haselstr. 2, 18273 Güstrow",
+      "telefon": "+49 3843 215630",
+      "enlem": "53.8080658",
+      "boylam": "12.1914359",
+      "mesafe": "25.6 km"
     },
     {
-      "eczaneAdi": "Apotheke im Zurbrüggen-Zentrum",
-      "adres": "Seestr. 5, 27755 Delmenhorst",
-      "telefon": "+49 4221 6893551",
-      "enlem": "53.03057",
-      "boylam": "8.66095",
-      "mesafe": "12.9 km"
+      "eczaneAdi": "Fontane-Apotheke",
+      "adres": "Lange Straße 55, 17192 Waren",
+      "telefon": "+49 3991 64270",
+      "enlem": "53.5142062",
+      "boylam": "12.686791",
+      "mesafe": "29.8 km"
     },
     {
-      "eczaneAdi": "Flores-Apotheke",
-      "adres": "Parkstr. 47, 27798 Hude",
-      "telefon": "+49 4408 6363",
-      "enlem": "53.1132591",
-      "boylam": "8.4566718",
-      "mesafe": "16.2 km"
+      "eczaneAdi": "Peene-Apotheke",
+      "adres": "Am Krankenhaus 1, 17109 Demmin",
+      "telefon": "+49 3998 2828640",
+      "enlem": "53.902402",
+      "boylam": "13.0426609",
+      "mesafe": "33.9 km"
+    },
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Karl-Marx-Str. 31a, 18465 Tribsees",
+      "telefon": "+49 38320 6180",
+      "enlem": "54.0942614",
+      "boylam": "12.7578964",
+      "mesafe": "37.7 km"
+    },
+    {
+      "eczaneAdi": "John-Brinckman-Apotheke Schröder und Weiß oHG",
+      "adres": "Schillingallee 28, 18057 Rostock",
+      "telefon": "+49 381 2002457",
+      "enlem": "54.087759",
+      "boylam": "12.1034945",
+      "mesafe": "46.7 km"
+    }
+  ],
+  "Niedersachsen": [
+    {
+      "eczaneAdi": "Lindenberg Apotheke",
+      "adres": "Bahnhofstr. 57, 27305 Bruchhausen-Vilsen",
+      "telefon": "+49 4252 3434",
+      "enlem": "52.82191",
+      "boylam": "8.98631",
+      "mesafe": "6.4 km"
+    },
+    {
+      "eczaneAdi": "Nordertor-Apotheke",
+      "adres": "Große Str. 2, 27283 Verden",
+      "telefon": "+49 4231 3398",
+      "enlem": "52.9242917",
+      "boylam": "9.227984",
+      "mesafe": "13.9 km"
+    },
+    {
+      "eczaneAdi": "Domino-Apotheke",
+      "adres": "Alter Kirchweg 1, 31627 Rohrsen",
+      "telefon": "+49 5024 765",
+      "enlem": "52.7087912",
+      "boylam": "9.233263",
+      "mesafe": "18.0 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Hufeisen",
+      "adres": "Uesener Feldstr. 5, 28832 Achim",
+      "telefon": "+49 4202 955595",
+      "enlem": "53.0041994",
+      "boylam": "9.0526972",
+      "mesafe": "18.4 km"
+    },
+    {
+      "eczaneAdi": "Sule-Apotheke",
+      "adres": "Lange Straße 25-27, 27232 Sulingen",
+      "telefon": "+49 4271 2958",
+      "enlem": "52.6810922",
+      "boylam": "8.7957161",
+      "mesafe": "25.9 km"
     },
     {
       "eczaneAdi": "farma-plus Apotheke Briseck",
@@ -52,39 +112,223 @@
       "telefon": "+49 421 80950800",
       "enlem": "53.00366",
       "boylam": "8.779",
-      "mesafe": "16.7 km"
+      "mesafe": "27.0 km"
+    }
+  ],
+  "Rheinland-Pfalz": [
+    {
+      "eczaneAdi": "Hirsch-Apotheke",
+      "adres": "Brückenstr. 23, 56841 Traben-Trarbach",
+      "telefon": "+49 6541 9356",
+      "enlem": "49.9481977",
+      "boylam": "7.114247",
+      "mesafe": "14.1 km"
     },
     {
-      "eczaneAdi": "Apotheke Blockdiek",
-      "adres": "Max-Säume-Str. 4, 28327 Bremen",
-      "telefon": "+49 421 470737",
-      "enlem": "53.074505",
-      "boylam": "8.925062",
+      "eczaneAdi": "Mohren-Apotheke",
+      "adres": "Marktstr. 59, 55469 Simmern",
+      "telefon": "+49 6761 95650",
+      "enlem": "49.98433",
+      "boylam": "7.52139",
+      "mesafe": "15.5 km"
+    },
+    {
+      "eczaneAdi": "Achat-Apotheke",
+      "adres": "Vollmersbachstr. 65, 55743 Idar-Oberstein",
+      "telefon": "+49 6781 4834",
+      "enlem": "49.7243",
+      "boylam": "7.31798",
+      "mesafe": "25.5 km"
+    },
+    {
+      "eczaneAdi": "Kur-Apotheke",
+      "adres": "Marktplatz 2, 55566 Bad Sobernheim",
+      "telefon": "+49 6751 857980",
+      "enlem": "49.7846409",
+      "boylam": "7.6521207",
+      "mesafe": "30.9 km"
+    },
+    {
+      "eczaneAdi": "Flora-Apotheke",
+      "adres": "Naheweinstr. 76, 55450 Langenlonsheim",
+      "telefon": "+49 6704 1345",
+      "enlem": "49.8943066",
+      "boylam": "7.9004673",
+      "mesafe": "42.9 km"
+    },
+    {
+      "eczaneAdi": "Eifel-Apotheke",
+      "adres": "Trierer Str. 15, 54550 Daun",
+      "telefon": "+49 6592 7575",
+      "enlem": "50.1991522",
+      "boylam": "6.825658",
+      "mesafe": "44.2 km"
+    },
+    {
+      "eczaneAdi": "St. Margarethen-Apotheke",
+      "adres": "St. Margarethenstr. 3, 54344 Kenn",
+      "telefon": "+49 6502 4040493",
+      "enlem": "49.8019397",
+      "boylam": "6.7224142",
+      "mesafe": "45.5 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Rosengarten",
+      "adres": "Bahnhofstr. 48, 66869 Kusel",
+      "telefon": "+49 6381 7921",
+      "enlem": "49.5377305",
+      "boylam": "7.4060946",
+      "mesafe": "46.7 km"
+    },
+    {
+      "eczaneAdi": "Rheingold-Apotheke",
+      "adres": "Hohenzollernstr. 98, 56068 Koblenz",
+      "telefon": "+49 261 37700",
+      "enlem": "50.34611",
+      "boylam": "7.58908",
+      "mesafe": "48.0 km"
+    }
+  ],
+  "Saarland": [
+    {
+      "eczaneAdi": "Apotheke am Stumpen",
+      "adres": "Ziegelhütterstr. 2, 66292 Riegelsberg",
+      "telefon": "06806/45566",
+      "enlem": "49.3180053",
+      "boylam": "6.9406753",
+      "mesafe": "7.4 km"
+    },
+    {
+      "eczaneAdi": "Marien-Apotheke",
+      "adres": "Trierer Straße 3-5, 66125 Saarbrücken-Dudweiler",
+      "telefon": "06897/75603",
+      "enlem": "49.2763932",
+      "boylam": "7.0351278",
+      "mesafe": "13.4 km"
+    },
+    {
+      "eczaneAdi": "Saar Apotheke im Kaufland",
+      "adres": "Grubenweg 7, 66386 St. Ingbert",
+      "telefon": "06894/9900685",
+      "enlem": "49.2814828",
+      "boylam": "7.1043859",
+      "mesafe": "15.8 km"
+    },
+    {
+      "eczaneAdi": "Brühl-Apotheke",
+      "adres": "Im Brühl 2, 66649 Oberthal",
+      "telefon": "06854/802415",
+      "enlem": "49.5094694",
+      "boylam": "7.0918322",
+      "mesafe": "17.2 km"
+    },
+    {
+      "eczaneAdi": "Johannis-Apotheke",
+      "adres": "Mainzer Straße 38, 66111 Saarbrücken",
+      "telefon": "0681/62445",
+      "enlem": "49.23107",
+      "boylam": "7.00249",
       "mesafe": "17.4 km"
     },
     {
-      "eczaneAdi": "Hemberg Apotheke",
-      "adres": "Hembergstr. 14, 27726 Worpswede",
-      "telefon": "+49 4792 1262",
-      "enlem": "53.2221727",
-      "boylam": "8.9274512",
-      "mesafe": "17.9 km"
+      "eczaneAdi": "Engel-Apotheke",
+      "adres": "Talstraße 128, 66701 Beckingen",
+      "telefon": "06835/2435",
+      "enlem": "49.394082",
+      "boylam": "6.7007654",
+      "mesafe": "18.4 km"
     },
     {
-      "eczaneAdi": "Apotheke Kröger",
-      "adres": "Weserstr. 80, 26919 Brake",
-      "telefon": "+49 4401 930240",
-      "enlem": "53.3336661",
-      "boylam": "8.4635966",
-      "mesafe": "26.0 km"
+      "eczaneAdi": "Neue Apotheke",
+      "adres": "Trierer Straße 40, 66709 Weiskirchen",
+      "telefon": "06876/227",
+      "enlem": "49.5550935",
+      "boylam": "6.81766",
+      "mesafe": "21.4 km"
+    },
+    {
+      "eczaneAdi": "Antonius-Apotheke",
+      "adres": "Auf der Spees 14, 66802 Überherrn-Altforweiler",
+      "telefon": "06836/5212",
+      "enlem": "49.2727045",
+      "boylam": "6.7082505",
+      "mesafe": "21.7 km"
+    },
+    {
+      "eczaneAdi": "Blies-Apotheke",
+      "adres": "Bahnhofstraße 17, 66459 Kirkel-Limbach",
+      "telefon": "06841/80635",
+      "enlem": "49.31454",
+      "boylam": "7.27869",
+      "mesafe": "24.8 km"
+    },
+    {
+      "eczaneAdi": "Montclair-Apotheke",
+      "adres": "Bezirksstraße 106, 66663 Merzig-Besseringen",
+      "telefon": "06861/2953",
+      "enlem": "49.4754994",
+      "boylam": "6.6056505",
+      "mesafe": "27.2 km"
     }
   ],
-  "Hessen": [],
-  "Mecklenburg-Vorpommern": [],
-  "Niedersachsen": [],
-  "Rheinland-Pfalz": [],
-  "Saarland": [],
-  "Sachsen": [],
+  "Sachsen": [
+    {
+      "eczaneAdi": "Glückauf-Apotheke",
+      "adres": "Petersstr. 35, 09599 Freiberg",
+      "telefon": "+49 3731 22280",
+      "enlem": "50.91508",
+      "boylam": "13.33943",
+      "mesafe": "8.5 km"
+    },
+    {
+      "eczaneAdi": "avesana Apotheke Kesselsdorf",
+      "adres": "Steinbacher Weg 11, 01723 Kesselsdorf",
+      "telefon": "+49 35204 394222",
+      "enlem": "51.0331",
+      "boylam": "13.59483",
+      "mesafe": "15.0 km"
+    },
+    {
+      "eczaneAdi": "Ginkgo Apotheke",
+      "adres": "Schweriner Straße 50 a, 01067 Dresden",
+      "telefon": "+49 351 2109613",
+      "enlem": "51.0538428",
+      "boylam": "13.7234641",
+      "mesafe": "23.2 km"
+    },
+    {
+      "eczaneAdi": "Sophien-Apotheke",
+      "adres": "Lockwitzer Straße 9, 01219 Dresden",
+      "telefon": "+49 351 4519135",
+      "enlem": "51.0265146",
+      "boylam": "13.760877",
+      "mesafe": "23.8 km"
+    },
+    {
+      "eczaneAdi": "Müglitz-Apotheke",
+      "adres": "Altenberger Straße 19, 01768 Glashütte",
+      "telefon": "+49 35053 32717",
+      "enlem": "50.84848",
+      "boylam": "13.78197",
+      "mesafe": "24.5 km"
+    },
+    {
+      "eczaneAdi": "Moritz-Apotheke",
+      "adres": "Zaschendorfer Straße 23, 01662 Meißen",
+      "telefon": "+49 3521 738648",
+      "enlem": "51.16116",
+      "boylam": "13.4879",
+      "mesafe": "25.8 km"
+    },
+    {
+      "eczaneAdi": "Johannis-Apotheke",
+      "adres": "Wittenberger Straße 86, 01277 Dresden",
+      "telefon": "+49 351 337553",
+      "enlem": "51.0441863",
+      "boylam": "13.7971201",
+      "mesafe": "27.0 km"
+    }
+  ],
   "Sachsen-Anhalt": [
     {
       "eczaneAdi": "Kosmos Apotheke Schönebeck",
