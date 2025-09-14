@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 10
+            "anzahl": 11
         },
         "quota": {
-            "verwendet": "168766"
+            "verwendet": "194158"
         },
         "apotheken": {
             "apotheke": [
@@ -1291,25 +1291,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke Schierbrok",
-                    "kammer": "aknds",
-                    "id": "1753",
-                    "apo_id": "aknds1753",
-                    "strasse": "Bahnhofstr. 49",
-                    "plz": "27777",
-                    "ort": "Ganderkesee",
-                    "distanz": "10.35027715195",
-                    "longitude": "8.5769381",
-                    "latitude": "53.0836028",
-                    "telefon": "+49 4221 89335",
-                    "fax": "+49 4221 88151",
-                    "email": [],
-                    "startdatum": "13.09.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "14.09.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Bahnhof-Apotheke",
                     "kammer": "akbr",
                     "id": "10021",
@@ -1327,25 +1308,6 @@
                     "startzeit": "09:00",
                     "enddatum": "14.09.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "West-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1680",
-                    "apo_id": "aknds1680",
-                    "strasse": "Oldenburger Str. 79",
-                    "plz": "27753",
-                    "ort": "Delmenhorst",
-                    "distanz": "12.10518761083",
-                    "longitude": "8.6071553",
-                    "latitude": "53.0492285",
-                    "telefon": "+49 4221 987098",
-                    "fax": "+49 4221 987096",
-                    "email": [],
-                    "startdatum": "13.09.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "14.09.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Zentral-Apotheke",
@@ -1367,6 +1329,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Apotheke im Zurbrüggen-Zentrum",
+                    "kammer": "aknds",
+                    "id": "5610",
+                    "apo_id": "aknds5610",
+                    "strasse": "Seestr. 5",
+                    "plz": "27755",
+                    "ort": "Delmenhorst",
+                    "distanz": "12.902705588209999",
+                    "longitude": "8.66095",
+                    "latitude": "53.03057",
+                    "telefon": "+49 4221 6893551",
+                    "fax": "+49 4221 6893545",
+                    "email": [],
+                    "startdatum": "14.09.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "15.09.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Wilhelm-Leuschner-Apotheke",
                     "kammer": "akbr",
                     "id": "10190",
@@ -1384,6 +1365,25 @@
                     "startzeit": "09:00",
                     "enddatum": "14.09.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Flores-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1817",
+                    "apo_id": "aknds1817",
+                    "strasse": "Parkstr. 47",
+                    "plz": "27798",
+                    "ort": "Hude",
+                    "distanz": "16.22079185705",
+                    "longitude": "8.4566718",
+                    "latitude": "53.1132591",
+                    "telefon": "+49 4408 6363",
+                    "fax": "+49 4408 970631",
+                    "email": [],
+                    "startdatum": "14.09.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "15.09.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Schleng-Apotheke",
@@ -1422,6 +1422,25 @@
                     "startzeit": "09:00",
                     "enddatum": "14.09.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Apotheke Kröger",
+                    "kammer": "aknds",
+                    "id": "1636",
+                    "apo_id": "aknds1636",
+                    "strasse": "Weserstr. 80",
+                    "plz": "26919",
+                    "ort": "Brake",
+                    "distanz": "26.0104326339",
+                    "longitude": "8.4635966",
+                    "latitude": "53.3336661",
+                    "telefon": "+49 4401 930240",
+                    "fax": "+49 4401 706883",
+                    "email": [],
+                    "startdatum": "14.09.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "15.09.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Alte Apotheke",

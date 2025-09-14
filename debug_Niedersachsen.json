@@ -31,7 +31,7 @@
             "anzahl": 5
         },
         "quota": {
-            "verwendet": "169784"
+            "verwendet": "195291"
         },
         "apotheken": {
             "apotheke": [
@@ -55,6 +55,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Domino-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1111",
+                    "apo_id": "aknds1111",
+                    "strasse": "Alter Kirchweg 1",
+                    "plz": "31627",
+                    "ort": "Rohrsen",
+                    "distanz": "18.03914767201",
+                    "longitude": "9.233263",
+                    "latitude": "52.7087912",
+                    "telefon": "+49 5024 765",
+                    "fax": "+49 5024 8303",
+                    "email": [],
+                    "startdatum": "14.09.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "15.09.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Alte Apotheke",
                     "kammer": "aknds",
                     "id": "1116",
@@ -74,41 +93,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Meerbach-Apotheke",
+                    "name": "Sule-Apotheke",
                     "kammer": "aknds",
-                    "id": "964",
-                    "apo_id": "aknds964",
-                    "strasse": "Ziegelkampstr. 37",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "24.92702017755",
-                    "longitude": "9.223937",
-                    "latitude": "52.6346479",
-                    "telefon": "+49 5021 888740",
-                    "fax": "+49 5021 888745",
-                    "email": [],
-                    "startdatum": "13.09.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "14.09.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Bären-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1060",
-                    "apo_id": "aknds1060",
-                    "strasse": "Lange Str. 13",
+                    "id": "1063",
+                    "apo_id": "aknds1063",
+                    "strasse": "Lange Straße 25-27",
                     "plz": "27232",
                     "ort": "Sulingen",
-                    "distanz": "25.044733911719998",
-                    "longitude": "8.81042",
-                    "latitude": "52.6826842",
-                    "telefon": "+49 4271 3475",
-                    "fax": "+49 4271 6754",
+                    "distanz": "25.88536813323",
+                    "longitude": "8.7957161",
+                    "latitude": "52.6810922",
+                    "telefon": "+49 4271 2958",
+                    "fax": "+49 4271 4779",
                     "email": [],
-                    "startdatum": "13.09.2025",
+                    "startdatum": "14.09.2025",
                     "startzeit": "08:00",
-                    "enddatum": "14.09.2025",
+                    "enddatum": "15.09.2025",
                     "endzeit": "08:00"
                 },
                 {

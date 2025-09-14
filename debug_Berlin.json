@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 33
+            "anzahl": 38
         },
         "quota": {
-            "verwendet": "166017"
+            "verwendet": "192337"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,6 +5762,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Dorf-Apotheke",
+                    "kammer": "lakbb",
+                    "id": "446",
+                    "apo_id": "lakbb446",
+                    "strasse": "Dorfstraße 17",
+                    "plz": "16356",
+                    "ort": "Ahrensfelde",
+                    "distanz": "14.103945313390001",
+                    "longitude": "13.5740345",
+                    "latitude": "52.5746579",
+                    "telefon": "+49 30 93772171",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "14.09.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "15.09.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Nicolai-Apotheke",
                     "kammer": "akb",
                     "id": "100741",
@@ -5773,25 +5792,6 @@
                     "longitude": "13.1695774",
                     "latitude": "52.5180486",
                     "telefon": "+49 30 3612040",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "13.09.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "14.09.2025",
-                    "endzeit": "08:59"
-                },
-                {
-                    "name": "Stadt-Apotheke Köpenick",
-                    "kammer": "akb",
-                    "id": "100516",
-                    "apo_id": "akb100516",
-                    "strasse": "Grünstraße 24",
-                    "plz": "12555",
-                    "ort": "Berlin",
-                    "distanz": "14.95753774085",
-                    "longitude": "13.5747018",
-                    "latitude": "52.4449684",
-                    "telefon": "+49 30 6557463",
                     "fax": [],
                     "email": [],
                     "startdatum": "13.09.2025",
