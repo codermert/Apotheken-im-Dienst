@@ -201,7 +201,120 @@
       "mesafe": "15.0 km"
     }
   ],
-  "Nordrhein-Westfalen": [],
+  "Nordrhein-Westfalen": [
+    {
+      "eczaneAdi": "Heide-Apotheke",
+      "adres": "Heideweg 41, 44267 Dortmund",
+      "telefon": "+49 2304 8886",
+      "enlem": "51.44556",
+      "boylam": "7.52216",
+      "mesafe": "4.3 km"
+    },
+    {
+      "eczaneAdi": "Bären-Apotheke",
+      "adres": "Saarlandstr. 86, 44139 Dortmund",
+      "telefon": "0231/124747",
+      "enlem": "51.504798",
+      "boylam": "7.464545",
+      "mesafe": "6.9 km"
+    },
+    {
+      "eczaneAdi": "Kaiserau-Apotheke",
+      "adres": "Einsteinstr. 1, 59174 Kamen",
+      "telefon": "02307/30880",
+      "enlem": "51.5723666",
+      "boylam": "7.6098271",
+      "mesafe": "11.1 km"
+    },
+    {
+      "eczaneAdi": "Dorf-Apotheke",
+      "adres": "Rahmer Str. 6, 44369 Dortmund",
+      "telefon": "0231/312081",
+      "enlem": "51.5313025",
+      "boylam": "7.4149476",
+      "mesafe": "11.3 km"
+    },
+    {
+      "eczaneAdi": "Eckeseyer-Apotheke",
+      "adres": "Eckeseyer Str. 155, 58089 Hagen",
+      "telefon": "02331/27241",
+      "enlem": "51.3795197",
+      "boylam": "7.453439",
+      "mesafe": "13.1 km"
+    },
+    {
+      "eczaneAdi": "Schiller Apotheke im Kaufland",
+      "adres": "Raiffeisenstr. 5, 58638 Iserlohn",
+      "telefon": "02371/78870",
+      "enlem": "51.3837357",
+      "boylam": "7.6743767",
+      "mesafe": "13.5 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Lippepark",
+      "adres": "Dortmunder Straße 8, 44536 Lünen",
+      "telefon": "02306-7530070",
+      "enlem": "51.6131848",
+      "boylam": "7.5183708",
+      "mesafe": "15.1 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Ruhrtal Center",
+      "adres": "Carl-Bönnhoff-Str. 1, 58300 Wetter",
+      "telefon": "02335/802780",
+      "enlem": "51.3877645",
+      "boylam": "7.3863403",
+      "mesafe": "15.5 km"
+    },
+    {
+      "eczaneAdi": "naturzeit-Apotheke",
+      "adres": "Marktplatz Ickern 4, 44581 Castrop-Rauxel",
+      "telefon": "02305/5488390",
+      "enlem": "51.5918399",
+      "boylam": "7.3389128",
+      "mesafe": "19.5 km"
+    },
+    {
+      "eczaneAdi": "Rosenberg-Apotheke",
+      "adres": "Rosenbergstr. 92, 44805 Bochum",
+      "telefon": "0234/852597",
+      "enlem": "51.5034414",
+      "boylam": "7.2707794",
+      "mesafe": "19.9 km"
+    },
+    {
+      "eczaneAdi": "Flora-Apotheke an der Akademie",
+      "adres": "Mont-Cenis-Str. 267, 44627 Herne",
+      "telefon": "+49 2323 50595",
+      "enlem": "51.53966",
+      "boylam": "7.25564",
+      "mesafe": "21.8 km"
+    },
+    {
+      "eczaneAdi": "Ruhr-Apotheke",
+      "adres": "Hauptstr. 73, 58739 Wickede",
+      "telefon": "+49 2377 3700",
+      "enlem": "51.49342",
+      "boylam": "7.86848",
+      "mesafe": "21.9 km"
+    },
+    {
+      "eczaneAdi": "blaue apotheke Kortumstraße",
+      "adres": "Kortumstr. 103, 44787 Bochum",
+      "telefon": "0234/16220",
+      "enlem": "51.4833451",
+      "boylam": "7.2171316",
+      "mesafe": "23.4 km"
+    },
+    {
+      "eczaneAdi": "Gerstein-Apotheke",
+      "adres": "In der Eika 1, 59368 Werne",
+      "telefon": "02389/5060",
+      "enlem": "51.6726275",
+      "boylam": "7.6922458",
+      "mesafe": "23.6 km"
+    }
+  ],
   "Hamburg": [
     {
       "eczaneAdi": "Central-Apotheke",
@@ -342,40 +455,7 @@
   ],
   "Baden-Württemberg": [],
   "Bayern": [],
-  "Brandenburg": [
-    {
-      "eczaneAdi": "Ahorn-Apotheke Vehlefanz",
-      "adres": "Lindenallee 27, 16727 Oberkrämer",
-      "telefon": "+49 3304 203462",
-      "enlem": "52.71851",
-      "boylam": "13.09954",
-      "mesafe": "17.3 km"
-    },
-    {
-      "eczaneAdi": "Vita-Apotheke",
-      "adres": "Schönfließer Straße 7, 16540 Hohen Neuendorf",
-      "telefon": "+49 3303 503700",
-      "enlem": "52.67009",
-      "boylam": "13.28348",
-      "mesafe": "19.7 km"
-    },
-    {
-      "eczaneAdi": "Waldsee-Apotheke",
-      "adres": "Berliner Str. 41, 13467 Berlin",
-      "telefon": "+49 30 4041045",
-      "enlem": "52.6208859",
-      "boylam": "13.3137679",
-      "mesafe": "25.4 km"
-    },
-    {
-      "eczaneAdi": "Stadt-Apotheke Biesenthal",
-      "adres": "Am Markt 5, 16359 Biesenthal",
-      "telefon": "+49 3337 2054",
-      "enlem": "52.7656866",
-      "boylam": "13.6318984",
-      "mesafe": "27.5 km"
-    }
-  ],
+  "Brandenburg": [],
   "Bremen": [
     {
       "eczaneAdi": "Flora-Apotheke",
@@ -892,14 +972,6 @@
       "mesafe": "8.0 km"
     },
     {
-      "eczaneAdi": "Apotheke Neudietendorf",
-      "adres": "Kirchstr. 15, 99192 Neudietendorf",
-      "telefon": "+49 36202 90308",
-      "enlem": "50.9125362",
-      "boylam": "10.9126485",
-      "mesafe": "8.9 km"
-    },
-    {
       "eczaneAdi": "Apotheke am Zoopark",
       "adres": "Julius-Leber-Ring 5a, 99087 Erfurt",
       "telefon": "+49 361 7454736",
@@ -908,36 +980,44 @@
       "mesafe": "12.9 km"
     },
     {
-      "eczaneAdi": "Apotheke Remda",
-      "adres": "Remdaer Markt 3, 07407 Rudolstadt, OT Remda",
-      "telefon": "+49 36744 22223",
-      "enlem": "50.7589547",
-      "boylam": "11.2279641",
-      "mesafe": "20.8 km"
+      "eczaneAdi": "Sonnen-Apotheke",
+      "adres": "Markt 17/19, 99326 Stadtilm",
+      "telefon": "+49 3629 3483",
+      "enlem": "50.7749647",
+      "boylam": "11.0820167",
+      "mesafe": "14.4 km"
     },
     {
-      "eczaneAdi": "Apotheke am Klinikum",
-      "adres": "Henry-van-de-Velde-Str. 1/3, 99425 Weimar",
-      "telefon": "+49 3643 776260",
-      "enlem": "50.9615882",
-      "boylam": "11.3201475",
-      "mesafe": "20.9 km"
+      "eczaneAdi": "Atrium-Apotheke",
+      "adres": "Friedensstr. 1, 99423 Weimar",
+      "telefon": "+49 3643 908720",
+      "enlem": "50.98511",
+      "boylam": "11.32959",
+      "mesafe": "22.5 km"
     },
     {
-      "eczaneAdi": "St. Gotthard-Apotheke",
-      "adres": "Oststr. 51, 99867 Gotha",
-      "telefon": "+49 3621 403535",
-      "enlem": "50.9531466",
-      "boylam": "10.7139725",
-      "mesafe": "23.5 km"
+      "eczaneAdi": "Schloß-Apotheke",
+      "adres": "Marktstraße 4, 99885 Ohrdruf",
+      "telefon": "+49 3624 314670",
+      "enlem": "50.82722",
+      "boylam": "10.73471",
+      "mesafe": "22.9 km"
     },
     {
-      "eczaneAdi": "Waldmeister-Apotheke am Stollen",
-      "adres": "Bergrat-Mahr-Straße 3, 98693 Ilmenau",
-      "telefon": "+49 3677 7613860",
-      "enlem": "50.67833",
-      "boylam": "10.92196",
-      "mesafe": "26.1 km"
+      "eczaneAdi": "Goethe-Apotheke",
+      "adres": "Hauptmarkt 10, 99867 Gotha",
+      "telefon": "+49 3621 852717",
+      "enlem": "50.9485337",
+      "boylam": "10.7023121",
+      "mesafe": "24.2 km"
+    },
+    {
+      "eczaneAdi": "Stadt-Apotheke Langewiesen",
+      "adres": "Hauptstraße 22, 98693 Ilmenau, OT Langewiesen",
+      "telefon": "+49 3677 812831",
+      "enlem": "50.6731429",
+      "boylam": "10.9706474",
+      "mesafe": "25.8 km"
     }
   ]
 }
