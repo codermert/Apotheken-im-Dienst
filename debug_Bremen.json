@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 7
         },
         "quota": {
-            "verwendet": "437259"
+            "verwendet": "441915"
         },
         "apotheken": {
             "apotheke": [
@@ -1403,25 +1403,6 @@
                     "startzeit": "09:00",
                     "enddatum": "16.09.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Apotheke am famila",
-                    "kammer": "aknds",
-                    "id": "6801",
-                    "apo_id": "aknds6801",
-                    "strasse": "Markt 5",
-                    "plz": "27777",
-                    "ort": "Ganderkesee",
-                    "distanz": "15.77459148283",
-                    "longitude": "8.54525",
-                    "latitude": "53.03462",
-                    "telefon": "+49 4222 9473270",
-                    "fax": "+49 4222 9473271",
-                    "email": [],
-                    "startdatum": "15.09.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "15.09.2025",
-                    "endzeit": "20:00"
                 }
             ]
         }
