@@ -37,27 +37,46 @@
             "anzahl": 8
         },
         "quota": {
-            "verwendet": "163190"
+            "verwendet": "166284"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Altstadt-Apotheke",
+                    "name": "Römer-Apotheke",
                     "kammer": "lakt",
-                    "id": "535",
-                    "apo_id": "lakt535",
-                    "strasse": "Michaelisstraße 31",
+                    "id": "373",
+                    "apo_id": "lakt373",
+                    "strasse": "Bonemilchstraße 2",
                     "plz": "99084",
                     "ort": "Erfurt",
-                    "distanz": "8.79242367157",
-                    "longitude": "11.0268958",
-                    "latitude": "50.9802072",
-                    "telefon": "+49 361 2603433",
+                    "distanz": "7.92775100338",
+                    "longitude": "11.014578",
+                    "latitude": "50.9712098",
+                    "telefon": "+49 361 2219075",
                     "fax": [],
                     "email": [],
-                    "startdatum": "14.09.2025",
+                    "startdatum": "15.09.2025",
                     "startzeit": "09:00",
-                    "enddatum": "15.09.2025",
+                    "enddatum": "16.09.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Sonnen-Apotheke",
+                    "kammer": "lakt",
+                    "id": "3900",
+                    "apo_id": "lakt3900",
+                    "strasse": "Leipziger Straße 78",
+                    "plz": "99085",
+                    "ort": "Erfurt",
+                    "distanz": "9.71827647149",
+                    "longitude": "11.05341",
+                    "latitude": "50.98827",
+                    "telefon": "+49 361 6020493",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "15.09.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "16.09.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "16.09.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Nord-Apotheke",
-                    "kammer": "lakt",
-                    "id": "10",
-                    "apo_id": "lakt10",
-                    "strasse": "Moskauer Platz 14",
-                    "plz": "99091",
-                    "ort": "Erfurt",
-                    "distanz": "12.169224268879999",
-                    "longitude": "11.000043",
-                    "latitude": "51.008232",
-                    "telefon": "+49 361 7913116",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "14.09.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "15.09.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Schloss-Apotheke",
