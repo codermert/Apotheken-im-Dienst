@@ -861,9 +861,196 @@
       "mesafe": "42.8 km"
     }
   ],
-  "Saarland": [],
-  "Sachsen": [],
-  "Sachsen-Anhalt": [],
+  "Saarland": [
+    {
+      "eczaneAdi": "Schützen-Apotheke",
+      "adres": "Saarbrücker Straße 15, 66822 Lebach",
+      "telefon": "06881/2233",
+      "enlem": "49.4074877",
+      "boylam": "6.9130395",
+      "mesafe": "3.9 km"
+    },
+    {
+      "eczaneAdi": "Husaren-Apotheke",
+      "adres": "Zeppelinstraße 27, 66557 Illingen-Uchtelfangen",
+      "telefon": "06825/404790",
+      "enlem": "49.36207",
+      "boylam": "7.01663",
+      "mesafe": "5.2 km"
+    },
+    {
+      "eczaneAdi": "Mauritius-Apotheke",
+      "adres": "Tholeyer Str. 27, 66649 Marpingen-Alsweiler",
+      "telefon": "06853/922040",
+      "enlem": "49.47188",
+      "boylam": "7.07045",
+      "mesafe": "12.9 km"
+    },
+    {
+      "eczaneAdi": "Steinrausch-Apotheke",
+      "adres": "Berliner Allee 32, 66740 Saarlouis-Steinrausch",
+      "telefon": "+49 6831 87197",
+      "enlem": "49.3349",
+      "boylam": "6.77192",
+      "mesafe": "14.3 km"
+    },
+    {
+      "eczaneAdi": "Ingobertus-Apotheke",
+      "adres": "Poststraße 26, 66386 St. Ingbert",
+      "telefon": "+49 6894 92680",
+      "enlem": "49.2792231",
+      "boylam": "7.1146086",
+      "mesafe": "16.5 km"
+    },
+    {
+      "eczaneAdi": "Pasteur-Apotheke",
+      "adres": "Hebbelstraße  2, 66538 Neunkirchen",
+      "telefon": "06821/22040",
+      "enlem": "49.347908",
+      "boylam": "7.1756874",
+      "mesafe": "16.6 km"
+    },
+    {
+      "eczaneAdi": "Primstal-Apotheke",
+      "adres": "Hauptstr. 45, 66620 Nonnweiler-Primstal",
+      "telefon": "06875/688",
+      "enlem": "49.5342322",
+      "boylam": "6.9762487",
+      "mesafe": "16.8 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Globus Güdingen",
+      "adres": "Wolfsau 4, 66130 Saarbrücken-Güdingen",
+      "telefon": "0681/874191",
+      "enlem": "49.20958",
+      "boylam": "7.02703",
+      "mesafe": "20.1 km"
+    },
+    {
+      "eczaneAdi": "St. Barbara-Apotheke",
+      "adres": "Ludweilerstraße 16a, 66352 Großrosseln",
+      "telefon": "06898/448550",
+      "enlem": "49.2067718",
+      "boylam": "6.8388183",
+      "mesafe": "21.4 km"
+    },
+    {
+      "eczaneAdi": "St. Oranna-Apotheke",
+      "adres": "Hauptstraße 45, 66802 Überherrn",
+      "telefon": "06836/2995",
+      "enlem": "49.24544",
+      "boylam": "6.69733",
+      "mesafe": "24.2 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Gesundheitscampus",
+      "adres": "Trierer Straße  215-217, 66663 Merzig",
+      "telefon": "+49 6861 9391890",
+      "enlem": "49.45464",
+      "boylam": "6.63218",
+      "mesafe": "24.6 km"
+    }
+  ],
+  "Sachsen": [
+    {
+      "eczaneAdi": "Berg-Apotheke",
+      "adres": "Markt 8, 09618 Brand-Erbisdorf",
+      "telefon": "+49 37322 2227",
+      "enlem": "50.86966",
+      "boylam": "13.32263",
+      "mesafe": "11.7 km"
+    },
+    {
+      "eczaneAdi": "Stern-Apotheke",
+      "adres": "Glück-Auf-Straße 3, 01705 Freital",
+      "telefon": "+49 351 6502906",
+      "enlem": "51.01506",
+      "boylam": "13.63657",
+      "mesafe": "15.7 km"
+    },
+    {
+      "eczaneAdi": "Neue Apotheke Friedrichstadt",
+      "adres": "Friedrichstraße 38, 01067 Dresden",
+      "telefon": "+49 351 8212337",
+      "enlem": "51.0589891",
+      "boylam": "13.7215398",
+      "mesafe": "23.4 km"
+    },
+    {
+      "eczaneAdi": "Bethesda-Apotheke",
+      "adres": "Borstraße 30, 01445 Radebeul",
+      "telefon": "+49 351 8362378",
+      "enlem": "51.10725",
+      "boylam": "13.65029",
+      "mesafe": "23.9 km"
+    },
+    {
+      "eczaneAdi": "Stadt-Apotheke",
+      "adres": "Dresdner Straße 5, 09619 Sayda",
+      "telefon": "+49 37365 1288",
+      "enlem": "50.71339",
+      "boylam": "13.41813",
+      "mesafe": "24.2 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Ärztehaus Mickten",
+      "adres": "Wurzener Straße 5, 01127 Dresden",
+      "telefon": "+49 351 8522303",
+      "enlem": "51.0812131",
+      "boylam": "13.7218309",
+      "mesafe": "25.0 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Gruna",
+      "adres": "Papstdorfer Straße 49, 01277 Dresden",
+      "telefon": "+49 351 2501195",
+      "enlem": "51.0326336",
+      "boylam": "13.7866651",
+      "mesafe": "25.7 km"
+    }
+  ],
+  "Sachsen-Anhalt": [
+    {
+      "eczaneAdi": "Schloß-Apotheke",
+      "adres": "Schloßstr. 93, 39240 Calbe",
+      "telefon": "+49 39291 2691",
+      "enlem": "51.9058541",
+      "boylam": "11.7778796",
+      "mesafe": "12.6 km"
+    },
+    {
+      "eczaneAdi": "Paracelsus Apotheke",
+      "adres": "Halberstädter Straße 182, 39112 Magdeburg",
+      "telefon": "+49 391 6209155",
+      "enlem": "52.10679",
+      "boylam": "11.59215",
+      "mesafe": "13.2 km"
+    },
+    {
+      "eczaneAdi": "RegenbogenApotheke",
+      "adres": "Johannes-Göderitz-Straße 125, 39130 Magdeburg",
+      "telefon": "+49 391 7219593",
+      "enlem": "52.1511",
+      "boylam": "11.5872",
+      "mesafe": "17.6 km"
+    },
+    {
+      "eczaneAdi": "Moritz-Apotheke",
+      "adres": "Schnarsleber Str. 11, 39167 Niederndodeleben",
+      "telefon": "+49 39204 82427",
+      "enlem": "52.1366",
+      "boylam": "11.50095",
+      "mesafe": "19.7 km"
+    },
+    {
+      "eczaneAdi": "Saale-Apotheke",
+      "adres": "Franz-Hallström-Str. 6, 06429 Nienburg",
+      "telefon": "+49 34721 30870",
+      "enlem": "51.8362909",
+      "boylam": "11.7689568",
+      "mesafe": "19.8 km"
+    }
+  ],
   "Schleswig-Holstein": [
     {
       "eczaneAdi": "Hansa-Apotheke",
