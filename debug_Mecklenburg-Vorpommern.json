@@ -12,7 +12,7 @@
             "lat": "",
             "lng": "",
             "plzort": "Mecklenburg-Vorpommern",
-            "radius": "25",
+            "radius": 45,
             "street": ""
         },
         "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
@@ -21,17 +21,17 @@
         "parameter": {
             "plzort": "Mecklenburg-Vorpommern",
             "strasse": [],
-            "radius": "25.0",
+            "radius": "45.0",
             "longitude": "12.5755471",
             "latitude": "53.773506399999995",
             "limit": [],
             "datum": []
         },
         "statistik": {
-            "anzahl": 4
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "566898"
+            "verwendet": "568612"
         },
         "apotheken": {
             "apotheke": [
@@ -55,44 +55,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Hubertus-Apotheke",
-                    "kammer": "akmv",
-                    "id": "172433",
-                    "apo_id": "akmv172433",
-                    "strasse": "Friedensstr. 29",
-                    "plz": "17179",
-                    "ort": "Gnoien",
-                    "distanz": "23.52636928311",
-                    "longitude": "12.7102512",
-                    "latitude": "53.9693156",
-                    "telefon": "+49 39971 1830",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "16.09.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "16.09.2025",
-                    "endzeit": "20:00"
-                },
-                {
-                    "name": "Fritz-Reuter-Apotheke",
-                    "kammer": "akmv",
-                    "id": "171872",
-                    "apo_id": "akmv171872",
-                    "strasse": "Am Markt 16",
-                    "plz": "17153",
-                    "ort": "Reuterstadt Stavenhagen",
-                    "distanz": "23.617059265250003",
-                    "longitude": "12.9085263",
-                    "latitude": "53.6957432",
-                    "telefon": "+49 39954 21082",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "16.09.2025",
-                    "startzeit": "18:00",
-                    "enddatum": "16.09.2025",
-                    "endzeit": "20:00"
-                },
-                {
                     "name": "Rats-Apotheke",
                     "kammer": "akmv",
                     "id": "172841",
@@ -104,6 +66,63 @@
                     "longitude": "12.1760016",
                     "latitude": "53.7928243",
                     "telefon": "+49 3843 682030",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "16.09.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "17.09.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "da Vinci-Apotheke am Bahnhof",
+                    "kammer": "akmv",
+                    "id": "178638",
+                    "apo_id": "akmv178638",
+                    "strasse": "Beethovenstr. 1",
+                    "plz": "17192",
+                    "ort": "Waren",
+                    "distanz": "29.05916231779",
+                    "longitude": "12.6826483",
+                    "latitude": "53.5202876",
+                    "telefon": "+49 3991 631384",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "16.09.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "17.09.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Löwen-Apotheke",
+                    "kammer": "akmv",
+                    "id": "173657",
+                    "apo_id": "akmv173657",
+                    "strasse": "Mühlenstraße 30",
+                    "plz": "17109",
+                    "ort": "Demmin",
+                    "distanz": "34.01695212935",
+                    "longitude": "13.04078",
+                    "latitude": "53.90655",
+                    "telefon": "+49 3998 223152",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "16.09.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "17.09.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke Holzhalbinsel",
+                    "kammer": "akmv",
+                    "id": "178825",
+                    "apo_id": "akmv178825",
+                    "strasse": "Gaffelschonerweg 14",
+                    "plz": "18055",
+                    "ort": "Rostock",
+                    "distanz": "45.27111519174",
+                    "longitude": "12.1504161",
+                    "latitude": "54.0936615",
+                    "telefon": "+49 381 44436590",
                     "fax": [],
                     "email": [],
                     "startdatum": "16.09.2025",
