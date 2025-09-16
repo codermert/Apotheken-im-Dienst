@@ -3194,7 +3194,7 @@
             "anzahl": 17
         },
         "quota": {
-            "verwendet": "155034"
+            "verwendet": "167427"
         },
         "apotheken": {
             "apotheke": [
@@ -3389,6 +3389,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Niedersachsen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1419",
+                    "apo_id": "aknds1419",
+                    "strasse": "Kürbsweg 8",
+                    "plz": "21217",
+                    "ort": "Seevetal",
+                    "distanz": "14.39666943502",
+                    "longitude": "10.0228494",
+                    "latitude": "53.4216647",
+                    "telefon": "+49 40 7686722",
+                    "fax": "+49 40 7685173",
+                    "email": [],
+                    "startdatum": "16.09.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "17.09.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Bach Apotheke",
                     "kammer": "aksh",
                     "id": "10794",
@@ -3463,25 +3482,6 @@
                     "startzeit": "08:00",
                     "enddatum": "17.09.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Sonnen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1512",
-                    "apo_id": "aknds1512",
-                    "strasse": "Bahnhofstr. 34",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "25.32874904419",
-                    "longitude": "10.2060682",
-                    "latitude": "53.3586093",
-                    "telefon": "+49 4171 3611",
-                    "fax": "+49 4171 653650",
-                    "email": [],
-                    "startdatum": "15.09.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "16.09.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Sonnen-Apotheke",
