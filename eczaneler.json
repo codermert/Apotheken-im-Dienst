@@ -309,7 +309,80 @@
   ],
   "Hamburg": [],
   "Baden-Württemberg": [],
-  "Bayern": [],
+  "Bayern": [
+    {
+      "eczaneAdi": "Liebig-Apotheke",
+      "adres": "Gaimersheimer Str. 51 A, 85057 Ingolstadt",
+      "telefon": "+49 841 81943",
+      "enlem": "48.77681",
+      "boylam": "11.40636",
+      "mesafe": "18.9 km"
+    },
+    {
+      "eczaneAdi": "Jura-Apotheke",
+      "adres": "Marktplatz 9, 91790 Nennslingen",
+      "telefon": "+49 9147 94940",
+      "enlem": "49.0467815",
+      "boylam": "11.1317175",
+      "mesafe": "22.8 km"
+    },
+    {
+      "eczaneAdi": "Donau-Apotheke",
+      "adres": "Neuhofstr. 243, 86633 Neuburg a. d. Donau",
+      "telefon": "+49 8431 9696",
+      "enlem": "48.7331",
+      "boylam": "11.18465",
+      "mesafe": "28.7 km"
+    },
+    {
+      "eczaneAdi": "Arbor Apotheke",
+      "adres": "Riedenburger Str. 4, 93155 Hemau",
+      "telefon": "+49 9491 9523820",
+      "enlem": "49.0513895",
+      "boylam": "11.7820114",
+      "mesafe": "30.0 km"
+    },
+    {
+      "eczaneAdi": "Einhorn-Apotheke",
+      "adres": "Rosenstr. 3, 91781 Weißenburg",
+      "telefon": "+49 9141 2307",
+      "enlem": "49.0312463",
+      "boylam": "10.9713222",
+      "mesafe": "33.0 km"
+    },
+    {
+      "eczaneAdi": "Acuna-Apotheke",
+      "adres": "Gartenstr. 81b, 91154 Roth",
+      "telefon": "+49 9171 851777",
+      "enlem": "49.2437533",
+      "boylam": "11.104315",
+      "mesafe": "39.6 km"
+    },
+    {
+      "eczaneAdi": "Schloss-Apotheke",
+      "adres": "Centrum 16, 92353 Postbauer-Heng",
+      "telefon": "+49 9188 680",
+      "enlem": "49.304622",
+      "boylam": "11.3513153",
+      "mesafe": "40.0 km"
+    },
+    {
+      "eczaneAdi": "Schyren-Apotheke",
+      "adres": "Adolf-Rebl-Str. 40, 85276 Pfaffenhofen a.d.Ilm",
+      "telefon": "+49 8441 408460",
+      "enlem": "48.5221782",
+      "boylam": "11.4957675",
+      "mesafe": "47.7 km"
+    },
+    {
+      "eczaneAdi": "Burg-Apotheke",
+      "adres": "Gutenbergring 1, 93077 Bad Abbach",
+      "telefon": "+49 9405 2244",
+      "enlem": "48.9360991",
+      "boylam": "12.0559176",
+      "mesafe": "47.8 km"
+    }
+  ],
   "Brandenburg": [
     {
       "eczaneAdi": "Friedrich-Wolf-Apotheke",
@@ -627,130 +700,7 @@
   "Rheinland-Pfalz": [],
   "Saarland": [],
   "Sachsen": [],
-  "Sachsen-Anhalt": [
-    {
-      "eczaneAdi": "Sonnen-Apotheke",
-      "adres": "Lessingstr. 54, 39218 Schönebeck",
-      "telefon": "+49 3928 65490",
-      "enlem": "52.0180857",
-      "boylam": "11.7206985",
-      "mesafe": "1.7 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Theater",
-      "adres": "Breiter Weg 40, 39104 Magdeburg",
-      "telefon": "+49 391 5419670",
-      "enlem": "52.13672",
-      "boylam": "11.63985",
-      "mesafe": "14.8 km"
-    },
-    {
-      "eczaneAdi": "maxxipharm Apotheke",
-      "adres": "Große Diesdorfer Str. 209, 39108 Magdeburg",
-      "telefon": "+49 391 50660210",
-      "enlem": "52.12966",
-      "boylam": "11.60686",
-      "mesafe": "14.9 km"
-    },
-    {
-      "eczaneAdi": "Zentral-Apotheke",
-      "adres": "Hohenerxlebener Str.101, 39418 Staßfurt",
-      "telefon": "+49 3925 324102",
-      "enlem": "51.8510437",
-      "boylam": "11.5897823",
-      "mesafe": "19.1 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Westeregeln",
-      "adres": "Thälmannstr. 49, 39448 Börde-Hakel",
-      "telefon": "+49 39268 398151",
-      "enlem": "51.9630967",
-      "boylam": "11.3873648",
-      "mesafe": "22.1 km"
-    }
-  ],
-  "Schleswig-Holstein": [
-    {
-      "eczaneAdi": "Parkcenter-Einhorn-Apotheke",
-      "adres": "Christianstr. 20, 24534 Neumünster",
-      "telefon": "+49 4321 94990",
-      "enlem": "54.07579",
-      "boylam": "9.9864",
-      "mesafe": "16.3 km"
-    },
-    {
-      "eczaneAdi": "Garnison-Apotheke",
-      "adres": "Paradeplatz 8, 24768 Rendsburg",
-      "telefon": "04331-22454",
-      "enlem": "54.2995294",
-      "boylam": "9.6643971",
-      "mesafe": "16.3 km"
-    },
-    {
-      "eczaneAdi": "Gaardener Apotheke",
-      "adres": "Karlstal 33, 24143 Kiel",
-      "telefon": "0431-732252",
-      "enlem": "54.3105835",
-      "boylam": "10.1458155",
-      "mesafe": "25.3 km"
-    },
-    {
-      "eczaneAdi": "Lornsen-Apotheke",
-      "adres": "Holtenauer Str. 80, 24105 Kiel",
-      "telefon": "0431-565494",
-      "enlem": "54.3333077",
-      "boylam": "10.133133",
-      "mesafe": "26.1 km"
-    }
-  ],
-  "Thüringen": [
-    {
-      "eczaneAdi": "Hufeland-Apotheke",
-      "adres": "Blücherstraße 6, 99099 Erfurt",
-      "telefon": "+49 361 412000",
-      "enlem": "50.957429",
-      "boylam": "11.062293",
-      "mesafe": "6.5 km"
-    },
-    {
-      "eczaneAdi": "Apollo-Apotheke Süd",
-      "adres": "Geibelstraße 20 b, 99096 Erfurt",
-      "telefon": "+49 361 7436860",
-      "enlem": "50.9615802",
-      "boylam": "11.0254131",
-      "mesafe": "6.7 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Markt",
-      "adres": "Markt 10, 99326 Stadtilm",
-      "telefon": "+49 3629 800008",
-      "enlem": "50.77471",
-      "boylam": "11.08135",
-      "mesafe": "14.4 km"
-    },
-    {
-      "eczaneAdi": "easyApotheke Weimar",
-      "adres": "Damaschkestraße 1a, 99425 Weimar",
-      "telefon": "+49 3643 7787558",
-      "enlem": "50.9795249",
-      "boylam": "11.3075441",
-      "mesafe": "20.9 km"
-    },
-    {
-      "eczaneAdi": "Linden-Apotheke",
-      "adres": "Liebetraustraße 1, 99867 Gotha",
-      "telefon": "+49 3621 705841",
-      "enlem": "50.9466558",
-      "boylam": "10.6961431",
-      "mesafe": "24.5 km"
-    },
-    {
-      "eczaneAdi": "Schloss-Apotheke",
-      "adres": "Lange Straße 64a, 99189 Gebesee",
-      "telefon": "+49 36201 580985",
-      "enlem": "51.1163",
-      "boylam": "10.93321",
-      "mesafe": "25.0 km"
-    }
-  ]
+  "Sachsen-Anhalt": [],
+  "Schleswig-Holstein": [],
+  "Thüringen": []
 }
