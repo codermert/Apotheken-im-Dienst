@@ -12,7 +12,7 @@
             "lat": "",
             "lng": "",
             "plzort": "Niedersachsen",
-            "radius": 45,
+            "radius": 65,
             "street": ""
         },
         "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
@@ -21,17 +21,17 @@
         "parameter": {
             "plzort": "Niedersachsen",
             "strasse": [],
-            "radius": "45.0",
+            "radius": "65.0",
             "longitude": "9.075961999999999",
             "latitude": "52.8398531",
             "limit": [],
             "datum": []
         },
         "statistik": {
-            "anzahl": 13
+            "anzahl": 15
         },
         "quota": {
-            "verwendet": "147261"
+            "verwendet": "148680"
         },
         "apotheken": {
             "apotheke": [
@@ -281,6 +281,44 @@
                     "startzeit": "09:00",
                     "enddatum": "18.09.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Apotheke Bokeloh",
+                    "kammer": "aknds",
+                    "id": "1100",
+                    "apo_id": "aknds1100",
+                    "strasse": "Steigerstr. 19",
+                    "plz": "31515",
+                    "ort": "Wunstorf",
+                    "distanz": "51.10658894721",
+                    "longitude": "9.3816241",
+                    "latitude": "52.4199318",
+                    "telefon": "+49 5031 12233",
+                    "fax": "+49 5031 12235",
+                    "email": [],
+                    "startdatum": "17.09.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "18.09.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Rats-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1527",
+                    "apo_id": "aknds1527",
+                    "strasse": "Lange Str. 12",
+                    "plz": "27404",
+                    "ort": "Zeven",
+                    "distanz": "52.33563080038",
+                    "longitude": "9.278283",
+                    "latitude": "53.294063",
+                    "telefon": "+49 4281 3068",
+                    "fax": "+49 4281 4185",
+                    "email": [],
+                    "startdatum": "17.09.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "18.09.2025",
+                    "endzeit": "08:30"
                 }
             ]
         }
