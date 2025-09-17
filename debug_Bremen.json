@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "31963"
+            "verwendet": "33412"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,22 +1310,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Anker Apotheke",
+                    "name": "West-Apotheke",
                     "kammer": "aknds",
-                    "id": "1664",
-                    "apo_id": "aknds1664",
-                    "strasse": "Mühlenstr. 31",
+                    "id": "1680",
+                    "apo_id": "aknds1680",
+                    "strasse": "Oldenburger Str. 79",
                     "plz": "27753",
                     "ort": "Delmenhorst",
-                    "distanz": "11.03481046511",
-                    "longitude": "8.6236758",
-                    "latitude": "53.0549856",
-                    "telefon": "+49 4221 14489",
-                    "fax": "+49 4221 14907",
+                    "distanz": "12.10518761083",
+                    "longitude": "8.6071553",
+                    "latitude": "53.0492285",
+                    "telefon": "+49 4221 987098",
+                    "fax": "+49 4221 987096",
                     "email": [],
-                    "startdatum": "16.09.2025",
+                    "startdatum": "17.09.2025",
                     "startzeit": "08:30",
-                    "enddatum": "17.09.2025",
+                    "enddatum": "18.09.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -1367,6 +1367,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Flores-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1817",
+                    "apo_id": "aknds1817",
+                    "strasse": "Parkstr. 47",
+                    "plz": "27798",
+                    "ort": "Hude",
+                    "distanz": "16.22079185705",
+                    "longitude": "8.4566718",
+                    "latitude": "53.1132591",
+                    "telefon": "+49 4408 6363",
+                    "fax": "+49 4408 970631",
+                    "email": [],
+                    "startdatum": "17.09.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "17.09.2025",
+                    "endzeit": "20:00"
+                },
+                {
                     "name": "Linden-Apotheke",
                     "kammer": "aknds",
                     "id": "1053",
@@ -1403,6 +1422,25 @@
                     "startzeit": "09:00",
                     "enddatum": "17.09.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Kranich Apotheke",
+                    "kammer": "aknds",
+                    "id": "1265",
+                    "apo_id": "aknds1265",
+                    "strasse": "Amtsdamm 39",
+                    "plz": "27628",
+                    "ort": "Hagen im Bremischen",
+                    "distanz": "23.681015648789998",
+                    "longitude": "8.6430292",
+                    "latitude": "53.3555124",
+                    "telefon": "+49 4746 951060",
+                    "fax": "+49 4746 951061",
+                    "email": [],
+                    "startdatum": "17.09.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "18.09.2025",
+                    "endzeit": "08:30"
                 }
             ]
         }
