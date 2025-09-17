@@ -12,7 +12,7 @@
             "lat": "",
             "lng": "",
             "plzort": "Mecklenburg-Vorpommern",
-            "radius": 65,
+            "radius": 45,
             "street": ""
         },
         "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
@@ -21,17 +21,17 @@
         "parameter": {
             "plzort": "Mecklenburg-Vorpommern",
             "strasse": [],
-            "radius": "65.0",
+            "radius": "45.0",
             "longitude": "12.5755471",
             "latitude": "53.773506399999995",
             "limit": [],
             "datum": []
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "42439"
+            "verwendet": "43968"
         },
         "apotheken": {
             "apotheke": [
@@ -123,63 +123,6 @@
                     "longitude": "12.1415008",
                     "latitude": "54.082507",
                     "telefon": "+49 381 4923424",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "17.09.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "18.09.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Markt-Apotheke",
-                    "kammer": "akmv",
-                    "id": "171566",
-                    "apo_id": "akmv171566",
-                    "strasse": "Am Markt 8",
-                    "plz": "18461",
-                    "ort": "Richtenberg",
-                    "distanz": "51.745254291420004",
-                    "longitude": "12.8859369",
-                    "latitude": "54.2009046",
-                    "telefon": "+49 38322 235",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "17.09.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "18.09.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Linden-Apotheke",
-                    "kammer": "akmv",
-                    "id": "175068",
-                    "apo_id": "akmv175068",
-                    "strasse": "Ziegelbergstr.15",
-                    "plz": "17033",
-                    "ort": "Neubrandenburg",
-                    "distanz": "52.08465252738",
-                    "longitude": "13.27273",
-                    "latitude": "53.55545",
-                    "telefon": "+49 395 5442581",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "17.09.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "18.09.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Apotheke Groß Klein",
-                    "kammer": "akmv",
-                    "id": "175833",
-                    "apo_id": "akmv175833",
-                    "strasse": "Schiffbauerring 19",
-                    "plz": "18109",
-                    "ort": "Rostock",
-                    "distanz": "53.10667021695",
-                    "longitude": "12.0727",
-                    "latitude": "54.1473",
-                    "telefon": "+49 381 1209942",
                     "fax": [],
                     "email": [],
                     "startdatum": "17.09.2025",
