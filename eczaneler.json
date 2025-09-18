@@ -669,14 +669,6 @@
       "mesafe": "13.8 km"
     },
     {
-      "eczaneAdi": "Ring-Apotheke",
-      "adres": "Ring 26, 27777 Ganderkesee",
-      "telefon": "+49 4222 950288",
-      "enlem": "53.03225",
-      "boylam": "8.5473054",
-      "mesafe": "15.9 km"
-    },
-    {
       "eczaneAdi": "Gänse-Apotheke",
       "adres": "Hauptstr. 52 a, 28816 Stuhr",
       "telefon": "+49 421 8099636",
@@ -761,28 +753,44 @@
       "mesafe": "0.7 km"
     },
     {
-      "eczaneAdi": "Apotheke zum Klostersee",
-      "adres": "Schloßstr. 60, 17159 Dargun",
-      "telefon": "+49 39959 20372",
-      "enlem": "53.8972319",
-      "boylam": "12.8547925",
-      "mesafe": "23.0 km"
-    },
-    {
-      "eczaneAdi": "Fritz-Reuter-Apotheke",
-      "adres": "Am Markt 16, 17153 Reuterstadt Stavenhagen",
-      "telefon": "+49 39954 21082",
-      "enlem": "53.6957432",
-      "boylam": "12.9085263",
-      "mesafe": "23.6 km"
-    },
-    {
       "eczaneAdi": "Schloss-Apotheke",
       "adres": "Mühlenstr. 1, 18273 Güstrow",
       "telefon": "+49 3843 682307",
       "enlem": "53.7938495",
       "boylam": "12.1770443",
       "mesafe": "26.4 km"
+    },
+    {
+      "eczaneAdi": "Löwen-Apotheke",
+      "adres": "Neuer Markt 21, 17192 Waren",
+      "telefon": "+49 3991 666153",
+      "enlem": "53.5145093",
+      "boylam": "12.6887047",
+      "mesafe": "29.8 km"
+    },
+    {
+      "eczaneAdi": "Löwen-Apotheke",
+      "adres": "Mühlenstraße 30, 17109 Demmin",
+      "telefon": "+49 3998 223152",
+      "enlem": "53.90655",
+      "boylam": "13.04078",
+      "mesafe": "34.0 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Ärztehaus Dierkow",
+      "adres": "Hannes-Meyer-Platz 7, 18146 Rostock",
+      "telefon": "+49 381 697100",
+      "enlem": "54.1033794",
+      "boylam": "12.1664276",
+      "mesafe": "45.5 km"
+    },
+    {
+      "eczaneAdi": "Hansa-Apotheke Schröder und Weiß oHG",
+      "adres": "Parkstraße 58, 18057 Rostock",
+      "telefon": "+49 381 2003497",
+      "enlem": "54.0844534",
+      "boylam": "12.1131492",
+      "mesafe": "46.0 km"
     }
   ],
   "Niedersachsen": [
@@ -827,7 +835,64 @@
       "mesafe": "27.1 km"
     }
   ],
-  "Rheinland-Pfalz": [],
+  "Rheinland-Pfalz": [
+    {
+      "eczaneAdi": "Hirsch-Apotheke",
+      "adres": "Brückenstr. 23, 56841 Traben-Trarbach",
+      "telefon": "+49 6541 9356",
+      "enlem": "49.9481977",
+      "boylam": "7.114247",
+      "mesafe": "14.1 km"
+    },
+    {
+      "eczaneAdi": "Achat-Apotheke Tiefenstein",
+      "adres": "Tiefensteiner Str. 286, 55743 Idar-Oberstein",
+      "telefon": "+49 6781 5099030",
+      "enlem": "49.7451342",
+      "boylam": "7.276537",
+      "mesafe": "23.3 km"
+    },
+    {
+      "eczaneAdi": "Ägidius-Apotheke",
+      "adres": "Binger Straße 3, 56154 Boppard",
+      "telefon": "+49 6742 60065",
+      "enlem": "50.2056418",
+      "boylam": "7.6335156",
+      "mesafe": "36.4 km"
+    },
+    {
+      "eczaneAdi": "Löwen-Apotheke",
+      "adres": "Mannheimer Str. 35, 55545 Bad Kreuznach",
+      "telefon": "+49 671 28879",
+      "enlem": "49.8465235",
+      "boylam": "7.8558751",
+      "mesafe": "40.9 km"
+    },
+    {
+      "eczaneAdi": "Marien-Apotheke Dr. Schlags",
+      "adres": "Hauptstr. 6, 56299 Ochtendung",
+      "telefon": "+49 2625 7300",
+      "enlem": "50.3490895",
+      "boylam": "7.3897924",
+      "mesafe": "44.4 km"
+    },
+    {
+      "eczaneAdi": "Rheingau Apotheke",
+      "adres": "Winkeler Str. 68, 65366 Geisenheim",
+      "telefon": "+49 6722 8119",
+      "enlem": "49.9855233",
+      "boylam": "7.9700231",
+      "mesafe": "47.4 km"
+    },
+    {
+      "eczaneAdi": "Apotheke in der Goldgrube",
+      "adres": "Lindenstr. 28, 56073 Koblenz",
+      "telefon": "+49 261 41456",
+      "enlem": "50.3542261",
+      "boylam": "7.583066",
+      "mesafe": "48.7 km"
+    }
+  ],
   "Saarland": [
     {
       "eczaneAdi": "St. Michael-Apotheke",
