@@ -1173,5 +1173,54 @@
       "mesafe": "27.1 km"
     }
   ],
-  "Thüringen": []
+  "Thüringen": [
+    {
+      "eczaneAdi": "Pluspunkt-Apotheke im Anger 1",
+      "adres": "Anger 1, 99084 Erfurt",
+      "telefon": "+49 361 2621666",
+      "enlem": "50.9777519",
+      "boylam": "11.0366094",
+      "mesafe": "8.5 km"
+    },
+    {
+      "eczaneAdi": "Linderbach-Apotheke",
+      "adres": "Weimarische Str. 117, 99098 Erfurt-Linderbach",
+      "telefon": "+49 361 6539150",
+      "enlem": "50.9760061",
+      "boylam": "11.1057169",
+      "mesafe": "9.6 km"
+    },
+    {
+      "eczaneAdi": "Stadt-Apotheke",
+      "adres": "Turnvater-Jahn-Straße 4, 99310 Arnstadt",
+      "telefon": "+49 3628 585840",
+      "enlem": "50.8354836",
+      "boylam": "10.9456407",
+      "mesafe": "9.8 km"
+    },
+    {
+      "eczaneAdi": "Liszt-Apotheke",
+      "adres": "Lisztstr. 1, 99423 Weimar",
+      "telefon": "+49 3643 53111",
+      "enlem": "50.9810788",
+      "boylam": "11.3236855",
+      "mesafe": "22.0 km"
+    },
+    {
+      "eczaneAdi": "Apotheke an der Orangerie",
+      "adres": "Helenenstr. 10, 99867 Gotha",
+      "telefon": "+49 3621 403730",
+      "enlem": "50.9464353",
+      "boylam": "10.713515",
+      "mesafe": "23.3 km"
+    },
+    {
+      "eczaneAdi": "Waldmeister-Apotheke Apothekerin Anja Fischer e.Kfr.",
+      "adres": "Prof.-Schmidt-Straße 27, 98693 Ilmenau",
+      "telefon": "+49 3677 63104",
+      "enlem": "50.6870679",
+      "boylam": "10.919635",
+      "mesafe": "25.3 km"
+    }
+  ]
 }
