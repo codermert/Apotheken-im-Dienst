@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 7
         },
         "quota": {
-            "verwendet": "29210"
+            "verwendet": "29967"
         },
         "apotheken": {
             "apotheke": [
@@ -129,6 +129,25 @@
                     "startzeit": "08:30",
                     "enddatum": "19.09.2025",
                     "endzeit": "08:30"
+                },
+                {
+                    "name": "Rheingau Apotheke",
+                    "kammer": "lakh",
+                    "id": "613",
+                    "apo_id": "lakh613",
+                    "strasse": "Winkeler Str. 68",
+                    "plz": "65366",
+                    "ort": "Geisenheim",
+                    "distanz": "47.44120485206",
+                    "longitude": "7.9700231",
+                    "latitude": "49.9855233",
+                    "telefon": "+49 6722 8119",
+                    "fax": "+49 6722 8159",
+                    "email": [],
+                    "startdatum": "18.09.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.09.2025",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Apotheke in der Goldgrube",
