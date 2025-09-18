@@ -12,7 +12,7 @@
             "lat": "",
             "lng": "",
             "plzort": "Bayern",
-            "radius": 45,
+            "radius": 65,
             "street": ""
         },
         "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
@@ -21,17 +21,17 @@
         "parameter": {
             "plzort": "Bayern",
             "strasse": [],
-            "radius": "45.0",
+            "radius": "65.0",
             "longitude": "11.4038717",
             "latitude": "48.946756199999996",
             "limit": [],
             "datum": []
         },
         "statistik": {
-            "anzahl": 12
+            "anzahl": 13
         },
         "quota": {
-            "verwendet": "24616"
+            "verwendet": "25134"
         },
         "apotheken": {
             "apotheke": [
@@ -257,6 +257,25 @@
                     "latitude": "48.8217087",
                     "telefon": "+49 9452 1456",
                     "fax": "+49 9452 942959",
+                    "email": [],
+                    "startdatum": "17.09.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "18.09.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Aesculap-Apotheke",
+                    "kammer": "blak",
+                    "id": "1356",
+                    "apo_id": "blak1356",
+                    "strasse": "Günzstr. 1",
+                    "plz": "93059",
+                    "ort": "Regensburg",
+                    "distanz": "52.43051665381",
+                    "longitude": "12.1097239",
+                    "latitude": "49.0271959",
+                    "telefon": "+49 941 41447",
+                    "fax": "+49 941 43884",
                     "email": [],
                     "startdatum": "17.09.2025",
                     "startzeit": "08:30",
