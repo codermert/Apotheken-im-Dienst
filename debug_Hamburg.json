@@ -3194,7 +3194,7 @@
             "anzahl": 20
         },
         "quota": {
-            "verwendet": "26798"
+            "verwendet": "28269"
         },
         "apotheken": {
             "apotheke": [
@@ -3446,6 +3446,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Linden-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1454",
+                    "apo_id": "aknds1454",
+                    "strasse": "Harburger Str. 28 a",
+                    "plz": "21435",
+                    "ort": "Stelle",
+                    "distanz": "19.62766191653",
+                    "longitude": "10.1049754",
+                    "latitude": "53.385335",
+                    "telefon": "+49 4174 2335",
+                    "fax": "+49 4174 4840",
+                    "email": [],
+                    "startdatum": "18.09.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "19.09.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Elbdeich Apotheke Zollenspieker",
                     "kammer": "akh",
                     "id": "10390",
@@ -3520,25 +3539,6 @@
                     "startzeit": "08:00",
                     "enddatum": "19.09.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Markt-Apotheke im Gesundheitszentrum",
-                    "kammer": "aknds",
-                    "id": "1511",
-                    "apo_id": "aknds1511",
-                    "strasse": "Marktstr. 4",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "24.78631206922",
-                    "longitude": "10.2058523",
-                    "latitude": "53.3643304",
-                    "telefon": "+49 4171 3300",
-                    "fax": "+49 4171 784353",
-                    "email": [],
-                    "startdatum": "17.09.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "18.09.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Adler-Apotheke",
