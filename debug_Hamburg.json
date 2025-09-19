@@ -3194,7 +3194,7 @@
             "anzahl": 17
         },
         "quota": {
-            "verwendet": "146094"
+            "verwendet": "154525"
         },
         "apotheken": {
             "apotheke": [
@@ -3427,25 +3427,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Linden-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1454",
-                    "apo_id": "aknds1454",
-                    "strasse": "Harburger Str. 28 a",
-                    "plz": "21435",
-                    "ort": "Stelle",
-                    "distanz": "19.62766191653",
-                    "longitude": "10.1049754",
-                    "latitude": "53.385335",
-                    "telefon": "+49 4174 2335",
-                    "fax": "+49 4174 4840",
-                    "email": [],
-                    "startdatum": "18.09.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "19.09.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Apotheke am Rondeel",
                     "kammer": "aksh",
                     "id": "10734",
@@ -3501,6 +3482,25 @@
                     "startzeit": "08:00",
                     "enddatum": "20.09.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "wir leben-Apotheke am Bahnhof",
+                    "kammer": "aknds",
+                    "id": "1509",
+                    "apo_id": "aknds1509",
+                    "strasse": "Bahnhofstr. 67",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "25.60830350646",
+                    "longitude": "10.2061221",
+                    "latitude": "53.3556573",
+                    "telefon": "+49 4171 71460",
+                    "fax": "+49 4171 75478",
+                    "email": [],
+                    "startdatum": "19.09.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "20.09.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Stadt-Apotheke",
