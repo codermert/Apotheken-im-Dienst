@@ -3194,7 +3194,7 @@
             "anzahl": 17
         },
         "quota": {
-            "verwendet": "34858"
+            "verwendet": "37744"
         },
         "apotheken": {
             "apotheke": [
@@ -3389,6 +3389,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Markt-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1418",
+                    "apo_id": "aknds1418",
+                    "strasse": "Schulstr. 44",
+                    "plz": "21220",
+                    "ort": "Seevetal",
+                    "distanz": "17.34142706463",
+                    "longitude": "10.0428773",
+                    "latitude": "53.3965761",
+                    "telefon": "+49 4105 82061",
+                    "fax": "+49 4105 81668",
+                    "email": [],
+                    "startdatum": "20.09.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "21.09.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Rats-Apotheke",
                     "kammer": "aksh",
                     "id": "10479",
@@ -3463,25 +3482,6 @@
                     "startzeit": "08:00",
                     "enddatum": "21.09.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "wir leben-Apotheke am Bahnhof",
-                    "kammer": "aknds",
-                    "id": "1509",
-                    "apo_id": "aknds1509",
-                    "strasse": "Bahnhofstr. 67",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "25.60830350646",
-                    "longitude": "10.2061221",
-                    "latitude": "53.3556573",
-                    "telefon": "+49 4171 71460",
-                    "fax": "+49 4171 75478",
-                    "email": [],
-                    "startdatum": "19.09.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "20.09.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Buchholzer Hof Apotheke",
