@@ -865,12 +865,12 @@
       "mesafe": "0.6 km"
     },
     {
-      "eczaneAdi": "Fritz-Reuter-Apotheke",
-      "adres": "Am Markt 16, 17153 Reuterstadt Stavenhagen",
-      "telefon": "+49 39954 21082",
-      "enlem": "53.6957432",
-      "boylam": "12.9085263",
-      "mesafe": "23.6 km"
+      "eczaneAdi": "Apotheke zum Klostersee",
+      "adres": "Schloßstr. 60, 17159 Dargun",
+      "telefon": "+49 39959 20372",
+      "enlem": "53.8972319",
+      "boylam": "12.8547925",
+      "mesafe": "23.0 km"
     },
     {
       "eczaneAdi": "Apotheke am Wall",
@@ -889,12 +889,20 @@
       "mesafe": "29.7 km"
     },
     {
-      "eczaneAdi": "Weiden-Apotheke",
-      "adres": "John Brinckmann Str. 10 a, 18190 Sanitz",
-      "telefon": "+49 38209 288",
-      "enlem": "54.07518",
-      "boylam": "12.37375",
-      "mesafe": "36.1 km"
+      "eczaneAdi": "Stadt Apotheke Malchow",
+      "adres": "Güstrower Straße 25, 17213 Malchow",
+      "telefon": "+49 39932 19373",
+      "enlem": "53.4759312",
+      "boylam": "12.4256345",
+      "mesafe": "34.6 km"
+    },
+    {
+      "eczaneAdi": "Adler-Apotheke",
+      "adres": "Markt 8, 18258 Schwaan",
+      "telefon": "+49 3844 813696",
+      "enlem": "53.9393783",
+      "boylam": "12.1068944",
+      "mesafe": "35.9 km"
     },
     {
       "eczaneAdi": "Marien-Apotheke",
@@ -919,6 +927,14 @@
       "enlem": "54.10639",
       "boylam": "13.04246",
       "mesafe": "48.1 km"
+    },
+    {
+      "eczaneAdi": "Alaska-Apotheke",
+      "adres": "An der Brücke 1, 19386 Lübz",
+      "telefon": "+49 38731 5040",
+      "enlem": "53.4661651",
+      "boylam": "12.0398246",
+      "mesafe": "49.3 km"
     }
   ],
   "Niedersachsen": [
@@ -963,7 +979,88 @@
       "mesafe": "25.9 km"
     }
   ],
-  "Rheinland-Pfalz": [],
+  "Rheinland-Pfalz": [
+    {
+      "eczaneAdi": "Cusanus-Apotheke",
+      "adres": "Cusanusstr. 4, 54470 Bernkastel-Kues",
+      "telefon": "+49 6531 2626",
+      "enlem": "49.9167318",
+      "boylam": "7.070225",
+      "mesafe": "17.7 km"
+    },
+    {
+      "eczaneAdi": "Die Neue Apotheke",
+      "adres": "Marktplatz 5, 55606 Kirn",
+      "telefon": "+49 6752 91330",
+      "enlem": "49.7860516",
+      "boylam": "7.4595184",
+      "mesafe": "21.4 km"
+    },
+    {
+      "eczaneAdi": "Löwen-Apotheke",
+      "adres": "Simmerner Str. 2, 55494 Rheinböllen",
+      "telefon": "+49 6764 92200",
+      "enlem": "50.0054779",
+      "boylam": "7.6735519",
+      "mesafe": "26.7 km"
+    },
+    {
+      "eczaneAdi": "Ahorn-Apotheke",
+      "adres": "Lessingstr. 4, 56154 Boppard",
+      "telefon": "+49 6742 4845",
+      "enlem": "50.213",
+      "boylam": "7.53779",
+      "mesafe": "33.2 km"
+    },
+    {
+      "eczaneAdi": "Muchow Apotheke am St. Marienwörth",
+      "adres": "Mühlenstr. 39, 55543 Bad Kreuznach",
+      "telefon": "+49 671 29844560",
+      "enlem": "49.8465517",
+      "boylam": "7.8617166",
+      "mesafe": "41.3 km"
+    },
+    {
+      "eczaneAdi": "Adler-Apotheke",
+      "adres": "Langer Markt 9, 54411 Hermeskeil",
+      "telefon": "+49 6503 1213",
+      "enlem": "49.65545",
+      "boylam": "6.94694",
+      "mesafe": "42.2 km"
+    },
+    {
+      "eczaneAdi": "Hochwald-Apotheke",
+      "adres": "Am Hammerberg 3, 66620 Nonnweiler-Otzenhausen",
+      "telefon": "06873/240",
+      "enlem": "49.6049195",
+      "boylam": "6.9755297",
+      "mesafe": "45.6 km"
+    },
+    {
+      "eczaneAdi": "Adler-Apotheke",
+      "adres": "Bahnstr. 40, 56743 Mendig",
+      "telefon": "+49 2652 4400",
+      "enlem": "50.3709886",
+      "boylam": "7.2827651",
+      "mesafe": "46.5 km"
+    },
+    {
+      "eczaneAdi": "Taunus-Apotheke",
+      "adres": "Marienfelser Str. 12, 56357 Miehlen",
+      "telefon": "+49 6772 1593",
+      "enlem": "50.2289329",
+      "boylam": "7.8286422",
+      "mesafe": "48.1 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Löhr-Center",
+      "adres": "Hohenfelder Str. 22, 56068 Koblenz",
+      "telefon": "+49 261 1233132",
+      "enlem": "50.35757",
+      "boylam": "7.59104",
+      "mesafe": "49.2 km"
+    }
+  ],
   "Saarland": [
     {
       "eczaneAdi": "Allee-Apotheke",
