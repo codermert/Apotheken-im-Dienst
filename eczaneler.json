@@ -865,6 +865,14 @@
       "mesafe": "0.6 km"
     },
     {
+      "eczaneAdi": "Fritz-Reuter-Apotheke",
+      "adres": "Am Markt 16, 17153 Reuterstadt Stavenhagen",
+      "telefon": "+49 39954 21082",
+      "enlem": "53.6957432",
+      "boylam": "12.9085263",
+      "mesafe": "23.6 km"
+    },
+    {
       "eczaneAdi": "Apotheke am Wall",
       "adres": "Hageböcker Str. 19, 18273 Güstrow",
       "telefon": "+49 3843 684096",
@@ -881,12 +889,28 @@
       "mesafe": "29.7 km"
     },
     {
-      "eczaneAdi": "Linden-Apotheke",
-      "adres": "Lange Str. 112, 19399 Goldberg",
-      "telefon": "+49 38736 40314",
-      "enlem": "53.5871235",
-      "boylam": "12.0878761",
-      "mesafe": "38.3 km"
+      "eczaneAdi": "Stadt Apotheke Malchow",
+      "adres": "Güstrower Straße 25, 17213 Malchow",
+      "telefon": "+49 39932 19373",
+      "enlem": "53.4759312",
+      "boylam": "12.4256345",
+      "mesafe": "34.6 km"
+    },
+    {
+      "eczaneAdi": "Adler-Apotheke",
+      "adres": "Markt 8, 18258 Schwaan",
+      "telefon": "+49 3844 813696",
+      "enlem": "53.9393783",
+      "boylam": "12.1068944",
+      "mesafe": "35.9 km"
+    },
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Lange Straße 37, 18246 Bützow",
+      "telefon": "+49 38461 3791",
+      "enlem": "53.8477457",
+      "boylam": "11.9836702",
+      "mesafe": "39.9 km"
     },
     {
       "eczaneAdi": "Marien-Apotheke",
@@ -895,6 +919,22 @@
       "enlem": "53.9737119",
       "boylam": "13.129453",
       "mesafe": "42.7 km"
+    },
+    {
+      "eczaneAdi": "Müritz-Apotheke",
+      "adres": "Hohe Straße 36, 17207 Röbel",
+      "telefon": "+49 39931 50133",
+      "enlem": "53.37403",
+      "boylam": "12.6052544",
+      "mesafe": "44.5 km"
+    },
+    {
+      "eczaneAdi": "Bären-Apotheke",
+      "adres": "Jahnstr. 17, 17087 Altentreptow",
+      "telefon": "+49 3961 216540",
+      "enlem": "53.6893167",
+      "boylam": "13.2450552",
+      "mesafe": "45.2 km"
     },
     {
       "eczaneAdi": "Hopfenmarkt-Apotheke",
@@ -911,6 +951,14 @@
       "enlem": "54.10639",
       "boylam": "13.04246",
       "mesafe": "48.1 km"
+    },
+    {
+      "eczaneAdi": "Alaska-Apotheke",
+      "adres": "An der Brücke 1, 19386 Lübz",
+      "telefon": "+49 38731 5040",
+      "enlem": "53.4661651",
+      "boylam": "12.0398246",
+      "mesafe": "49.3 km"
     }
   ],
   "Niedersachsen": [
@@ -1277,5 +1325,62 @@
       "mesafe": "26.6 km"
     }
   ],
-  "Thüringen": []
+  "Thüringen": [
+    {
+      "eczaneAdi": "Neue MARIEN APOTHEKE im Facharztzentrum Angerbrunnen",
+      "adres": "Neuwerkstr. 51/Regierungsstr. 3, 99084 Erfurt",
+      "telefon": "+49 361 6442674",
+      "enlem": "50.9743289",
+      "boylam": "11.0302266",
+      "mesafe": "8.1 km"
+    },
+    {
+      "eczaneAdi": "Rosen-Apotheke",
+      "adres": "Stadtilmer Straße 5, 99310 Arnstadt",
+      "telefon": "+49 3628 600015",
+      "enlem": "50.8318337",
+      "boylam": "10.9563088",
+      "mesafe": "9.6 km"
+    },
+    {
+      "eczaneAdi": "Luther-Apotheke",
+      "adres": "Ammertalweg 15, 99086 Erfurt",
+      "telefon": "+49 361 7456176",
+      "enlem": "50.9966797",
+      "boylam": "11.0289565",
+      "mesafe": "10.6 km"
+    },
+    {
+      "eczaneAdi": "Klosterberg-Apotheke",
+      "adres": "Kirchstraße 10, 99438 Bad Berka",
+      "telefon": "+49 36458 31036",
+      "enlem": "50.9001809",
+      "boylam": "11.284302",
+      "mesafe": "17.3 km"
+    },
+    {
+      "eczaneAdi": "Albert-Schweitzer-Apotheke",
+      "adres": "Straßburger Platz 2, 99427 Weimar",
+      "telefon": "+49 3643 427618",
+      "enlem": "50.9882964",
+      "boylam": "11.3068892",
+      "mesafe": "21.2 km"
+    },
+    {
+      "eczaneAdi": "Löwen-Apotheke",
+      "adres": "Marktstr. 13, 99867 Gotha",
+      "telefon": "+49 3621 301300",
+      "enlem": "50.949836",
+      "boylam": "10.7028375",
+      "mesafe": "24.2 km"
+    },
+    {
+      "eczaneAdi": "Waldmeister-Apotheke am Stollen",
+      "adres": "Bergrat-Mahr-Straße 3, 98693 Ilmenau",
+      "telefon": "+49 3677 7613860",
+      "enlem": "50.67833",
+      "boylam": "10.92196",
+      "mesafe": "26.1 km"
+    }
+  ]
 }
