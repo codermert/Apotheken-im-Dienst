@@ -37,27 +37,46 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "164614"
+            "verwendet": "168210"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Neue MARIEN APOTHEKE im Facharztzentrum Angerbrunnen",
+                    "name": "Delphin-Apotheke",
                     "kammer": "lakt",
-                    "id": "480",
-                    "apo_id": "lakt480",
-                    "strasse": "Neuwerkstr. 51/Regierungsstr. 3",
-                    "plz": "99084",
+                    "id": "503",
+                    "apo_id": "lakt503",
+                    "strasse": "Hermsdorfer Straße 4",
+                    "plz": "99099",
                     "ort": "Erfurt",
-                    "distanz": "8.12249611308",
-                    "longitude": "11.0302266",
-                    "latitude": "50.9743289",
-                    "telefon": "+49 361 6442674",
+                    "distanz": "7.82386343784",
+                    "longitude": "11.0598792",
+                    "latitude": "50.9704011",
+                    "telefon": "+49 361 3458213",
                     "fax": [],
                     "email": [],
-                    "startdatum": "21.09.2025",
+                    "startdatum": "22.09.2025",
                     "startzeit": "09:00",
-                    "enddatum": "22.09.2025",
+                    "enddatum": "23.09.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Bahnhof-Apotheke",
+                    "kammer": "lakt",
+                    "id": "5",
+                    "apo_id": "lakt5",
+                    "strasse": "Bahnhofstraße 40",
+                    "plz": "99084",
+                    "ort": "Erfurt",
+                    "distanz": "8.15849796899",
+                    "longitude": "11.0350444",
+                    "latitude": "50.9747884",
+                    "telefon": "+49 361 555410",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "22.09.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "23.09.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "23.09.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Luther-Apotheke",
-                    "kammer": "lakt",
-                    "id": "481",
-                    "apo_id": "lakt481",
-                    "strasse": "Ammertalweg 15",
-                    "plz": "99086",
-                    "ort": "Erfurt",
-                    "distanz": "10.609739457929999",
-                    "longitude": "11.0289565",
-                    "latitude": "50.9966797",
-                    "telefon": "+49 361 7456176",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "21.09.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "22.09.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Burgen-Apotheke",
