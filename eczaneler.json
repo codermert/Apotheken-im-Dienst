@@ -725,57 +725,8 @@
       "mesafe": "27.1 km"
     }
   ],
-  "Hessen": [
-    {
-      "eczaneAdi": "Herde Apotheke am Stadtturm OHG",
-      "adres": "Am Wall 29 b, 35423 Lich",
-      "telefon": "+49 6404 6671660",
-      "enlem": "50.5215",
-      "boylam": "8.81938",
-      "mesafe": "17.7 km"
-    },
-    {
-      "eczaneAdi": "Schloss Apotheke",
-      "adres": "Wittelsbergerstr. 1, 35085 Ebsdorfergrund",
-      "telefon": "+49 6424 3575",
-      "enlem": "50.7616",
-      "boylam": "8.88045",
-      "mesafe": "20.0 km"
-    },
-    {
-      "eczaneAdi": "Pelikan Apotheke am Marktplatz",
-      "adres": "Marktstr. 2, 35390 Gießen",
-      "telefon": "+49 641 33376",
-      "enlem": "50.58646",
-      "boylam": "8.674",
-      "mesafe": "25.2 km"
-    },
-    {
-      "eczaneAdi": "Hirsch Apotheke",
-      "adres": "Kanalstr. 6, 36341 Lauterbach",
-      "telefon": "+49 6641 96300",
-      "enlem": "50.63562",
-      "boylam": "9.39615",
-      "mesafe": "26.2 km"
-    },
-    {
-      "eczaneAdi": "Landgrafen Apotheke",
-      "adres": "Gießener Straße 29, 35096 Weimar",
-      "telefon": "+49 6426 921822",
-      "enlem": "50.73445",
-      "boylam": "8.70286",
-      "mesafe": "27.0 km"
-    }
-  ],
+  "Hessen": [],
   "Mecklenburg-Vorpommern": [
-    {
-      "eczaneAdi": "Apotheke am Park",
-      "adres": "Zu den Wiesen 9, 18279 Lalendorf",
-      "telefon": "+49 38452 20592",
-      "enlem": "53.75746",
-      "boylam": "12.38463",
-      "mesafe": "12.7 km"
-    },
     {
       "eczaneAdi": "Rats-Apotheke",
       "adres": "Am Markt 11, 17139 Malchin",
@@ -794,19 +745,99 @@
     },
     {
       "eczaneAdi": "Rats-Apotheke",
-      "adres": "Lange Str. 14, 18292 Krakow a. See",
-      "telefon": "+49 38457 22322",
-      "enlem": "53.6531425",
-      "boylam": "12.2689391",
-      "mesafe": "24.3 km"
-    },
-    {
-      "eczaneAdi": "Rats-Apotheke",
       "adres": "Markt 24, 18273 Güstrow",
       "telefon": "+49 3843 682030",
       "enlem": "53.7928243",
       "boylam": "12.1760016",
       "mesafe": "26.4 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Tessinum",
+      "adres": "Karl-Marx-Straße 14, 18195 Tessin",
+      "telefon": "+49 38205 71766",
+      "enlem": "54.0275934",
+      "boylam": "12.4611487",
+      "mesafe": "29.3 km"
+    },
+    {
+      "eczaneAdi": "Löwen-Apotheke",
+      "adres": "Neuer Markt 21, 17192 Waren",
+      "telefon": "+49 3991 666153",
+      "enlem": "53.5145093",
+      "boylam": "12.6887047",
+      "mesafe": "29.8 km"
+    },
+    {
+      "eczaneAdi": "Muhrbeck -Apotheke",
+      "adres": "Gartenstr. 2, 17109 Demmin",
+      "telefon": "+49 3998 362151",
+      "enlem": "53.9047535",
+      "boylam": "13.0423311",
+      "mesafe": "34.0 km"
+    },
+    {
+      "eczaneAdi": "Rosenhof-Apotheke",
+      "adres": "Stavenhagener  Str. 25, 17091 Rosenow",
+      "telefon": "+49 39602 20480",
+      "enlem": "53.6278546",
+      "boylam": "13.0355102",
+      "mesafe": "34.4 km"
+    },
+    {
+      "eczaneAdi": "Hubertus-Apotheke",
+      "adres": "Lange Str. 44, 17213 Malchow",
+      "telefon": "+49 39932 13345",
+      "enlem": "53.4752449",
+      "boylam": "12.4305189",
+      "mesafe": "34.6 km"
+    },
+    {
+      "eczaneAdi": "Schwanen-Apotheke",
+      "adres": "EKZ Mühlenteichplatz, 18258 Schwaan",
+      "telefon": "+49 3844 814219",
+      "enlem": "53.939859",
+      "boylam": "12.1076632",
+      "mesafe": "35.9 km"
+    },
+    {
+      "eczaneAdi": "Recknitztal-Apotheke",
+      "adres": "Am Markt 15, 18334 Bad Sülze",
+      "telefon": "+49 38229 7020",
+      "enlem": "54.1101836",
+      "boylam": "12.660129",
+      "mesafe": "37.9 km"
+    },
+    {
+      "eczaneAdi": "Plawe-Apotheke",
+      "adres": "Steinstr. 42, 19395 Plau",
+      "telefon": "+49 38735 42196",
+      "enlem": "53.4588403",
+      "boylam": "12.2617275",
+      "mesafe": "40.7 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Globus",
+      "adres": "Globusring 1, 18184 Roggentin",
+      "telefon": "+49 38204 15343",
+      "enlem": "54.0753978",
+      "boylam": "12.2013015",
+      "mesafe": "41.6 km"
+    },
+    {
+      "eczaneAdi": "Bernstein-Apotheke",
+      "adres": "H.-Sachs-Allee 12, 18057 Rostock",
+      "telefon": "+49 381 4923434",
+      "enlem": "54.0894693",
+      "boylam": "12.0966982",
+      "mesafe": "47.2 km"
+    },
+    {
+      "eczaneAdi": "Rosen-Apotheke",
+      "adres": "Carl-v.-Ossietzky-Str. 1 c, 18507 Grimmen",
+      "telefon": "+49 38326 80264",
+      "enlem": "54.10639",
+      "boylam": "13.04246",
+      "mesafe": "48.1 km"
     }
   ],
   "Niedersachsen": [
