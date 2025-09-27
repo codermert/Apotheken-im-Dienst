@@ -201,144 +201,7 @@
       "mesafe": "17.0 km"
     }
   ],
-  "Nordrhein-Westfalen": [
-    {
-      "eczaneAdi": "Marien-Apotheke",
-      "adres": "Bethunestr. 15, 58239 Schwerte",
-      "telefon": "02304/9108310",
-      "enlem": "51.4445427",
-      "boylam": "7.5684623",
-      "mesafe": "3.9 km"
-    },
-    {
-      "eczaneAdi": "Pinguin-Apotheke",
-      "adres": "Hermannstr. 29, 44263 Dortmund",
-      "telefon": "0231/422068",
-      "enlem": "51.4889517",
-      "boylam": "7.4996935",
-      "mesafe": "4.0 km"
-    },
-    {
-      "eczaneAdi": "Hellweg-Apotheke",
-      "adres": "Brackeler Hellweg 155, 44309 Dortmund",
-      "telefon": "+49 231 252244",
-      "enlem": "51.52368",
-      "boylam": "7.54865",
-      "mesafe": "5.0 km"
-    },
-    {
-      "eczaneAdi": "Hindenburg-Apotheke",
-      "adres": "Münsterstr. 119, 44145 Dortmund",
-      "telefon": "+49 231 813136",
-      "enlem": "51.52562",
-      "boylam": "7.46071",
-      "mesafe": "8.3 km"
-    },
-    {
-      "eczaneAdi": "Adler-Apotheke",
-      "adres": "Bahnhofstr. 21, 59423 Unna",
-      "telefon": "02303/13100",
-      "enlem": "51.536219",
-      "boylam": "7.6912752",
-      "mesafe": "11.4 km"
-    },
-    {
-      "eczaneAdi": "Sonnen-Apotheke",
-      "adres": "Westender Weg 83 c, 58313 Herdecke",
-      "telefon": "02330/802437",
-      "enlem": "51.41292",
-      "boylam": "7.40599",
-      "mesafe": "12.7 km"
-    },
-    {
-      "eczaneAdi": "Rathaus-Apotheke Internationale Apotheke",
-      "adres": "Badstr. 4, 58095 Hagen",
-      "telefon": "02331/32663",
-      "enlem": "51.3590622",
-      "boylam": "7.4735761",
-      "mesafe": "14.5 km"
-    },
-    {
-      "eczaneAdi": "Ruhr-Apotheke",
-      "adres": "Im Stift 14, 58730 Fröndenberg",
-      "telefon": "02373/974610",
-      "enlem": "51.4726803",
-      "boylam": "7.7658956",
-      "mesafe": "14.7 km"
-    },
-    {
-      "eczaneAdi": "St. Barbara-Apotheke",
-      "adres": "Schulstr. 45, 59192 Bergkamen",
-      "telefon": "02307/69761",
-      "enlem": "51.6073393",
-      "boylam": "7.6190368",
-      "mesafe": "15.0 km"
-    },
-    {
-      "eczaneAdi": "Einhorn-Apotheke",
-      "adres": "Mendener Str. 1, 58636 Iserlohn",
-      "telefon": "02371/23500",
-      "enlem": "51.3740569",
-      "boylam": "7.702526",
-      "mesafe": "15.6 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Markt",
-      "adres": "Am Moselbach 11 a, 45731 Waltrop",
-      "telefon": "02309/74101",
-      "enlem": "51.6238667",
-      "boylam": "7.3996032",
-      "mesafe": "19.4 km"
-    },
-    {
-      "eczaneAdi": "Fortuna-Apotheke",
-      "adres": "Wasserstr. 120, 44803 Bochum",
-      "telefon": "+49 234 938880",
-      "enlem": "51.46422",
-      "boylam": "7.23702",
-      "mesafe": "22.1 km"
-    },
-    {
-      "eczaneAdi": "Ruhrland-Apotheke",
-      "adres": "Kemnader Str. 330, 44797 Bochum",
-      "telefon": "0234/797822",
-      "enlem": "51.4283775",
-      "boylam": "7.2443501",
-      "mesafe": "22.3 km"
-    },
-    {
-      "eczaneAdi": "Linden-Apotheke",
-      "adres": "Lindenstr. 18, 58256 Ennepetal",
-      "telefon": "+49 2333 3126",
-      "enlem": "51.30789",
-      "boylam": "7.38623",
-      "mesafe": "22.3 km"
-    },
-    {
-      "eczaneAdi": "Dorf-Apotheke",
-      "adres": "Wiescherhöfener Str. 54, 59077 Hamm",
-      "telefon": "02381/404517",
-      "enlem": "51.6377695",
-      "boylam": "7.7803367",
-      "mesafe": "23.6 km"
-    },
-    {
-      "eczaneAdi": "Apotheke an der Kreuzkirche",
-      "adres": "An der Kreuzkirche 1-3, 44623 Herne",
-      "telefon": "+49 2323 52083",
-      "enlem": "51.53691",
-      "boylam": "7.22627",
-      "mesafe": "23.7 km"
-    },
-    {
-      "eczaneAdi": "Paracelsus-Apotheke",
-      "adres": "Heggerstr. 29, 45525 Hattingen",
-      "telefon": "+49 2324 22858",
-      "enlem": "51.39999",
-      "boylam": "7.18571",
-      "mesafe": "27.1 km"
-    }
-  ],
+  "Nordrhein-Westfalen": [],
   "Hamburg": [
     {
       "eczaneAdi": "EPES Apotheke",
@@ -461,7 +324,88 @@
       "mesafe": "25.6 km"
     }
   ],
-  "Baden-Württemberg": [],
+  "Baden-Württemberg": [
+    {
+      "eczaneAdi": "ina Apotheke Lustnau",
+      "adres": "Dorfackerstr. 17, 72074 Tübingen",
+      "telefon": "+49 7071 83360",
+      "enlem": "48.530768",
+      "boylam": "9.0799705",
+      "mesafe": "3.0 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Steg",
+      "adres": "Oskar-Kalbfell-Platz 8, 72764 Reutlingen",
+      "telefon": "+49 7121 22924",
+      "enlem": "48.4902789",
+      "boylam": "9.2073284",
+      "mesafe": "13.4 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Markt Ehningen",
+      "adres": "Marktplatz 3, 71139 Ehningen",
+      "telefon": "+49 7034 8014",
+      "enlem": "48.65929",
+      "boylam": "8.94115",
+      "mesafe": "15.4 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Bahnhof Bernhausen",
+      "adres": "Karlstr. 20, 70794 Filderstadt",
+      "telefon": "+49 711 706325",
+      "enlem": "48.6761892",
+      "boylam": "9.2187125",
+      "mesafe": "20.2 km"
+    },
+    {
+      "eczaneAdi": "Pinguin-Apotheke Maichingen",
+      "adres": "Berliner Str. 24, 71069 Sindelfingen",
+      "telefon": "+49 7031 765222",
+      "enlem": "48.7187146",
+      "boylam": "8.9644226",
+      "mesafe": "20.9 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Spranger Hechingen",
+      "adres": "Heiligkreuzstr. 1, 72379 Hechingen",
+      "telefon": "+49 7471 2387",
+      "enlem": "48.35145",
+      "boylam": "8.96323",
+      "mesafe": "21.5 km"
+    },
+    {
+      "eczaneAdi": "Sonnen-Apotheke Möhringen",
+      "adres": "Filderbahnstr. 12, 70567 Stuttgart",
+      "telefon": "+49 711 711166",
+      "enlem": "48.7261215",
+      "boylam": "9.1470785",
+      "mesafe": "22.4 km"
+    },
+    {
+      "eczaneAdi": "Rosen-Apotheke am Riedbrunnen",
+      "adres": "Schillerstr. 19, 72202 Nagold",
+      "telefon": "+49 7452 819990",
+      "enlem": "48.5465735",
+      "boylam": "8.7286639",
+      "mesafe": "23.1 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Horch Pharmacie",
+      "adres": "Kirchstr. 10, 72622 Nürtingen",
+      "telefon": "+49 7022 33883",
+      "enlem": "48.6267111",
+      "boylam": "9.3369949",
+      "mesafe": "24.0 km"
+    },
+    {
+      "eczaneAdi": "Elsach-Center Apotheke Mache Bad Urach",
+      "adres": "Gebrüder-Gross-Str. 9, 72574 Bad Urach",
+      "telefon": "+49 7125 4482",
+      "enlem": "48.4944982",
+      "boylam": "9.3988204",
+      "mesafe": "26.9 km"
+    }
+  ],
   "Bayern": [
     {
       "eczaneAdi": "Rathaus-Apotheke",
