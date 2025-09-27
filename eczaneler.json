@@ -461,88 +461,7 @@
       "mesafe": "25.6 km"
     }
   ],
-  "Baden-Württemberg": [
-    {
-      "eczaneAdi": "ina Apotheke Lustnau",
-      "adres": "Dorfackerstr. 17, 72074 Tübingen",
-      "telefon": "+49 7071 83360",
-      "enlem": "48.530768",
-      "boylam": "9.0799705",
-      "mesafe": "3.0 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Steg",
-      "adres": "Oskar-Kalbfell-Platz 8, 72764 Reutlingen",
-      "telefon": "+49 7121 22924",
-      "enlem": "48.4902789",
-      "boylam": "9.2073284",
-      "mesafe": "13.4 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Markt Ehningen",
-      "adres": "Marktplatz 3, 71139 Ehningen",
-      "telefon": "+49 7034 8014",
-      "enlem": "48.65929",
-      "boylam": "8.94115",
-      "mesafe": "15.4 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Bahnhof Bernhausen",
-      "adres": "Karlstr. 20, 70794 Filderstadt",
-      "telefon": "+49 711 706325",
-      "enlem": "48.6761892",
-      "boylam": "9.2187125",
-      "mesafe": "20.2 km"
-    },
-    {
-      "eczaneAdi": "Pinguin-Apotheke Maichingen",
-      "adres": "Berliner Str. 24, 71069 Sindelfingen",
-      "telefon": "+49 7031 765222",
-      "enlem": "48.7187146",
-      "boylam": "8.9644226",
-      "mesafe": "20.9 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Spranger Hechingen",
-      "adres": "Heiligkreuzstr. 1, 72379 Hechingen",
-      "telefon": "+49 7471 2387",
-      "enlem": "48.35145",
-      "boylam": "8.96323",
-      "mesafe": "21.5 km"
-    },
-    {
-      "eczaneAdi": "Sonnen-Apotheke Möhringen",
-      "adres": "Filderbahnstr. 12, 70567 Stuttgart",
-      "telefon": "+49 711 711166",
-      "enlem": "48.7261215",
-      "boylam": "9.1470785",
-      "mesafe": "22.4 km"
-    },
-    {
-      "eczaneAdi": "Rosen-Apotheke am Riedbrunnen",
-      "adres": "Schillerstr. 19, 72202 Nagold",
-      "telefon": "+49 7452 819990",
-      "enlem": "48.5465735",
-      "boylam": "8.7286639",
-      "mesafe": "23.1 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Horch Pharmacie",
-      "adres": "Kirchstr. 10, 72622 Nürtingen",
-      "telefon": "+49 7022 33883",
-      "enlem": "48.6267111",
-      "boylam": "9.3369949",
-      "mesafe": "24.0 km"
-    },
-    {
-      "eczaneAdi": "Elsach-Center Apotheke Mache Bad Urach",
-      "adres": "Gebrüder-Gross-Str. 9, 72574 Bad Urach",
-      "telefon": "+49 7125 4482",
-      "enlem": "48.4944982",
-      "boylam": "9.3988204",
-      "mesafe": "26.9 km"
-    }
-  ],
+  "Baden-Württemberg": [],
   "Bayern": [
     {
       "eczaneAdi": "Rathaus-Apotheke",
@@ -1265,7 +1184,80 @@
       "mesafe": "24.6 km"
     }
   ],
-  "Sachsen-Anhalt": [],
+  "Sachsen-Anhalt": [
+    {
+      "eczaneAdi": "St. Jakobi-Apotheke",
+      "adres": "Breiteweg 55, 39218 Schönebeck",
+      "telefon": "+49 3928 403591",
+      "enlem": "52.0199859",
+      "boylam": "11.7409746",
+      "mesafe": "3.1 km"
+    },
+    {
+      "eczaneAdi": "Kosmos Apotheke Bördepark",
+      "adres": "Salbker Chaussee 67, 39118 Magdeburg",
+      "telefon": "+49 391 6212731",
+      "enlem": "52.08441",
+      "boylam": "11.59799",
+      "mesafe": "10.9 km"
+    },
+    {
+      "eczaneAdi": "Börde-Apotheke",
+      "adres": "Alt Diesdorf 40, 39110 Magdeburg",
+      "telefon": "+49 391 7346121",
+      "enlem": "52.13055",
+      "boylam": "11.56796",
+      "mesafe": "16.3 km"
+    },
+    {
+      "eczaneAdi": "Hubertus-Apotheke",
+      "adres": "Karl-Marx-Str. 26, 39175 Biederitz",
+      "telefon": "+49 39292 2072",
+      "enlem": "52.160917",
+      "boylam": "11.7227316",
+      "mesafe": "17.0 km"
+    },
+    {
+      "eczaneAdi": "Einhorn-Apotheke",
+      "adres": "Lübecker Str. 100, 39124 Magdeburg",
+      "telefon": "+49 391 2514330",
+      "enlem": "52.159698",
+      "boylam": "11.6354953",
+      "mesafe": "17.4 km"
+    },
+    {
+      "eczaneAdi": "Neue Adler-Apotheke",
+      "adres": "Steinstraße 7, 39418 Staßfurt",
+      "telefon": "+49 3925 323087",
+      "enlem": "51.8501553",
+      "boylam": "11.5835007",
+      "mesafe": "19.4 km"
+    },
+    {
+      "eczaneAdi": "Moritz-Apotheke",
+      "adres": "Schnarsleber Str. 11, 39167 Niederndodeleben",
+      "telefon": "+49 39204 82427",
+      "enlem": "52.1366",
+      "boylam": "11.50095",
+      "mesafe": "19.7 km"
+    },
+    {
+      "eczaneAdi": "Adler-Apotheke",
+      "adres": "Ritterstr. 14, 39435 Egeln",
+      "telefon": "+49 39268 2365",
+      "enlem": "51.94429",
+      "boylam": "11.43305",
+      "mesafe": "19.7 km"
+    },
+    {
+      "eczaneAdi": "Marktapotheke Bernburg",
+      "adres": "Markt 31, 06406 Bernburg",
+      "telefon": "+49 3471 350624",
+      "enlem": "51.79808",
+      "boylam": "11.73696",
+      "mesafe": "23.6 km"
+    }
+  ],
   "Schleswig-Holstein": [
     {
       "eczaneAdi": "Paracelsus-Apotheke",
