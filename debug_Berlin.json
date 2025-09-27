@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 32
+            "anzahl": 38
         },
         "quota": {
-            "verwendet": "146723"
+            "verwendet": "149860"
         },
         "apotheken": {
             "apotheke": [
@@ -5743,6 +5743,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Dorf-Apotheke",
+                    "kammer": "lakbb",
+                    "id": "446",
+                    "apo_id": "lakbb446",
+                    "strasse": "Dorfstraße 17",
+                    "plz": "16356",
+                    "ort": "Ahrensfelde",
+                    "distanz": "14.103945313390001",
+                    "longitude": "13.5740345",
+                    "latitude": "52.5746579",
+                    "telefon": "+49 30 93772171",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "27.09.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "28.09.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Gartenstadt-Apotheke-Rudow",
                     "kammer": "akb",
                     "id": "100983",
@@ -5760,25 +5779,6 @@
                     "startzeit": "09:00",
                     "enddatum": "27.09.2025",
                     "endzeit": "08:59"
-                },
-                {
-                    "name": "Kronenapotheke Teltow",
-                    "kammer": "lakbb",
-                    "id": "685",
-                    "apo_id": "lakbb685",
-                    "strasse": "Ruhlsdorfer Straße 3",
-                    "plz": "14513",
-                    "ort": "Teltow",
-                    "distanz": "15.385430335499999",
-                    "longitude": "13.26814",
-                    "latitude": "52.40008",
-                    "telefon": "+49 3328 4219333",
-                    "fax": "+49 3328 4919330",
-                    "email": "team-@ka-teltow.de",
-                    "startdatum": "26.09.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "27.09.2025",
-                    "endzeit": "08:00"
                 },
                 {
                     "name": "Mumm-Apotheke",
