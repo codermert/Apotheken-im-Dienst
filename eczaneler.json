@@ -461,88 +461,7 @@
       "mesafe": "25.6 km"
     }
   ],
-  "Baden-Württemberg": [
-    {
-      "eczaneAdi": "ina Apotheke Lustnau",
-      "adres": "Dorfackerstr. 17, 72074 Tübingen",
-      "telefon": "+49 7071 83360",
-      "enlem": "48.530768",
-      "boylam": "9.0799705",
-      "mesafe": "3.0 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Steg",
-      "adres": "Oskar-Kalbfell-Platz 8, 72764 Reutlingen",
-      "telefon": "+49 7121 22924",
-      "enlem": "48.4902789",
-      "boylam": "9.2073284",
-      "mesafe": "13.4 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Markt Ehningen",
-      "adres": "Marktplatz 3, 71139 Ehningen",
-      "telefon": "+49 7034 8014",
-      "enlem": "48.65929",
-      "boylam": "8.94115",
-      "mesafe": "15.4 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Bahnhof Bernhausen",
-      "adres": "Karlstr. 20, 70794 Filderstadt",
-      "telefon": "+49 711 706325",
-      "enlem": "48.6761892",
-      "boylam": "9.2187125",
-      "mesafe": "20.2 km"
-    },
-    {
-      "eczaneAdi": "Pinguin-Apotheke Maichingen",
-      "adres": "Berliner Str. 24, 71069 Sindelfingen",
-      "telefon": "+49 7031 765222",
-      "enlem": "48.7187146",
-      "boylam": "8.9644226",
-      "mesafe": "20.9 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Spranger Hechingen",
-      "adres": "Heiligkreuzstr. 1, 72379 Hechingen",
-      "telefon": "+49 7471 2387",
-      "enlem": "48.35145",
-      "boylam": "8.96323",
-      "mesafe": "21.5 km"
-    },
-    {
-      "eczaneAdi": "Sonnen-Apotheke Möhringen",
-      "adres": "Filderbahnstr. 12, 70567 Stuttgart",
-      "telefon": "+49 711 711166",
-      "enlem": "48.7261215",
-      "boylam": "9.1470785",
-      "mesafe": "22.4 km"
-    },
-    {
-      "eczaneAdi": "Rosen-Apotheke am Riedbrunnen",
-      "adres": "Schillerstr. 19, 72202 Nagold",
-      "telefon": "+49 7452 819990",
-      "enlem": "48.5465735",
-      "boylam": "8.7286639",
-      "mesafe": "23.1 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Horch Pharmacie",
-      "adres": "Kirchstr. 10, 72622 Nürtingen",
-      "telefon": "+49 7022 33883",
-      "enlem": "48.6267111",
-      "boylam": "9.3369949",
-      "mesafe": "24.0 km"
-    },
-    {
-      "eczaneAdi": "Elsach-Center Apotheke Mache Bad Urach",
-      "adres": "Gebrüder-Gross-Str. 9, 72574 Bad Urach",
-      "telefon": "+49 7125 4482",
-      "enlem": "48.4944982",
-      "boylam": "9.3988204",
-      "mesafe": "26.9 km"
-    }
-  ],
+  "Baden-Württemberg": [],
   "Bayern": [
     {
       "eczaneAdi": "Rathaus-Apotheke",
@@ -1339,7 +1258,56 @@
       "mesafe": "23.6 km"
     }
   ],
-  "Schleswig-Holstein": [],
+  "Schleswig-Holstein": [
+    {
+      "eczaneAdi": "Paracelsus-Apotheke",
+      "adres": "Dorfstr. 20, 24536 Neumünster",
+      "telefon": "04321-529222",
+      "enlem": "54.1282629",
+      "boylam": "9.9919323",
+      "mesafe": "12.8 km"
+    },
+    {
+      "eczaneAdi": "Kgl. priv. Apotheke Böttcher von 1834",
+      "adres": "Lindenstr. 22, 24594 Hohenwestedt",
+      "telefon": "04871-626",
+      "enlem": "54.09098",
+      "boylam": "9.65164",
+      "mesafe": "15.3 km"
+    },
+    {
+      "eczaneAdi": "Eider-Apotheke",
+      "adres": "Hollerstr. 101, 24782 Büdelsdorf",
+      "telefon": "04331-36288",
+      "enlem": "54.3161251",
+      "boylam": "9.6792168",
+      "mesafe": "17.3 km"
+    },
+    {
+      "eczaneAdi": "Russeer-Apotheke",
+      "adres": "Rutkamp 1, 24111 Kiel",
+      "telefon": "0431-697469",
+      "enlem": "54.30056",
+      "boylam": "10.07698",
+      "mesafe": "21.0 km"
+    },
+    {
+      "eczaneAdi": "Center Apotheke",
+      "adres": "Neumünsterstr. 51, 24598 Boostedt",
+      "telefon": "+49 4393 9791818",
+      "enlem": "54.014404",
+      "boylam": "10.0158559",
+      "mesafe": "22.9 km"
+    },
+    {
+      "eczaneAdi": "Medica-Apotheke",
+      "adres": "Prüner Gang 15, 24103 Kiel",
+      "telefon": "0431-220050",
+      "enlem": "54.3203722",
+      "boylam": "10.1263781",
+      "mesafe": "24.9 km"
+    }
+  ],
   "Thüringen": [
     {
       "eczaneAdi": "Melchendorfer Apotheke",
