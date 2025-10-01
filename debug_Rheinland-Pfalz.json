@@ -12,7 +12,7 @@
             "lat": "",
             "lng": "",
             "plzort": "Rheinland-Pfalz",
-            "radius": 45,
+            "radius": 65,
             "street": ""
         },
         "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
@@ -21,17 +21,17 @@
         "parameter": {
             "plzort": "Rheinland-Pfalz",
             "strasse": [],
-            "radius": "45.0",
+            "radius": "65.0",
             "longitude": "7.310645999999999",
             "latitude": "49.953159899999996",
             "limit": [],
             "datum": []
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 11
         },
         "quota": {
-            "verwendet": "132497"
+            "verwendet": "141595"
         },
         "apotheken": {
             "apotheke": [
@@ -200,6 +200,44 @@
                     "latitude": "50.3704514",
                     "telefon": "+49 261 24667",
                     "fax": "+49 261 24712",
+                    "email": [],
+                    "startdatum": "30.09.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "01.10.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Primstal-Apotheke",
+                    "kammer": "aksaar",
+                    "id": "1786",
+                    "apo_id": "aksaar1786",
+                    "strasse": "Hauptstr. 45",
+                    "plz": "66620",
+                    "ort": "Nonnweiler-Primstal",
+                    "distanz": "52.459292558870004",
+                    "longitude": "6.9762487",
+                    "latitude": "49.5342322",
+                    "telefon": "06875/688",
+                    "fax": "06875/1796",
+                    "email": "primstal-apotheke@gmx.de",
+                    "startdatum": "30.09.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "01.10.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke am Viehmarktplatz",
+                    "kammer": "lakrlp",
+                    "id": "22089",
+                    "apo_id": "lakrlp22089",
+                    "strasse": "Fahrstraße 3-4",
+                    "plz": "54290",
+                    "ort": "Trier",
+                    "distanz": "53.23348697571",
+                    "longitude": "6.6385602",
+                    "latitude": "49.7525664",
+                    "telefon": "+49 651 73171",
+                    "fax": "+49 651 74826",
                     "email": [],
                     "startdatum": "30.09.2025",
                     "startzeit": "08:30",
