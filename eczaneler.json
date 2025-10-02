@@ -643,7 +643,72 @@
       "mesafe": "19.7 km"
     }
   ],
-  "Bremen": [],
+  "Bremen": [
+    {
+      "eczaneAdi": "Vital-Apotheke im Fachärztezentrum-Nord",
+      "adres": "Hammersbecker Str. 224, 28755 Bremen",
+      "telefon": "+49 421 6203620",
+      "enlem": "53.1844073",
+      "boylam": "8.5937461",
+      "mesafe": "8.0 km"
+    },
+    {
+      "eczaneAdi": "Roland-Apotheke",
+      "adres": "Hemmstr. 231, 28215 Bremen",
+      "telefon": "+49 421 351955",
+      "enlem": "53.0950854",
+      "boylam": "8.8093161",
+      "mesafe": "9.5 km"
+    },
+    {
+      "eczaneAdi": "West-Apotheke",
+      "adres": "Oldenburger Str. 79, 27753 Delmenhorst",
+      "telefon": "+49 4221 987098",
+      "enlem": "53.0492285",
+      "boylam": "8.6071553",
+      "mesafe": "12.1 km"
+    },
+    {
+      "eczaneAdi": "Hubertus-Apotheke",
+      "adres": "Borgfelder Heerstr. 28 A, 28357 Bremen",
+      "telefon": "+49 421 270229",
+      "enlem": "53.12282",
+      "boylam": "8.89932",
+      "mesafe": "14.0 km"
+    },
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Hauptstr. 66, 28865 Lilienthal",
+      "telefon": "+49 4298 2345",
+      "enlem": "53.1409835",
+      "boylam": "8.9076746",
+      "mesafe": "14.4 km"
+    },
+    {
+      "eczaneAdi": "Bremer Schlüssel-Apotheke",
+      "adres": "Colshornstr. 31, 28307 Bremen",
+      "telefon": "+49 421 483138",
+      "enlem": "53.0409325",
+      "boylam": "8.9187889",
+      "mesafe": "19.0 km"
+    },
+    {
+      "eczaneAdi": "Alte Apotheke",
+      "adres": "Obernstraße 5, 28832 Achim",
+      "telefon": "+49 4202 8999",
+      "enlem": "53.0126733",
+      "boylam": "9.0310955",
+      "mesafe": "27.0 km"
+    },
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Herrlichkeit 12, 28857 Syke",
+      "telefon": "+49 4242 2001",
+      "enlem": "52.9143802",
+      "boylam": "8.8279949",
+      "mesafe": "27.2 km"
+    }
+  ],
   "Hessen": [
     {
       "eczaneAdi": "R. Dehn'sche Apotheke Groß-Felda",
@@ -958,72 +1023,7 @@
       "mesafe": "26.9 km"
     }
   ],
-  "Sachsen": [
-    {
-      "eczaneAdi": "Löwenzahn-Apotheke",
-      "adres": "Hauptstraße 152, 09603 Großschirma",
-      "telefon": "+49 37328 146749",
-      "enlem": "50.96688",
-      "boylam": "13.28226",
-      "mesafe": "13.1 km"
-    },
-    {
-      "eczaneAdi": "Glückauf-Apotheke",
-      "adres": "Dresdner Straße 58, 01705 Freital",
-      "telefon": "+49 351 6491229",
-      "enlem": "51.0130601",
-      "boylam": "13.6627357",
-      "mesafe": "17.1 km"
-    },
-    {
-      "eczaneAdi": "Adler-Apotheke",
-      "adres": "Markt 3, 01683 Nossen",
-      "telefon": "+49 35242 68803",
-      "enlem": "51.05801",
-      "boylam": "13.29949",
-      "mesafe": "18.1 km"
-    },
-    {
-      "eczaneAdi": "Schanzen-Apotheke",
-      "adres": "Rudolf-Renner-Str. 21, 01157 Dresden",
-      "telefon": "+49 351 4222505",
-      "enlem": "51.0493057",
-      "boylam": "13.6922047",
-      "mesafe": "21.1 km"
-    },
-    {
-      "eczaneAdi": "Linden-Apotheke",
-      "adres": "Bahnhofstraße 4, 09623 Rechenberg-Bienenmühle",
-      "telefon": "+49 37327 1407",
-      "enlem": "50.74075",
-      "boylam": "13.53075",
-      "mesafe": "21.6 km"
-    },
-    {
-      "eczaneAdi": "Stadt-Apotheke",
-      "adres": "Bahnhofstraße 19, 01445 Radebeul",
-      "telefon": "+49 351 8304168",
-      "enlem": "51.1060785",
-      "boylam": "13.629278",
-      "mesafe": "23.0 km"
-    },
-    {
-      "eczaneAdi": "Schauburg Apotheke",
-      "adres": "Königsbrücker Straße 57, 01099 Dresden",
-      "telefon": "+49 351 8024220",
-      "enlem": "51.07156",
-      "boylam": "13.7505",
-      "mesafe": "25.9 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Niedersedlitz",
-      "adres": "Sachsenwerkstraße 71, 01257 Dresden",
-      "telefon": "+49 351 2015674",
-      "enlem": "51.00438",
-      "boylam": "13.82811",
-      "mesafe": "27.3 km"
-    }
-  ],
+  "Sachsen": [],
   "Sachsen-Anhalt": [
     {
       "eczaneAdi": "Sonnen-Apotheke",
