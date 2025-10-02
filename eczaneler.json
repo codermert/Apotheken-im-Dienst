@@ -869,14 +869,6 @@
       "mesafe": "12.9 km"
     },
     {
-      "eczaneAdi": "Apotheke am Schützenplatz",
-      "adres": "Schützenstr. 10, 27798 Hude",
-      "telefon": "+49 4408 92110",
-      "enlem": "53.1076988",
-      "boylam": "8.4593608",
-      "mesafe": "16.2 km"
-    },
-    {
       "eczaneAdi": "Osterholzer Apotheke",
       "adres": "Osterholzer Landstr. 47, 28325 Bremen",
       "telefon": "+49 421 421125",
@@ -961,36 +953,44 @@
       "mesafe": "13.0 km"
     },
     {
-      "eczaneAdi": "Recknitztal-Apotheke",
-      "adres": "Breesener Str. 37, 18299 Laage",
-      "telefon": "+49 38459 36235",
-      "enlem": "53.9277616",
-      "boylam": "12.3460061",
-      "mesafe": "22.9 km"
-    },
-    {
-      "eczaneAdi": "Hubertus-Apotheke",
-      "adres": "Friedensstr. 29, 17179 Gnoien",
-      "telefon": "+49 39971 1830",
-      "enlem": "53.9693156",
-      "boylam": "12.7102512",
-      "mesafe": "23.5 km"
-    },
-    {
-      "eczaneAdi": "Fritz-Reuter-Apotheke",
-      "adres": "Am Markt 16, 17153 Reuterstadt Stavenhagen",
-      "telefon": "+49 39954 21082",
-      "enlem": "53.6957432",
-      "boylam": "12.9085263",
-      "mesafe": "23.6 km"
-    },
-    {
       "eczaneAdi": "Rats-Apotheke",
       "adres": "Markt 24, 18273 Güstrow",
       "telefon": "+49 3843 682030",
       "enlem": "53.7928243",
       "boylam": "12.1760016",
       "mesafe": "26.4 km"
+    },
+    {
+      "eczaneAdi": "Kranich-Apotheke",
+      "adres": "Hans-Beimler-Str. 42 b, 17192 Waren",
+      "telefon": "+49 3991 17570",
+      "enlem": "53.5206875",
+      "boylam": "12.6605961",
+      "mesafe": "28.7 km"
+    },
+    {
+      "eczaneAdi": "Peene-Apotheke",
+      "adres": "Am Krankenhaus 1, 17109 Demmin",
+      "telefon": "+49 3998 2828640",
+      "enlem": "53.902402",
+      "boylam": "13.0426609",
+      "mesafe": "33.9 km"
+    },
+    {
+      "eczaneAdi": "Werft-Apotheke",
+      "adres": "Werftstraße 50, 18057 Rostock",
+      "telefon": "+49 381 3754400",
+      "enlem": "54.0939816",
+      "boylam": "12.1072119",
+      "mesafe": "47.1 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Mühlentor",
+      "adres": "Bahnhofstraße 2, 18507 Grimmen",
+      "telefon": "+49 38326 455440",
+      "enlem": "54.11176",
+      "boylam": "13.04009",
+      "mesafe": "48.5 km"
     }
   ],
   "Niedersachsen": [
@@ -1175,7 +1175,64 @@
       "mesafe": "20.3 km"
     }
   ],
-  "Sachsen": [],
+  "Sachsen": [
+    {
+      "eczaneAdi": "Agricola-Apotheke",
+      "adres": "Bahnhofstraße 16/18, 09599 Freiberg",
+      "telefon": "+49 3731 26960",
+      "enlem": "50.91293",
+      "boylam": "13.34613",
+      "mesafe": "8.1 km"
+    },
+    {
+      "eczaneAdi": "avesana Apotheke Kesselsdorf",
+      "adres": "Steinbacher Weg 11, 01723 Kesselsdorf",
+      "telefon": "+49 35204 394222",
+      "enlem": "51.0331",
+      "boylam": "13.59483",
+      "mesafe": "15.0 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Löbtau Passage",
+      "adres": "Kesselsdorfer Straße 1, 01159 Dresden",
+      "telefon": "+49 351 4241241",
+      "enlem": "51.04328",
+      "boylam": "13.70315",
+      "mesafe": "21.3 km"
+    },
+    {
+      "eczaneAdi": "Müglitz-Apotheke",
+      "adres": "Altenberger Straße 19, 01768 Glashütte",
+      "telefon": "+49 35053 32717",
+      "enlem": "50.84848",
+      "boylam": "13.78197",
+      "mesafe": "24.5 km"
+    },
+    {
+      "eczaneAdi": "Triebischtal-Apotheke",
+      "adres": "Talstraße 23, 01662 Meißen",
+      "telefon": "+49 3521 452631",
+      "enlem": "51.1525567",
+      "boylam": "13.459944",
+      "mesafe": "24.8 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Kaufpark",
+      "adres": "Dohnaer Straße 246, 01239 Dresden",
+      "telefon": "+49 351 289110",
+      "enlem": "50.99712",
+      "boylam": "13.79961",
+      "mesafe": "25.1 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Johannstadt",
+      "adres": "Pfotenhauer Straße 41, 01307 Dresden",
+      "telefon": "+49 351 449500",
+      "enlem": "51.05705",
+      "boylam": "13.7688",
+      "mesafe": "26.0 km"
+    }
+  ],
   "Sachsen-Anhalt": [
     {
       "eczaneAdi": "Apotheke Schilfbreite",
