@@ -889,14 +889,6 @@
       "mesafe": "34.0 km"
     },
     {
-      "eczaneAdi": "Rats-Apotheke",
-      "adres": "Karl-Marx-Str. 31a, 18465 Tribsees",
-      "telefon": "+49 38320 6180",
-      "enlem": "54.0942614",
-      "boylam": "12.7578964",
-      "mesafe": "37.7 km"
-    },
-    {
       "eczaneAdi": "Fritz-Reuter-Apotheke",
       "adres": "Doberaner Str. 43b, 18057 Rostock",
       "telefon": "+49 381 4932220",
@@ -1269,5 +1261,54 @@
       "mesafe": "27.1 km"
     }
   ],
-  "Thüringen": []
+  "Thüringen": [
+    {
+      "eczaneAdi": "Apotheke am Dom",
+      "adres": "Marktstr. 23-25, 99084 Erfurt",
+      "telefon": "+49 361 5401673",
+      "enlem": "50.9775314",
+      "boylam": "11.0251592",
+      "mesafe": "8.5 km"
+    },
+    {
+      "eczaneAdi": "Marien-Apotheke",
+      "adres": "Triniusstr. 27, 99310 Arnstadt",
+      "telefon": "+49 3628 70662",
+      "enlem": "50.8346681",
+      "boylam": "10.9342952",
+      "mesafe": "10.4 km"
+    },
+    {
+      "eczaneAdi": "Brunnen-Apotheke",
+      "adres": "Erfurter Straße 72, 99095 Erfurt-Mittelhausen",
+      "telefon": "+49 361 2624442",
+      "enlem": "51.03489",
+      "boylam": "11.00229",
+      "mesafe": "15.1 km"
+    },
+    {
+      "eczaneAdi": "Stadt-Apotheke Lattmann Apotheken OHG",
+      "adres": "August-Bebel-Straße 7, 99444 Blankenhain",
+      "telefon": "+49 36459 41260",
+      "enlem": "50.8589477",
+      "boylam": "11.3429444",
+      "mesafe": "22.0 km"
+    },
+    {
+      "eczaneAdi": "Nord-Apotheke",
+      "adres": "Friedrich-Naumann-Straße 2, 99423 Weimar",
+      "telefon": "+49 3643 202787",
+      "enlem": "50.9865288",
+      "boylam": "11.3242631",
+      "mesafe": "22.2 km"
+    },
+    {
+      "eczaneAdi": "Sertürner-Apotheke",
+      "adres": "Humboldtstr. 90, 99867 Gotha",
+      "telefon": "+49 3621 758585",
+      "enlem": "50.9439166",
+      "boylam": "10.6850738",
+      "mesafe": "25.2 km"
+    }
+  ]
 }
