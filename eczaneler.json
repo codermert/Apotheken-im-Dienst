@@ -673,7 +673,48 @@
       "mesafe": "48.0 km"
     }
   ],
-  "Brandenburg": [],
+  "Brandenburg": [
+    {
+      "eczaneAdi": "Apotheke zu Bötzow",
+      "adres": "Breite Straße 7, 16515 Oranienburg",
+      "telefon": "03301 / 868 07 60",
+      "enlem": "52.7524521",
+      "boylam": "13.2354459",
+      "mesafe": "10.4 km"
+    },
+    {
+      "eczaneAdi": "Löwen-Apotheke",
+      "adres": "Hauptstraße 38/40, 16547 Birkenwerder",
+      "telefon": "+49 3303 5068868",
+      "enlem": "52.688974",
+      "boylam": "13.2821288",
+      "mesafe": "17.6 km"
+    },
+    {
+      "eczaneAdi": "Stadt-Apotheke",
+      "adres": "Schinkelplatz 6, 16775 Gransee",
+      "telefon": "03306 / 2275",
+      "enlem": "53.0072982",
+      "boylam": "13.1551371",
+      "mesafe": "19.0 km"
+    },
+    {
+      "eczaneAdi": "Löwen-Apotheke",
+      "adres": "Rigaer Straße 30 c, 16761 Hennigsdorf",
+      "telefon": "03302 / 801440",
+      "enlem": "52.65587",
+      "boylam": "13.1968546",
+      "mesafe": "21.4 km"
+    },
+    {
+      "eczaneAdi": "Hirsch-Apotheke",
+      "adres": "Heinsestr. 47, 13467 Berlin",
+      "telefon": "+49 30 4041289",
+      "enlem": "52.6184995",
+      "boylam": "13.3052703",
+      "mesafe": "25.6 km"
+    }
+  ],
   "Bremen": [
     {
       "eczaneAdi": "Neue Apotheke",
@@ -822,14 +863,6 @@
       "enlem": "53.76898",
       "boylam": "12.579",
       "mesafe": "0.6 km"
-    },
-    {
-      "eczaneAdi": "Hubertus-Apotheke",
-      "adres": "Friedensstr. 29, 17179 Gnoien",
-      "telefon": "+49 39971 1830",
-      "enlem": "53.9693156",
-      "boylam": "12.7102512",
-      "mesafe": "23.5 km"
     },
     {
       "eczaneAdi": "Fritz-Reuter-Apotheke",
