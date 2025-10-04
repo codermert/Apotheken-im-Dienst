@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "467492"
+            "verwendet": "473197"
         },
         "apotheken": {
             "apotheke": [
@@ -53,6 +53,25 @@
                     "startzeit": "08:00",
                     "enddatum": "05.10.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Fritz-Reuter-Apotheke",
+                    "kammer": "akmv",
+                    "id": "171872",
+                    "apo_id": "akmv171872",
+                    "strasse": "Am Markt 16",
+                    "plz": "17153",
+                    "ort": "Reuterstadt Stavenhagen",
+                    "distanz": "23.617059265250003",
+                    "longitude": "12.9085263",
+                    "latitude": "53.6957432",
+                    "telefon": "+49 39954 21082",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "04.10.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "04.10.2025",
+                    "endzeit": "18:00"
                 },
                 {
                     "name": "Schloss-Apotheke",
@@ -93,6 +112,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Buchen-Apotheke",
+                    "kammer": "akmv",
+                    "id": "178298",
+                    "apo_id": "akmv178298",
+                    "strasse": "Friedrich-von-Flotow-Ring 15",
+                    "plz": "18190",
+                    "ort": "Sanitz",
+                    "distanz": "36.15413585038",
+                    "longitude": "12.3834443",
+                    "latitude": "54.0779007",
+                    "telefon": "+49 38209 490016",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "04.10.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "04.10.2025",
+                    "endzeit": "18:00"
+                },
+                {
                     "name": "Marien-Apotheke",
                     "kammer": "akmv",
                     "id": "171855",
@@ -110,6 +148,25 @@
                     "startzeit": "08:00",
                     "enddatum": "05.10.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Müritz-Apotheke",
+                    "kammer": "akmv",
+                    "id": "174048",
+                    "apo_id": "akmv174048",
+                    "strasse": "Hohe Straße 36",
+                    "plz": "17207",
+                    "ort": "Röbel",
+                    "distanz": "44.50407116596",
+                    "longitude": "12.6052544",
+                    "latitude": "53.37403",
+                    "telefon": "+49 39931 50133",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "04.10.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "04.10.2025",
+                    "endzeit": "18:00"
                 },
                 {
                     "name": "Apotheke am Doberaner Platz",
