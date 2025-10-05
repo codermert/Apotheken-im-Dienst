@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "181598"
+            "verwendet": "234837"
         },
         "apotheken": {
             "apotheke": [
@@ -1323,9 +1323,9 @@
                     "telefon": "+49 4221 14489",
                     "fax": "+49 4221 14907",
                     "email": [],
-                    "startdatum": "04.10.2025",
+                    "startdatum": "05.10.2025",
                     "startzeit": "08:30",
-                    "enddatum": "05.10.2025",
+                    "enddatum": "06.10.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -1348,25 +1348,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke Bookholzberg",
-                    "kammer": "aknds",
-                    "id": "1752",
-                    "apo_id": "aknds1752",
-                    "strasse": "Stedinger Str. 63",
-                    "plz": "27777",
-                    "ort": "Ganderkesee",
-                    "distanz": "12.15097528613",
-                    "longitude": "8.530713",
-                    "latitude": "53.0962681",
-                    "telefon": "+49 4223 3070",
-                    "fax": "+49 4223 1332",
-                    "email": [],
-                    "startdatum": "04.10.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "05.10.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "sk-Apotheke in Varrel OHG",
                     "kammer": "aknds",
                     "id": "1056",
@@ -1384,6 +1365,25 @@
                     "startzeit": "09:00",
                     "enddatum": "05.10.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Flores-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1817",
+                    "apo_id": "aknds1817",
+                    "strasse": "Parkstr. 47",
+                    "plz": "27798",
+                    "ort": "Hude",
+                    "distanz": "16.22079185705",
+                    "longitude": "8.4566718",
+                    "latitude": "53.1132591",
+                    "telefon": "+49 4408 6363",
+                    "fax": "+49 4408 970631",
+                    "email": [],
+                    "startdatum": "05.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "06.10.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Apotheke Blockdiek",
@@ -1422,6 +1422,44 @@
                     "startzeit": "09:00",
                     "enddatum": "05.10.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Kranich Apotheke",
+                    "kammer": "aknds",
+                    "id": "1265",
+                    "apo_id": "aknds1265",
+                    "strasse": "Amtsdamm 39",
+                    "plz": "27628",
+                    "ort": "Hagen im Bremischen",
+                    "distanz": "23.681015648789998",
+                    "longitude": "8.6430292",
+                    "latitude": "53.3555124",
+                    "telefon": "+49 4746 951060",
+                    "fax": "+49 4746 951061",
+                    "email": [],
+                    "startdatum": "05.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "06.10.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Apotheke Kröger",
+                    "kammer": "aknds",
+                    "id": "1636",
+                    "apo_id": "aknds1636",
+                    "strasse": "Weserstr. 80",
+                    "plz": "26919",
+                    "ort": "Brake",
+                    "distanz": "26.0104326339",
+                    "longitude": "8.4635966",
+                    "latitude": "53.3336661",
+                    "telefon": "+49 4401 930240",
+                    "fax": "+49 4401 706883",
+                    "email": [],
+                    "startdatum": "05.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "06.10.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }
