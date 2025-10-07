@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "71043"
+            "verwendet": "73028"
         },
         "apotheken": {
             "apotheke": [
@@ -93,25 +93,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Domino-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1111",
-                    "apo_id": "aknds1111",
-                    "strasse": "Alter Kirchweg 1",
-                    "plz": "31627",
-                    "ort": "Rohrsen",
-                    "distanz": "18.03914767201",
-                    "longitude": "9.233263",
-                    "latitude": "52.7087912",
-                    "telefon": "+49 5024 765",
-                    "fax": "+49 5024 8303",
-                    "email": [],
-                    "startdatum": "06.10.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "07.10.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Schloss Apotheke Syke Hauptstraße",
                     "kammer": "aknds",
                     "id": "1067",
@@ -129,6 +110,44 @@
                     "startzeit": "09:00",
                     "enddatum": "07.10.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Hansa Apotheke",
+                    "kammer": "aknds",
+                    "id": "955",
+                    "apo_id": "aknds955",
+                    "strasse": "Hansastr. 3",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "23.14845354176",
+                    "longitude": "9.2148089",
+                    "latitude": "52.6496656",
+                    "telefon": "+49 5021 910266",
+                    "fax": "+49 5021 910277",
+                    "email": [],
+                    "startdatum": "07.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "08.10.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Brunnen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1061",
+                    "apo_id": "aknds1061",
+                    "strasse": "Lange Str. 9",
+                    "plz": "27232",
+                    "ort": "Sulingen",
+                    "distanz": "25.00528910764",
+                    "longitude": "8.8111754",
+                    "latitude": "52.6827223",
+                    "telefon": "+49 4271 93300",
+                    "fax": "+49 4271 933035",
+                    "email": [],
+                    "startdatum": "07.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "08.10.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }
