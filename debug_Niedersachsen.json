@@ -31,10 +31,29 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "106999"
+            "verwendet": "109462"
         },
         "apotheken": {
             "apotheke": [
+                {
+                    "name": "Linden-Apotheke",
+                    "kammer": "aknds",
+                    "id": "581",
+                    "apo_id": "aknds581",
+                    "strasse": "Bahnhofstr. 32",
+                    "plz": "27324",
+                    "ort": "Eystrup",
+                    "distanz": "11.69217346801",
+                    "longitude": "9.2184781",
+                    "latitude": "52.7800073",
+                    "telefon": "+49 4254 8360",
+                    "fax": "+49 4254 2326",
+                    "email": [],
+                    "startdatum": "08.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "09.10.2025",
+                    "endzeit": "08:00"
+                },
                 {
                     "name": "Storchen-Apotheke",
                     "kammer": "aknds",
@@ -74,41 +93,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Hansa Apotheke",
+                    "name": "Leintor Apotheke",
                     "kammer": "aknds",
-                    "id": "955",
-                    "apo_id": "aknds955",
-                    "strasse": "Hansastr. 3",
+                    "id": "956",
+                    "apo_id": "aknds956",
+                    "strasse": "Hannoversche Str. 12",
                     "plz": "31582",
                     "ort": "Nienburg",
-                    "distanz": "23.14845354176",
-                    "longitude": "9.2148089",
-                    "latitude": "52.6496656",
-                    "telefon": "+49 5021 910266",
-                    "fax": "+49 5021 910277",
+                    "distanz": "24.42755959594",
+                    "longitude": "9.2117242",
+                    "latitude": "52.6363944",
+                    "telefon": "+49 5021 3250",
+                    "fax": "+49 5021 926200",
                     "email": [],
-                    "startdatum": "07.10.2025",
+                    "startdatum": "08.10.2025",
                     "startzeit": "08:00",
-                    "enddatum": "08.10.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Brunnen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1061",
-                    "apo_id": "aknds1061",
-                    "strasse": "Lange Str. 9",
-                    "plz": "27232",
-                    "ort": "Sulingen",
-                    "distanz": "25.00528910764",
-                    "longitude": "8.8111754",
-                    "latitude": "52.6827223",
-                    "telefon": "+49 4271 93300",
-                    "fax": "+49 4271 933035",
-                    "email": [],
-                    "startdatum": "07.10.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "08.10.2025",
+                    "enddatum": "09.10.2025",
                     "endzeit": "08:00"
                 },
                 {

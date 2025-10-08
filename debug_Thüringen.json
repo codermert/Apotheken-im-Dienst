@@ -34,10 +34,10 @@
             }
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "107714"
+            "verwendet": "110216"
         },
         "apotheken": {
             "apotheke": [
@@ -61,25 +61,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Schloss-Apotheke",
-                    "kammer": "lakt",
-                    "id": "1743",
-                    "apo_id": "lakt1743",
-                    "strasse": "Schloßstraße 3",
-                    "plz": "99310",
-                    "ort": "Arnstadt",
-                    "distanz": "9.80342010547",
-                    "longitude": "10.94893",
-                    "latitude": "50.8336171",
-                    "telefon": "+49 3628 589858",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "07.10.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "08.10.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Nord-Apotheke",
                     "kammer": "lakt",
                     "id": "10",
@@ -99,60 +80,60 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke am Goetheplatz",
+                    "name": "Apotheke am Markt",
                     "kammer": "lakt",
-                    "id": "1928",
-                    "apo_id": "lakt1928",
-                    "strasse": "Goetheplatz 6",
+                    "id": "4248",
+                    "apo_id": "lakt4248",
+                    "strasse": "Markt 10",
+                    "plz": "99326",
+                    "ort": "Stadtilm",
+                    "distanz": "14.431739197610002",
+                    "longitude": "11.08135",
+                    "latitude": "50.77471",
+                    "telefon": "+49 3629 800008",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "08.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "09.10.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Burgenland-Apotheke",
+                    "kammer": "lakt",
+                    "id": "4226",
+                    "apo_id": "lakt4226",
+                    "strasse": "Am Oberried 6",
+                    "plz": "99869",
+                    "ort": "Drei Gleichen OT Günthersleben",
+                    "distanz": "19.11504713136",
+                    "longitude": "10.7661",
+                    "latitude": "50.89867",
+                    "telefon": "+49 36256 80329",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "08.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "09.10.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke am Jakobstor",
+                    "kammer": "lakt",
+                    "id": "486",
+                    "apo_id": "lakt486",
+                    "strasse": "Friedensstraße 2",
                     "plz": "99423",
                     "ort": "Weimar",
-                    "distanz": "22.079078720760002",
-                    "longitude": "11.3250323",
-                    "latitude": "50.981808",
-                    "telefon": "+49 3643 811800",
+                    "distanz": "22.25378271815",
+                    "longitude": "11.3261909",
+                    "latitude": "50.9840253",
+                    "telefon": "+49 3643 850800",
                     "fax": [],
                     "email": [],
-                    "startdatum": "07.10.2025",
+                    "startdatum": "08.10.2025",
                     "startzeit": "08:00",
-                    "enddatum": "08.10.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Sertürner-Apotheke",
-                    "kammer": "lakt",
-                    "id": "126",
-                    "apo_id": "lakt126",
-                    "strasse": "Humboldtstr. 90",
-                    "plz": "99867",
-                    "ort": "Gotha",
-                    "distanz": "25.24601997288",
-                    "longitude": "10.6850738",
-                    "latitude": "50.9439166",
-                    "telefon": "+49 3621 758585",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "07.10.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "08.10.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Lindenberg-Apotheke",
-                    "kammer": "lakt",
-                    "id": "145",
-                    "apo_id": "lakt145",
-                    "strasse": "Krankenhausstraße 26",
-                    "plz": "98693",
-                    "ort": "Ilmenau",
-                    "distanz": "26.11439099928",
-                    "longitude": "10.9172113",
-                    "latitude": "50.6795131",
-                    "telefon": "+49 3677 888888",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "07.10.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "08.10.2025",
+                    "enddatum": "09.10.2025",
                     "endzeit": "08:00"
                 }
             ]
