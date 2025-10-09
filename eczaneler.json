@@ -745,6 +745,14 @@
   ],
   "Mecklenburg-Vorpommern": [
     {
+      "eczaneAdi": "Apotheke am Park",
+      "adres": "Zu den Wiesen 9, 18279 Lalendorf",
+      "telefon": "+49 38452 20592",
+      "enlem": "53.75746",
+      "boylam": "12.38463",
+      "mesafe": "12.7 km"
+    },
+    {
       "eczaneAdi": "Neue Apotheke am Markt",
       "adres": "Am Markt 6, 17139 Malchin",
       "telefon": "+49 3994 223412",
@@ -753,36 +761,36 @@
       "mesafe": "12.9 km"
     },
     {
+      "eczaneAdi": "Apotheke zum Klostersee",
+      "adres": "Schloßstr. 60, 17159 Dargun",
+      "telefon": "+49 39959 20372",
+      "enlem": "53.8972319",
+      "boylam": "12.8547925",
+      "mesafe": "23.0 km"
+    },
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Lange Str. 14, 18292 Krakow a. See",
+      "telefon": "+49 38457 22322",
+      "enlem": "53.6531425",
+      "boylam": "12.2689391",
+      "mesafe": "24.3 km"
+    },
+    {
+      "eczaneAdi": "Schweden Apotheke",
+      "adres": "Werdohler Str. 3, 17153 Reuterstadt Stavenhagen",
+      "telefon": "+49 39954 24850",
+      "enlem": "53.688362",
+      "boylam": "12.9150862",
+      "mesafe": "24.3 km"
+    },
+    {
       "eczaneAdi": "Apotheke am Petershof",
       "adres": "Schwaaner Straße 21, 18273 Güstrow",
       "telefon": "+49 3843 466969",
       "enlem": "53.80476",
       "boylam": "12.17597",
       "mesafe": "26.6 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Kietz",
-      "adres": "Kietzstr. 13 b, 17192 Waren",
-      "telefon": "+49 3991 15080",
-      "enlem": "53.5145114",
-      "boylam": "12.6813827",
-      "mesafe": "29.7 km"
-    },
-    {
-      "eczaneAdi": "Marien-Apotheke",
-      "adres": "Am Postberg 1, 17121 Loitz",
-      "telefon": "+49 39998 10381",
-      "enlem": "53.9737119",
-      "boylam": "13.129453",
-      "mesafe": "42.7 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Holzhalbinsel",
-      "adres": "Gaffelschonerweg 14, 18055 Rostock",
-      "telefon": "+49 381 44436590",
-      "enlem": "54.0936615",
-      "boylam": "12.1504161",
-      "mesafe": "45.3 km"
     }
   ],
   "Niedersachsen": [
@@ -975,7 +983,56 @@
       "mesafe": "27.4 km"
     }
   ],
-  "Sachsen": [],
+  "Sachsen": [
+    {
+      "eczaneAdi": "Wettiner Apotheke",
+      "adres": "Dr.-Wilhelm-Külz-Straße 12, 09618 Brand-Erbisdorf",
+      "telefon": "+49 37322 39440",
+      "enlem": "50.8715745",
+      "boylam": "13.3241589",
+      "mesafe": "11.4 km"
+    },
+    {
+      "eczaneAdi": "Grund-Apotheke",
+      "adres": "An der Spinnerei 8, 01705 Freital",
+      "telefon": "+49 351 6441490",
+      "enlem": "50.97717",
+      "boylam": "13.62265",
+      "mesafe": "12.7 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Radebeul West",
+      "adres": "Güterhofstraße 9, 01445 Radebeul",
+      "telefon": "+49 351 8361478",
+      "enlem": "51.10805",
+      "boylam": "13.62484",
+      "mesafe": "23.0 km"
+    },
+    {
+      "eczaneAdi": "Saxonia Apotheke - Internationale Apotheke",
+      "adres": "Prager Straße 8 a, 01069 Dresden",
+      "telefon": "+49 351 4904949",
+      "enlem": "51.0450057",
+      "boylam": "13.7363461",
+      "mesafe": "23.4 km"
+    },
+    {
+      "eczaneAdi": "Brücken-Apotheke",
+      "adres": "Dresdner Straße 26, 04741 Roßwein",
+      "telefon": "+49 34322 42005",
+      "enlem": "51.08389",
+      "boylam": "13.21124",
+      "mesafe": "24.4 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Sachsenbad",
+      "adres": "Wurzener Straße 4, 01127 Dresden",
+      "telefon": "+49 351 853470",
+      "enlem": "51.0815813",
+      "boylam": "13.7219823",
+      "mesafe": "25.1 km"
+    }
+  ],
   "Sachsen-Anhalt": [
     {
       "eczaneAdi": "Adler-Apotheke",
