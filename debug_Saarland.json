@@ -12,7 +12,7 @@
             "lat": "",
             "lng": "",
             "plzort": "Saarland",
-            "radius": "25",
+            "radius": 45,
             "street": ""
         },
         "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
@@ -21,17 +21,17 @@
         "parameter": {
             "plzort": "Saarland",
             "strasse": [],
-            "radius": "25.0",
+            "radius": "45.0",
             "longitude": "6.9537369",
             "latitude": "49.3841872",
             "limit": [],
             "datum": []
         },
         "statistik": {
-            "anzahl": 13
+            "anzahl": 18
         },
         "quota": {
-            "verwendet": "8107"
+            "verwendet": "12466"
         },
         "apotheken": {
             "apotheke": [
@@ -281,6 +281,101 @@
                     "startzeit": "08:00",
                     "enddatum": "10.10.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke + Gesundheits-Shop Kraus",
+                    "kammer": "lakrlp",
+                    "id": "22301",
+                    "apo_id": "lakrlp22301",
+                    "strasse": "Glanstr. 42",
+                    "plz": "66901",
+                    "ort": "Schönenberg-Kübelberg",
+                    "distanz": "30.84177750851",
+                    "longitude": "7.3767167",
+                    "latitude": "49.4104439",
+                    "telefon": "+49 6373 893300",
+                    "fax": "+49 6373 893301",
+                    "email": [],
+                    "startdatum": "09.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "10.10.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Franken-Apotheke",
+                    "kammer": "lakrlp",
+                    "id": "22594",
+                    "apo_id": "lakrlp22594",
+                    "strasse": "Ixheimerstr. 174",
+                    "plz": "66482",
+                    "ort": "Zweibrücken",
+                    "distanz": "33.85216672462",
+                    "longitude": "7.36206",
+                    "latitude": "49.23798",
+                    "telefon": "+49 6332 15300",
+                    "fax": "+49 6332 73587",
+                    "email": [],
+                    "startdatum": "09.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "10.10.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Engel-Apotheke",
+                    "kammer": "lakrlp",
+                    "id": "22555",
+                    "apo_id": "lakrlp22555",
+                    "strasse": "Hauptstr. 363",
+                    "plz": "55743",
+                    "ort": "Idar-Oberstein",
+                    "distanz": "44.41037210452",
+                    "longitude": "7.32412",
+                    "latitude": "49.70255",
+                    "telefon": "+49 6781 567298",
+                    "fax": "+49 6781 26599",
+                    "email": [],
+                    "startdatum": "09.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "10.10.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Apostel-Apotheke St. Matthias",
+                    "kammer": "lakrlp",
+                    "id": "22513",
+                    "apo_id": "lakrlp22513",
+                    "strasse": "Matthiasstr. 17",
+                    "plz": "54290",
+                    "ort": "Trier",
+                    "distanz": "45.97923558366001",
+                    "longitude": "6.63297",
+                    "latitude": "49.74108",
+                    "telefon": "+49 651 9930423",
+                    "fax": "+49 651 9930424",
+                    "email": [],
+                    "startdatum": "09.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "10.10.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Mosel-Apotheke",
+                    "kammer": "lakrlp",
+                    "id": "22173",
+                    "apo_id": "lakrlp22173",
+                    "strasse": "Wiesenstr. 4",
+                    "plz": "54453",
+                    "ort": "Nittel",
+                    "distanz": "47.57928789871",
+                    "longitude": "6.4444373",
+                    "latitude": "49.6545022",
+                    "telefon": "+49 6584 91550",
+                    "fax": "+49 6584 915520",
+                    "email": [],
+                    "startdatum": "09.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "10.10.2025",
+                    "endzeit": "08:30"
                 }
             ]
         }

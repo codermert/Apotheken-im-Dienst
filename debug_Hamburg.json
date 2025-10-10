@@ -12,7 +12,7 @@
             "lat": "",
             "lng": "",
             "plzort": "Hamburg",
-            "radius": "25",
+            "radius": 45,
             "street": ""
         },
         "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
@@ -21,7 +21,7 @@
         "parameter": {
             "plzort": "Hamburg",
             "strasse": [],
-            "radius": "25.0",
+            "radius": "45.0",
             "longitude": "10.000653999999999",
             "latitude": "53.550340999999996",
             "limit": [],
@@ -3191,10 +3191,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 18
+            "anzahl": 26
         },
         "quota": {
-            "verwendet": "7923"
+            "verwendet": "12359"
         },
         "apotheken": {
             "apotheke": [
@@ -3539,6 +3539,139 @@
                     "startzeit": "09:00",
                     "enddatum": "10.10.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Falken-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1289",
+                    "apo_id": "aknds1289",
+                    "strasse": "Im Kleinen Sande 5",
+                    "plz": "21640",
+                    "ort": "Horneburg",
+                    "distanz": "28.338077872729997",
+                    "longitude": "9.5793579",
+                    "latitude": "53.50769",
+                    "telefon": "+49 4163 81570",
+                    "fax": "+49 4163 815716",
+                    "email": [],
+                    "startdatum": "09.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "10.10.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Elbmarschen-Apotheke",
+                    "kammer": "aksh",
+                    "id": "10786",
+                    "apo_id": "aksh10786",
+                    "strasse": "Horster Viereck 1",
+                    "plz": "25358",
+                    "ort": "Horst",
+                    "distanz": "37.72216275977",
+                    "longitude": "9.6236051",
+                    "latitude": "53.8048135",
+                    "telefon": "04126-393101",
+                    "fax": "04126-393102",
+                    "email": "elbmarschen-apotheke.horst@apotheke-sh.de",
+                    "startdatum": "09.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "10.10.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Schwinge-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1450",
+                    "apo_id": "aknds1450",
+                    "strasse": "Alte Dorfstr. 21",
+                    "plz": "21684",
+                    "ort": "Stade",
+                    "distanz": "38.60095518132",
+                    "longitude": "9.4213111",
+                    "latitude": "53.5872048",
+                    "telefon": "+49 4141 88801",
+                    "fax": "+49 4141 88457",
+                    "email": [],
+                    "startdatum": "09.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "10.10.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Reuter-Apotheke",
+                    "kammer": "aksh",
+                    "id": "10052",
+                    "apo_id": "aksh10052",
+                    "strasse": "Zwischen den Brücken 1",
+                    "plz": "21514",
+                    "ort": "Büchen",
+                    "distanz": "41.69509961007",
+                    "longitude": "10.61781",
+                    "latitude": "53.47934",
+                    "telefon": "+49 4155 2121",
+                    "fax": "+49 4155 6922",
+                    "email": "apo.buechen@t-online.de",
+                    "startdatum": "09.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "10.10.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke am Kran",
+                    "kammer": "aknds",
+                    "id": "1337",
+                    "apo_id": "aknds1337",
+                    "strasse": "Lünertorstr. 5",
+                    "plz": "21335",
+                    "ort": "Lüneburg",
+                    "distanz": "43.40954296033",
+                    "longitude": "10.4193603",
+                    "latitude": "53.2511464",
+                    "telefon": "+49 4131 35933",
+                    "fax": "+49 4131 32849",
+                    "email": [],
+                    "startdatum": "09.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "10.10.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Privilegierte Apotheke",
+                    "kammer": "aksh",
+                    "id": "10409",
+                    "apo_id": "aksh10409",
+                    "strasse": "Klosterstr. 5",
+                    "plz": "23858",
+                    "ort": "Reinfeld",
+                    "distanz": "44.57290293042",
+                    "longitude": "10.4827901",
+                    "latitude": "53.8305026",
+                    "telefon": "04533-2622",
+                    "fax": "04533-4661",
+                    "email": "privilegierte-apotheke.reinfeld@apotheke-sh.de",
+                    "startdatum": "09.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "10.10.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Hubertus-Apotheke",
+                    "kammer": "aksh",
+                    "id": "10324",
+                    "apo_id": "aksh10324",
+                    "strasse": "Hauptstr. 54",
+                    "plz": "23879",
+                    "ort": "Mölln",
+                    "distanz": "46.20916837176",
+                    "longitude": "10.6864297",
+                    "latitude": "53.6271205",
+                    "telefon": "04542-2859",
+                    "fax": "04542-86781",
+                    "email": "apotheke.moelln@t-online.de",
+                    "startdatum": "09.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "10.10.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }
