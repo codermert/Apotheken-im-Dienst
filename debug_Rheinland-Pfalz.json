@@ -12,7 +12,7 @@
             "lat": "",
             "lng": "",
             "plzort": "Rheinland-Pfalz",
-            "radius": 45,
+            "radius": "25",
             "street": ""
         },
         "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
@@ -21,17 +21,17 @@
         "parameter": {
             "plzort": "Rheinland-Pfalz",
             "strasse": [],
-            "radius": "45.0",
+            "radius": "25.0",
             "longitude": "7.310645999999999",
             "latitude": "49.953159899999996",
             "limit": [],
             "datum": []
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "12451"
+            "verwendet": "14992"
         },
         "apotheken": {
             "apotheke": [
@@ -124,82 +124,6 @@
                     "latitude": "50.1741252",
                     "telefon": "+49 2672 1372",
                     "fax": "+49 2672 9159731",
-                    "email": [],
-                    "startdatum": "09.10.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "10.10.2025",
-                    "endzeit": "08:30"
-                },
-                {
-                    "name": "Engel-Apotheke",
-                    "kammer": "lakrlp",
-                    "id": "22555",
-                    "apo_id": "lakrlp22555",
-                    "strasse": "Hauptstr. 363",
-                    "plz": "55743",
-                    "ort": "Idar-Oberstein",
-                    "distanz": "27.89112665865",
-                    "longitude": "7.32412",
-                    "latitude": "49.70255",
-                    "telefon": "+49 6781 567298",
-                    "fax": "+49 6781 26599",
-                    "email": [],
-                    "startdatum": "09.10.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "10.10.2025",
-                    "endzeit": "08:30"
-                },
-                {
-                    "name": "Adler-Apotheke",
-                    "kammer": "lakrlp",
-                    "id": "21798",
-                    "apo_id": "lakrlp21798",
-                    "strasse": "Leopoldstr. 4",
-                    "plz": "54550",
-                    "ort": "Daun",
-                    "distanz": "43.8576063778",
-                    "longitude": "6.8298899",
-                    "latitude": "50.1975851",
-                    "telefon": "+49 6592 985266",
-                    "fax": "+49 6592 985267",
-                    "email": [],
-                    "startdatum": "09.10.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "10.10.2025",
-                    "endzeit": "08:30"
-                },
-                {
-                    "name": "Herz-Apotheke",
-                    "kammer": "lakrlp",
-                    "id": "22834",
-                    "apo_id": "lakrlp22834",
-                    "strasse": "Alzeyer Str. 23",
-                    "plz": "55457",
-                    "ort": "Gensingen",
-                    "distanz": "44.86425132062",
-                    "longitude": "7.92842",
-                    "latitude": "49.89299",
-                    "telefon": "+49 6727 894581",
-                    "fax": "+49 6727 894482",
-                    "email": [],
-                    "startdatum": "09.10.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "10.10.2025",
-                    "endzeit": "08:30"
-                },
-                {
-                    "name": "Adler-Apotheke",
-                    "kammer": "lakrlp",
-                    "id": "22161",
-                    "apo_id": "lakrlp22161",
-                    "strasse": "Hauptstr. 24",
-                    "plz": "67752",
-                    "ort": "Wolfstein",
-                    "distanz": "46.42681084562",
-                    "longitude": "7.6085462",
-                    "latitude": "49.5830161",
-                    "telefon": "+49 6304 92210",
-                    "fax": "+49 6304 922121",
                     "email": [],
                     "startdatum": "09.10.2025",
                     "startzeit": "08:30",
