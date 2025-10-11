@@ -37,27 +37,46 @@
             "anzahl": 8
         },
         "quota": {
-            "verwendet": "34195"
+            "verwendet": "36819"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Apotheke am Südpark",
+                    "name": "Pluspunkt-Apotheke im Anger 1",
                     "kammer": "lakt",
-                    "id": "2064",
-                    "apo_id": "lakt2064",
-                    "strasse": "Melchendorfer Straße 1",
-                    "plz": "99096",
+                    "id": "602",
+                    "apo_id": "lakt602",
+                    "strasse": "Anger 1",
+                    "plz": "99084",
                     "ort": "Erfurt",
-                    "distanz": "7.04095790792",
-                    "longitude": "11.0423574",
-                    "latitude": "50.9646973",
-                    "telefon": "+49 361 6448880",
+                    "distanz": "8.48630963645",
+                    "longitude": "11.0366094",
+                    "latitude": "50.9777519",
+                    "telefon": "+49 361 2621666",
                     "fax": [],
                     "email": [],
-                    "startdatum": "10.10.2025",
+                    "startdatum": "11.10.2025",
                     "startzeit": "09:00",
-                    "enddatum": "11.10.2025",
+                    "enddatum": "12.10.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Lilien-Apotheke",
+                    "kammer": "lakt",
+                    "id": "3991",
+                    "apo_id": "lakt3991",
+                    "strasse": "Domplatz 6/9",
+                    "plz": "99084",
+                    "ort": "Erfurt",
+                    "distanz": "8.54898929134",
+                    "longitude": "11.0248279",
+                    "latitude": "50.9778817",
+                    "telefon": "+49 361 6003742",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "11.10.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "12.10.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "12.10.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Adler-Apotheke",
-                    "kammer": "lakt",
-                    "id": "1",
-                    "apo_id": "lakt1",
-                    "strasse": "Magdeburger Allee 122",
-                    "plz": "99086",
-                    "ort": "Erfurt",
-                    "distanz": "10.60366304703",
-                    "longitude": "11.0265967",
-                    "latitude": "50.9965259",
-                    "telefon": "+49 361 7312112",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "10.10.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "11.10.2025",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Schloss-Apotheke",
