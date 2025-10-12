@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 34
+            "anzahl": 36
         },
         "quota": {
-            "verwendet": "150947"
+            "verwendet": "167899"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,6 +5762,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Fliesstal-Apotheke",
+                    "kammer": "lakbb",
+                    "id": "498",
+                    "apo_id": "lakbb498",
+                    "strasse": "Hauptstraße 32",
+                    "plz": "16552",
+                    "ort": "Mühlenbecker Land - OT Schildow",
+                    "distanz": "15.13963517817",
+                    "longitude": "13.38232",
+                    "latitude": "52.65303",
+                    "telefon": "+49 33056 75260",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "12.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "13.10.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "gesundleben Apotheke Mahlsdorf",
                     "kammer": "akb",
                     "id": "100003",
@@ -5773,25 +5792,6 @@
                     "longitude": "13.6119609",
                     "latitude": "52.513421",
                     "telefon": "+49 30 9918153",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "11.10.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "12.10.2025",
-                    "endzeit": "08:59"
-                },
-                {
-                    "name": "Die Dorotheen-Apotheke",
-                    "kammer": "akb",
-                    "id": "100398",
-                    "apo_id": "akb100398",
-                    "strasse": "Potsdamer Chaussee 80",
-                    "plz": "14129",
-                    "ort": "Berlin",
-                    "distanz": "15.40958469295",
-                    "longitude": "13.2166368",
-                    "latitude": "52.4269493",
-                    "telefon": "+49 30 8039579",
                     "fax": [],
                     "email": [],
                     "startdatum": "11.10.2025",
