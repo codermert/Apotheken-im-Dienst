@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 17
+            "anzahl": 16
         },
         "quota": {
-            "verwendet": "13156"
+            "verwendet": "13649"
         },
         "apotheken": {
             "apotheke": [
@@ -74,22 +74,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Uhlen Apotheke",
+                    "name": "Apotheke am Goetheplatz",
                     "kammer": "aknds",
-                    "id": "941",
-                    "apo_id": "aknds941",
-                    "strasse": "Rathausstr. 2",
-                    "plz": "31608",
-                    "ort": "Marklohe",
-                    "distanz": "20.764561643180002",
-                    "longitude": "9.1586733",
-                    "latitude": "52.6601345",
-                    "telefon": "+49 5021 15025",
-                    "fax": "+49 5021 910838",
+                    "id": "961",
+                    "apo_id": "aknds961",
+                    "strasse": "Goetheplatz 6",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "23.774463096319998",
+                    "longitude": "9.2096738",
+                    "latitude": "52.6422229",
+                    "telefon": "+49 5021 13100",
+                    "fax": "+49 5021 910919",
                     "email": [],
-                    "startdatum": "12.10.2025",
+                    "startdatum": "13.10.2025",
                     "startzeit": "08:00",
-                    "enddatum": "13.10.2025",
+                    "enddatum": "14.10.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -188,25 +188,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Rosen Apotheke",
-                    "kammer": "aknds",
-                    "id": "994",
-                    "apo_id": "aknds994",
-                    "strasse": "Hauptstr. 67",
-                    "plz": "31637",
-                    "ort": "Rodewald",
-                    "distanz": "34.50569836652",
-                    "longitude": "9.4860586",
-                    "latitude": "52.654873",
-                    "telefon": "+49 5074 202",
-                    "fax": "+49 5074 92093",
-                    "email": [],
-                    "startdatum": "12.10.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "13.10.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Löns-Apotheke",
                     "kammer": "aknds",
                     "id": "1496",
@@ -224,44 +205,6 @@
                     "startzeit": "09:00",
                     "enddatum": "13.10.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Vivas Apotheke Stolzenau",
-                    "kammer": "aknds",
-                    "id": "1049",
-                    "apo_id": "aknds1049",
-                    "strasse": "Allee 12",
-                    "plz": "31592",
-                    "ort": "Stolzenau",
-                    "distanz": "36.32761752474",
-                    "longitude": "9.0764753",
-                    "latitude": "52.5134014",
-                    "telefon": "+49 5761 9019866",
-                    "fax": "+49 5761 9019867",
-                    "email": [],
-                    "startdatum": "12.10.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "13.10.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Die Stadt-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1397",
-                    "apo_id": "aknds1397",
-                    "strasse": "Harburger Str. 12",
-                    "plz": "27356",
-                    "ort": "Rotenburg (Wümme)",
-                    "distanz": "37.73201343574",
-                    "longitude": "9.410834",
-                    "latitude": "53.1120661",
-                    "telefon": "+49 4261 960860",
-                    "fax": "+49 4261 960850",
-                    "email": [],
-                    "startdatum": "12.10.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "13.10.2025",
-                    "endzeit": "08:00"
                 },
                 {
                     "name": "Löns Apotheke",
@@ -302,6 +245,25 @@
                     "endzeit": "08:30"
                 },
                 {
+                    "name": "Rats-Apotheke Uchte",
+                    "kammer": "aknds",
+                    "id": "1074",
+                    "apo_id": "aknds1074",
+                    "strasse": "Mühlenstr. 15",
+                    "plz": "31600",
+                    "ort": "Uchte",
+                    "distanz": "39.65132017848",
+                    "longitude": "8.9061258",
+                    "latitude": "52.4988187",
+                    "telefon": "+49 5763 96090",
+                    "fax": "+49 5763 960923",
+                    "email": [],
+                    "startdatum": "13.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "14.10.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Apotheke am famila",
                     "kammer": "aknds",
                     "id": "6801",
@@ -319,6 +281,25 @@
                     "startzeit": "08:30",
                     "enddatum": "13.10.2025",
                     "endzeit": "08:30"
+                },
+                {
+                    "name": "Meyerhof-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1402",
+                    "apo_id": "aknds1402",
+                    "strasse": "Am Meyerhof 7",
+                    "plz": "27383",
+                    "ort": "Scheeßel",
+                    "distanz": "45.51131335644",
+                    "longitude": "9.479839",
+                    "latitude": "53.1683217",
+                    "telefon": "+49 4263 93190",
+                    "fax": "+49 4263 93193",
+                    "email": [],
+                    "startdatum": "13.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "14.10.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Apotheke am Bahnhof",
