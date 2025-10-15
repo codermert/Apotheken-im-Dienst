@@ -1267,7 +1267,7 @@
             "anzahl": 10
         },
         "quota": {
-            "verwendet": "15519"
+            "verwendet": "16927"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,23 +1310,42 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Polaris-Apotheke-Hasport",
+                    "name": "Bahnhof-Apotheke Delcare oHG",
                     "kammer": "aknds",
-                    "id": "6902",
-                    "apo_id": "aknds6902",
-                    "strasse": "Hasporter Damm 166",
-                    "plz": "27755",
+                    "id": "1665",
+                    "apo_id": "aknds1665",
+                    "strasse": "Bahnhofstr. 11 - 13",
+                    "plz": "27749",
                     "ort": "Delmenhorst",
-                    "distanz": "12.727373871760001",
-                    "longitude": "8.6511508",
-                    "latitude": "53.0333463",
-                    "telefon": "+49 4221 2927078",
-                    "fax": "+49 4221 2926171",
+                    "distanz": "11.25687064993",
+                    "longitude": "8.6299531",
+                    "latitude": "53.0511638",
+                    "telefon": "+49 4221 14506",
+                    "fax": "+49 4221 18661",
                     "email": [],
-                    "startdatum": "14.10.2025",
+                    "startdatum": "15.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "16.10.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Apotheke Bookholzberg",
+                    "kammer": "aknds",
+                    "id": "1752",
+                    "apo_id": "aknds1752",
+                    "strasse": "Stedinger Str. 63",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "12.15097528613",
+                    "longitude": "8.530713",
+                    "latitude": "53.0962681",
+                    "telefon": "+49 4223 3070",
+                    "fax": "+49 4223 1332",
+                    "email": [],
+                    "startdatum": "15.10.2025",
                     "startzeit": "08:30",
                     "enddatum": "15.10.2025",
-                    "endzeit": "08:30"
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Scharnhorst-Apotheke",
@@ -1441,25 +1460,6 @@
                     "startzeit": "09:00",
                     "enddatum": "15.10.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Mühlen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1795",
-                    "apo_id": "aknds1795",
-                    "strasse": "Burgstr. 17",
-                    "plz": "27243",
-                    "ort": "Harpstedt",
-                    "distanz": "27.171589531869998",
-                    "longitude": "8.5871724",
-                    "latitude": "52.909233",
-                    "telefon": "+49 4244 93530",
-                    "fax": "+49 4244 935353",
-                    "email": [],
-                    "startdatum": "14.10.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "15.10.2025",
-                    "endzeit": "08:30"
                 }
             ]
         }
