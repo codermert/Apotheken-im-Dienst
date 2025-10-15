@@ -34,10 +34,10 @@
             }
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 7
         },
         "quota": {
-            "verwendet": "15321"
+            "verwendet": "15729"
         },
         "apotheken": {
             "apotheke": [
@@ -61,22 +61,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Rosen-Apotheke",
+                    "name": "Stadt-Apotheke",
                     "kammer": "lakt",
-                    "id": "76",
-                    "apo_id": "lakt76",
-                    "strasse": "Stadtilmer Straße 5",
+                    "id": "1576",
+                    "apo_id": "lakt1576",
+                    "strasse": "Turnvater-Jahn-Straße 4",
                     "plz": "99310",
                     "ort": "Arnstadt",
-                    "distanz": "9.63920677606",
-                    "longitude": "10.9563088",
-                    "latitude": "50.8318337",
-                    "telefon": "+49 3628 600015",
+                    "distanz": "9.796130168600001",
+                    "longitude": "10.9456407",
+                    "latitude": "50.8354836",
+                    "telefon": "+49 3628 585840",
                     "fax": [],
                     "email": [],
-                    "startdatum": "14.10.2025",
+                    "startdatum": "15.10.2025",
                     "startzeit": "08:00",
-                    "enddatum": "15.10.2025",
+                    "enddatum": "16.10.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -99,60 +99,41 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke Remda",
+                    "name": "Löwen-Apotheke",
                     "kammer": "lakt",
-                    "id": "644",
-                    "apo_id": "lakt644",
-                    "strasse": "Remdaer Markt 3",
-                    "plz": "07407",
-                    "ort": "Rudolstadt, OT Remda",
-                    "distanz": "20.7578816422",
-                    "longitude": "11.2279641",
-                    "latitude": "50.7589547",
-                    "telefon": "+49 36744 22223",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "14.10.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "15.10.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Liszt-Apotheke",
-                    "kammer": "lakt",
-                    "id": "366",
-                    "apo_id": "lakt366",
-                    "strasse": "Lisztstr. 1",
+                    "id": "54",
+                    "apo_id": "lakt54",
+                    "strasse": "Goetheplatz 1",
                     "plz": "99423",
                     "ort": "Weimar",
-                    "distanz": "21.95985651008",
-                    "longitude": "11.3236855",
-                    "latitude": "50.9810788",
-                    "telefon": "+49 3643 53111",
+                    "distanz": "22.02206207683",
+                    "longitude": "11.3247387",
+                    "latitude": "50.980954",
+                    "telefon": "+49 3643 24760",
                     "fax": [],
                     "email": [],
-                    "startdatum": "14.10.2025",
+                    "startdatum": "15.10.2025",
                     "startzeit": "08:00",
-                    "enddatum": "15.10.2025",
+                    "enddatum": "16.10.2025",
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Apotheke an der Orangerie",
+                    "name": "Oststadt-Apotheke",
                     "kammer": "lakt",
-                    "id": "128",
-                    "apo_id": "lakt128",
-                    "strasse": "Helenenstr. 10",
+                    "id": "321",
+                    "apo_id": "lakt321",
+                    "strasse": "Kindleber Straße 99",
                     "plz": "99867",
                     "ort": "Gotha",
-                    "distanz": "23.34232876616",
-                    "longitude": "10.713515",
-                    "latitude": "50.9464353",
-                    "telefon": "+49 3621 403730",
+                    "distanz": "23.24451199482",
+                    "longitude": "10.7213597",
+                    "latitude": "50.9620911",
+                    "telefon": "+49 3621 406258",
                     "fax": [],
                     "email": [],
-                    "startdatum": "14.10.2025",
+                    "startdatum": "15.10.2025",
                     "startzeit": "08:00",
-                    "enddatum": "15.10.2025",
+                    "enddatum": "16.10.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -169,9 +150,9 @@
                     "telefon": "+49 36205 71463",
                     "fax": [],
                     "email": [],
-                    "startdatum": "14.10.2025",
+                    "startdatum": "15.10.2025",
                     "startzeit": "08:00",
-                    "enddatum": "15.10.2025",
+                    "enddatum": "16.10.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -188,9 +169,9 @@
                     "telefon": "+49 36738 43403",
                     "fax": [],
                     "email": [],
-                    "startdatum": "14.10.2025",
+                    "startdatum": "15.10.2025",
                     "startzeit": "08:00",
-                    "enddatum": "15.10.2025",
+                    "enddatum": "16.10.2025",
                     "endzeit": "08:00"
                 }
             ]
