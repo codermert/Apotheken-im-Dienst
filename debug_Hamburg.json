@@ -3194,7 +3194,7 @@
             "anzahl": 14
         },
         "quota": {
-            "verwendet": "136443"
+            "verwendet": "142876"
         },
         "apotheken": {
             "apotheke": [
@@ -3351,6 +3351,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Fleester Markt-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1422",
+                    "apo_id": "aknds1422",
+                    "strasse": "Fleestedter Ring 3",
+                    "plz": "21217",
+                    "ort": "Seevetal",
+                    "distanz": "15.66174434329",
+                    "longitude": "9.9902759",
+                    "latitude": "53.4097548",
+                    "telefon": "+49 4105 4385",
+                    "fax": "+49 4105 3430",
+                    "email": [],
+                    "startdatum": "16.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "17.10.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Vitalhus. Die Apotheke",
                     "kammer": "aksh",
                     "id": "10817",
@@ -3425,25 +3444,6 @@
                     "startzeit": "08:00",
                     "enddatum": "17.10.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Alte Rats-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1507",
-                    "apo_id": "aknds1507",
-                    "strasse": "Rathausstr. 22",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "24.94546823474",
-                    "longitude": "10.2075161",
-                    "latitude": "53.3632732",
-                    "telefon": "+49 4171 2206",
-                    "fax": "+49 4171 4436",
-                    "email": [],
-                    "startdatum": "15.10.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "16.10.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Hecht-Apotheke",
