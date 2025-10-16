@@ -453,88 +453,7 @@
       "mesafe": "20.8 km"
     }
   ],
-  "Baden-Württemberg": [
-    {
-      "eczaneAdi": "Adler-Apotheke Tübingen",
-      "adres": "Wilhelmstr. 158, 72074 Tübingen",
-      "telefon": "+49 7071 81178",
-      "enlem": "48.5314314",
-      "boylam": "9.0779321",
-      "mesafe": "2.8 km"
-    },
-    {
-      "eczaneAdi": "Paracelsus-Apotheke Nehren",
-      "adres": "Bahnhofstr. 10, 72147 Nehren",
-      "telefon": "+49 7473 3516",
-      "enlem": "48.42802",
-      "boylam": "9.06722",
-      "mesafe": "12.4 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Tübinger Tor",
-      "adres": "Katharinenstr. 28, 72764 Reutlingen",
-      "telefon": "+49 7121 339951",
-      "enlem": "48.4915049",
-      "boylam": "9.2089413",
-      "mesafe": "13.4 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Dr. Beranek",
-      "adres": "Bahnhofstr. 12, 71101 Schönaich",
-      "telefon": "+49 7031 657373",
-      "enlem": "48.66147",
-      "boylam": "9.05968",
-      "mesafe": "13.8 km"
-    },
-    {
-      "eczaneAdi": "Halden-Apotheke Stetten",
-      "adres": "Weidacher Steige 20, 70771 Leinfelden-Echterdingen",
-      "telefon": "+49 711 791979",
-      "enlem": "48.6710336",
-      "boylam": "9.1709285",
-      "mesafe": "17.6 km"
-    },
-    {
-      "eczaneAdi": "Atlas Apotheke Dagersheim",
-      "adres": "Hauptstr. 11, 71034 Böblingen",
-      "telefon": "+49 7031 671330",
-      "enlem": "48.6906818",
-      "boylam": "8.9507533",
-      "mesafe": "18.3 km"
-    },
-    {
-      "eczaneAdi": "Sonnen-Apotheke Großbettlingen",
-      "adres": "Nürtinger Str. 58, 72663 Großbettlingen",
-      "telefon": "+49 7022 44644",
-      "enlem": "48.5923275",
-      "boylam": "9.3092046",
-      "mesafe": "20.7 km"
-    },
-    {
-      "eczaneAdi": "Pinguin-Apotheke Nagold",
-      "adres": "Turmstr. 20, 72202 Nagold",
-      "telefon": "+49 7452 2003",
-      "enlem": "48.551547",
-      "boylam": "8.7243297",
-      "mesafe": "23.4 km"
-    },
-    {
-      "eczaneAdi": "Hubertus-Apotheke Stuttgart",
-      "adres": "Liststr. 38, 70180 Stuttgart",
-      "telefon": "+49 711 602282",
-      "enlem": "48.76343",
-      "boylam": "9.17272",
-      "mesafe": "26.9 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Oberboihingen",
-      "adres": "Bahnhofstr. 2, 72644 Oberboihingen",
-      "telefon": "+49 7022 64987",
-      "enlem": "48.6479169",
-      "boylam": "9.36592",
-      "mesafe": "26.9 km"
-    }
-  ],
+  "Baden-Württemberg": [],
   "Bayern": [
     {
       "eczaneAdi": "Rathaus-Apotheke",
@@ -873,14 +792,6 @@
       "mesafe": "0.2 km"
     },
     {
-      "eczaneAdi": "Apotheke am Park",
-      "adres": "Zu den Wiesen 9, 18279 Lalendorf",
-      "telefon": "+49 38452 20592",
-      "enlem": "53.75746",
-      "boylam": "12.38463",
-      "mesafe": "12.7 km"
-    },
-    {
       "eczaneAdi": "Schloss-Apotheke",
       "adres": "Schlossstraße 23, 17159 Dargun",
       "telefon": "+49 39959 337177",
@@ -895,6 +806,94 @@
       "enlem": "53.8080658",
       "boylam": "12.1914359",
       "mesafe": "25.6 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Tessinum",
+      "adres": "Karl-Marx-Straße 14, 18195 Tessin",
+      "telefon": "+49 38205 71766",
+      "enlem": "54.0275934",
+      "boylam": "12.4611487",
+      "mesafe": "29.3 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Papenberg",
+      "adres": "Rosa-Luxemburg-Str. 20b, 17192 Waren",
+      "telefon": "+49 3991 668877",
+      "enlem": "53.50911",
+      "boylam": "12.69992",
+      "mesafe": "30.6 km"
+    },
+    {
+      "eczaneAdi": "Pommern-Apotheke",
+      "adres": "Adolf-Pompe-Str. 24, 17109 Demmin",
+      "telefon": "+49 3998 362366",
+      "enlem": "53.90266",
+      "boylam": "13.04724",
+      "mesafe": "34.2 km"
+    },
+    {
+      "eczaneAdi": "Rosenhof-Apotheke",
+      "adres": "Stavenhagener  Str. 25, 17091 Rosenow",
+      "telefon": "+49 39602 20480",
+      "enlem": "53.6278546",
+      "boylam": "13.0355102",
+      "mesafe": "34.4 km"
+    },
+    {
+      "eczaneAdi": "Hubertus-Apotheke",
+      "adres": "Lange Str. 44, 17213 Malchow",
+      "telefon": "+49 39932 13345",
+      "enlem": "53.4752449",
+      "boylam": "12.4305189",
+      "mesafe": "34.6 km"
+    },
+    {
+      "eczaneAdi": "Schwanen-Apotheke",
+      "adres": "EKZ Mühlenteichplatz, 18258 Schwaan",
+      "telefon": "+49 3844 814219",
+      "enlem": "53.939859",
+      "boylam": "12.1076632",
+      "mesafe": "35.9 km"
+    },
+    {
+      "eczaneAdi": "Recknitztal-Apotheke",
+      "adres": "Am Markt 15, 18334 Bad Sülze",
+      "telefon": "+49 38229 7020",
+      "enlem": "54.1101836",
+      "boylam": "12.660129",
+      "mesafe": "37.9 km"
+    },
+    {
+      "eczaneAdi": "Plawe-Apotheke",
+      "adres": "Steinstr. 42, 19395 Plau",
+      "telefon": "+49 38735 42196",
+      "enlem": "53.4588403",
+      "boylam": "12.2617275",
+      "mesafe": "40.7 km"
+    },
+    {
+      "eczaneAdi": "Apotheke an der Stadthalle",
+      "adres": "Pütterweg 1, 18059 Rostock",
+      "telefon": "+49 381 448437",
+      "enlem": "54.0763397",
+      "boylam": "12.1214286",
+      "mesafe": "45.0 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Kritzmow-Park",
+      "adres": "Am Karauschensoll 1, 18198 Kritzmow",
+      "telefon": "+49 38207 75250",
+      "enlem": "54.0502744",
+      "boylam": "12.0463363",
+      "mesafe": "46.5 km"
+    },
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Mühlenstr. 2, 18507 Grimmen",
+      "telefon": "+49 38326 2390",
+      "enlem": "54.1126491",
+      "boylam": "13.0424136",
+      "mesafe": "48.6 km"
     }
   ],
   "Niedersachsen": [
