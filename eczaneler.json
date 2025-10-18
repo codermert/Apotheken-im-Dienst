@@ -177,14 +177,6 @@
       "mesafe": "13.0 km"
     },
     {
-      "eczaneAdi": "Apotheke im Sonnengarten",
-      "adres": "Märkische Allee 76, 16548 Glienicke/Nordbahn",
-      "telefon": "+49 33056 42996",
-      "enlem": "52.6313669",
-      "boylam": "13.3230005",
-      "mesafe": "13.5 km"
-    },
-    {
       "eczaneAdi": "Storchen-Apotheke",
       "adres": "Schulzendorfer Str. 70, 13503 Berlin",
       "telefon": "+49 30 4313204",
@@ -193,11 +185,19 @@
       "mesafe": "15.1 km"
     },
     {
-      "eczaneAdi": "Apotheke im Gesundheitszentrum Teltow",
-      "adres": "Potsdamer Straße 7/9, 14513 Teltow",
-      "telefon": "+49 3328 302920",
-      "enlem": "52.3970082",
-      "boylam": "13.2445256",
+      "eczaneAdi": "Teltow Apotheke",
+      "adres": "Oderstraße 29, 14513 Teltow",
+      "telefon": "+49 3328 3345678",
+      "enlem": "52.4037538",
+      "boylam": "13.2523341",
+      "mesafe": "15.7 km"
+    },
+    {
+      "eczaneAdi": "Fortuna-Apotheke",
+      "adres": "Hauptstraße 14, 16567 Mühlenbecker Land - OT Mühlenbeck",
+      "telefon": "+49 33056 74488",
+      "enlem": "52.6658452",
+      "boylam": "13.3797557",
       "mesafe": "16.6 km"
     }
   ],
@@ -381,6 +381,30 @@
       "mesafe": "11.6 km"
     },
     {
+      "eczaneAdi": "Maximilian-Apotheke",
+      "adres": "Markt 17, 21509 Glinde",
+      "telefon": "040-7111807",
+      "enlem": "53.5423621",
+      "boylam": "10.2137637",
+      "mesafe": "14.2 km"
+    },
+    {
+      "eczaneAdi": "Eichen-Apotheke",
+      "adres": "Hauptstr. 36, 25469 Halstenbek",
+      "telefon": "04101-45204",
+      "enlem": "53.6356491",
+      "boylam": "9.8400326",
+      "mesafe": "14.3 km"
+    },
+    {
+      "eczaneAdi": "Glashütter Apotheke",
+      "adres": "Tangstedter Landstr. 555, 22851 Norderstedt",
+      "telefon": "040-5244681",
+      "enlem": "53.683",
+      "boylam": "10.03132",
+      "mesafe": "14.9 km"
+    },
+    {
       "eczaneAdi": "Apotheke am Rathaus",
       "adres": "Wentorfer Straße 35, 21029 Hamburg",
       "telefon": "+49 40 7214147",
@@ -397,36 +421,20 @@
       "mesafe": "16.6 km"
     },
     {
-      "eczaneAdi": "Erlen-Apotheke",
-      "adres": "Erlengang 2-10, 22844 Norderstedt",
-      "telefon": "040-5222698",
-      "enlem": "53.72775",
-      "boylam": "9.99686",
-      "mesafe": "19.7 km"
+      "eczaneAdi": "Unsere Apotheke in Buxtehude",
+      "adres": "Konrad-Adenauer-Allee 3, 21614 Buxtehude",
+      "telefon": "+49 4161 500380",
+      "enlem": "53.47052",
+      "boylam": "9.71473",
+      "mesafe": "20.9 km"
     },
     {
-      "eczaneAdi": "Barlach-Apotheke",
-      "adres": "Bahnhofstr. 38-40, 22880 Wedel",
-      "telefon": "04103-87556",
-      "enlem": "53.5773515",
-      "boylam": "9.7051496",
-      "mesafe": "19.8 km"
-    },
-    {
-      "eczaneAdi": "West-Apotheke",
-      "adres": "Wulfsdorfer Weg 93, 22926 Ahrensburg",
-      "telefon": "04102-999634",
-      "enlem": "53.67244",
-      "boylam": "10.22087",
-      "mesafe": "19.9 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Aumühle",
-      "adres": "Hofriedeallee 22, 21521 Aumühle",
-      "telefon": "04104-1665",
-      "enlem": "53.52642",
-      "boylam": "10.3059",
-      "mesafe": "20.4 km"
+      "eczaneAdi": "Schloss-Apotheke",
+      "adres": "Große Str. 2, 22926 Ahrensburg",
+      "telefon": "04102-54111",
+      "enlem": "53.6769134",
+      "boylam": "10.2398844",
+      "mesafe": "21.2 km"
     },
     {
       "eczaneAdi": "Luhe-Apotheke",
@@ -445,12 +453,20 @@
       "mesafe": "26.0 km"
     },
     {
-      "eczaneAdi": "Alster-Apotheke",
-      "adres": "Mittelweg 7, 23863 Bargfeld-Stegen",
-      "telefon": "04532-5555",
-      "enlem": "53.76734",
-      "boylam": "10.18623",
-      "mesafe": "27.1 km"
+      "eczaneAdi": "Rathaus - Apotheke",
+      "adres": "Rathausstr. 11, 22941 Bargteheide",
+      "telefon": "04532-3111",
+      "enlem": "53.7300119",
+      "boylam": "10.264715",
+      "mesafe": "26.6 km"
+    },
+    {
+      "eczaneAdi": "Pluspunkt Apotheke Uetersen",
+      "adres": "Großer Sand 12, 25436 Uetersen",
+      "telefon": "04122-9278270",
+      "enlem": "53.6829075",
+      "boylam": "9.6655415",
+      "mesafe": "26.6 km"
     }
   ],
   "Baden-Württemberg": [
@@ -627,44 +643,52 @@
   ],
   "Brandenburg": [
     {
-      "eczaneAdi": "Regenbogen-Apotheke",
-      "adres": "Bernauer Straße 68, 16515 Oranienburg",
-      "telefon": "+49 3301 201400",
-      "enlem": "52.757437",
-      "boylam": "13.2482259",
-      "mesafe": "9.8 km"
+      "eczaneAdi": "Preussen Apotheke Oranienburg",
+      "adres": "Bernauer Straße 100, 16515 Oranienburg",
+      "telefon": "+49 3301 81910",
+      "enlem": "52.7584676",
+      "boylam": "13.2530331",
+      "mesafe": "9.7 km"
     },
     {
-      "eczaneAdi": "Einhorn Apotheke",
-      "adres": "Berliner Straße 12 a, 16556 Hohen Neuendorf - OT Borgsdorf",
-      "telefon": "+49 3303 504732",
-      "enlem": "52.7120216",
-      "boylam": "13.2768827",
-      "mesafe": "15.0 km"
+      "eczaneAdi": "Adler-Apotheke",
+      "adres": "Am Markt 7, 16766 Kremmen",
+      "telefon": "+49 33055 7780",
+      "enlem": "52.76044",
+      "boylam": "13.02506",
+      "mesafe": "17.7 km"
     },
     {
-      "eczaneAdi": "Linden-Apotheke",
-      "adres": "Prenzlauer Chaussee 132, 16348 Wandlitz",
-      "telefon": "+49 33397 22139",
-      "enlem": "52.75123",
-      "boylam": "13.46851",
+      "eczaneAdi": "Concordia-Apotheke",
+      "adres": "Breite Straße 75, 16727 Velten",
+      "telefon": "+49 3304 502418",
+      "enlem": "52.68863",
+      "boylam": "13.18286",
+      "mesafe": "18.0 km"
+    },
+    {
+      "eczaneAdi": "Rosen-Apotheke",
+      "adres": "Prenzlauer Chaussee 164, 16348 Wandlitz",
+      "telefon": "+49 33397 645870",
+      "enlem": "52.7556102",
+      "boylam": "13.4727457",
       "mesafe": "18.3 km"
     },
     {
-      "eczaneAdi": "Alte Stahl Apotheke",
-      "adres": "Havelpassage 3, 16761 Hennigsdorf",
-      "telefon": "03302   /868 10",
-      "enlem": "52.6369494",
-      "boylam": "13.203281",
-      "mesafe": "23.4 km"
+      "eczaneAdi": "Fortuna-Apotheke",
+      "adres": "Hauptstraße 14, 16567 Mühlenbecker Land - OT Mühlenbeck",
+      "telefon": "+49 33056 74488",
+      "enlem": "52.6658452",
+      "boylam": "13.3797557",
+      "mesafe": "21.9 km"
     },
     {
-      "eczaneAdi": "Apotheke im Sonnengarten",
-      "adres": "Märkische Allee 76, 16548 Glienicke/Nordbahn",
-      "telefon": "+49 33056 42996",
-      "enlem": "52.6313669",
-      "boylam": "13.3230005",
-      "mesafe": "24.4 km"
+      "eczaneAdi": "Lindow Apotheke",
+      "adres": "Rheinsberger Straße 2, 16835 Lindow (Mark)",
+      "telefon": "+49 33933 900320",
+      "enlem": "52.97618",
+      "boylam": "12.98677",
+      "mesafe": "22.7 km"
     },
     {
       "eczaneAdi": "Storchen-Apotheke",
@@ -741,20 +765,20 @@
       "mesafe": "16.1 km"
     },
     {
+      "eczaneAdi": "Anker-Apotheke",
+      "adres": "Steinstr. 25, 26931 Elsfleth",
+      "telefon": "+49 4404 2189",
+      "enlem": "53.2354695",
+      "boylam": "8.4612494",
+      "mesafe": "18.5 km"
+    },
+    {
       "eczaneAdi": "Kranich Apotheke",
       "adres": "Amtsdamm 39, 27628 Hagen im Bremischen",
       "telefon": "+49 4746 951060",
       "enlem": "53.3555124",
       "boylam": "8.6430292",
       "mesafe": "23.7 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Kröger",
-      "adres": "Weserstr. 80, 26919 Brake",
-      "telefon": "+49 4401 930240",
-      "enlem": "53.3336661",
-      "boylam": "8.4635966",
-      "mesafe": "26.0 km"
     }
   ],
   "Hessen": [
