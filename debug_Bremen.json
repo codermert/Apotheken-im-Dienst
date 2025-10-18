@@ -1267,7 +1267,7 @@
             "anzahl": 10
         },
         "quota": {
-            "verwendet": "30762"
+            "verwendet": "32965"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,6 +1310,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Heide-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1747",
+                    "apo_id": "aknds1747",
+                    "strasse": "Schönemoorer Landstr. 6",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "9.2016662908",
+                    "longitude": "8.6217333",
+                    "latitude": "53.0742622",
+                    "telefon": "+49 4221 43949",
+                    "fax": "+49 4221 44049",
+                    "email": [],
+                    "startdatum": "18.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "19.10.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Adler-Apotheke",
                     "kammer": "akbr",
                     "id": "10000",
@@ -1327,25 +1346,6 @@
                     "startzeit": "09:00",
                     "enddatum": "18.10.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Schauburg-Apotheke Delcare oHG",
-                    "kammer": "aknds",
-                    "id": "1674",
-                    "apo_id": "aknds1674",
-                    "strasse": "Lange Str. 35",
-                    "plz": "27749",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.506726582110002",
-                    "longitude": "8.6309963",
-                    "latitude": "53.0484986",
-                    "telefon": "+49 4221 13597",
-                    "fax": "+49 4221 16621",
-                    "email": [],
-                    "startdatum": "17.10.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "18.10.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Fontane Apotheke",
@@ -1384,6 +1384,25 @@
                     "startzeit": "09:00",
                     "enddatum": "18.10.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Süd Apotheke",
+                    "kammer": "aknds",
+                    "id": "1679",
+                    "apo_id": "aknds1679",
+                    "strasse": "Düsternortstr. 114",
+                    "plz": "27755",
+                    "ort": "Delmenhorst",
+                    "distanz": "12.97849030241",
+                    "longitude": "8.6395399",
+                    "latitude": "53.0328179",
+                    "telefon": "+49 4221 96630",
+                    "fax": "+49 4221 966320",
+                    "email": [],
+                    "startdatum": "18.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "19.10.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Eulen-Apotheke",
@@ -1441,25 +1460,6 @@
                     "startzeit": "08:00",
                     "enddatum": "19.10.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Kranich Apotheke",
-                    "kammer": "aknds",
-                    "id": "1265",
-                    "apo_id": "aknds1265",
-                    "strasse": "Amtsdamm 39",
-                    "plz": "27628",
-                    "ort": "Hagen im Bremischen",
-                    "distanz": "23.681015648789998",
-                    "longitude": "8.6430292",
-                    "latitude": "53.3555124",
-                    "telefon": "+49 4746 951060",
-                    "fax": "+49 4746 951061",
-                    "email": [],
-                    "startdatum": "17.10.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "18.10.2025",
-                    "endzeit": "08:30"
                 }
             ]
         }
