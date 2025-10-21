@@ -31,65 +31,27 @@
             "anzahl": 5
         },
         "quota": {
-            "verwendet": "27400"
+            "verwendet": "28783"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Morsumer Apotheke",
+                    "name": "Brunsviga-Apotheke",
                     "kammer": "aknds",
-                    "id": "1528",
-                    "apo_id": "aknds1528",
-                    "strasse": "Verdener Str. 19",
+                    "id": "1459",
+                    "apo_id": "aknds1459",
+                    "strasse": "Syker Str. 2",
                     "plz": "27321",
                     "ort": "Thedinghausen",
-                    "distanz": "13.04936147193",
-                    "longitude": "9.0780221",
-                    "latitude": "52.9571079",
-                    "telefon": "+49 4204 1611",
-                    "fax": "+49 4204 69918",
+                    "distanz": "14.10560790023",
+                    "longitude": "9.0206814",
+                    "latitude": "52.9621189",
+                    "telefon": "+49 4204 406",
+                    "fax": "+49 4204 69533",
                     "email": [],
-                    "startdatum": "20.10.2025",
+                    "startdatum": "21.10.2025",
                     "startzeit": "09:00",
-                    "enddatum": "21.10.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Weser-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1121",
-                    "apo_id": "aknds1121",
-                    "strasse": "Verdener Str. 157",
-                    "plz": "28832",
-                    "ort": "Achim",
-                    "distanz": "17.63445844252",
-                    "longitude": "9.080738",
-                    "latitude": "52.9982893",
-                    "telefon": "+49 4202 979197",
-                    "fax": "+49 4202 76104",
-                    "email": [],
-                    "startdatum": "20.10.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "21.10.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Rats-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1066",
-                    "apo_id": "aknds1066",
-                    "strasse": "Herrlichkeit 12",
-                    "plz": "28857",
-                    "ort": "Syke",
-                    "distanz": "18.64159821497",
-                    "longitude": "8.8279949",
-                    "latitude": "52.9143802",
-                    "telefon": "+49 4242 2001",
-                    "fax": "+49 4242 2002",
-                    "email": [],
-                    "startdatum": "20.10.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "21.10.2025",
+                    "enddatum": "22.10.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -112,6 +74,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Apotheke bei Dodenhof",
+                    "kammer": "aknds",
+                    "id": "2701",
+                    "apo_id": "aknds2701",
+                    "strasse": "Posthausen 1",
+                    "plz": "28870",
+                    "ort": "Ottersberg",
+                    "distanz": "25.365282849390002",
+                    "longitude": "9.1708141",
+                    "latitude": "53.0604662",
+                    "telefon": "+49 4297 816816",
+                    "fax": "+49 4297 816818",
+                    "email": [],
+                    "startdatum": "21.10.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "22.10.2025",
+                    "endzeit": "09:00"
+                },
+                {
                     "name": "Stern-Apotheke",
                     "kammer": "aknds",
                     "id": "938",
@@ -129,6 +110,25 @@
                     "startzeit": "08:00",
                     "enddatum": "22.10.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "antares-apotheke",
+                    "kammer": "akbr",
+                    "id": "10040",
+                    "apo_id": "akbr10040",
+                    "strasse": "Hannoversche Str. 69",
+                    "plz": "28309",
+                    "ort": "Bremen",
+                    "distanz": "26.88627571124",
+                    "longitude": "8.88556",
+                    "latitude": "53.05232",
+                    "telefon": "+49 421 6963570",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "21.10.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "22.10.2025",
+                    "endzeit": "09:00"
                 }
             ]
         }
