@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 7
         },
         "quota": {
-            "verwendet": "26448"
+            "verwendet": "27176"
         },
         "apotheken": {
             "apotheke": [
@@ -74,6 +74,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Uhlen Apotheke",
+                    "kammer": "aknds",
+                    "id": "941",
+                    "apo_id": "aknds941",
+                    "strasse": "Rathausstr. 2",
+                    "plz": "31608",
+                    "ort": "Marklohe",
+                    "distanz": "20.764561643180002",
+                    "longitude": "9.1586733",
+                    "latitude": "52.6601345",
+                    "telefon": "+49 5021 15025",
+                    "fax": "+49 5021 910838",
+                    "email": [],
+                    "startdatum": "23.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "24.10.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Storchen-Apotheke",
                     "kammer": "aknds",
                     "id": "1122",
@@ -110,6 +129,25 @@
                     "startzeit": "08:30",
                     "enddatum": "23.10.2025",
                     "endzeit": "08:30"
+                },
+                {
+                    "name": "Brunnen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1061",
+                    "apo_id": "aknds1061",
+                    "strasse": "Lange Str. 9",
+                    "plz": "27232",
+                    "ort": "Sulingen",
+                    "distanz": "25.00528910764",
+                    "longitude": "8.8111754",
+                    "latitude": "52.6827223",
+                    "telefon": "+49 4271 93300",
+                    "fax": "+49 4271 933035",
+                    "email": [],
+                    "startdatum": "23.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "24.10.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "farma-plus Apotheke Briseck",
