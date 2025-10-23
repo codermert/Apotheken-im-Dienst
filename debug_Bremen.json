@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "27053"
+            "verwendet": "29334"
         },
         "apotheken": {
             "apotheke": [
@@ -1289,25 +1289,6 @@
                     "startzeit": "09:00",
                     "enddatum": "23.10.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Anker Apotheke",
-                    "kammer": "aknds",
-                    "id": "1664",
-                    "apo_id": "aknds1664",
-                    "strasse": "Mühlenstr. 31",
-                    "plz": "27753",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.03481046511",
-                    "longitude": "8.6236758",
-                    "latitude": "53.0549856",
-                    "telefon": "+49 4221 14489",
-                    "fax": "+49 4221 14907",
-                    "email": [],
-                    "startdatum": "22.10.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "23.10.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Zentrum-Apotheke",
@@ -1365,6 +1346,44 @@
                     "startzeit": "09:00",
                     "enddatum": "23.10.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Moorkamp-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1673",
+                    "apo_id": "aknds1673",
+                    "strasse": "Brendelweg 5",
+                    "plz": "27755",
+                    "ort": "Delmenhorst",
+                    "distanz": "13.37795548676",
+                    "longitude": "8.6228754",
+                    "latitude": "53.032369",
+                    "telefon": "+49 4221 25055",
+                    "fax": "+49 4221 25056",
+                    "email": [],
+                    "startdatum": "23.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "24.10.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Flores-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1817",
+                    "apo_id": "aknds1817",
+                    "strasse": "Parkstr. 47",
+                    "plz": "27798",
+                    "ort": "Hude",
+                    "distanz": "16.22079185705",
+                    "longitude": "8.4566718",
+                    "latitude": "53.1132591",
+                    "telefon": "+49 4408 6363",
+                    "fax": "+49 4408 970631",
+                    "email": [],
+                    "startdatum": "23.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "23.10.2025",
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "farma-plus Apotheke Briseck",
