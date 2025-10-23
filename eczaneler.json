@@ -941,14 +941,6 @@
       "mesafe": "16.0 km"
     },
     {
-      "eczaneAdi": "Flores-Apotheke",
-      "adres": "Parkstr. 47, 27798 Hude",
-      "telefon": "+49 4408 6363",
-      "enlem": "53.1132591",
-      "boylam": "8.4566718",
-      "mesafe": "16.2 km"
-    },
-    {
       "eczaneAdi": "Geest-Apotheke",
       "adres": "Hauptstr. 20, 27801 Dötlingen",
       "telefon": "+49 4432 94233",
@@ -1001,36 +993,44 @@
       "mesafe": "12.5 km"
     },
     {
-      "eczaneAdi": "Recknitztal-Apotheke",
-      "adres": "Breesener Str. 37, 18299 Laage",
-      "telefon": "+49 38459 36235",
-      "enlem": "53.9277616",
-      "boylam": "12.3460061",
-      "mesafe": "22.9 km"
-    },
-    {
-      "eczaneAdi": "Hubertus-Apotheke",
-      "adres": "Friedensstr. 29, 17179 Gnoien",
-      "telefon": "+49 39971 1830",
-      "enlem": "53.9693156",
-      "boylam": "12.7102512",
-      "mesafe": "23.5 km"
-    },
-    {
-      "eczaneAdi": "Fritz-Reuter-Apotheke",
-      "adres": "Am Markt 16, 17153 Reuterstadt Stavenhagen",
-      "telefon": "+49 39954 21082",
-      "enlem": "53.6957432",
-      "boylam": "12.9085263",
-      "mesafe": "23.6 km"
-    },
-    {
       "eczaneAdi": "Apotheke am Wall",
       "adres": "Hageböcker Str. 19, 18273 Güstrow",
       "telefon": "+49 3843 684096",
       "enlem": "53.7934156",
       "boylam": "12.1714502",
       "mesafe": "26.7 km"
+    },
+    {
+      "eczaneAdi": "da Vinci-Apotheke am Bahnhof",
+      "adres": "Beethovenstr. 1, 17192 Waren",
+      "telefon": "+49 3991 631384",
+      "enlem": "53.5202876",
+      "boylam": "12.6826483",
+      "mesafe": "29.1 km"
+    },
+    {
+      "eczaneAdi": "Pommern-Apotheke",
+      "adres": "Adolf-Pompe-Str. 24, 17109 Demmin",
+      "telefon": "+49 3998 362366",
+      "enlem": "53.90266",
+      "boylam": "13.04724",
+      "mesafe": "34.2 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Offering",
+      "adres": "Hansestraße 37, 18182 Bentwisch",
+      "telefon": "+49 381 2014130",
+      "enlem": "54.1158913",
+      "boylam": "12.1917408",
+      "mesafe": "45.7 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Brink",
+      "adres": "Wismarsche Str. 4, 18057 Rostock",
+      "telefon": "+49 381 3750867",
+      "enlem": "54.0877079",
+      "boylam": "12.1226767",
+      "mesafe": "45.9 km"
     }
   ],
   "Niedersachsen": [
