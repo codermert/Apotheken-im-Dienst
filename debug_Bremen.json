@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "29581"
+            "verwendet": "31804"
         },
         "apotheken": {
             "apotheke": [
@@ -1289,6 +1289,25 @@
                     "startzeit": "09:00",
                     "enddatum": "24.10.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Spitzweg Apotheke (im Kaufland)",
+                    "kammer": "aknds",
+                    "id": "1684",
+                    "apo_id": "aknds1684",
+                    "strasse": "Stedinger Str. 101",
+                    "plz": "27753",
+                    "ort": "Delmenhorst",
+                    "distanz": "10.20032902012",
+                    "longitude": "8.6305287",
+                    "latitude": "53.0613418",
+                    "telefon": "+49 4221 588225",
+                    "fax": "+49 4221 588224",
+                    "email": [],
+                    "startdatum": "24.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "25.10.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Stern-Apotheke",
@@ -1367,25 +1386,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Moorkamp-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1673",
-                    "apo_id": "aknds1673",
-                    "strasse": "Brendelweg 5",
-                    "plz": "27755",
-                    "ort": "Delmenhorst",
-                    "distanz": "13.37795548676",
-                    "longitude": "8.6228754",
-                    "latitude": "53.032369",
-                    "telefon": "+49 4221 25055",
-                    "fax": "+49 4221 25056",
-                    "email": [],
-                    "startdatum": "23.10.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "24.10.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Kaisen Apotheke",
                     "kammer": "akbr",
                     "id": "10092",
@@ -1403,6 +1403,25 @@
                     "startzeit": "09:00",
                     "enddatum": "24.10.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Ring-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1749",
+                    "apo_id": "aknds1749",
+                    "strasse": "Ring 26",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.89569036873",
+                    "longitude": "8.5473054",
+                    "latitude": "53.03225",
+                    "telefon": "+49 4222 950288",
+                    "fax": "+49 4222 950290",
+                    "email": [],
+                    "startdatum": "24.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "24.10.2025",
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Hemelinger Apotheke",
