@@ -3191,13 +3191,32 @@
             ]
         },
         "statistik": {
-            "anzahl": 19
+            "anzahl": 20
         },
         "quota": {
-            "verwendet": "31330"
+            "verwendet": "32405"
         },
         "apotheken": {
             "apotheke": [
+                {
+                    "name": "HafenCity Apotheke",
+                    "kammer": "akh",
+                    "id": "12059",
+                    "apo_id": "akh12059",
+                    "strasse": "Überseeboulevard 7",
+                    "plz": "20457",
+                    "ort": "Hamburg",
+                    "distanz": "0.81246546",
+                    "longitude": "9.99748",
+                    "latitude": "53.54329",
+                    "telefon": "+49 40 83504401",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "27.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "28.10.2025",
+                    "endzeit": "08:30"
+                },
                 {
                     "name": "Apotheke an der Elbphilharmonie",
                     "kammer": "akh",
@@ -3349,25 +3368,6 @@
                     "startzeit": "09:00",
                     "enddatum": "27.10.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Niedersachsen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1419",
-                    "apo_id": "aknds1419",
-                    "strasse": "Kürbsweg 8",
-                    "plz": "21217",
-                    "ort": "Seevetal",
-                    "distanz": "14.39666943502",
-                    "longitude": "10.0228494",
-                    "latitude": "53.4216647",
-                    "telefon": "+49 40 7686722",
-                    "fax": "+49 40 7685173",
-                    "email": [],
-                    "startdatum": "26.10.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "27.10.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Elefanten-Apotheke",
@@ -3568,6 +3568,25 @@
                         "nachname": "Schulz",
                         "position": "Inhaber"
                     }
+                },
+                {
+                    "name": "wir leben-Apotheke am Bahnhof",
+                    "kammer": "aknds",
+                    "id": "1509",
+                    "apo_id": "aknds1509",
+                    "strasse": "Bahnhofstr. 67",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "25.60830350646",
+                    "longitude": "10.2061221",
+                    "latitude": "53.3556573",
+                    "telefon": "+49 4171 71460",
+                    "fax": "+49 4171 75478",
+                    "email": [],
+                    "startdatum": "27.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "28.10.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Stadt-Apotheke",
