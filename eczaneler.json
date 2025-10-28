@@ -575,7 +575,64 @@
       "mesafe": "27.3 km"
     }
   ],
-  "Bayern": [],
+  "Bayern": [
+    {
+      "eczaneAdi": "Regenbogen-Apotheke",
+      "adres": "Berliner Str. 17, 85051 Ingolstadt",
+      "telefon": "+49 841 3705780",
+      "enlem": "48.7393157",
+      "boylam": "11.4092927",
+      "mesafe": "23.1 km"
+    },
+    {
+      "eczaneAdi": "Apotheke der Barmherzigen Brüder",
+      "adres": "Bahnhofstr. B 107, 86633 Neuburg a. d. Donau",
+      "telefon": "+49 8431 7031",
+      "enlem": "48.7310337",
+      "boylam": "11.1769032",
+      "mesafe": "29.2 km"
+    },
+    {
+      "eczaneAdi": "Sofien-Apotheke",
+      "adres": "Krankenhausstr. 1 A, 93333 Neustadt a. d. Donau",
+      "telefon": "+49 9445 446",
+      "enlem": "48.8070912",
+      "boylam": "11.763261",
+      "mesafe": "30.6 km"
+    },
+    {
+      "eczaneAdi": "Margarethen-Apotheke",
+      "adres": "Marktstr. 4, 85084 Reichertshofen",
+      "telefon": "+49 8453 1484",
+      "enlem": "48.657582",
+      "boylam": "11.46751",
+      "mesafe": "32.5 km"
+    },
+    {
+      "eczaneAdi": "Einhorn-Apotheke",
+      "adres": "Rosenstr. 3, 91781 Weißenburg",
+      "telefon": "+49 9141 2307",
+      "enlem": "49.0312463",
+      "boylam": "10.9713222",
+      "mesafe": "33.0 km"
+    },
+    {
+      "eczaneAdi": "Centro-Apotheke",
+      "adres": "Schäfflerstr. 1, 93309 Kelheim",
+      "telefon": "+49 9441 178330",
+      "enlem": "48.9215819",
+      "boylam": "11.8841336",
+      "mesafe": "35.3 km"
+    },
+    {
+      "eczaneAdi": "Wildbad-Apotheke",
+      "adres": "Badstr. 6, 92318 Neumarkt i.d.OPf.",
+      "telefon": "+49 9181 479744",
+      "enlem": "49.27706",
+      "boylam": "11.46242",
+      "mesafe": "37.0 km"
+    }
+  ],
   "Brandenburg": [
     {
       "eczaneAdi": "Stern-Apotheke im Ärztehaus",
@@ -918,14 +975,6 @@
       "enlem": "53.7767664",
       "boylam": "12.5662726",
       "mesafe": "0.7 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Park",
-      "adres": "Zu den Wiesen 9, 18279 Lalendorf",
-      "telefon": "+49 38452 20592",
-      "enlem": "53.75746",
-      "boylam": "12.38463",
-      "mesafe": "12.7 km"
     },
     {
       "eczaneAdi": "Hubertus-Apotheke",
