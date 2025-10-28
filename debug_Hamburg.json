@@ -3191,10 +3191,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 19
+            "anzahl": 18
         },
         "quota": {
-            "verwendet": "33247"
+            "verwendet": "34273"
         },
         "apotheken": {
             "apotheke": [
@@ -3216,25 +3216,6 @@
                     "startzeit": "09:00",
                     "enddatum": "28.10.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "HafenCity Apotheke",
-                    "kammer": "akh",
-                    "id": "12059",
-                    "apo_id": "akh12059",
-                    "strasse": "Überseeboulevard 7",
-                    "plz": "20457",
-                    "ort": "Hamburg",
-                    "distanz": "0.81246546",
-                    "longitude": "9.99748",
-                    "latitude": "53.54329",
-                    "telefon": "+49 40 83504401",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "27.10.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "28.10.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Alte Eilbeker Apotheke",
@@ -3427,6 +3408,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Linden-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1454",
+                    "apo_id": "aknds1454",
+                    "strasse": "Harburger Str. 28 a",
+                    "plz": "21435",
+                    "ort": "Stelle",
+                    "distanz": "19.62766191653",
+                    "longitude": "10.1049754",
+                    "latitude": "53.385335",
+                    "telefon": "+49 4174 2335",
+                    "fax": "+49 4174 4840",
+                    "email": [],
+                    "startdatum": "28.10.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "29.10.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Eulen-Apotheke",
                     "kammer": "aksh",
                     "id": "10544",
@@ -3482,25 +3482,6 @@
                     "startzeit": "08:00",
                     "enddatum": "29.10.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "wir leben-Apotheke am Bahnhof",
-                    "kammer": "aknds",
-                    "id": "1509",
-                    "apo_id": "aknds1509",
-                    "strasse": "Bahnhofstr. 67",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "25.60830350646",
-                    "longitude": "10.2061221",
-                    "latitude": "53.3556573",
-                    "telefon": "+49 4171 71460",
-                    "fax": "+49 4171 75478",
-                    "email": [],
-                    "startdatum": "27.10.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "28.10.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Priv. Löwen Apotheke",
