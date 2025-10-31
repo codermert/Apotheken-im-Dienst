@@ -31,7 +31,7 @@
             "anzahl": 5
         },
         "quota": {
-            "verwendet": "44951"
+            "verwendet": "51921"
         },
         "apotheken": {
             "apotheke": [
@@ -55,25 +55,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Rethemer Apotheke",
-                    "kammer": "aknds",
-                    "id": "1384",
-                    "apo_id": "aknds1384",
-                    "strasse": "Mühlenstraße 2",
-                    "plz": "27336",
-                    "ort": "Rethem",
-                    "distanz": "21.37822325996",
-                    "longitude": "9.3798974",
-                    "latitude": "52.7851639",
-                    "telefon": "+49 5165 2918848",
-                    "fax": "+49 5165 2918849",
-                    "email": [],
-                    "startdatum": "30.10.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "31.10.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Bahnhof-Apotheke",
                     "kammer": "aknds",
                     "id": "953",
@@ -87,9 +68,9 @@
                     "telefon": "+49 5021 2232",
                     "fax": "+49 5021 17681",
                     "email": [],
-                    "startdatum": "30.10.2025",
+                    "startdatum": "31.10.2025",
                     "startzeit": "08:00",
-                    "enddatum": "31.10.2025",
+                    "enddatum": "01.11.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -110,6 +91,25 @@
                     "startzeit": "09:00",
                     "enddatum": "31.10.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Sule-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1063",
+                    "apo_id": "aknds1063",
+                    "strasse": "Lange Straße 25-27",
+                    "plz": "27232",
+                    "ort": "Sulingen",
+                    "distanz": "25.88536813323",
+                    "longitude": "8.7957161",
+                    "latitude": "52.6810922",
+                    "telefon": "+49 4271 2958",
+                    "fax": "+49 4271 4779",
+                    "email": [],
+                    "startdatum": "31.10.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "01.11.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Albrecht Dürer-Apotheke",
