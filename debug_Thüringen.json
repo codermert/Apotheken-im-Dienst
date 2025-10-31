@@ -37,46 +37,27 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "62917"
+            "verwendet": "68124"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Delphin-Apotheke",
+                    "name": "Mohren-Apotheke",
                     "kammer": "lakt",
-                    "id": "503",
-                    "apo_id": "lakt503",
-                    "strasse": "Hermsdorfer Straße 4",
-                    "plz": "99099",
-                    "ort": "Erfurt",
-                    "distanz": "7.82386343784",
-                    "longitude": "11.0598792",
-                    "latitude": "50.9704011",
-                    "telefon": "+49 361 3458213",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "30.10.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "31.10.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Altstadt-Apotheke",
-                    "kammer": "lakt",
-                    "id": "535",
-                    "apo_id": "lakt535",
-                    "strasse": "Michaelisstraße 31",
+                    "id": "9",
+                    "apo_id": "lakt9",
+                    "strasse": "Schlösserstraße 9",
                     "plz": "99084",
                     "ort": "Erfurt",
-                    "distanz": "8.79242367157",
-                    "longitude": "11.0268958",
-                    "latitude": "50.9802072",
-                    "telefon": "+49 361 2603433",
+                    "distanz": "8.36048529326",
+                    "longitude": "11.032737",
+                    "latitude": "50.9765568",
+                    "telefon": "+49 361 6421500",
                     "fax": [],
                     "email": [],
-                    "startdatum": "30.10.2025",
+                    "startdatum": "31.10.2025",
                     "startzeit": "09:00",
-                    "enddatum": "31.10.2025",
+                    "enddatum": "01.11.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -97,6 +78,25 @@
                     "startzeit": "08:00",
                     "enddatum": "01.11.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Rosen-Apotheke",
+                    "kammer": "lakt",
+                    "id": "405",
+                    "apo_id": "lakt405",
+                    "strasse": "Ringstraße 28",
+                    "plz": "99091",
+                    "ort": "Erfurt-Gispersleben",
+                    "distanz": "13.737095771800002",
+                    "longitude": "10.9932804",
+                    "latitude": "51.0217134",
+                    "telefon": "+49 361 7916096",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "31.10.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "01.11.2025",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Sonnen-Apotheke",

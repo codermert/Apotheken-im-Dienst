@@ -541,10 +541,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "61727"
+            "verwendet": "67056"
         },
         "apotheken": {
             "apotheke": [
@@ -661,25 +661,6 @@
                     "startzeit": "08:00",
                     "enddatum": "01.11.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Hirsch-Apotheke",
-                    "kammer": "akb",
-                    "id": "100444",
-                    "apo_id": "akb100444",
-                    "strasse": "Heinsestr. 47",
-                    "plz": "13467",
-                    "ort": "Berlin",
-                    "distanz": "25.58026297368",
-                    "longitude": "13.3052703",
-                    "latitude": "52.6184995",
-                    "telefon": "+49 30 4041289",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "30.10.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "31.10.2025",
-                    "endzeit": "08:59"
                 }
             ]
         }
