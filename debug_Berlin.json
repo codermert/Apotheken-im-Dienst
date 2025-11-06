@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 38
+            "anzahl": 36
         },
         "quota": {
-            "verwendet": "21277"
+            "verwendet": "22369"
         },
         "apotheken": {
             "apotheke": [
@@ -5724,25 +5724,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Dorf-Apotheke",
-                    "kammer": "lakbb",
-                    "id": "446",
-                    "apo_id": "lakbb446",
-                    "strasse": "Dorfstraße 17",
-                    "plz": "16356",
-                    "ort": "Ahrensfelde",
-                    "distanz": "14.103945313390001",
-                    "longitude": "13.5740345",
-                    "latitude": "52.5746579",
-                    "telefon": "+49 30 93772171",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "05.11.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "06.11.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Apotheke am Markt",
                     "kammer": "akb",
                     "id": "100660",
@@ -5792,6 +5773,25 @@
                     "longitude": "13.16374",
                     "latitude": "52.55136",
                     "telefon": "+49 30 3735792",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "05.11.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "06.11.2025",
+                    "endzeit": "08:59"
+                },
+                {
+                    "name": "Löwenzahn-Apotheke",
+                    "kammer": "akb",
+                    "id": "100595",
+                    "apo_id": "akb100595",
+                    "strasse": "Louis-Lewin-Straße 99",
+                    "plz": "12627",
+                    "ort": "Berlin",
+                    "distanz": "15.806268207790001",
+                    "longitude": "13.6193199",
+                    "latitude": "52.53753",
+                    "telefon": "+49 30 99400609",
                     "fax": [],
                     "email": [],
                     "startdatum": "05.11.2025",

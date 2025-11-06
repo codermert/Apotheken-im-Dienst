@@ -169,14 +169,6 @@
       "mesafe": "13.3 km"
     },
     {
-      "eczaneAdi": "Dorf-Apotheke",
-      "adres": "Dorfstraße 17, 16356 Ahrensfelde",
-      "telefon": "+49 30 93772171",
-      "enlem": "52.5746579",
-      "boylam": "13.5740345",
-      "mesafe": "14.1 km"
-    },
-    {
       "eczaneAdi": "Apotheke am Markt",
       "adres": "Bekassinenweg 18, 13503 Berlin",
       "telefon": "+49 30 4311247",
@@ -199,6 +191,14 @@
       "enlem": "52.55136",
       "boylam": "13.16374",
       "mesafe": "15.7 km"
+    },
+    {
+      "eczaneAdi": "Löwenzahn-Apotheke",
+      "adres": "Louis-Lewin-Straße 99, 12627 Berlin",
+      "telefon": "+49 30 99400609",
+      "enlem": "52.53753",
+      "boylam": "13.6193199",
+      "mesafe": "15.8 km"
     }
   ],
   "Nordrhein-Westfalen": [
@@ -365,6 +365,14 @@
       "mesafe": "8.8 km"
     },
     {
+      "eczaneAdi": "Guten Tag Apotheke",
+      "adres": "Willinghusener Weg 1, 22113 Oststeinbek",
+      "telefon": "+49 40 7137670",
+      "enlem": "53.54688",
+      "boylam": "10.15325",
+      "mesafe": "10.1 km"
+    },
+    {
       "eczaneAdi": "Schwanen Apotheke",
       "adres": "Rugenbarg 9, 22549 Hamburg",
       "telefon": "+49 40 80783780",
@@ -373,36 +381,12 @@
       "mesafe": "10.6 km"
     },
     {
-      "eczaneAdi": "St. Stephanus-Apotheke",
-      "adres": "Hauptstr. 33-37, 22869 Schenefeld",
-      "telefon": "+49 40 8300404",
-      "enlem": "53.6001658",
-      "boylam": "9.8250316",
-      "mesafe": "12.9 km"
-    },
-    {
-      "eczaneAdi": "Maximilian-Apotheke",
-      "adres": "Markt 17, 21509 Glinde",
-      "telefon": "040-7111807",
-      "enlem": "53.5423621",
-      "boylam": "10.2137637",
-      "mesafe": "14.2 km"
-    },
-    {
-      "eczaneAdi": "Tarpenbek-Apotheke",
-      "adres": "Am Tarpenufer 6, 22848 Norderstedt",
-      "telefon": "040-5296995",
-      "enlem": "53.681352",
-      "boylam": "9.9977624",
-      "mesafe": "14.6 km"
-    },
-    {
-      "eczaneAdi": "Helgoland-Apotheke (im famila)",
-      "adres": "Liebigstr. 2, 21465 Reinbek",
-      "telefon": "+49 40 7314365",
-      "enlem": "53.52176",
-      "boylam": "10.23111",
-      "mesafe": "15.6 km"
+      "eczaneAdi": "Coppernicus-Apotheke",
+      "adres": "Berliner Allee 34a, 22850 Norderstedt",
+      "telefon": "040-5236569",
+      "enlem": "53.6841422",
+      "boylam": "9.9850706",
+      "mesafe": "14.9 km"
     },
     {
       "eczaneAdi": "Fleester Markt-Apotheke",
@@ -413,27 +397,35 @@
       "mesafe": "15.7 km"
     },
     {
-      "eczaneAdi": "Apotheke 2. Meile",
-      "adres": "Hinterstr. 3, 21635 Jork",
-      "telefon": "+49 4162 2509351",
-      "enlem": "53.5123428",
-      "boylam": "9.7256955",
-      "mesafe": "18.7 km"
+      "eczaneAdi": "Rosen-Apotheke",
+      "adres": "Hauptstr. 82, 25462 Rellingen",
+      "telefon": "+49 4101 22833",
+      "enlem": "53.65389",
+      "boylam": "9.82887",
+      "mesafe": "16.2 km"
     },
     {
-      "eczaneAdi": "Liliencron-Apotheke",
-      "adres": "Hauptstr. 115, 22889 Tangstedt",
-      "telefon": "04109-6162",
-      "enlem": "53.7344",
-      "boylam": "10.08197",
-      "mesafe": "21.2 km"
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Hauptstr. 2, 21465 Wentorf",
+      "telefon": "+49 40 7201208",
+      "enlem": "53.49131",
+      "boylam": "10.25278",
+      "mesafe": "18.0 km"
     },
     {
-      "eczaneAdi": "Elbmarsch-Apotheke",
-      "adres": "Lehmweg 51, 25492 Heist",
-      "telefon": "04122-82050",
-      "enlem": "53.65134",
-      "boylam": "9.66401",
+      "eczaneAdi": "Adler-Apotheke",
+      "adres": "Hagener Allee 16, 22926 Ahrensburg",
+      "telefon": "+49 4102 52274",
+      "enlem": "53.67174",
+      "boylam": "10.23857",
+      "mesafe": "20.7 km"
+    },
+    {
+      "eczaneAdi": "Fasanen-Apotheke",
+      "adres": "Wilhelmstr. 2c, 25436 Tornesch",
+      "telefon": "04122-52506",
+      "enlem": "53.6987726",
+      "boylam": "9.7177816",
       "mesafe": "25.0 km"
     },
     {
