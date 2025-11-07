@@ -657,14 +657,6 @@
       "enlem": "52.65303",
       "boylam": "13.38232",
       "mesafe": "23.3 km"
-    },
-    {
-      "eczaneAdi": "Waldsee-Apotheke",
-      "adres": "Berliner Str. 41, 13467 Berlin",
-      "telefon": "+49 30 4041045",
-      "enlem": "52.6208859",
-      "boylam": "13.3137679",
-      "mesafe": "25.4 km"
     }
   ],
   "Bremen": [
@@ -851,28 +843,36 @@
   ],
   "Niedersachsen": [
     {
-      "eczaneAdi": "Hirsch-Apotheke am Holzmarkt",
-      "adres": "Holzmarkt 8, 27283 Verden",
-      "telefon": "+49 4231 2680",
-      "enlem": "52.9219332",
-      "boylam": "9.2348008",
-      "mesafe": "14.1 km"
+      "eczaneAdi": "Bären-Apotheke",
+      "adres": "Lange Straße 51, 27318 Hoya",
+      "telefon": "+49 4251 2244",
+      "enlem": "52.8053089",
+      "boylam": "9.1375017",
+      "mesafe": "5.7 km"
     },
     {
-      "eczaneAdi": "Apotheke im Hufeisen",
-      "adres": "Uesener Feldstr. 5, 28832 Achim",
-      "telefon": "+49 4202 955595",
-      "enlem": "53.0041994",
-      "boylam": "9.0526972",
-      "mesafe": "18.4 km"
+      "eczaneAdi": "Morsumer Apotheke",
+      "adres": "Verdener Str. 19, 27321 Thedinghausen",
+      "telefon": "+49 4204 1611",
+      "enlem": "52.9571079",
+      "boylam": "9.0780221",
+      "mesafe": "13.0 km"
     },
     {
-      "eczaneAdi": "Apotheke 55 im Rudolf-Virchow-Haus",
-      "adres": "Hauptstr. 55, 28844 Weyhe",
-      "telefon": "+49 4203 6955",
-      "enlem": "52.98363",
-      "boylam": "8.83345",
-      "mesafe": "22.9 km"
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Obernstraße 22, 28832 Achim",
+      "telefon": "+49 4202 8016",
+      "enlem": "53.0081822",
+      "boylam": "9.042328",
+      "mesafe": "18.9 km"
+    },
+    {
+      "eczaneAdi": "Niedersachsen-Apotheke",
+      "adres": "Bahnhofstr. 56, 28844 Weyhe",
+      "telefon": "+49 4203 81620",
+      "enlem": "52.9841328",
+      "boylam": "8.8584782",
+      "mesafe": "21.7 km"
     },
     {
       "eczaneAdi": "Meerbach-Apotheke",
@@ -881,6 +881,14 @@
       "enlem": "52.6346479",
       "boylam": "9.223937",
       "mesafe": "24.9 km"
+    },
+    {
+      "eczaneAdi": "Engel-Apotheke",
+      "adres": "Sankt-Gotthard-Str. 33 A, 28325 Bremen",
+      "telefon": "+49 421 4093400",
+      "enlem": "53.065767",
+      "boylam": "8.9526864",
+      "mesafe": "26.5 km"
     }
   ],
   "Rheinland-Pfalz": [
@@ -923,14 +931,6 @@
       "enlem": "50.1955849",
       "boylam": "6.8297406",
       "mesafe": "43.7 km"
-    },
-    {
-      "eczaneAdi": "Central Apotheke",
-      "adres": "Kirchstraße 8, 65385 Rüdesheim am Rhein",
-      "telefon": "+49 6722 9999010",
-      "enlem": "49.9795923",
-      "boylam": "7.926012",
-      "mesafe": "44.2 km"
     },
     {
       "eczaneAdi": "Engel-Apotheke",
@@ -1215,12 +1215,12 @@
   ],
   "Thüringen": [
     {
-      "eczaneAdi": "Stadtpark-Apotheke",
-      "adres": "Schillerstraße 25, 99096 Erfurt",
-      "telefon": "+49 361 74733749",
-      "enlem": "50.9676933",
-      "boylam": "11.0312432",
-      "mesafe": "7.4 km"
+      "eczaneAdi": "Bahnhof-Apotheke",
+      "adres": "Bahnhofstraße 40, 99084 Erfurt",
+      "telefon": "+49 361 555410",
+      "enlem": "50.9747884",
+      "boylam": "11.0350444",
+      "mesafe": "8.2 km"
     },
     {
       "eczaneAdi": "Stadt-Apotheke",
@@ -1231,12 +1231,12 @@
       "mesafe": "9.8 km"
     },
     {
-      "eczaneAdi": "Luther-Apotheke",
-      "adres": "Ammertalweg 15, 99086 Erfurt",
-      "telefon": "+49 361 7456176",
-      "enlem": "50.9966797",
-      "boylam": "11.0289565",
-      "mesafe": "10.6 km"
+      "eczaneAdi": "Nord-Apotheke",
+      "adres": "Moskauer Platz 14, 99091 Erfurt",
+      "telefon": "+49 361 7913116",
+      "enlem": "51.008232",
+      "boylam": "11.000043",
+      "mesafe": "12.2 km"
     },
     {
       "eczaneAdi": "Apotheke zur alten Post Lattmann Apotheken OHG",
