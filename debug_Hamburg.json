@@ -3191,10 +3191,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 20
+            "anzahl": 21
         },
         "quota": {
-            "verwendet": "80489"
+            "verwendet": "86214"
         },
         "apotheken": {
             "apotheke": [
@@ -3216,6 +3216,25 @@
                     "startzeit": "09:00",
                     "enddatum": "09.11.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "HafenCity Apotheke",
+                    "kammer": "akh",
+                    "id": "12059",
+                    "apo_id": "akh12059",
+                    "strasse": "Überseeboulevard 7",
+                    "plz": "20457",
+                    "ort": "Hamburg",
+                    "distanz": "0.81246546",
+                    "longitude": "9.99748",
+                    "latitude": "53.54329",
+                    "telefon": "+49 40 83504401",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "09.11.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "10.11.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Pfeil-Apotheke",
@@ -3465,6 +3484,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Eidig-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1389",
+                    "apo_id": "aknds1389",
+                    "strasse": "Bürgermeister-Glade-Str. 1",
+                    "plz": "21224",
+                    "ort": "Rosengarten",
+                    "distanz": "20.93006057904",
+                    "longitude": "9.9290501",
+                    "latitude": "53.3672014",
+                    "telefon": "+49 4105 65560",
+                    "fax": "+49 4105 655617",
+                    "email": [],
+                    "startdatum": "09.11.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "10.11.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Bahnhof-Apotheke",
                     "kammer": "aksh",
                     "id": "10395",
@@ -3520,25 +3558,6 @@
                     "startzeit": "08:00",
                     "enddatum": "10.11.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Luhe-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1510",
-                    "apo_id": "aknds1510",
-                    "strasse": "Bahnhofstr. 1",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "25.17002885461",
-                    "longitude": "10.2060052",
-                    "latitude": "53.3602785",
-                    "telefon": "+49 4171 4055",
-                    "fax": "+49 4171 64814",
-                    "email": [],
-                    "startdatum": "08.11.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "09.11.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "easyApotheke Uetersen",
