@@ -3191,32 +3191,13 @@
             ]
         },
         "statistik": {
-            "anzahl": 15
+            "anzahl": 14
         },
         "quota": {
-            "verwendet": "39810"
+            "verwendet": "41147"
         },
         "apotheken": {
             "apotheke": [
-                {
-                    "name": "HafenCity Apotheke",
-                    "kammer": "akh",
-                    "id": "12059",
-                    "apo_id": "akh12059",
-                    "strasse": "Überseeboulevard 7",
-                    "plz": "20457",
-                    "ort": "Hamburg",
-                    "distanz": "0.81246546",
-                    "longitude": "9.99748",
-                    "latitude": "53.54329",
-                    "telefon": "+49 40 83504401",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "09.11.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "10.11.2025",
-                    "endzeit": "08:30"
-                },
                 {
                     "name": "easyApotheke Altona",
                     "kammer": "akh",
@@ -3465,22 +3446,22 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Eidig-Apotheke",
+                    "name": "Markt-Apotheke im Schanzenhof",
                     "kammer": "aknds",
-                    "id": "1389",
-                    "apo_id": "aknds1389",
-                    "strasse": "Bürgermeister-Glade-Str. 1",
-                    "plz": "21224",
-                    "ort": "Rosengarten",
-                    "distanz": "20.93006057904",
-                    "longitude": "9.9290501",
-                    "latitude": "53.3672014",
-                    "telefon": "+49 4105 65560",
-                    "fax": "+49 4105 655617",
+                    "id": "1514",
+                    "apo_id": "aknds1514",
+                    "strasse": "Schanzenring 6",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "24.91904319162",
+                    "longitude": "10.2096115",
+                    "latitude": "53.3643894",
+                    "telefon": "+49 4171 653304",
+                    "fax": "+49 4171 653306",
                     "email": [],
-                    "startdatum": "09.11.2025",
+                    "startdatum": "10.11.2025",
                     "startzeit": "08:30",
-                    "enddatum": "10.11.2025",
+                    "enddatum": "11.11.2025",
                     "endzeit": "08:30"
                 }
             ]
