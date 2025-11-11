@@ -3194,7 +3194,7 @@
             "anzahl": 18
         },
         "quota": {
-            "verwendet": "29916"
+            "verwendet": "30725"
         },
         "apotheken": {
             "apotheke": [
@@ -3446,6 +3446,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Rosen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1455",
+                    "apo_id": "aknds1455",
+                    "strasse": "Harburger Str. 25 a",
+                    "plz": "21435",
+                    "ort": "Stelle",
+                    "distanz": "19.628188239849997",
+                    "longitude": "10.1051643",
+                    "latitude": "53.3853725",
+                    "telefon": "+49 4174 2398",
+                    "fax": "+49 4174 2397",
+                    "email": [],
+                    "startdatum": "11.11.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "12.11.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Apotheke am Ziegenweg",
                     "kammer": "aksh",
                     "id": "10833",
@@ -3463,25 +3482,6 @@
                     "startzeit": "08:00",
                     "enddatum": "12.11.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Markt-Apotheke im Schanzenhof",
-                    "kammer": "aknds",
-                    "id": "1514",
-                    "apo_id": "aknds1514",
-                    "strasse": "Schanzenring 6",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "24.91904319162",
-                    "longitude": "10.2096115",
-                    "latitude": "53.3643894",
-                    "telefon": "+49 4171 653304",
-                    "fax": "+49 4171 653306",
-                    "email": [],
-                    "startdatum": "10.11.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "11.11.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Engel Apotheke",

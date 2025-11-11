@@ -1267,7 +1267,7 @@
             "anzahl": 10
         },
         "quota": {
-            "verwendet": "29996"
+            "verwendet": "30849"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,6 +1310,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Spitzweg Apotheke (im Kaufland)",
+                    "kammer": "aknds",
+                    "id": "1684",
+                    "apo_id": "aknds1684",
+                    "strasse": "Stedinger Str. 101",
+                    "plz": "27753",
+                    "ort": "Delmenhorst",
+                    "distanz": "10.20032902012",
+                    "longitude": "8.6305287",
+                    "latitude": "53.0613418",
+                    "telefon": "+49 4221 588225",
+                    "fax": "+49 4221 588224",
+                    "email": [],
+                    "startdatum": "11.11.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "12.11.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "AVIE Apotheke OHZ",
                     "kammer": "aknds",
                     "id": "6520",
@@ -1327,25 +1346,6 @@
                     "startzeit": "09:00",
                     "enddatum": "11.11.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Bahnhof-Apotheke Delcare oHG",
-                    "kammer": "aknds",
-                    "id": "1665",
-                    "apo_id": "aknds1665",
-                    "strasse": "Bahnhofstr. 11 - 13",
-                    "plz": "27749",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.25687064993",
-                    "longitude": "8.6299531",
-                    "latitude": "53.0511638",
-                    "telefon": "+49 4221 14506",
-                    "fax": "+49 4221 18661",
-                    "email": [],
-                    "startdatum": "10.11.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "11.11.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Wilhadi-Apotheke",
@@ -1405,6 +1405,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Ring-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1749",
+                    "apo_id": "aknds1749",
+                    "strasse": "Ring 26",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.89569036873",
+                    "longitude": "8.5473054",
+                    "latitude": "53.03225",
+                    "telefon": "+49 4222 950288",
+                    "fax": "+49 4222 950290",
+                    "email": [],
+                    "startdatum": "11.11.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "11.11.2025",
+                    "endzeit": "20:00"
+                },
+                {
                     "name": "farma-plus Apotheke Briseck",
                     "kammer": "aknds",
                     "id": "5424",
@@ -1441,25 +1460,6 @@
                     "startzeit": "08:00",
                     "enddatum": "12.11.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Linden-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1794",
-                    "apo_id": "aknds1794",
-                    "strasse": "Lange Straße 13",
-                    "plz": "27243",
-                    "ort": "Harpstedt",
-                    "distanz": "27.27003655484",
-                    "longitude": "8.5873073",
-                    "latitude": "52.9082947",
-                    "telefon": "+49 4244 95144",
-                    "fax": "+49 4244 95146",
-                    "email": [],
-                    "startdatum": "10.11.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "11.11.2025",
-                    "endzeit": "08:30"
                 }
             ]
         }
