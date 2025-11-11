@@ -31,27 +31,27 @@
             "anzahl": 4
         },
         "quota": {
-            "verwendet": "32292"
+            "verwendet": "32874"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Schloß-Apotheke",
+                    "name": "Morsumer Apotheke",
                     "kammer": "aknds",
-                    "id": "1309",
-                    "apo_id": "aknds1309",
-                    "strasse": "Etelser Bahnhofstr. 12",
-                    "plz": "27299",
-                    "ort": "Langwedel",
-                    "distanz": "17.64767621009",
-                    "longitude": "9.1176822",
-                    "latitude": "52.9964166",
-                    "telefon": "+49 4235 94141",
-                    "fax": "+49 4235 94143",
+                    "id": "1528",
+                    "apo_id": "aknds1528",
+                    "strasse": "Verdener Str. 19",
+                    "plz": "27321",
+                    "ort": "Thedinghausen",
+                    "distanz": "13.04936147193",
+                    "longitude": "9.0780221",
+                    "latitude": "52.9571079",
+                    "telefon": "+49 4204 1611",
+                    "fax": "+49 4204 69918",
                     "email": [],
-                    "startdatum": "10.11.2025",
+                    "startdatum": "11.11.2025",
                     "startzeit": "09:00",
-                    "enddatum": "11.11.2025",
+                    "enddatum": "12.11.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -93,22 +93,22 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "farma-plus Apotheke Briseck",
+                    "name": "Flora-Apotheke",
                     "kammer": "aknds",
-                    "id": "5424",
-                    "apo_id": "aknds5424",
-                    "strasse": "Jupiterstr. 1",
-                    "plz": "28816",
-                    "ort": "Stuhr",
-                    "distanz": "27.041301180900003",
-                    "longitude": "8.779",
-                    "latitude": "53.00366",
-                    "telefon": "+49 421 80950800",
-                    "fax": "+49 421 80950801",
+                    "id": "1381",
+                    "apo_id": "aknds1381",
+                    "strasse": "Hauptstr. 52",
+                    "plz": "28876",
+                    "ort": "Oyten",
+                    "distanz": "24.84988726887",
+                    "longitude": "9.0226419",
+                    "latitude": "53.0608175",
+                    "telefon": "+49 4207 3003",
+                    "fax": "+49 4207 913220",
                     "email": [],
-                    "startdatum": "10.11.2025",
+                    "startdatum": "11.11.2025",
                     "startzeit": "09:00",
-                    "enddatum": "11.11.2025",
+                    "enddatum": "12.11.2025",
                     "endzeit": "09:00"
                 }
             ]
