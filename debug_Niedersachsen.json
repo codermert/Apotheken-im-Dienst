@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 16
+            "anzahl": 17
         },
         "quota": {
-            "verwendet": "28319"
+            "verwendet": "28900"
         },
         "apotheken": {
             "apotheke": [
@@ -55,22 +55,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Leintor Apotheke",
+                    "name": "Bahnhof-Apotheke",
                     "kammer": "aknds",
-                    "id": "956",
-                    "apo_id": "aknds956",
-                    "strasse": "Hannoversche Str. 12",
+                    "id": "953",
+                    "apo_id": "aknds953",
+                    "strasse": "Wilhelmstr. 19",
                     "plz": "31582",
                     "ort": "Nienburg",
-                    "distanz": "24.42755959594",
-                    "longitude": "9.2117242",
-                    "latitude": "52.6363944",
-                    "telefon": "+49 5021 3250",
-                    "fax": "+49 5021 926200",
+                    "distanz": "23.71717046696",
+                    "longitude": "9.2136038",
+                    "latitude": "52.6437781",
+                    "telefon": "+49 5021 2232",
+                    "fax": "+49 5021 17681",
                     "email": [],
-                    "startdatum": "10.11.2025",
+                    "startdatum": "11.11.2025",
                     "startzeit": "08:00",
-                    "enddatum": "11.11.2025",
+                    "enddatum": "12.11.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -207,22 +207,41 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Alte Apotheke",
+                    "name": "Vivas Apotheke Stolzenau",
                     "kammer": "aknds",
-                    "id": "1390",
-                    "apo_id": "aknds1390",
-                    "strasse": "Goethestr. 12",
+                    "id": "1049",
+                    "apo_id": "aknds1049",
+                    "strasse": "Allee 12",
+                    "plz": "31592",
+                    "ort": "Stolzenau",
+                    "distanz": "36.32761752474",
+                    "longitude": "9.0764753",
+                    "latitude": "52.5134014",
+                    "telefon": "+49 5761 9019866",
+                    "fax": "+49 5761 9019867",
+                    "email": [],
+                    "startdatum": "11.11.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "12.11.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke Große Verdener Straße",
+                    "kammer": "aknds",
+                    "id": "1396",
+                    "apo_id": "aknds1396",
+                    "strasse": "Verdener Str. 5",
                     "plz": "27356",
                     "ort": "Rotenburg (Wümme)",
-                    "distanz": "37.08331827802",
-                    "longitude": "9.4018498",
-                    "latitude": "53.1088163",
-                    "telefon": "+49 4261 2254",
-                    "fax": "+49 4261 3483",
+                    "distanz": "36.36825097564",
+                    "longitude": "9.3965258",
+                    "latitude": "53.103196",
+                    "telefon": "+49 4261 966066",
+                    "fax": "+49 4261 966067",
                     "email": [],
-                    "startdatum": "10.11.2025",
+                    "startdatum": "11.11.2025",
                     "startzeit": "08:00",
-                    "enddatum": "11.11.2025",
+                    "enddatum": "12.11.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -245,22 +264,22 @@
                     "endzeit": "08:30"
                 },
                 {
-                    "name": "Kloster-Apotheke Loccum",
+                    "name": "Marien-Apotheke",
                     "kammer": "aknds",
-                    "id": "981",
-                    "apo_id": "aknds981",
-                    "strasse": "Leeser Str. 23",
-                    "plz": "31547",
-                    "ort": "Rehburg-Loccum",
-                    "distanz": "42.68960142363",
-                    "longitude": "9.1488433",
-                    "latitude": "52.458798",
-                    "telefon": "+49 5766 93040",
-                    "fax": "+49 5766 93042",
+                    "id": "1771",
+                    "apo_id": "aknds1771",
+                    "strasse": "Hauptstr. 43",
+                    "plz": "49424",
+                    "ort": "Goldenstedt",
+                    "distanz": "43.890645507529996",
+                    "longitude": "8.4307084",
+                    "latitude": "52.7877855",
+                    "telefon": "+49 4444 381",
+                    "fax": "+49 4444 961140",
                     "email": [],
-                    "startdatum": "10.11.2025",
+                    "startdatum": "11.11.2025",
                     "startzeit": "08:00",
-                    "enddatum": "11.11.2025",
+                    "enddatum": "12.11.2025",
                     "endzeit": "08:00"
                 },
                 {
