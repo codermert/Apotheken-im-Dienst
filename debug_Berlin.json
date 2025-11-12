@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 36
+            "anzahl": 41
         },
         "quota": {
-            "verwendet": "20413"
+            "verwendet": "21443"
         },
         "apotheken": {
             "apotheke": [
@@ -5781,23 +5781,23 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "BÄRLINER Apotheke Marzahn e.K.",
-                    "kammer": "akb",
-                    "id": "101040",
-                    "apo_id": "akb101040",
-                    "strasse": "Havemannstr. 24",
-                    "plz": "12689",
-                    "ort": "Berlin",
-                    "distanz": "13.67236124198",
-                    "longitude": "13.5723345",
-                    "latitude": "52.5678608",
-                    "telefon": "+49 30 91145835",
+                    "name": "Apotheke im Sonnengarten",
+                    "kammer": "lakbb",
+                    "id": "241",
+                    "apo_id": "lakbb241",
+                    "strasse": "Märkische Allee 76",
+                    "plz": "16548",
+                    "ort": "Glienicke/Nordbahn",
+                    "distanz": "13.48323987355",
+                    "longitude": "13.3230005",
+                    "latitude": "52.6313669",
+                    "telefon": "+49 33056 42996",
                     "fax": [],
-                    "email": [],
-                    "startdatum": "11.11.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "12.11.2025",
-                    "endzeit": "08:59"
+                    "email": "ais@online.de",
+                    "startdatum": "12.11.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "13.11.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }
