@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 36
+            "anzahl": 32
         },
         "quota": {
-            "verwendet": "24152"
+            "verwendet": "25166"
         },
         "apotheken": {
             "apotheke": [
@@ -5705,22 +5705,22 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Apotheke im Sonnengarten",
+                    "name": "Teltow Apotheke",
                     "kammer": "lakbb",
-                    "id": "241",
-                    "apo_id": "lakbb241",
-                    "strasse": "Märkische Allee 76",
-                    "plz": "16548",
-                    "ort": "Glienicke/Nordbahn",
-                    "distanz": "13.48323987355",
-                    "longitude": "13.3230005",
-                    "latitude": "52.6313669",
-                    "telefon": "+49 33056 42996",
+                    "id": "654",
+                    "apo_id": "lakbb654",
+                    "strasse": "Oderstraße 29",
+                    "plz": "14513",
+                    "ort": "Teltow",
+                    "distanz": "15.65303656493",
+                    "longitude": "13.2523341",
+                    "latitude": "52.4037538",
+                    "telefon": "+49 3328 3345678",
                     "fax": [],
-                    "email": "ais@online.de",
-                    "startdatum": "12.11.2025",
+                    "email": [],
+                    "startdatum": "13.11.2025",
                     "startzeit": "08:00",
-                    "enddatum": "13.11.2025",
+                    "enddatum": "14.11.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -5762,41 +5762,41 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Apotheke im Gesundheitszentrum Teltow",
+                    "name": "Fortuna-Apotheke",
                     "kammer": "lakbb",
-                    "id": "230",
-                    "apo_id": "lakbb230",
-                    "strasse": "Potsdamer Straße 7/9",
-                    "plz": "14513",
-                    "ort": "Teltow",
-                    "distanz": "16.572626795119998",
-                    "longitude": "13.2445256",
-                    "latitude": "52.3970082",
-                    "telefon": "+49 3328 302920",
-                    "fax": "03328 / 302 921  ",
-                    "email": "info@apo-teltow.de",
-                    "startdatum": "12.11.2025",
+                    "id": "342",
+                    "apo_id": "lakbb342",
+                    "strasse": "Hauptstraße 14",
+                    "plz": "16567",
+                    "ort": "Mühlenbecker Land - OT Mühlenbeck",
+                    "distanz": "16.57070831812",
+                    "longitude": "13.3797557",
+                    "latitude": "52.6658452",
+                    "telefon": "+49 33056 74488",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "13.11.2025",
                     "startzeit": "08:00",
-                    "enddatum": "13.11.2025",
+                    "enddatum": "14.11.2025",
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Alte Stahl Apotheke",
+                    "name": "Apotheke im Flughafen Berlin 3001.E0_.2161",
                     "kammer": "lakbb",
-                    "id": "76",
-                    "apo_id": "lakbb76",
-                    "strasse": "Havelpassage 3",
-                    "plz": "16761",
-                    "ort": "Hennigsdorf",
-                    "distanz": "18.33923240554",
-                    "longitude": "13.203281",
-                    "latitude": "52.6369494",
-                    "telefon": "03302   /868 10",
-                    "fax": "03302   /868 119",
-                    "email": "buero@altestahlapotheke.de",
-                    "startdatum": "12.11.2025",
+                    "id": "674",
+                    "apo_id": "lakbb674",
+                    "strasse": "Willy-Brandt-Platz 1",
+                    "plz": "12529",
+                    "ort": "Schönefeld",
+                    "distanz": "19.0761513759",
+                    "longitude": "13.5118771",
+                    "latitude": "52.3629683",
+                    "telefon": "030 609178940",
+                    "fax": "030 609178941",
+                    "email": "BER@metropolitan-pharmacy.com",
+                    "startdatum": "13.11.2025",
                     "startzeit": "08:00",
-                    "enddatum": "13.11.2025",
+                    "enddatum": "14.11.2025",
                     "endzeit": "08:00"
                 }
             ]
