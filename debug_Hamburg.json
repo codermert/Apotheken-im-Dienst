@@ -3194,7 +3194,7 @@
             "anzahl": 18
         },
         "quota": {
-            "verwendet": "25208"
+            "verwendet": "25753"
         },
         "apotheken": {
             "apotheke": [
@@ -3427,6 +3427,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Rathaus Apotheke Hittfeld",
+                    "kammer": "aknds",
+                    "id": "6069",
+                    "apo_id": "aknds6069",
+                    "strasse": "Kirchstraße 3",
+                    "plz": "21218",
+                    "ort": "Seevetal",
+                    "distanz": "18.48701084197",
+                    "longitude": "9.97957",
+                    "latitude": "53.38471",
+                    "telefon": "+49 4105 6678095",
+                    "fax": "+49 4105 6678096",
+                    "email": [],
+                    "startdatum": "13.11.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "14.11.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Schloss-Apotheke",
                     "kammer": "aksh",
                     "id": "10007",
@@ -3501,25 +3520,6 @@
                     "startzeit": "08:00",
                     "enddatum": "14.11.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "wir leben-Apotheke am Bahnhof",
-                    "kammer": "aknds",
-                    "id": "1509",
-                    "apo_id": "aknds1509",
-                    "strasse": "Bahnhofstr. 67",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "25.60830350646",
-                    "longitude": "10.2061221",
-                    "latitude": "53.3556573",
-                    "telefon": "+49 4171 71460",
-                    "fax": "+49 4171 75478",
-                    "email": [],
-                    "startdatum": "12.11.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "13.11.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Löns-Apotheke",
