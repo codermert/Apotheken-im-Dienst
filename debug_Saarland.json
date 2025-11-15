@@ -12,7 +12,7 @@
             "lat": "",
             "lng": "",
             "plzort": "Saarland",
-            "radius": "25",
+            "radius": 45,
             "street": ""
         },
         "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
@@ -21,17 +21,17 @@
         "parameter": {
             "plzort": "Saarland",
             "strasse": [],
-            "radius": "25.0",
+            "radius": "45.0",
             "longitude": "6.9537369",
             "latitude": "49.3841872",
             "limit": [],
             "datum": []
         },
         "statistik": {
-            "anzahl": 11
+            "anzahl": 16
         },
         "quota": {
-            "verwendet": "277738"
+            "verwendet": "283807"
         },
         "apotheken": {
             "apotheke": [
@@ -243,6 +243,101 @@
                     "startzeit": "08:00",
                     "enddatum": "16.11.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Diana-Apotheke",
+                    "kammer": "lakrlp",
+                    "id": "21673",
+                    "apo_id": "lakrlp21673",
+                    "strasse": "Triererstr. 18",
+                    "plz": "54314",
+                    "ort": "Zerf",
+                    "distanz": "30.891698315990002",
+                    "longitude": "6.6874458",
+                    "latitude": "49.6011195",
+                    "telefon": "+49 6587 888",
+                    "fax": "+49 6587 991024",
+                    "email": [],
+                    "startdatum": "15.11.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "16.11.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "West-Apotheke",
+                    "kammer": "lakrlp",
+                    "id": "22169",
+                    "apo_id": "lakrlp22169",
+                    "strasse": "Friedrich-Ebert-Str. 63",
+                    "plz": "66482",
+                    "ort": "Zweibrücken",
+                    "distanz": "32.73832651995",
+                    "longitude": "7.3512681",
+                    "latitude": "49.2459538",
+                    "telefon": "+49 6332 73322",
+                    "fax": "+49 6332 16539",
+                    "email": [],
+                    "startdatum": "15.11.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "16.11.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Sonnen-Apotheke",
+                    "kammer": "lakrlp",
+                    "id": "22031",
+                    "apo_id": "lakrlp22031",
+                    "strasse": "Kaiserstr. 99",
+                    "plz": "66892",
+                    "ort": "Bruchmühlbach-Miesau",
+                    "distanz": "36.13931341841",
+                    "longitude": "7.4514762",
+                    "latitude": "49.3847613",
+                    "telefon": "+49 6372 6811",
+                    "fax": "+49 6372 7120",
+                    "email": [],
+                    "startdatum": "15.11.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "16.11.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Westrich-Apotheke",
+                    "kammer": "lakrlp",
+                    "id": "22550",
+                    "apo_id": "lakrlp22550",
+                    "strasse": "Marktplatz 1",
+                    "plz": "55774",
+                    "ort": "Baumholder",
+                    "distanz": "37.815696646199996",
+                    "longitude": "7.3360552",
+                    "latitude": "49.6157154",
+                    "telefon": "+49 6783 900800",
+                    "fax": "+49 6783 9008070",
+                    "email": [],
+                    "startdatum": "15.11.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "16.11.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Apotheke am Viehmarktplatz",
+                    "kammer": "lakrlp",
+                    "id": "22089",
+                    "apo_id": "lakrlp22089",
+                    "strasse": "Fahrstraße 3-4",
+                    "plz": "54290",
+                    "ort": "Trier",
+                    "distanz": "46.88728113056",
+                    "longitude": "6.6385602",
+                    "latitude": "49.7525664",
+                    "telefon": "+49 651 73171",
+                    "fax": "+49 651 74826",
+                    "email": [],
+                    "startdatum": "15.11.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "16.11.2025",
+                    "endzeit": "08:30"
                 }
             ]
         }

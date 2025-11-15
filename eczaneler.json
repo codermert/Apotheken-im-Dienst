@@ -981,6 +981,46 @@
       "enlem": "49.3699299",
       "boylam": "7.3239203",
       "mesafe": "26.9 km"
+    },
+    {
+      "eczaneAdi": "Diana-Apotheke",
+      "adres": "Triererstr. 18, 54314 Zerf",
+      "telefon": "+49 6587 888",
+      "enlem": "49.6011195",
+      "boylam": "6.6874458",
+      "mesafe": "30.9 km"
+    },
+    {
+      "eczaneAdi": "West-Apotheke",
+      "adres": "Friedrich-Ebert-Str. 63, 66482 Zweibrücken",
+      "telefon": "+49 6332 73322",
+      "enlem": "49.2459538",
+      "boylam": "7.3512681",
+      "mesafe": "32.7 km"
+    },
+    {
+      "eczaneAdi": "Sonnen-Apotheke",
+      "adres": "Kaiserstr. 99, 66892 Bruchmühlbach-Miesau",
+      "telefon": "+49 6372 6811",
+      "enlem": "49.3847613",
+      "boylam": "7.4514762",
+      "mesafe": "36.1 km"
+    },
+    {
+      "eczaneAdi": "Westrich-Apotheke",
+      "adres": "Marktplatz 1, 55774 Baumholder",
+      "telefon": "+49 6783 900800",
+      "enlem": "49.6157154",
+      "boylam": "7.3360552",
+      "mesafe": "37.8 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Viehmarktplatz",
+      "adres": "Fahrstraße 3-4, 54290 Trier",
+      "telefon": "+49 651 73171",
+      "enlem": "49.7525664",
+      "boylam": "6.6385602",
+      "mesafe": "46.9 km"
     }
   ],
   "Sachsen": [
@@ -1025,130 +1065,7 @@
       "mesafe": "27.3 km"
     }
   ],
-  "Sachsen-Anhalt": [
-    {
-      "eczaneAdi": "Sonnen-Apotheke",
-      "adres": "Lessingstr. 54, 39218 Schönebeck",
-      "telefon": "+49 3928 65490",
-      "enlem": "52.0180857",
-      "boylam": "11.7206985",
-      "mesafe": "1.7 km"
-    },
-    {
-      "eczaneAdi": "Cracauer Apotheke",
-      "adres": "Triftweg 2, 39114 Magdeburg",
-      "telefon": "+49 391 8520106",
-      "enlem": "52.1187917",
-      "boylam": "11.6618618",
-      "mesafe": "12.5 km"
-    },
-    {
-      "eczaneAdi": "Pluspunkt Apotheke im Allee-Center",
-      "adres": "Ernst-Reuter-Allee 11, 39104 Magdeburg",
-      "telefon": "+49 391 5620814",
-      "enlem": "52.1298",
-      "boylam": "11.63921",
-      "mesafe": "14.1 km"
-    },
-    {
-      "eczaneAdi": "Center-Apotheke",
-      "adres": "Zepziger Weg 6, 06406 Bernburg",
-      "telefon": "+49 3471 623335",
-      "enlem": "51.78044",
-      "boylam": "11.75318",
-      "mesafe": "25.7 km"
-    }
-  ],
-  "Schleswig-Holstein": [
-    {
-      "eczaneAdi": "Apotheke am Westensee",
-      "adres": "Hasselrader Weg 2, 24242 Felde",
-      "telefon": "+49 4340 8900",
-      "enlem": "54.304",
-      "boylam": "9.93686",
-      "mesafe": "15.2 km"
-    },
-    {
-      "eczaneAdi": "Alte Rats-Apotheke",
-      "adres": "Großflecken 55, 24534 Neumünster",
-      "telefon": "04321-44160",
-      "enlem": "54.0705525",
-      "boylam": "9.9879959",
-      "mesafe": "16.8 km"
-    },
-    {
-      "eczaneAdi": "Fockbeker-Apotheke",
-      "adres": "Rendsburger Str. 19, 24787 Fockbek",
-      "telefon": "04331-61404",
-      "enlem": "54.3081568",
-      "boylam": "9.6083364",
-      "mesafe": "19.5 km"
-    },
-    {
-      "eczaneAdi": "Löwen-Apotheke",
-      "adres": "Zur Ziegelei 1, 24598 Boostedt",
-      "telefon": "04393-997878",
-      "enlem": "54.00718",
-      "boylam": "10.02874",
-      "mesafe": "24.0 km"
-    },
-    {
-      "eczaneAdi": "Lornsen-Apotheke",
-      "adres": "Holtenauer Str. 80, 24105 Kiel",
-      "telefon": "0431-565494",
-      "enlem": "54.3333077",
-      "boylam": "10.133133",
-      "mesafe": "26.1 km"
-    }
-  ],
-  "Thüringen": [
-    {
-      "eczaneAdi": "Kranich-Apotheke",
-      "adres": "Kranichfelder Straße 103, 99097 Erfurt",
-      "telefon": "+49 361 4170056",
-      "enlem": "50.9554566",
-      "boylam": "11.0694661",
-      "mesafe": "6.4 km"
-    },
-    {
-      "eczaneAdi": "EGA-Apotheke",
-      "adres": "Gothaer Straße 22, 99094 Erfurt",
-      "telefon": "+49 361 7893490",
-      "enlem": "50.9610823",
-      "boylam": "10.9857271",
-      "mesafe": "7.6 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Markt",
-      "adres": "Markt 10, 99326 Stadtilm",
-      "telefon": "+49 3629 800008",
-      "enlem": "50.77471",
-      "boylam": "11.08135",
-      "mesafe": "14.4 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Goetheplatz",
-      "adres": "Goetheplatz 6, 99423 Weimar",
-      "telefon": "+49 3643 811800",
-      "enlem": "50.981808",
-      "boylam": "11.3250323",
-      "mesafe": "22.1 km"
-    },
-    {
-      "eczaneAdi": "Wald-Apotheke",
-      "adres": "Waldstraße 10, 99330 Geratal, OT Gräfenroda",
-      "telefon": "+49 36205 76496",
-      "enlem": "50.7477679",
-      "boylam": "10.8101618",
-      "mesafe": "23.4 km"
-    },
-    {
-      "eczaneAdi": "Sertürner-Apotheke",
-      "adres": "Humboldtstr. 90, 99867 Gotha",
-      "telefon": "+49 3621 758585",
-      "enlem": "50.9439166",
-      "boylam": "10.6850738",
-      "mesafe": "25.2 km"
-    }
-  ]
+  "Sachsen-Anhalt": [],
+  "Schleswig-Holstein": [],
+  "Thüringen": []
 }
