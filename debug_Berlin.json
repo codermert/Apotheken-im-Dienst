@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 37
+            "anzahl": 36
         },
         "quota": {
-            "verwendet": "66292"
+            "verwendet": "75657"
         },
         "apotheken": {
             "apotheke": [
@@ -5743,6 +5743,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Steinbock Apotheke",
+                    "kammer": "lakbb",
+                    "id": "653",
+                    "apo_id": "lakbb653",
+                    "strasse": "Bahnhofstraße 5 B",
+                    "plz": "16552",
+                    "ort": "Mühlenbecker Land - OT Schildow",
+                    "distanz": "13.35524852805",
+                    "longitude": "13.3749982",
+                    "latitude": "52.6367557",
+                    "telefon": "+49 33056 270004",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "16.11.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "17.11.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Känguruh-Apotheke",
                     "kammer": "akb",
                     "id": "100982",
@@ -5773,25 +5792,6 @@
                     "longitude": "13.5350464",
                     "latitude": "52.4326321",
                     "telefon": "+49 30 25203800",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "15.11.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "16.11.2025",
-                    "endzeit": "08:59"
-                },
-                {
-                    "name": "Augusta-Apotheke",
-                    "kammer": "akb",
-                    "id": "100402",
-                    "apo_id": "akb100402",
-                    "strasse": "Argentinische Allee 1",
-                    "plz": "14163",
-                    "ort": "Berlin",
-                    "distanz": "13.73835708877",
-                    "longitude": "13.2333041",
-                    "latitude": "52.4381614",
-                    "telefon": "+49 30 8017020",
                     "fax": [],
                     "email": [],
                     "startdatum": "15.11.2025",
