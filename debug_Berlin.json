@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 33
+            "anzahl": 32
         },
         "quota": {
-            "verwendet": "23283"
+            "verwendet": "24981"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,25 +5762,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Steinbock Apotheke",
-                    "kammer": "lakbb",
-                    "id": "653",
-                    "apo_id": "lakbb653",
-                    "strasse": "Bahnhofstraße 5 B",
-                    "plz": "16552",
-                    "ort": "Mühlenbecker Land - OT Schildow",
-                    "distanz": "13.35524852805",
-                    "longitude": "13.3749982",
-                    "latitude": "52.6367557",
-                    "telefon": "+49 33056 270004",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "16.11.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "17.11.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Georginen Apotheke",
                     "kammer": "akb",
                     "id": "100469",
@@ -5798,6 +5779,25 @@
                     "startzeit": "09:00",
                     "enddatum": "17.11.2025",
                     "endzeit": "08:59"
+                },
+                {
+                    "name": "Kronenapotheke Teltow",
+                    "kammer": "lakbb",
+                    "id": "685",
+                    "apo_id": "lakbb685",
+                    "strasse": "Ruhlsdorfer Straße 3",
+                    "plz": "14513",
+                    "ort": "Teltow",
+                    "distanz": "15.385430335499999",
+                    "longitude": "13.26814",
+                    "latitude": "52.40008",
+                    "telefon": "+49 3328 4219333",
+                    "fax": "+49 3328 4919330",
+                    "email": "team-@ka-teltow.de",
+                    "startdatum": "17.11.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "18.11.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }
