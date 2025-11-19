@@ -28,32 +28,13 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "33335"
+            "verwendet": "33882"
         },
         "apotheken": {
             "apotheke": [
-                {
-                    "name": "Stern-Apotheke",
-                    "kammer": "aknds",
-                    "id": "942",
-                    "apo_id": "aknds942",
-                    "strasse": "Alte Bremer Str. 1",
-                    "plz": "27327",
-                    "ort": "Martfeld",
-                    "distanz": "4.13077355392",
-                    "longitude": "9.0627471",
-                    "latitude": "52.8761004",
-                    "telefon": "+49 4255 277",
-                    "fax": "+49 4255 1349",
-                    "email": [],
-                    "startdatum": "18.11.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "19.11.2025",
-                    "endzeit": "09:00"
-                },
                 {
                     "name": "Linden-Apotheke",
                     "kammer": "aknds",
@@ -74,22 +55,22 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Apotheke am Rathaus",
+                    "name": "Nordertor-Apotheke",
                     "kammer": "aknds",
-                    "id": "1491",
-                    "apo_id": "aknds1491",
-                    "strasse": "Große Str. 5",
+                    "id": "1486",
+                    "apo_id": "aknds1486",
+                    "strasse": "Große Str. 2",
                     "plz": "27283",
                     "ort": "Verden",
-                    "distanz": "13.86068392375",
-                    "longitude": "9.2281548",
-                    "latitude": "52.9237387",
-                    "telefon": "+49 4231 920511",
-                    "fax": "+49 4231 931977",
+                    "distanz": "13.89368580883",
+                    "longitude": "9.227984",
+                    "latitude": "52.9242917",
+                    "telefon": "+49 4231 3398",
+                    "fax": "+49 4231 83963",
                     "email": [],
-                    "startdatum": "18.11.2025",
+                    "startdatum": "19.11.2025",
                     "startzeit": "09:00",
-                    "enddatum": "19.11.2025",
+                    "enddatum": "20.11.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -112,22 +93,22 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Apotheke im Hufeisen",
+                    "name": "Rats-Apotheke",
                     "kammer": "aknds",
-                    "id": "2772",
-                    "apo_id": "aknds2772",
-                    "strasse": "Uesener Feldstr. 5",
+                    "id": "1119",
+                    "apo_id": "aknds1119",
+                    "strasse": "Obernstraße 22",
                     "plz": "28832",
                     "ort": "Achim",
-                    "distanz": "18.35605931746",
-                    "longitude": "9.0526972",
-                    "latitude": "53.0041994",
-                    "telefon": "+49 4202 955595",
-                    "fax": "+49 4202 637120",
+                    "distanz": "18.86855997126",
+                    "longitude": "9.042328",
+                    "latitude": "53.0081822",
+                    "telefon": "+49 4202 8016",
+                    "fax": "+49 4202 8002",
                     "email": [],
-                    "startdatum": "18.11.2025",
+                    "startdatum": "19.11.2025",
                     "startzeit": "09:00",
-                    "enddatum": "19.11.2025",
+                    "enddatum": "20.11.2025",
                     "endzeit": "09:00"
                 },
                 {
