@@ -28,49 +28,49 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 4
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "27938"
+            "verwendet": "28486"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Nordertor-Apotheke",
+                    "name": "Storchen-Apotheke",
                     "kammer": "aknds",
-                    "id": "1486",
-                    "apo_id": "aknds1486",
-                    "strasse": "Große Str. 2",
+                    "id": "1489",
+                    "apo_id": "aknds1489",
+                    "strasse": "Plattenberg 57",
                     "plz": "27283",
                     "ort": "Verden",
-                    "distanz": "13.89368580883",
-                    "longitude": "9.227984",
-                    "latitude": "52.9242917",
-                    "telefon": "+49 4231 3398",
-                    "fax": "+49 4231 83963",
+                    "distanz": "14.27567523431",
+                    "longitude": "9.246528",
+                    "latitude": "52.9160608",
+                    "telefon": "+49 4231 5255",
+                    "fax": "+49 4231 81426",
                     "email": [],
-                    "startdatum": "19.11.2025",
+                    "startdatum": "20.11.2025",
                     "startzeit": "09:00",
-                    "enddatum": "20.11.2025",
+                    "enddatum": "21.11.2025",
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Rats-Apotheke",
+                    "name": "Schloss Apotheke Syke am famila",
                     "kammer": "aknds",
-                    "id": "1119",
-                    "apo_id": "aknds1119",
-                    "strasse": "Obernstraße 22",
-                    "plz": "28832",
-                    "ort": "Achim",
-                    "distanz": "18.86855997126",
-                    "longitude": "9.042328",
-                    "latitude": "53.0081822",
-                    "telefon": "+49 4202 8016",
-                    "fax": "+49 4202 8002",
+                    "id": "6230",
+                    "apo_id": "aknds6230",
+                    "strasse": "Zum Hachepark 8-12",
+                    "plz": "28857",
+                    "ort": "Syke",
+                    "distanz": "18.7780530372",
+                    "longitude": "8.8260593",
+                    "latitude": "52.9147802",
+                    "telefon": "+49 4242 1695744",
+                    "fax": "+49 4242 1695746",
                     "email": [],
-                    "startdatum": "19.11.2025",
+                    "startdatum": "20.11.2025",
                     "startzeit": "09:00",
-                    "enddatum": "20.11.2025",
+                    "enddatum": "21.11.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -110,6 +110,44 @@
                     "startzeit": "08:00",
                     "enddatum": "21.11.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke bei Dodenhof",
+                    "kammer": "aknds",
+                    "id": "2701",
+                    "apo_id": "aknds2701",
+                    "strasse": "Posthausen 1",
+                    "plz": "28870",
+                    "ort": "Ottersberg",
+                    "distanz": "25.365282849390002",
+                    "longitude": "9.1708141",
+                    "latitude": "53.0604662",
+                    "telefon": "+49 4297 816816",
+                    "fax": "+49 4297 816818",
+                    "email": [],
+                    "startdatum": "20.11.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "21.11.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Schleng-Apotheke",
+                    "kammer": "akbr",
+                    "id": "10166",
+                    "apo_id": "akbr10166",
+                    "strasse": "Schlengstr. 31",
+                    "plz": "28309",
+                    "ort": "Bremen",
+                    "distanz": "26.475735857470003",
+                    "longitude": "8.8939178",
+                    "latitude": "53.0508237",
+                    "telefon": "+49 421 452215",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "20.11.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "21.11.2025",
+                    "endzeit": "09:00"
                 }
             ]
         }
