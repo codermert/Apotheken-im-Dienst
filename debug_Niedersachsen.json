@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "25676"
+            "verwendet": "26273"
         },
         "apotheken": {
             "apotheke": [
@@ -74,41 +74,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Rethemer Apotheke",
+                    "name": "Leintor Apotheke",
                     "kammer": "aknds",
-                    "id": "1384",
-                    "apo_id": "aknds1384",
-                    "strasse": "Mühlenstraße 2",
-                    "plz": "27336",
-                    "ort": "Rethem",
-                    "distanz": "21.37822325996",
-                    "longitude": "9.3798974",
-                    "latitude": "52.7851639",
-                    "telefon": "+49 5165 2918848",
-                    "fax": "+49 5165 2918849",
-                    "email": [],
-                    "startdatum": "20.11.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "21.11.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Hansa Apotheke",
-                    "kammer": "aknds",
-                    "id": "955",
-                    "apo_id": "aknds955",
-                    "strasse": "Hansastr. 3",
+                    "id": "956",
+                    "apo_id": "aknds956",
+                    "strasse": "Hannoversche Str. 12",
                     "plz": "31582",
                     "ort": "Nienburg",
-                    "distanz": "23.14845354176",
-                    "longitude": "9.2148089",
-                    "latitude": "52.6496656",
-                    "telefon": "+49 5021 910266",
-                    "fax": "+49 5021 910277",
+                    "distanz": "24.42755959594",
+                    "longitude": "9.2117242",
+                    "latitude": "52.6363944",
+                    "telefon": "+49 5021 3250",
+                    "fax": "+49 5021 926200",
                     "email": [],
-                    "startdatum": "20.11.2025",
+                    "startdatum": "21.11.2025",
                     "startzeit": "08:00",
-                    "enddatum": "21.11.2025",
+                    "enddatum": "22.11.2025",
                     "endzeit": "08:00"
                 },
                 {
