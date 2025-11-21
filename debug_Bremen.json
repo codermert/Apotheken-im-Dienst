@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "27737"
+            "verwendet": "28590"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,22 +1310,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Polaris-Apotheke-Hasport",
+                    "name": "Rosen-Apotheke",
                     "kammer": "aknds",
-                    "id": "6902",
-                    "apo_id": "aknds6902",
-                    "strasse": "Hasporter Damm 166",
-                    "plz": "27755",
+                    "id": "1676",
+                    "apo_id": "aknds1676",
+                    "strasse": "Cramerstr. 15",
+                    "plz": "27749",
                     "ort": "Delmenhorst",
-                    "distanz": "12.727373871760001",
-                    "longitude": "8.6511508",
-                    "latitude": "53.0333463",
-                    "telefon": "+49 4221 2927078",
-                    "fax": "+49 4221 2926171",
+                    "distanz": "11.49851462493",
+                    "longitude": "8.6348904",
+                    "latitude": "53.0476985",
+                    "telefon": "+49 4221 93590",
+                    "fax": "+49 4221 935935",
                     "email": [],
-                    "startdatum": "20.11.2025",
+                    "startdatum": "21.11.2025",
                     "startzeit": "08:30",
-                    "enddatum": "21.11.2025",
+                    "enddatum": "22.11.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -1365,6 +1365,25 @@
                     "startzeit": "09:00",
                     "enddatum": "21.11.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Alte Raben Apotheke",
+                    "kammer": "aknds",
+                    "id": "1815",
+                    "apo_id": "aknds1815",
+                    "strasse": "Parkstr. 12",
+                    "plz": "27798",
+                    "ort": "Hude",
+                    "distanz": "16.03848971665",
+                    "longitude": "8.4602241",
+                    "latitude": "53.1112996",
+                    "telefon": "+49 4408 321",
+                    "fax": "+49 4408 60121",
+                    "email": [],
+                    "startdatum": "21.11.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "21.11.2025",
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Schleng-Apotheke",
