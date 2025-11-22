@@ -3194,7 +3194,7 @@
             "anzahl": 16
         },
         "quota": {
-            "verwendet": "32766"
+            "verwendet": "33618"
         },
         "apotheken": {
             "apotheke": [
@@ -3351,25 +3351,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Apotheke Mitten im Leben",
-                    "kammer": "aknds",
-                    "id": "5859",
-                    "apo_id": "aknds5859",
-                    "strasse": "Am Saal 16",
-                    "plz": "21217",
-                    "ort": "Seevetal",
-                    "distanz": "14.65357934397",
-                    "longitude": "10.0197091",
-                    "latitude": "53.4191686",
-                    "telefon": "+49 40 70108642",
-                    "fax": "+49 40 70108703",
-                    "email": [],
-                    "startdatum": "21.11.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "22.11.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Norderstedt-Apotheke",
                     "kammer": "aksh",
                     "id": "10362",
@@ -3482,6 +3463,25 @@
                     "startzeit": "08:00",
                     "enddatum": "23.11.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "wir leben-Apotheke im Luhepark",
+                    "kammer": "aknds",
+                    "id": "6737",
+                    "apo_id": "aknds6737",
+                    "strasse": "Löhnfeld 10",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "24.61644853109",
+                    "longitude": "10.1955",
+                    "latitude": "53.3622",
+                    "telefon": "+49 4171 605770",
+                    "fax": "+49 4171 6057719",
+                    "email": [],
+                    "startdatum": "22.11.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "23.11.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Elbmarsch-Apotheke",
