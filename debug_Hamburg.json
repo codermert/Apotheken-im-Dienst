@@ -3194,7 +3194,7 @@
             "anzahl": 19
         },
         "quota": {
-            "verwendet": "71916"
+            "verwendet": "80406"
         },
         "apotheken": {
             "apotheke": [
@@ -3427,6 +3427,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Iris-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1417",
+                    "apo_id": "aknds1417",
+                    "strasse": "Schulstr. 29-31",
+                    "plz": "21220",
+                    "ort": "Seevetal",
+                    "distanz": "17.49115951688",
+                    "longitude": "10.0383807",
+                    "latitude": "53.3948011",
+                    "telefon": "+49 4105 82074",
+                    "fax": "+49 4105 80588",
+                    "email": [],
+                    "startdatum": "23.11.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "24.11.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Barlach-Apotheke",
                     "kammer": "aksh",
                     "id": "10472",
@@ -3501,25 +3520,6 @@
                     "startzeit": "08:00",
                     "enddatum": "24.11.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "wir leben-Apotheke im Luhepark",
-                    "kammer": "aknds",
-                    "id": "6737",
-                    "apo_id": "aknds6737",
-                    "strasse": "Löhnfeld 10",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "24.61644853109",
-                    "longitude": "10.1955",
-                    "latitude": "53.3622",
-                    "telefon": "+49 4171 605770",
-                    "fax": "+49 4171 6057719",
-                    "email": [],
-                    "startdatum": "22.11.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "23.11.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Galerie Apotheke oHG",
