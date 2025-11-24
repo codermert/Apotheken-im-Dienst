@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "36484"
+            "verwendet": "37803"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,23 +1310,23 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Heide-Apotheke",
+                    "name": "Apotheke Schierbrok",
                     "kammer": "aknds",
-                    "id": "1747",
-                    "apo_id": "aknds1747",
-                    "strasse": "Schönemoorer Landstr. 6",
+                    "id": "1753",
+                    "apo_id": "aknds1753",
+                    "strasse": "Bahnhofstr. 49",
                     "plz": "27777",
                     "ort": "Ganderkesee",
-                    "distanz": "9.2016662908",
-                    "longitude": "8.6217333",
-                    "latitude": "53.0742622",
-                    "telefon": "+49 4221 43949",
-                    "fax": "+49 4221 44049",
+                    "distanz": "10.35027715195",
+                    "longitude": "8.5769381",
+                    "latitude": "53.0836028",
+                    "telefon": "+49 4221 89335",
+                    "fax": "+49 4221 88151",
                     "email": [],
-                    "startdatum": "23.11.2025",
+                    "startdatum": "24.11.2025",
                     "startzeit": "08:30",
                     "enddatum": "24.11.2025",
-                    "endzeit": "08:30"
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Max & Moritz Apotheke",
@@ -1348,22 +1348,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Süd Apotheke",
+                    "name": "West-Apotheke",
                     "kammer": "aknds",
-                    "id": "1679",
-                    "apo_id": "aknds1679",
-                    "strasse": "Düsternortstr. 114",
-                    "plz": "27755",
+                    "id": "1680",
+                    "apo_id": "aknds1680",
+                    "strasse": "Oldenburger Str. 79",
+                    "plz": "27753",
                     "ort": "Delmenhorst",
-                    "distanz": "12.97849030241",
-                    "longitude": "8.6395399",
-                    "latitude": "53.0328179",
-                    "telefon": "+49 4221 96630",
-                    "fax": "+49 4221 966320",
+                    "distanz": "12.10518761083",
+                    "longitude": "8.6071553",
+                    "latitude": "53.0492285",
+                    "telefon": "+49 4221 987098",
+                    "fax": "+49 4221 987096",
                     "email": [],
-                    "startdatum": "23.11.2025",
+                    "startdatum": "24.11.2025",
                     "startzeit": "08:30",
-                    "enddatum": "24.11.2025",
+                    "enddatum": "25.11.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -1384,25 +1384,6 @@
                     "startzeit": "09:00",
                     "enddatum": "24.11.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Kranich Apotheke",
-                    "kammer": "aknds",
-                    "id": "1265",
-                    "apo_id": "aknds1265",
-                    "strasse": "Amtsdamm 39",
-                    "plz": "27628",
-                    "ort": "Hagen im Bremischen",
-                    "distanz": "23.681015648789998",
-                    "longitude": "8.6430292",
-                    "latitude": "53.3555124",
-                    "telefon": "+49 4746 951060",
-                    "fax": "+49 4746 951061",
-                    "email": [],
-                    "startdatum": "23.11.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "24.11.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Flora-Apotheke",
