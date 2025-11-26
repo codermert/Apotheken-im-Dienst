@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "32380"
+            "verwendet": "33113"
         },
         "apotheken": {
             "apotheke": [
@@ -1348,22 +1348,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke im Zurbrüggen-Zentrum",
+                    "name": "Andreas-Apotheke",
                     "kammer": "aknds",
-                    "id": "5610",
-                    "apo_id": "aknds5610",
-                    "strasse": "Seestr. 5",
-                    "plz": "27755",
+                    "id": "1663",
+                    "apo_id": "aknds1663",
+                    "strasse": "Oldenburger Str. 25",
+                    "plz": "27753",
                     "ort": "Delmenhorst",
-                    "distanz": "12.902705588209999",
-                    "longitude": "8.66095",
-                    "latitude": "53.03057",
-                    "telefon": "+49 4221 6893551",
-                    "fax": "+49 4221 6893545",
+                    "distanz": "11.683725943999999",
+                    "longitude": "8.6205462",
+                    "latitude": "53.0494339",
+                    "telefon": "+49 4221 150990",
+                    "fax": "+49 4221 120711",
                     "email": [],
-                    "startdatum": "25.11.2025",
+                    "startdatum": "26.11.2025",
                     "startzeit": "08:30",
-                    "enddatum": "26.11.2025",
+                    "enddatum": "27.11.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -1386,6 +1386,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Apotheke am famila",
+                    "kammer": "aknds",
+                    "id": "6801",
+                    "apo_id": "aknds6801",
+                    "strasse": "Markt 5",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.77459148283",
+                    "longitude": "8.54525",
+                    "latitude": "53.03462",
+                    "telefon": "+49 4222 9473270",
+                    "fax": "+49 4222 9473271",
+                    "email": [],
+                    "startdatum": "26.11.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "26.11.2025",
+                    "endzeit": "20:00"
+                },
+                {
                     "name": "Apotheke 55 im Rudolf-Virchow-Haus",
                     "kammer": "aknds",
                     "id": "1096",
@@ -1403,6 +1422,25 @@
                     "startzeit": "09:00",
                     "enddatum": "26.11.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Mühlen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1795",
+                    "apo_id": "aknds1795",
+                    "strasse": "Burgstr. 17",
+                    "plz": "27243",
+                    "ort": "Harpstedt",
+                    "distanz": "27.171589531869998",
+                    "longitude": "8.5871724",
+                    "latitude": "52.909233",
+                    "telefon": "+49 4244 93530",
+                    "fax": "+49 4244 935353",
+                    "email": [],
+                    "startdatum": "26.11.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "27.11.2025",
+                    "endzeit": "08:30"
                 }
             ]
         }
