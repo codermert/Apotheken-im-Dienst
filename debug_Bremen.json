@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 12
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "122910"
+            "verwendet": "126271"
         },
         "apotheken": {
             "apotheke": [
@@ -1327,44 +1327,6 @@
                     "startzeit": "08:30",
                     "enddatum": "28.11.2025",
                     "endzeit": "08:30"
-                },
-                {
-                    "name": "Apotheke Bookholzberg",
-                    "kammer": "aknds",
-                    "id": "1752",
-                    "apo_id": "aknds1752",
-                    "strasse": "Stedinger Str. 63",
-                    "plz": "27777",
-                    "ort": "Ganderkesee",
-                    "distanz": "12.15097528613",
-                    "longitude": "8.530713",
-                    "latitude": "53.0962681",
-                    "telefon": "+49 4223 3070",
-                    "fax": "+49 4223 1332",
-                    "email": [],
-                    "startdatum": "27.11.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "27.11.2025",
-                    "endzeit": "20:00"
-                },
-                {
-                    "name": "Stedinger Apotheke",
-                    "kammer": "aknds",
-                    "id": "1612",
-                    "apo_id": "aknds1612",
-                    "strasse": "Weserstr. 28",
-                    "plz": "27804",
-                    "ort": "Berne",
-                    "distanz": "14.73436263223",
-                    "longitude": "8.484236",
-                    "latitude": "53.18675",
-                    "telefon": "+49 4406 202",
-                    "fax": "+49 4406 836",
-                    "email": [],
-                    "startdatum": "27.11.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "27.11.2025",
-                    "endzeit": "20:00"
                 },
                 {
                     "name": "Wilhelm-Leuschner-Apotheke",
