@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 9
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "42315"
+            "verwendet": "43652"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,22 +1310,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Löwen-Apotheke",
+                    "name": "Spitzweg Apotheke (im Kaufland)",
                     "kammer": "aknds",
-                    "id": "1671",
-                    "apo_id": "aknds1671",
-                    "strasse": "Bremer Str. 78-82",
-                    "plz": "27751",
+                    "id": "1684",
+                    "apo_id": "aknds1684",
+                    "strasse": "Stedinger Str. 101",
+                    "plz": "27753",
                     "ort": "Delmenhorst",
-                    "distanz": "10.682793413539999",
-                    "longitude": "8.6466895",
-                    "latitude": "53.0530558",
-                    "telefon": "+49 4221 91280",
-                    "fax": "+49 4221 912820",
+                    "distanz": "10.20032902012",
+                    "longitude": "8.6305287",
+                    "latitude": "53.0613418",
+                    "telefon": "+49 4221 588225",
+                    "fax": "+49 4221 588224",
                     "email": [],
-                    "startdatum": "28.11.2025",
+                    "startdatum": "29.11.2025",
                     "startzeit": "08:30",
-                    "enddatum": "29.11.2025",
+                    "enddatum": "30.11.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -1365,6 +1365,25 @@
                     "startzeit": "09:00",
                     "enddatum": "29.11.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Ring-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1749",
+                    "apo_id": "aknds1749",
+                    "strasse": "Ring 26",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.89569036873",
+                    "longitude": "8.5473054",
+                    "latitude": "53.03225",
+                    "telefon": "+49 4222 950288",
+                    "fax": "+49 4222 950290",
+                    "email": [],
+                    "startdatum": "29.11.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "30.11.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Apotheke Blockdiek",
