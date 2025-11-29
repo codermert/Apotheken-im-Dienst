@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "36123"
+            "verwendet": "37705"
         },
         "apotheken": {
             "apotheke": [
@@ -51,6 +51,25 @@
                     "email": [],
                     "startdatum": "28.11.2025",
                     "startzeit": "08:00",
+                    "enddatum": "29.11.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke am Park",
+                    "kammer": "akmv",
+                    "id": "177210",
+                    "apo_id": "akmv177210",
+                    "strasse": "Zu den Wiesen 9",
+                    "plz": "18279",
+                    "ort": "Lalendorf",
+                    "distanz": "12.7158404106",
+                    "longitude": "12.38463",
+                    "latitude": "53.75746",
+                    "telefon": "+49 38452 20592",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "29.11.2025",
+                    "startzeit": "07:00",
                     "enddatum": "29.11.2025",
                     "endzeit": "08:00"
                 },
