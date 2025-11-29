@@ -28,13 +28,32 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 4
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "45901"
+            "verwendet": "46593"
         },
         "apotheken": {
             "apotheke": [
+                {
+                    "name": "Lindenberg Apotheke",
+                    "kammer": "aknds",
+                    "id": "539",
+                    "apo_id": "aknds539",
+                    "strasse": "Bahnhofstr. 57",
+                    "plz": "27305",
+                    "ort": "Bruchhausen-Vilsen",
+                    "distanz": "6.3638519296",
+                    "longitude": "8.98631",
+                    "latitude": "52.82191",
+                    "telefon": "+49 4252 3434",
+                    "fax": "+49 4252 3437",
+                    "email": [],
+                    "startdatum": "29.11.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "30.11.2025",
+                    "endzeit": "09:00"
+                },
                 {
                     "name": "Hirsch-Apotheke am Holzmarkt",
                     "kammer": "aknds",
@@ -49,28 +68,28 @@
                     "telefon": "+49 4231 2680",
                     "fax": "+49 4231 930056",
                     "email": [],
-                    "startdatum": "28.11.2025",
+                    "startdatum": "29.11.2025",
                     "startzeit": "09:00",
-                    "enddatum": "29.11.2025",
+                    "enddatum": "30.11.2025",
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Storchen-Apotheke",
+                    "name": "Alte Apotheke",
                     "kammer": "aknds",
-                    "id": "1122",
-                    "apo_id": "aknds1122",
-                    "strasse": "Uphuser Heerstr. 35",
+                    "id": "1116",
+                    "apo_id": "aknds1116",
+                    "strasse": "Obernstraße 5",
                     "plz": "28832",
                     "ort": "Achim",
-                    "distanz": "21.9515605273",
-                    "longitude": "8.9743033",
-                    "latitude": "53.0273012",
-                    "telefon": "+49 4202 910150",
-                    "fax": "+49 4202 910151",
+                    "distanz": "19.46752993261",
+                    "longitude": "9.0310955",
+                    "latitude": "53.0126733",
+                    "telefon": "+49 4202 8999",
+                    "fax": "+49 4202 84361",
                     "email": [],
-                    "startdatum": "28.11.2025",
+                    "startdatum": "29.11.2025",
                     "startzeit": "09:00",
-                    "enddatum": "29.11.2025",
+                    "enddatum": "30.11.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -110,6 +129,25 @@
                     "startzeit": "08:00",
                     "enddatum": "30.11.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "farma-plus Apotheke Briseck",
+                    "kammer": "aknds",
+                    "id": "5424",
+                    "apo_id": "aknds5424",
+                    "strasse": "Jupiterstr. 1",
+                    "plz": "28816",
+                    "ort": "Stuhr",
+                    "distanz": "27.041301180900003",
+                    "longitude": "8.779",
+                    "latitude": "53.00366",
+                    "telefon": "+49 421 80950800",
+                    "fax": "+49 421 80950801",
+                    "email": [],
+                    "startdatum": "29.11.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "30.11.2025",
+                    "endzeit": "09:00"
                 }
             ]
         }
