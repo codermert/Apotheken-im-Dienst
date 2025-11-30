@@ -445,14 +445,6 @@
       "mesafe": "19.8 km"
     },
     {
-      "eczaneAdi": "Eidig-Apotheke",
-      "adres": "Bürgermeister-Glade-Str. 1, 21224 Rosengarten",
-      "telefon": "+49 4105 65560",
-      "enlem": "53.3672014",
-      "boylam": "9.9290501",
-      "mesafe": "20.9 km"
-    },
-    {
       "eczaneAdi": "Apotheke am U-Bahnhof",
       "adres": "Eilbergweg 9, 22927 Großhansdorf",
       "telefon": "04102-69910",
@@ -467,6 +459,14 @@
       "enlem": "53.6973256",
       "boylam": "9.7178271",
       "mesafe": "24.9 km"
+    },
+    {
+      "eczaneAdi": "wir leben-Apotheke am Bahnhof",
+      "adres": "Bahnhofstr. 67, 21423 Winsen (Luhe)",
+      "telefon": "+49 4171 71460",
+      "enlem": "53.3556573",
+      "boylam": "10.2061221",
+      "mesafe": "25.6 km"
     },
     {
       "eczaneAdi": "Stadt-Apotheke",
@@ -1007,40 +1007,7 @@
       "mesafe": "27.5 km"
     }
   ],
-  "Sachsen": [
-    {
-      "eczaneAdi": "Pluspunkt-Apotheke Friedeburg",
-      "adres": "Friedeburger Straße 11, 09599 Freiberg",
-      "telefon": "+49 3731 200346",
-      "enlem": "50.91761",
-      "boylam": "13.32813",
-      "mesafe": "9.3 km"
-    },
-    {
-      "eczaneAdi": "Raben-Apotheke",
-      "adres": "Nordstr. 1, 01734 Rabenau",
-      "telefon": "+49 351 6495105",
-      "enlem": "50.96629",
-      "boylam": "13.64187",
-      "mesafe": "13.5 km"
-    },
-    {
-      "eczaneAdi": "Cosel-Apotheke",
-      "adres": "Windbergstraße 6, 01189 Dresden",
-      "telefon": "+49 351 4031983",
-      "enlem": "51.0181",
-      "boylam": "13.70315",
-      "mesafe": "19.8 km"
-    },
-    {
-      "eczaneAdi": "City-Apotheke am Goldenen Reiter",
-      "adres": "Hauptstraße 7, 01097 Dresden",
-      "telefon": "+49 351 26731940",
-      "enlem": "51.05944",
-      "boylam": "13.74222",
-      "mesafe": "24.6 km"
-    }
-  ],
+  "Sachsen": [],
   "Sachsen-Anhalt": [
     {
       "eczaneAdi": "Sonnen-Apotheke",
