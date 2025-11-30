@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "71868"
+            "verwendet": "76451"
         },
         "apotheken": {
             "apotheke": [
@@ -74,6 +74,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Domino-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1111",
+                    "apo_id": "aknds1111",
+                    "strasse": "Alter Kirchweg 1",
+                    "plz": "31627",
+                    "ort": "Rohrsen",
+                    "distanz": "18.03914767201",
+                    "longitude": "9.233263",
+                    "latitude": "52.7087912",
+                    "telefon": "+49 5024 765",
+                    "fax": "+49 5024 8303",
+                    "email": [],
+                    "startdatum": "30.11.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "01.12.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Alte Apotheke",
                     "kammer": "aknds",
                     "id": "1116",
@@ -91,44 +110,6 @@
                     "startzeit": "09:00",
                     "enddatum": "30.11.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Meerbach-Apotheke",
-                    "kammer": "aknds",
-                    "id": "964",
-                    "apo_id": "aknds964",
-                    "strasse": "Ziegelkampstr. 37",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "24.92702017755",
-                    "longitude": "9.223937",
-                    "latitude": "52.6346479",
-                    "telefon": "+49 5021 888740",
-                    "fax": "+49 5021 888745",
-                    "email": [],
-                    "startdatum": "29.11.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "30.11.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Sule-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1063",
-                    "apo_id": "aknds1063",
-                    "strasse": "Lange Straße 25-27",
-                    "plz": "27232",
-                    "ort": "Sulingen",
-                    "distanz": "25.88536813323",
-                    "longitude": "8.7957161",
-                    "latitude": "52.6810922",
-                    "telefon": "+49 4271 2958",
-                    "fax": "+49 4271 4779",
-                    "email": [],
-                    "startdatum": "29.11.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "30.11.2025",
-                    "endzeit": "08:00"
                 },
                 {
                     "name": "farma-plus Apotheke Briseck",
