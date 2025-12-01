@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 32
+            "anzahl": 36
         },
         "quota": {
-            "verwendet": "38867"
+            "verwendet": "40756"
         },
         "apotheken": {
             "apotheke": [
@@ -5743,22 +5743,22 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Kronenapotheke Teltow",
+                    "name": "Dorf-Apotheke",
                     "kammer": "lakbb",
-                    "id": "685",
-                    "apo_id": "lakbb685",
-                    "strasse": "Ruhlsdorfer Straße 3",
-                    "plz": "14513",
-                    "ort": "Teltow",
-                    "distanz": "15.385430335499999",
-                    "longitude": "13.26814",
-                    "latitude": "52.40008",
-                    "telefon": "+49 3328 4219333",
-                    "fax": "+49 3328 4919330",
-                    "email": "team-@ka-teltow.de",
-                    "startdatum": "30.11.2025",
+                    "id": "446",
+                    "apo_id": "lakbb446",
+                    "strasse": "Dorfstraße 17",
+                    "plz": "16356",
+                    "ort": "Ahrensfelde",
+                    "distanz": "14.103945313390001",
+                    "longitude": "13.5740345",
+                    "latitude": "52.5746579",
+                    "telefon": "+49 30 93772171",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "01.12.2025",
                     "startzeit": "08:00",
-                    "enddatum": "01.12.2025",
+                    "enddatum": "02.12.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -5781,23 +5781,23 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Rathaus-Apotheke",
-                    "kammer": "akb",
-                    "id": "100498",
-                    "apo_id": "akb100498",
-                    "strasse": "Bölschestr. 59",
-                    "plz": "12587",
-                    "ort": "Berlin",
-                    "distanz": "17.52011942899",
-                    "longitude": "13.6255532",
-                    "latitude": "52.4545049",
-                    "telefon": "+49 30 6455281",
+                    "name": "Apotheke am Rathausmarkt",
+                    "kammer": "lakbb",
+                    "id": "522",
+                    "apo_id": "lakbb522",
+                    "strasse": "Förster-Funke-Allee 104",
+                    "plz": "14532",
+                    "ort": "Kleinmachnow",
+                    "distanz": "17.013397893180002",
+                    "longitude": "13.21942",
+                    "latitude": "52.4045",
+                    "telefon": "+49 33203 77994",
                     "fax": [],
                     "email": [],
-                    "startdatum": "30.11.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "01.12.2025",
-                    "endzeit": "08:59"
+                    "startdatum": "01.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "02.12.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }
