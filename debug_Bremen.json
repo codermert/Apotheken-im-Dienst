@@ -1267,7 +1267,7 @@
             "anzahl": 11
         },
         "quota": {
-            "verwendet": "40929"
+            "verwendet": "42165"
         },
         "apotheken": {
             "apotheke": [
@@ -1291,6 +1291,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Löwen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1671",
+                    "apo_id": "aknds1671",
+                    "strasse": "Bremer Str. 78-82",
+                    "plz": "27751",
+                    "ort": "Delmenhorst",
+                    "distanz": "10.682793413539999",
+                    "longitude": "8.6466895",
+                    "latitude": "53.0530558",
+                    "telefon": "+49 4221 91280",
+                    "fax": "+49 4221 912820",
+                    "email": [],
+                    "startdatum": "01.12.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "02.12.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Delme-Apotheke",
                     "kammer": "akbr",
                     "id": "10039",
@@ -1308,25 +1327,6 @@
                     "startzeit": "09:00",
                     "enddatum": "01.12.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Bahnhof-Apotheke Delcare oHG",
-                    "kammer": "aknds",
-                    "id": "1665",
-                    "apo_id": "aknds1665",
-                    "strasse": "Bahnhofstr. 11 - 13",
-                    "plz": "27749",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.25687064993",
-                    "longitude": "8.6299531",
-                    "latitude": "53.0511638",
-                    "telefon": "+49 4221 14506",
-                    "fax": "+49 4221 18661",
-                    "email": [],
-                    "startdatum": "30.11.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "01.12.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "sk-Apotheke in Varrel OHG",
@@ -1405,23 +1405,23 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Alte Raben Apotheke",
+                    "name": "Pelikan-Apotheke",
                     "kammer": "aknds",
-                    "id": "1815",
-                    "apo_id": "aknds1815",
-                    "strasse": "Parkstr. 12",
-                    "plz": "27798",
-                    "ort": "Hude",
-                    "distanz": "16.03848971665",
-                    "longitude": "8.4602241",
-                    "latitude": "53.1112996",
-                    "telefon": "+49 4408 321",
-                    "fax": "+49 4408 60121",
+                    "id": "1748",
+                    "apo_id": "aknds1748",
+                    "strasse": "Grüppenbührener Str. 7",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.632284368570001",
+                    "longitude": "8.5428808",
+                    "latitude": "53.0374524",
+                    "telefon": "+49 4222 5257",
+                    "fax": "+49 4222 6642",
                     "email": [],
-                    "startdatum": "30.11.2025",
+                    "startdatum": "01.12.2025",
                     "startzeit": "08:30",
                     "enddatum": "01.12.2025",
-                    "endzeit": "08:30"
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Weser-Apotheke",
