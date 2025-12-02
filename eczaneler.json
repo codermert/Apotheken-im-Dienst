@@ -637,14 +637,6 @@
       "mesafe": "2.6 km"
     },
     {
-      "eczaneAdi": "Heide-Apotheke",
-      "adres": "Schönemoorer Landstr. 6, 27777 Ganderkesee",
-      "telefon": "+49 4221 43949",
-      "enlem": "53.0742622",
-      "boylam": "8.6217333",
-      "mesafe": "9.2 km"
-    },
-    {
       "eczaneAdi": "Findorff-Apotheke",
       "adres": "Admiralstr. 159, 28215 Bremen",
       "telefon": "+49 421 377878",
@@ -745,36 +737,52 @@
       "mesafe": "0.0 km"
     },
     {
-      "eczaneAdi": "Recknitztal-Apotheke",
-      "adres": "Breesener Str. 37, 18299 Laage",
-      "telefon": "+49 38459 36235",
-      "enlem": "53.9277616",
-      "boylam": "12.3460061",
-      "mesafe": "22.9 km"
-    },
-    {
-      "eczaneAdi": "Hubertus-Apotheke",
-      "adres": "Friedensstr. 29, 17179 Gnoien",
-      "telefon": "+49 39971 1830",
-      "enlem": "53.9693156",
-      "boylam": "12.7102512",
-      "mesafe": "23.5 km"
-    },
-    {
-      "eczaneAdi": "Fritz-Reuter-Apotheke",
-      "adres": "Am Markt 16, 17153 Reuterstadt Stavenhagen",
-      "telefon": "+49 39954 21082",
-      "enlem": "53.6957432",
-      "boylam": "12.9085263",
-      "mesafe": "23.6 km"
-    },
-    {
       "eczaneAdi": "Apotheke am Wall",
       "adres": "Hageböcker Str. 19, 18273 Güstrow",
       "telefon": "+49 3843 684096",
       "enlem": "53.7934156",
       "boylam": "12.1714502",
       "mesafe": "26.7 km"
+    },
+    {
+      "eczaneAdi": "Kranich-Apotheke",
+      "adres": "Hans-Beimler-Str. 42 b, 17192 Waren",
+      "telefon": "+49 3991 17570",
+      "enlem": "53.5206875",
+      "boylam": "12.6605961",
+      "mesafe": "28.7 km"
+    },
+    {
+      "eczaneAdi": "Apotheke im Globus",
+      "adres": "Globusring 1, 18184 Roggentin",
+      "telefon": "+49 38204 15343",
+      "enlem": "54.0753978",
+      "boylam": "12.2013015",
+      "mesafe": "41.6 km"
+    },
+    {
+      "eczaneAdi": "Marien-Apotheke",
+      "adres": "Am Postberg 1, 17121 Loitz",
+      "telefon": "+49 39998 10381",
+      "enlem": "53.9737119",
+      "boylam": "13.129453",
+      "mesafe": "42.7 km"
+    },
+    {
+      "eczaneAdi": "Bernstein-Apotheke",
+      "adres": "H.-Sachs-Allee 12, 18057 Rostock",
+      "telefon": "+49 381 4923434",
+      "enlem": "54.0894693",
+      "boylam": "12.0966982",
+      "mesafe": "47.2 km"
+    },
+    {
+      "eczaneAdi": "Rosen-Apotheke",
+      "adres": "Carl-v.-Ossietzky-Str. 1 c, 18507 Grimmen",
+      "telefon": "+49 38326 80264",
+      "enlem": "54.10639",
+      "boylam": "13.04246",
+      "mesafe": "48.1 km"
     }
   ],
   "Niedersachsen": [
