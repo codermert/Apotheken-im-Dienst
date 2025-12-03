@@ -28,49 +28,30 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 4
         },
         "quota": {
-            "verwendet": "38865"
+            "verwendet": "39303"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Apotheke am Rathaus",
+                    "name": "Morsumer Apotheke",
                     "kammer": "aknds",
-                    "id": "1491",
-                    "apo_id": "aknds1491",
-                    "strasse": "Große Str. 5",
-                    "plz": "27283",
-                    "ort": "Verden",
-                    "distanz": "13.86068392375",
-                    "longitude": "9.2281548",
-                    "latitude": "52.9237387",
-                    "telefon": "+49 4231 920511",
-                    "fax": "+49 4231 931977",
+                    "id": "1528",
+                    "apo_id": "aknds1528",
+                    "strasse": "Verdener Str. 19",
+                    "plz": "27321",
+                    "ort": "Thedinghausen",
+                    "distanz": "13.04936147193",
+                    "longitude": "9.0780221",
+                    "latitude": "52.9571079",
+                    "telefon": "+49 4204 1611",
+                    "fax": "+49 4204 69918",
                     "email": [],
-                    "startdatum": "02.12.2025",
+                    "startdatum": "03.12.2025",
                     "startzeit": "09:00",
-                    "enddatum": "03.12.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Schloss Apotheke Syke Hauptstraße",
-                    "kammer": "aknds",
-                    "id": "1067",
-                    "apo_id": "aknds1067",
-                    "strasse": "Hauptstr. 13",
-                    "plz": "28857",
-                    "ort": "Syke",
-                    "distanz": "18.79044492107",
-                    "longitude": "8.8238966",
-                    "latitude": "52.9123306",
-                    "telefon": "+49 4242 2044",
-                    "fax": "+49 4242 4210",
-                    "email": [],
-                    "startdatum": "02.12.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "03.12.2025",
+                    "enddatum": "04.12.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -112,22 +93,22 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Engel-Apotheke",
-                    "kammer": "akbr",
-                    "id": "10196",
-                    "apo_id": "akbr10196",
-                    "strasse": "Sankt-Gotthard-Str. 33 A",
-                    "plz": "28325",
-                    "ort": "Bremen",
-                    "distanz": "26.47098224622",
-                    "longitude": "8.9526864",
-                    "latitude": "53.065767",
-                    "telefon": "+49 421 4093400",
-                    "fax": [],
+                    "name": "Gänse-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1058",
+                    "apo_id": "aknds1058",
+                    "strasse": "Hauptstr. 52 a",
+                    "plz": "28816",
+                    "ort": "Stuhr",
+                    "distanz": "27.126545560809998",
+                    "longitude": "8.75856",
+                    "latitude": "52.99021",
+                    "telefon": "+49 421 8099636",
+                    "fax": "+49 421 8099637",
                     "email": [],
-                    "startdatum": "02.12.2025",
+                    "startdatum": "03.12.2025",
                     "startzeit": "09:00",
-                    "enddatum": "03.12.2025",
+                    "enddatum": "04.12.2025",
                     "endzeit": "09:00"
                 }
             ]
