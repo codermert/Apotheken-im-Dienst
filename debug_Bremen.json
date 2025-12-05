@@ -1267,7 +1267,7 @@
             "anzahl": 9
         },
         "quota": {
-            "verwendet": "60630"
+            "verwendet": "61195"
         },
         "apotheken": {
             "apotheke": [
@@ -1386,6 +1386,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Deich-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1701",
+                    "apo_id": "aknds1701",
+                    "strasse": "Mühlenstr. 13",
+                    "plz": "26931",
+                    "ort": "Elsfleth",
+                    "distanz": "18.48276551042",
+                    "longitude": "8.464316",
+                    "latitude": "53.2380316",
+                    "telefon": "+49 4404 92840",
+                    "fax": "+49 4404 928420",
+                    "email": [],
+                    "startdatum": "05.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "06.12.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Apotheke 55 im Augenzentrum",
                     "kammer": "aknds",
                     "id": "7375",
@@ -1422,25 +1441,6 @@
                     "startzeit": "09:00",
                     "enddatum": "05.12.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Apotheke Kröger",
-                    "kammer": "aknds",
-                    "id": "1636",
-                    "apo_id": "aknds1636",
-                    "strasse": "Weserstr. 80",
-                    "plz": "26919",
-                    "ort": "Brake",
-                    "distanz": "26.0104326339",
-                    "longitude": "8.4635966",
-                    "latitude": "53.3336661",
-                    "telefon": "+49 4401 930240",
-                    "fax": "+49 4401 706883",
-                    "email": [],
-                    "startdatum": "04.12.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "05.12.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }
