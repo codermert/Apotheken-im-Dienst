@@ -31,7 +31,7 @@
             "anzahl": 5
         },
         "quota": {
-            "verwendet": "34083"
+            "verwendet": "34773"
         },
         "apotheken": {
             "apotheke": [
@@ -93,6 +93,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Uhlen Apotheke",
+                    "kammer": "aknds",
+                    "id": "941",
+                    "apo_id": "aknds941",
+                    "strasse": "Rathausstr. 2",
+                    "plz": "31608",
+                    "ort": "Marklohe",
+                    "distanz": "20.764561643180002",
+                    "longitude": "9.1586733",
+                    "latitude": "52.6601345",
+                    "telefon": "+49 5021 15025",
+                    "fax": "+49 5021 910838",
+                    "email": [],
+                    "startdatum": "06.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "07.12.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Geest-Apotheke",
                     "kammer": "aknds",
                     "id": "1092",
@@ -110,25 +129,6 @@
                     "startzeit": "09:00",
                     "enddatum": "06.12.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Stern-Apotheke",
-                    "kammer": "aknds",
-                    "id": "938",
-                    "apo_id": "aknds938",
-                    "strasse": "Sternstr. 1 B",
-                    "plz": "31618",
-                    "ort": "Liebenau",
-                    "distanz": "25.9555785569",
-                    "longitude": "9.0897493",
-                    "latitude": "52.6067599",
-                    "telefon": "+49 5023 94444",
-                    "fax": "+49 5023 94446",
-                    "email": [],
-                    "startdatum": "05.12.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "06.12.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }
