@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "473015"
+            "verwendet": "482143"
         },
         "apotheken": {
             "apotheke": [
@@ -53,6 +53,25 @@
                     "startzeit": "08:00",
                     "enddatum": "08.12.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Fritz-Reuter-Apotheke",
+                    "kammer": "akmv",
+                    "id": "171872",
+                    "apo_id": "akmv171872",
+                    "strasse": "Am Markt 16",
+                    "plz": "17153",
+                    "ort": "Reuterstadt Stavenhagen",
+                    "distanz": "23.617059265250003",
+                    "longitude": "12.9085263",
+                    "latitude": "53.6957432",
+                    "telefon": "+49 39954 21082",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "07.12.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "07.12.2025",
+                    "endzeit": "18:00"
                 },
                 {
                     "name": "Schloss-Apotheke",
@@ -110,6 +129,25 @@
                     "startzeit": "08:00",
                     "enddatum": "08.12.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Buchen-Apotheke",
+                    "kammer": "akmv",
+                    "id": "178298",
+                    "apo_id": "akmv178298",
+                    "strasse": "Friedrich-von-Flotow-Ring 15",
+                    "plz": "18190",
+                    "ort": "Sanitz",
+                    "distanz": "36.15413585038",
+                    "longitude": "12.3834443",
+                    "latitude": "54.0779007",
+                    "telefon": "+49 38209 490016",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "07.12.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "07.12.2025",
+                    "endzeit": "18:00"
                 },
                 {
                     "name": "Linden-Apotheke",
