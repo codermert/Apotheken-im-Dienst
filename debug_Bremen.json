@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 11
+            "anzahl": 10
         },
         "quota": {
-            "verwendet": "86749"
+            "verwendet": "98316"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,25 +1310,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Pluspunkt Apotheke Delmenhorst",
-                    "kammer": "aknds",
-                    "id": "1669",
-                    "apo_id": "aknds1669",
-                    "strasse": "Lange Str. 108",
-                    "plz": "27749",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.501539801749999",
-                    "longitude": "8.6292516",
-                    "latitude": "53.0489636",
-                    "telefon": "+49 4221 151514",
-                    "fax": "+49 4221 151515",
-                    "email": [],
-                    "startdatum": "06.12.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "07.12.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Fontane Apotheke",
                     "kammer": "akbr",
                     "id": "10058",
@@ -1346,25 +1327,6 @@
                     "startzeit": "09:00",
                     "enddatum": "07.12.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Apotheke Bookholzberg",
-                    "kammer": "aknds",
-                    "id": "1752",
-                    "apo_id": "aknds1752",
-                    "strasse": "Stedinger Str. 63",
-                    "plz": "27777",
-                    "ort": "Ganderkesee",
-                    "distanz": "12.15097528613",
-                    "longitude": "8.530713",
-                    "latitude": "53.0962681",
-                    "telefon": "+49 4223 3070",
-                    "fax": "+49 4223 1332",
-                    "email": [],
-                    "startdatum": "06.12.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "07.12.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Apotheke am Klinikum Bremen Mitte",
@@ -1386,6 +1348,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Polaris-Apotheke-Hasport",
+                    "kammer": "aknds",
+                    "id": "6902",
+                    "apo_id": "aknds6902",
+                    "strasse": "Hasporter Damm 166",
+                    "plz": "27755",
+                    "ort": "Delmenhorst",
+                    "distanz": "12.727373871760001",
+                    "longitude": "8.6511508",
+                    "latitude": "53.0333463",
+                    "telefon": "+49 4221 2927078",
+                    "fax": "+49 4221 2926171",
+                    "email": [],
+                    "startdatum": "07.12.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "08.12.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Eulen-Apotheke",
                     "kammer": "akbr",
                     "id": "10051",
@@ -1405,6 +1386,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Flores-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1817",
+                    "apo_id": "aknds1817",
+                    "strasse": "Parkstr. 47",
+                    "plz": "27798",
+                    "ort": "Hude",
+                    "distanz": "16.22079185705",
+                    "longitude": "8.4566718",
+                    "latitude": "53.1132591",
+                    "telefon": "+49 4408 6363",
+                    "fax": "+49 4408 970631",
+                    "email": [],
+                    "startdatum": "07.12.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "08.12.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Moor Apotheke Hüttenbusch",
                     "kammer": "aknds",
                     "id": "1518",
@@ -1422,25 +1422,6 @@
                     "startzeit": "09:00",
                     "enddatum": "07.12.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Kranich Apotheke",
-                    "kammer": "aknds",
-                    "id": "1265",
-                    "apo_id": "aknds1265",
-                    "strasse": "Amtsdamm 39",
-                    "plz": "27628",
-                    "ort": "Hagen im Bremischen",
-                    "distanz": "23.681015648789998",
-                    "longitude": "8.6430292",
-                    "latitude": "53.3555124",
-                    "telefon": "+49 4746 951060",
-                    "fax": "+49 4746 951061",
-                    "email": [],
-                    "startdatum": "06.12.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "07.12.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Linebroker Apotheke",
