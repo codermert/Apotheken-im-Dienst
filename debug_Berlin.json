@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 34
+            "anzahl": 35
         },
         "quota": {
-            "verwendet": "77155"
+            "verwendet": "85435"
         },
         "apotheken": {
             "apotheke": [
@@ -5781,23 +5781,23 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Amtsfeld-Apotheke",
-                    "kammer": "akb",
-                    "id": "100186",
-                    "apo_id": "akb100186",
-                    "strasse": "Salvador-Allende-Str. 2-8",
-                    "plz": "12559",
-                    "ort": "Berlin",
-                    "distanz": "16.45214079655",
-                    "longitude": "13.5961768",
-                    "latitude": "52.4406415",
-                    "telefon": "+49 30 6540051",
+                    "name": "Christophorus Apotheke im Teltow Karree",
+                    "kammer": "lakbb",
+                    "id": "571",
+                    "apo_id": "lakbb571",
+                    "strasse": "Potsdamer Straße 12 A",
+                    "plz": "14513",
+                    "ort": "Teltow",
+                    "distanz": "16.37444421251",
+                    "longitude": "13.24599",
+                    "latitude": "52.39856",
+                    "telefon": "+49 3328 339968",
                     "fax": [],
                     "email": [],
-                    "startdatum": "06.12.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "07.12.2025",
-                    "endzeit": "08:59"
+                    "startdatum": "07.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "08.12.2025",
+                    "endzeit": "08:00"
                 }
             ]
         }
