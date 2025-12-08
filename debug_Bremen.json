@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "38968"
+            "verwendet": "40624"
         },
         "apotheken": {
             "apotheke": [
@@ -1329,6 +1329,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Anker Apotheke",
+                    "kammer": "aknds",
+                    "id": "1664",
+                    "apo_id": "aknds1664",
+                    "strasse": "Mühlenstr. 31",
+                    "plz": "27753",
+                    "ort": "Delmenhorst",
+                    "distanz": "11.03481046511",
+                    "longitude": "8.6236758",
+                    "latitude": "53.0549856",
+                    "telefon": "+49 4221 14489",
+                    "fax": "+49 4221 14907",
+                    "email": [],
+                    "startdatum": "08.12.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "09.12.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Euro-Apotheke",
                     "kammer": "akbr",
                     "id": "10010",
@@ -1348,42 +1367,23 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Polaris-Apotheke-Hasport",
+                    "name": "Ring-Apotheke",
                     "kammer": "aknds",
-                    "id": "6902",
-                    "apo_id": "aknds6902",
-                    "strasse": "Hasporter Damm 166",
-                    "plz": "27755",
-                    "ort": "Delmenhorst",
-                    "distanz": "12.727373871760001",
-                    "longitude": "8.6511508",
-                    "latitude": "53.0333463",
-                    "telefon": "+49 4221 2927078",
-                    "fax": "+49 4221 2926171",
+                    "id": "1749",
+                    "apo_id": "aknds1749",
+                    "strasse": "Ring 26",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.89569036873",
+                    "longitude": "8.5473054",
+                    "latitude": "53.03225",
+                    "telefon": "+49 4222 950288",
+                    "fax": "+49 4222 950290",
                     "email": [],
-                    "startdatum": "07.12.2025",
+                    "startdatum": "08.12.2025",
                     "startzeit": "08:30",
                     "enddatum": "08.12.2025",
-                    "endzeit": "08:30"
-                },
-                {
-                    "name": "Flores-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1817",
-                    "apo_id": "aknds1817",
-                    "strasse": "Parkstr. 47",
-                    "plz": "27798",
-                    "ort": "Hude",
-                    "distanz": "16.22079185705",
-                    "longitude": "8.4566718",
-                    "latitude": "53.1132591",
-                    "telefon": "+49 4408 6363",
-                    "fax": "+49 4408 970631",
-                    "email": [],
-                    "startdatum": "07.12.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "08.12.2025",
-                    "endzeit": "08:30"
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Kloster-Apotheke",
@@ -1403,6 +1403,25 @@
                     "startzeit": "09:00",
                     "enddatum": "08.12.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Kranich Apotheke",
+                    "kammer": "aknds",
+                    "id": "1265",
+                    "apo_id": "aknds1265",
+                    "strasse": "Amtsdamm 39",
+                    "plz": "27628",
+                    "ort": "Hagen im Bremischen",
+                    "distanz": "23.681015648789998",
+                    "longitude": "8.6430292",
+                    "latitude": "53.3555124",
+                    "telefon": "+49 4746 951060",
+                    "fax": "+49 4746 951061",
+                    "email": [],
+                    "startdatum": "08.12.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "09.12.2025",
+                    "endzeit": "08:30"
                 }
             ]
         }
