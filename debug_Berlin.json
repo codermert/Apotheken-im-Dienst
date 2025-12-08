@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 35
+            "anzahl": 39
         },
         "quota": {
-            "verwendet": "36925"
+            "verwendet": "38752"
         },
         "apotheken": {
             "apotheke": [
@@ -5724,6 +5724,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Apotheke im Sonnengarten",
+                    "kammer": "lakbb",
+                    "id": "241",
+                    "apo_id": "lakbb241",
+                    "strasse": "Märkische Allee 76",
+                    "plz": "16548",
+                    "ort": "Glienicke/Nordbahn",
+                    "distanz": "13.48323987355",
+                    "longitude": "13.3230005",
+                    "latitude": "52.6313669",
+                    "telefon": "+49 33056 42996",
+                    "fax": [],
+                    "email": "ais@online.de",
+                    "startdatum": "08.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "09.12.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Aesculap-Apotheke",
                     "kammer": "akb",
                     "id": "100117",
@@ -5773,25 +5792,6 @@
                     "longitude": "13.2885489",
                     "latitude": "52.6331301",
                     "telefon": "+49 30 40632891",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "07.12.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "08.12.2025",
-                    "endzeit": "08:59"
-                },
-                {
-                    "name": "Wilhelm Voigt Apotheke",
-                    "kammer": "akb",
-                    "id": "100991",
-                    "apo_id": "akb100991",
-                    "strasse": "Pablo-Neruda-Str 2-4",
-                    "plz": "12559",
-                    "ort": "Berlin",
-                    "distanz": "15.946531282059999",
-                    "longitude": "13.5881333",
-                    "latitude": "52.4413218",
-                    "telefon": "+49 30 65499919",
                     "fax": [],
                     "email": [],
                     "startdatum": "07.12.2025",
