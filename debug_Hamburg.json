@@ -3194,7 +3194,7 @@
             "anzahl": 14
         },
         "quota": {
-            "verwendet": "37458"
+            "verwendet": "38813"
         },
         "apotheken": {
             "apotheke": [
@@ -3389,25 +3389,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Markt-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1418",
-                    "apo_id": "aknds1418",
-                    "strasse": "Schulstr. 44",
-                    "plz": "21220",
-                    "ort": "Seevetal",
-                    "distanz": "17.34142706463",
-                    "longitude": "10.0428773",
-                    "latitude": "53.3965761",
-                    "telefon": "+49 4105 82061",
-                    "fax": "+49 4105 81668",
-                    "email": [],
-                    "startdatum": "09.12.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "10.12.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Rathaus-Apotheke",
                     "kammer": "aksh",
                     "id": "10363",
@@ -3444,6 +3425,25 @@
                     "startzeit": "08:00",
                     "enddatum": "11.12.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Markt-Apotheke im Schanzenhof",
+                    "kammer": "aknds",
+                    "id": "1514",
+                    "apo_id": "aknds1514",
+                    "strasse": "Schanzenring 6",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "24.91904319162",
+                    "longitude": "10.2096115",
+                    "latitude": "53.3643894",
+                    "telefon": "+49 4171 653304",
+                    "fax": "+49 4171 653306",
+                    "email": [],
+                    "startdatum": "10.12.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "11.12.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Pluspunkt Apotheke Uetersen",
