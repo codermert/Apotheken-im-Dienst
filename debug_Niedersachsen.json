@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 4
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "40289"
+            "verwendet": "42167"
         },
         "apotheken": {
             "apotheke": [
@@ -55,41 +55,60 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Hirsch-Apotheke am Holzmarkt",
+                    "name": "Rieder Apotheke",
                     "kammer": "aknds",
-                    "id": "1483",
-                    "apo_id": "aknds1483",
-                    "strasse": "Holzmarkt 8",
-                    "plz": "27283",
-                    "ort": "Verden",
-                    "distanz": "14.06344929382",
-                    "longitude": "9.2348008",
-                    "latitude": "52.9219332",
-                    "telefon": "+49 4231 2680",
-                    "fax": "+49 4231 930056",
+                    "id": "1548",
+                    "apo_id": "aknds1548",
+                    "strasse": "Dorfstr. 45",
+                    "plz": "27339",
+                    "ort": "Riede",
+                    "distanz": "16.93836242527",
+                    "longitude": "8.9388791",
+                    "latitude": "52.9675139",
+                    "telefon": "+49 4294 795858",
+                    "fax": "+49 4294 795859",
                     "email": [],
-                    "startdatum": "09.12.2025",
+                    "startdatum": "10.12.2025",
                     "startzeit": "09:00",
-                    "enddatum": "10.12.2025",
+                    "enddatum": "11.12.2025",
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Schloss Apotheke Syke am famila",
+                    "name": "Geest-Apotheke",
                     "kammer": "aknds",
-                    "id": "6230",
-                    "apo_id": "aknds6230",
-                    "strasse": "Zum Hachepark 8-12",
-                    "plz": "28857",
-                    "ort": "Syke",
-                    "distanz": "18.7780530372",
-                    "longitude": "8.8260593",
-                    "latitude": "52.9147802",
-                    "telefon": "+49 4242 1695744",
-                    "fax": "+49 4242 1695746",
+                    "id": "1299",
+                    "apo_id": "aknds1299",
+                    "strasse": "Hauptstr. 46",
+                    "plz": "27308",
+                    "ort": "Kirchlinteln",
+                    "distanz": "20.193234036369997",
+                    "longitude": "9.3244272",
+                    "latitude": "52.9415565",
+                    "telefon": "+49 4236 777",
+                    "fax": "+49 4236 8138",
                     "email": [],
-                    "startdatum": "09.12.2025",
+                    "startdatum": "10.12.2025",
                     "startzeit": "09:00",
-                    "enddatum": "10.12.2025",
+                    "enddatum": "11.12.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Fontane Apotheke",
+                    "kammer": "aknds",
+                    "id": "1091",
+                    "apo_id": "aknds1091",
+                    "strasse": "Schulstr. 51",
+                    "plz": "28844",
+                    "ort": "Weyhe",
+                    "distanz": "24.29504766457",
+                    "longitude": "8.81714",
+                    "latitude": "52.99212",
+                    "telefon": "+49 421 808222",
+                    "fax": "+49 421 8098316",
+                    "email": [],
+                    "startdatum": "10.12.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "11.12.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -110,6 +129,25 @@
                     "startzeit": "08:00",
                     "enddatum": "11.12.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "antares-apotheke",
+                    "kammer": "akbr",
+                    "id": "10040",
+                    "apo_id": "akbr10040",
+                    "strasse": "Hannoversche Str. 69",
+                    "plz": "28309",
+                    "ort": "Bremen",
+                    "distanz": "26.88627571124",
+                    "longitude": "8.88556",
+                    "latitude": "53.05232",
+                    "telefon": "+49 421 6963570",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "10.12.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "11.12.2025",
+                    "endzeit": "09:00"
                 }
             ]
         }
