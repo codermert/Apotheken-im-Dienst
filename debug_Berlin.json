@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 31
+            "anzahl": 35
         },
         "quota": {
-            "verwendet": "36030"
+            "verwendet": "37390"
         },
         "apotheken": {
             "apotheke": [
@@ -5705,22 +5705,41 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Teltow Apotheke",
+                    "name": "Neue Roland Apotheke",
                     "kammer": "lakbb",
-                    "id": "654",
-                    "apo_id": "lakbb654",
-                    "strasse": "Oderstraße 29",
-                    "plz": "14513",
-                    "ort": "Teltow",
-                    "distanz": "15.65303656493",
-                    "longitude": "13.2523341",
-                    "latitude": "52.4037538",
-                    "telefon": "+49 3328 3345678",
+                    "id": "537",
+                    "apo_id": "lakbb537",
+                    "strasse": "Oranienburger Chaussee 17",
+                    "plz": "16548",
+                    "ort": "Glienicke/Nordbahn",
+                    "distanz": "14.00161131402",
+                    "longitude": "13.30969",
+                    "latitude": "52.63325",
+                    "telefon": "033056 94500",
+                    "fax": "033056 94501",
+                    "email": "info@neue-roland-apotheke.de",
+                    "startdatum": "10.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "11.12.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Kaufpark Apotheke",
+                    "kammer": "lakbb",
+                    "id": "459",
+                    "apo_id": "lakbb459",
+                    "strasse": "Landsberger Chaussee 17",
+                    "plz": "16356",
+                    "ort": "Ahrensfelde - OT Eiche-Süd",
+                    "distanz": "14.706543724700001",
+                    "longitude": "13.5988534",
+                    "latitude": "52.5497144",
+                    "telefon": "+49 30 9989607",
                     "fax": [],
                     "email": [],
-                    "startdatum": "09.12.2025",
+                    "startdatum": "10.12.2025",
                     "startzeit": "08:00",
-                    "enddatum": "10.12.2025",
+                    "enddatum": "11.12.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -5743,6 +5762,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Apotheke am Fuchsbau",
+                    "kammer": "lakbb",
+                    "id": "520",
+                    "apo_id": "lakbb520",
+                    "strasse": "Karl-Marx-Straße 58-60",
+                    "plz": "14532",
+                    "ort": "Kleinmachnow",
+                    "distanz": "16.07952445702",
+                    "longitude": "13.2242209",
+                    "latitude": "52.4132626",
+                    "telefon": "+49 33203 78554",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "10.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "11.12.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Apotheke in Nikolassee",
                     "kammer": "akb",
                     "id": "100558",
@@ -5760,44 +5798,6 @@
                     "startzeit": "09:00",
                     "enddatum": "10.12.2025",
                     "endzeit": "08:59"
-                },
-                {
-                    "name": "Fortuna-Apotheke",
-                    "kammer": "lakbb",
-                    "id": "342",
-                    "apo_id": "lakbb342",
-                    "strasse": "Hauptstraße 14",
-                    "plz": "16567",
-                    "ort": "Mühlenbecker Land - OT Mühlenbeck",
-                    "distanz": "16.57070831812",
-                    "longitude": "13.3797557",
-                    "latitude": "52.6658452",
-                    "telefon": "+49 33056 74488",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "09.12.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "10.12.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Apotheke im Flughafen Berlin 3001.E0_.2161",
-                    "kammer": "lakbb",
-                    "id": "674",
-                    "apo_id": "lakbb674",
-                    "strasse": "Willy-Brandt-Platz 1",
-                    "plz": "12529",
-                    "ort": "Schönefeld",
-                    "distanz": "19.0761513759",
-                    "longitude": "13.5118771",
-                    "latitude": "52.3629683",
-                    "telefon": "030 609178940",
-                    "fax": "030 609178941",
-                    "email": "BER@metropolitan-pharmacy.com",
-                    "startdatum": "09.12.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "10.12.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }
