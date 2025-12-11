@@ -31,29 +31,10 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "37522"
+            "verwendet": "39220"
         },
         "apotheken": {
             "apotheke": [
-                {
-                    "name": "Linden-Apotheke",
-                    "kammer": "aknds",
-                    "id": "581",
-                    "apo_id": "aknds581",
-                    "strasse": "Bahnhofstr. 32",
-                    "plz": "27324",
-                    "ort": "Eystrup",
-                    "distanz": "11.69217346801",
-                    "longitude": "9.2184781",
-                    "latitude": "52.7800073",
-                    "telefon": "+49 4254 8360",
-                    "fax": "+49 4254 2326",
-                    "email": [],
-                    "startdatum": "10.12.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "11.12.2025",
-                    "endzeit": "08:00"
-                },
                 {
                     "name": "Rieder Apotheke",
                     "kammer": "aknds",
@@ -72,6 +53,25 @@
                     "startzeit": "09:00",
                     "enddatum": "11.12.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Domino-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1111",
+                    "apo_id": "aknds1111",
+                    "strasse": "Alter Kirchweg 1",
+                    "plz": "31627",
+                    "ort": "Rohrsen",
+                    "distanz": "18.03914767201",
+                    "longitude": "9.233263",
+                    "latitude": "52.7087912",
+                    "telefon": "+49 5024 765",
+                    "fax": "+49 5024 8303",
+                    "email": [],
+                    "startdatum": "11.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "12.12.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Geest-Apotheke",
@@ -93,6 +93,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Rethemer Apotheke",
+                    "kammer": "aknds",
+                    "id": "1384",
+                    "apo_id": "aknds1384",
+                    "strasse": "Mühlenstraße 2",
+                    "plz": "27336",
+                    "ort": "Rethem",
+                    "distanz": "21.37822325996",
+                    "longitude": "9.3798974",
+                    "latitude": "52.7851639",
+                    "telefon": "+49 5165 2918848",
+                    "fax": "+49 5165 2918849",
+                    "email": [],
+                    "startdatum": "11.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "12.12.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Fontane Apotheke",
                     "kammer": "aknds",
                     "id": "1091",
@@ -110,25 +129,6 @@
                     "startzeit": "09:00",
                     "enddatum": "11.12.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Meerbach-Apotheke",
-                    "kammer": "aknds",
-                    "id": "964",
-                    "apo_id": "aknds964",
-                    "strasse": "Ziegelkampstr. 37",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "24.92702017755",
-                    "longitude": "9.223937",
-                    "latitude": "52.6346479",
-                    "telefon": "+49 5021 888740",
-                    "fax": "+49 5021 888745",
-                    "email": [],
-                    "startdatum": "10.12.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "11.12.2025",
-                    "endzeit": "08:00"
                 },
                 {
                     "name": "antares-apotheke",
