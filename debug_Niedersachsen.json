@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "36270"
+            "verwendet": "37393"
         },
         "apotheken": {
             "apotheke": [
@@ -74,25 +74,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Domino-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1111",
-                    "apo_id": "aknds1111",
-                    "strasse": "Alter Kirchweg 1",
-                    "plz": "31627",
-                    "ort": "Rohrsen",
-                    "distanz": "18.03914767201",
-                    "longitude": "9.233263",
-                    "latitude": "52.7087912",
-                    "telefon": "+49 5024 765",
-                    "fax": "+49 5024 8303",
-                    "email": [],
-                    "startdatum": "11.12.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "12.12.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Alte Apotheke",
                     "kammer": "aknds",
                     "id": "1116",
@@ -112,25 +93,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Rethemer Apotheke",
-                    "kammer": "aknds",
-                    "id": "1384",
-                    "apo_id": "aknds1384",
-                    "strasse": "Mühlenstraße 2",
-                    "plz": "27336",
-                    "ort": "Rethem",
-                    "distanz": "21.37822325996",
-                    "longitude": "9.3798974",
-                    "latitude": "52.7851639",
-                    "telefon": "+49 5165 2918848",
-                    "fax": "+49 5165 2918849",
-                    "email": [],
-                    "startdatum": "11.12.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "12.12.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Apotheke am Markt",
                     "kammer": "aknds",
                     "id": "1095",
@@ -148,6 +110,25 @@
                     "startzeit": "09:00",
                     "enddatum": "12.12.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Hansa Apotheke",
+                    "kammer": "aknds",
+                    "id": "955",
+                    "apo_id": "aknds955",
+                    "strasse": "Hansastr. 3",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "23.14845354176",
+                    "longitude": "9.2148089",
+                    "latitude": "52.6496656",
+                    "telefon": "+49 5021 910266",
+                    "fax": "+49 5021 910277",
+                    "email": [],
+                    "startdatum": "12.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "13.12.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Stifts-Apotheke",
