@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 32
+            "anzahl": 33
         },
         "quota": {
-            "verwendet": "37166"
+            "verwendet": "38700"
         },
         "apotheken": {
             "apotheke": [
@@ -5686,6 +5686,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Steinbock Apotheke",
+                    "kammer": "lakbb",
+                    "id": "653",
+                    "apo_id": "lakbb653",
+                    "strasse": "Bahnhofstraße 5 B",
+                    "plz": "16552",
+                    "ort": "Mühlenbecker Land - OT Schildow",
+                    "distanz": "13.35524852805",
+                    "longitude": "13.3749982",
+                    "latitude": "52.6367557",
+                    "telefon": "+49 33056 270004",
+                    "fax": "+49 33056 270641",
+                    "email": "info@steinbockapothekeschildow.com",
+                    "startdatum": "12.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "13.12.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Ludolfinger Apotheke",
                     "kammer": "akb",
                     "id": "100850",
@@ -5743,6 +5762,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Kranich Apotheke",
+                    "kammer": "lakbb",
+                    "id": "392",
+                    "apo_id": "lakbb392",
+                    "strasse": "Mahlsdorfer Straße 61",
+                    "plz": "15366",
+                    "ort": "Hoppegarten",
+                    "distanz": "16.71538435437",
+                    "longitude": "13.6329778",
+                    "latitude": "52.5369441",
+                    "telefon": "030 9983553",
+                    "fax": "030 99284061",
+                    "email": "info@kranich-apotheke.net",
+                    "startdatum": "12.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "13.12.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Taut-Apotheke",
                     "kammer": "akb",
                     "id": "100482",
@@ -5760,44 +5798,6 @@
                     "startzeit": "09:00",
                     "enddatum": "12.12.2025",
                     "endzeit": "08:59"
-                },
-                {
-                    "name": "Apotheke am Mädchenviertel",
-                    "kammer": "lakbb",
-                    "id": "673",
-                    "apo_id": "lakbb673",
-                    "strasse": "Schönfließer Straße 25 G",
-                    "plz": "16540",
-                    "ort": "Hohen Neuendorf",
-                    "distanz": "17.71036666798",
-                    "longitude": "13.2964504",
-                    "latitude": "52.6659077",
-                    "telefon": "03303 5416700",
-                    "fax": "03303 5416701",
-                    "email": "aam@apotheke-am-maedchenviertel.de",
-                    "startdatum": "11.12.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "12.12.2025",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Bäke-Apotheke",
-                    "kammer": "lakbb",
-                    "id": "454",
-                    "apo_id": "lakbb454",
-                    "strasse": "Potsdamer Allee 3",
-                    "plz": "14532",
-                    "ort": "Stahnsdorf",
-                    "distanz": "18.220369226850003",
-                    "longitude": "13.21385",
-                    "latitude": "52.39302",
-                    "telefon": "03329 /612600",
-                    "fax": "03329 / 697 96 66",
-                    "email": "baeke-apotheke@t-online.de",
-                    "startdatum": "11.12.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "12.12.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }
