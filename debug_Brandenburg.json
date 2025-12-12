@@ -541,10 +541,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "40256"
+            "verwendet": "40556"
         },
         "apotheken": {
             "apotheke": [
@@ -604,25 +604,6 @@
                     "startzeit": "08:00",
                     "enddatum": "13.12.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Ludolfinger Apotheke",
-                    "kammer": "akb",
-                    "id": "100850",
-                    "apo_id": "akb100850",
-                    "strasse": "Ludolfinger Platz 8",
-                    "plz": "13465",
-                    "ort": "Berlin",
-                    "distanz": "23.8787809627",
-                    "longitude": "13.2868686",
-                    "latitude": "52.6323983",
-                    "telefon": "+49 30 4011033",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "11.12.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "12.12.2025",
-                    "endzeit": "08:59"
                 },
                 {
                     "name": "Steinbock Apotheke",
