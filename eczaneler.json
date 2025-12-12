@@ -613,14 +613,6 @@
       "mesafe": "6.4 km"
     },
     {
-      "eczaneAdi": "Apotheke Schierbrok",
-      "adres": "Bahnhofstr. 49, 27777 Ganderkesee",
-      "telefon": "+49 4221 89335",
-      "enlem": "53.0836028",
-      "boylam": "8.5769381",
-      "mesafe": "10.4 km"
-    },
-    {
       "eczaneAdi": "Malteser-Apotheke",
       "adres": "Graf-Moltke-Str. 67, 28211 Bremen",
       "telefon": "+49 421 341341",
@@ -737,28 +729,36 @@
       "mesafe": "12.9 km"
     },
     {
-      "eczaneAdi": "Apotheke zum Klostersee",
-      "adres": "Schloßstr. 60, 17159 Dargun",
-      "telefon": "+49 39959 20372",
-      "enlem": "53.8972319",
-      "boylam": "12.8547925",
-      "mesafe": "23.0 km"
-    },
-    {
-      "eczaneAdi": "Schweden Apotheke",
-      "adres": "Werdohler Str. 3, 17153 Reuterstadt Stavenhagen",
-      "telefon": "+49 39954 24850",
-      "enlem": "53.688362",
-      "boylam": "12.9150862",
-      "mesafe": "24.3 km"
-    },
-    {
       "eczaneAdi": "Apotheke am Petershof",
       "adres": "Schwaaner Straße 21, 18273 Güstrow",
       "telefon": "+49 3843 466969",
       "enlem": "53.80476",
       "boylam": "12.17597",
       "mesafe": "26.6 km"
+    },
+    {
+      "eczaneAdi": "Fontane-Apotheke",
+      "adres": "Lange Straße 55, 17192 Waren",
+      "telefon": "+49 3991 64270",
+      "enlem": "53.5142062",
+      "boylam": "12.686791",
+      "mesafe": "29.8 km"
+    },
+    {
+      "eczaneAdi": "Muhrbeck -Apotheke",
+      "adres": "Gartenstr. 2, 17109 Demmin",
+      "telefon": "+49 3998 362151",
+      "enlem": "53.9047535",
+      "boylam": "13.0423311",
+      "mesafe": "34.0 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Doberaner Platz",
+      "adres": "Doberaner Str. 10-12, 18057 Rostock",
+      "telefon": "+49 381 4995121",
+      "enlem": "54.0880425",
+      "boylam": "12.1241624",
+      "mesafe": "45.9 km"
     }
   ],
   "Niedersachsen": [
@@ -1075,7 +1075,48 @@
       "mesafe": "27.5 km"
     }
   ],
-  "Schleswig-Holstein": [],
+  "Schleswig-Holstein": [
+    {
+      "eczaneAdi": "Apotheke am Kantplatz",
+      "adres": "Max-Richter-Str. 12a, 24537 Neumünster",
+      "telefon": "04321-69239",
+      "enlem": "54.07719",
+      "boylam": "9.96029",
+      "mesafe": "15.1 km"
+    },
+    {
+      "eczaneAdi": "Markt-Apotheke",
+      "adres": "Hohe Str. 14, 24768 Rendsburg",
+      "telefon": "04331-21188",
+      "enlem": "54.3049872",
+      "boylam": "9.6617153",
+      "mesafe": "16.9 km"
+    },
+    {
+      "eczaneAdi": "CMP-Apotheke",
+      "adres": "Elisabethstraße 68, 24143 Kiel",
+      "telefon": "0431-9968304",
+      "enlem": "54.3113808",
+      "boylam": "10.1456845",
+      "mesafe": "25.3 km"
+    },
+    {
+      "eczaneAdi": "Hirsch-Apotheke",
+      "adres": "Herrenstr. 8, 24214 Gettorf",
+      "telefon": "04346-6632",
+      "enlem": "54.40977",
+      "boylam": "9.97678",
+      "mesafe": "26.9 km"
+    },
+    {
+      "eczaneAdi": "Brunnen-Apotheke",
+      "adres": "Blücherplatz 16, 24105 Kiel",
+      "telefon": "0431-801903",
+      "enlem": "54.3421719",
+      "boylam": "10.1384292",
+      "mesafe": "27.0 km"
+    }
+  ],
   "Thüringen": [
     {
       "eczaneAdi": "Wilhelm-Hey-Apotheke",
