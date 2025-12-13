@@ -28,68 +28,30 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 4
         },
         "quota": {
-            "verwendet": "46769"
+            "verwendet": "47447"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Storchen-Apotheke",
+                    "name": "Brunsviga-Apotheke",
                     "kammer": "aknds",
-                    "id": "1489",
-                    "apo_id": "aknds1489",
-                    "strasse": "Plattenberg 57",
-                    "plz": "27283",
-                    "ort": "Verden",
-                    "distanz": "14.27567523431",
-                    "longitude": "9.246528",
-                    "latitude": "52.9160608",
-                    "telefon": "+49 4231 5255",
-                    "fax": "+49 4231 81426",
+                    "id": "1459",
+                    "apo_id": "aknds1459",
+                    "strasse": "Syker Str. 2",
+                    "plz": "27321",
+                    "ort": "Thedinghausen",
+                    "distanz": "14.10560790023",
+                    "longitude": "9.0206814",
+                    "latitude": "52.9621189",
+                    "telefon": "+49 4204 406",
+                    "fax": "+49 4204 69533",
                     "email": [],
-                    "startdatum": "12.12.2025",
+                    "startdatum": "13.12.2025",
                     "startzeit": "09:00",
-                    "enddatum": "13.12.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Weser-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1121",
-                    "apo_id": "aknds1121",
-                    "strasse": "Verdener Str. 157",
-                    "plz": "28832",
-                    "ort": "Achim",
-                    "distanz": "17.63445844252",
-                    "longitude": "9.080738",
-                    "latitude": "52.9982893",
-                    "telefon": "+49 4202 979197",
-                    "fax": "+49 4202 76104",
-                    "email": [],
-                    "startdatum": "12.12.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "13.12.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Falken-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1064",
-                    "apo_id": "aknds1064",
-                    "strasse": "Sudweyher Str. 11",
-                    "plz": "28857",
-                    "ort": "Syke",
-                    "distanz": "20.16344270909",
-                    "longitude": "8.8280978",
-                    "latitude": "52.9416158",
-                    "telefon": "+49 4242 70774",
-                    "fax": "+49 4242 7239",
-                    "email": [],
-                    "startdatum": "12.12.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "13.12.2025",
+                    "enddatum": "14.12.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -129,6 +91,25 @@
                     "startzeit": "08:00",
                     "enddatum": "14.12.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Waldecksche Apotheke",
+                    "kammer": "aknds",
+                    "id": "1055",
+                    "apo_id": "aknds1055",
+                    "strasse": "Bremer Str. 7",
+                    "plz": "28816",
+                    "ort": "Stuhr",
+                    "distanz": "27.23161113413",
+                    "longitude": "8.7891545",
+                    "latitude": "53.0125904",
+                    "telefon": "+49 421 895809",
+                    "fax": "+49 421 8062321",
+                    "email": [],
+                    "startdatum": "13.12.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "14.12.2025",
+                    "endzeit": "09:00"
                 }
             ]
         }
