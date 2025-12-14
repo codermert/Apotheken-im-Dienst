@@ -1267,7 +1267,7 @@
             "anzahl": 8
         },
         "quota": {
-            "verwendet": "80687"
+            "verwendet": "86559"
         },
         "apotheken": {
             "apotheke": [
@@ -1386,6 +1386,25 @@
                     "endzeit": "08:30"
                 },
                 {
+                    "name": "Anker-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1700",
+                    "apo_id": "aknds1700",
+                    "strasse": "Steinstr. 25",
+                    "plz": "26931",
+                    "ort": "Elsfleth",
+                    "distanz": "18.49621829229",
+                    "longitude": "8.4612494",
+                    "latitude": "53.2354695",
+                    "telefon": "+49 4404 2189",
+                    "fax": "+49 4404 1725",
+                    "email": [],
+                    "startdatum": "14.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "15.12.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Findorff-Apotheke",
                     "kammer": "aknds",
                     "id": "1262",
@@ -1403,25 +1422,6 @@
                     "startzeit": "09:00",
                     "enddatum": "14.12.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Weser-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1634",
-                    "apo_id": "aknds1634",
-                    "strasse": "Bahnhofstr. 89",
-                    "plz": "26919",
-                    "ort": "Brake",
-                    "distanz": "25.43788224811",
-                    "longitude": "8.4778778",
-                    "latitude": "53.3334244",
-                    "telefon": "+49 4401 3595",
-                    "fax": "+49 4401 3091",
-                    "email": [],
-                    "startdatum": "13.12.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "14.12.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }
