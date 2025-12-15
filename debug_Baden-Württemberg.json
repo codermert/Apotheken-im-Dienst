@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 12
+            "anzahl": 13
         },
         "quota": {
-            "verwendet": "100010"
+            "verwendet": "112468"
         },
         "apotheken": {
             "apotheke": [
@@ -200,6 +200,25 @@
                     "latitude": "48.706974",
                     "telefon": "+49 7158 985985",
                     "fax": "+49 7158 985986",
+                    "email": [],
+                    "startdatum": "15.12.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "16.12.2025",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Alb-Apotheke Engstingen",
+                    "kammer": "lakbw",
+                    "id": "1176001",
+                    "apo_id": "lakbw1176001",
+                    "strasse": "Lange Str. 1",
+                    "plz": "72829",
+                    "ort": "Engstingen",
+                    "distanz": "24.62543262594",
+                    "longitude": "9.2851454",
+                    "latitude": "48.387044",
+                    "telefon": "+49 7129 939111",
+                    "fax": "+49 7129 939150",
                     "email": [],
                     "startdatum": "15.12.2025",
                     "startzeit": "08:30",
