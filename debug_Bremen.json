@@ -1267,7 +1267,7 @@
             "anzahl": 9
         },
         "quota": {
-            "verwendet": "43855"
+            "verwendet": "44845"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,22 +1310,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Anker Apotheke",
+                    "name": "Rosen-Apotheke",
                     "kammer": "aknds",
-                    "id": "1664",
-                    "apo_id": "aknds1664",
-                    "strasse": "Mühlenstr. 31",
-                    "plz": "27753",
+                    "id": "1676",
+                    "apo_id": "aknds1676",
+                    "strasse": "Cramerstr. 15",
+                    "plz": "27749",
                     "ort": "Delmenhorst",
-                    "distanz": "11.03481046511",
-                    "longitude": "8.6236758",
-                    "latitude": "53.0549856",
-                    "telefon": "+49 4221 14489",
-                    "fax": "+49 4221 14907",
+                    "distanz": "11.49851462493",
+                    "longitude": "8.6348904",
+                    "latitude": "53.0476985",
+                    "telefon": "+49 4221 93590",
+                    "fax": "+49 4221 935935",
                     "email": [],
-                    "startdatum": "15.12.2025",
+                    "startdatum": "16.12.2025",
                     "startzeit": "08:30",
-                    "enddatum": "16.12.2025",
+                    "enddatum": "17.12.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -1365,6 +1365,25 @@
                     "startzeit": "09:00",
                     "enddatum": "16.12.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Flores-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1817",
+                    "apo_id": "aknds1817",
+                    "strasse": "Parkstr. 47",
+                    "plz": "27798",
+                    "ort": "Hude",
+                    "distanz": "16.22079185705",
+                    "longitude": "8.4566718",
+                    "latitude": "53.1132591",
+                    "telefon": "+49 4408 6363",
+                    "fax": "+49 4408 970631",
+                    "email": [],
+                    "startdatum": "16.12.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "16.12.2025",
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Schleng-Apotheke",
@@ -1422,25 +1441,6 @@
                     "startzeit": "08:00",
                     "enddatum": "17.12.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Mühlen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1795",
-                    "apo_id": "aknds1795",
-                    "strasse": "Burgstr. 17",
-                    "plz": "27243",
-                    "ort": "Harpstedt",
-                    "distanz": "27.171589531869998",
-                    "longitude": "8.5871724",
-                    "latitude": "52.909233",
-                    "telefon": "+49 4244 93530",
-                    "fax": "+49 4244 935353",
-                    "email": [],
-                    "startdatum": "15.12.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "16.12.2025",
-                    "endzeit": "08:30"
                 }
             ]
         }
