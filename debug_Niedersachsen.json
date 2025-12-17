@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 6
         },
         "quota": {
-            "verwendet": "50826"
+            "verwendet": "52965"
         },
         "apotheken": {
             "apotheke": [
@@ -110,6 +110,25 @@
                     "startzeit": "09:00",
                     "enddatum": "17.12.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Uhlen Apotheke",
+                    "kammer": "aknds",
+                    "id": "941",
+                    "apo_id": "aknds941",
+                    "strasse": "Rathausstr. 2",
+                    "plz": "31608",
+                    "ort": "Marklohe",
+                    "distanz": "20.764561643180002",
+                    "longitude": "9.1586733",
+                    "latitude": "52.6601345",
+                    "telefon": "+49 5021 15025",
+                    "fax": "+49 5021 910838",
+                    "email": [],
+                    "startdatum": "17.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "18.12.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Osterholzer Apotheke",
