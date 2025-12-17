@@ -817,6 +817,14 @@
   ],
   "Mecklenburg-Vorpommern": [
     {
+      "eczaneAdi": "Apotheke am Park",
+      "adres": "Zu den Wiesen 9, 18279 Lalendorf",
+      "telefon": "+49 38452 20592",
+      "enlem": "53.75746",
+      "boylam": "12.38463",
+      "mesafe": "12.7 km"
+    },
+    {
       "eczaneAdi": "Rats-Apotheke",
       "adres": "Markt 14, 17154 Neukalen",
       "telefon": "+49 39956 20201",
@@ -825,44 +833,36 @@
       "mesafe": "15.2 km"
     },
     {
+      "eczaneAdi": "Schloss-Apotheke",
+      "adres": "Schlossstraße 23, 17159 Dargun",
+      "telefon": "+49 39959 337177",
+      "enlem": "53.8985743",
+      "boylam": "12.8515406",
+      "mesafe": "22.9 km"
+    },
+    {
+      "eczaneAdi": "Fritz-Reuter-Apotheke",
+      "adres": "Am Markt 16, 17153 Reuterstadt Stavenhagen",
+      "telefon": "+49 39954 21082",
+      "enlem": "53.6957432",
+      "boylam": "12.9085263",
+      "mesafe": "23.6 km"
+    },
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Lange Str. 14, 18292 Krakow a. See",
+      "telefon": "+49 38457 22322",
+      "enlem": "53.6531425",
+      "boylam": "12.2689391",
+      "mesafe": "24.3 km"
+    },
+    {
       "eczaneAdi": "Apotheke am Distelberg",
       "adres": "Am Eicheneck 6, 18273 Güstrow",
       "telefon": "+49 3843 212068",
       "enlem": "53.809078",
       "boylam": "12.1891445",
       "mesafe": "25.8 km"
-    },
-    {
-      "eczaneAdi": "da Vinci-Apotheke am Bahnhof",
-      "adres": "Beethovenstr. 1, 17192 Waren",
-      "telefon": "+49 3991 631384",
-      "enlem": "53.5202876",
-      "boylam": "12.6826483",
-      "mesafe": "29.1 km"
-    },
-    {
-      "eczaneAdi": "Pommern-Apotheke",
-      "adres": "Adolf-Pompe-Str. 24, 17109 Demmin",
-      "telefon": "+49 3998 362366",
-      "enlem": "53.90266",
-      "boylam": "13.04724",
-      "mesafe": "34.2 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Holzhalbinsel",
-      "adres": "Gaffelschonerweg 14, 18055 Rostock",
-      "telefon": "+49 381 44436590",
-      "enlem": "54.0936615",
-      "boylam": "12.1504161",
-      "mesafe": "45.3 km"
-    },
-    {
-      "eczaneAdi": "Linden-Apotheke",
-      "adres": "Wismarsche Str. 32, 18057 Rostock",
-      "telefon": "+49 381 4930200",
-      "enlem": "54.0857481",
-      "boylam": "12.1186666",
-      "mesafe": "45.9 km"
     }
   ],
   "Niedersachsen": [
@@ -1349,5 +1349,62 @@
       "mesafe": "26.9 km"
     }
   ],
-  "Thüringen": []
+  "Thüringen": [
+    {
+      "eczaneAdi": "Apotheke am Wiesenhügel",
+      "adres": "Färberwaidweg 2, 99097 Erfurt",
+      "telefon": "+49 361 414540",
+      "enlem": "50.9514931",
+      "boylam": "11.0670379",
+      "mesafe": "5.9 km"
+    },
+    {
+      "eczaneAdi": "Arnika-Apotheke",
+      "adres": "Blumenstr. 92, 99092 Erfurt",
+      "telefon": "+49 361 2113290",
+      "enlem": "50.9830499",
+      "boylam": "11.0178287",
+      "mesafe": "9.2 km"
+    },
+    {
+      "eczaneAdi": "Marien-Apotheke",
+      "adres": "Triniusstr. 27, 99310 Arnstadt",
+      "telefon": "+49 3628 70662",
+      "enlem": "50.8346681",
+      "boylam": "10.9342952",
+      "mesafe": "10.4 km"
+    },
+    {
+      "eczaneAdi": "easyApotheke Weimar",
+      "adres": "Damaschkestraße 1a, 99425 Weimar",
+      "telefon": "+49 3643 7787558",
+      "enlem": "50.9795249",
+      "boylam": "11.3075441",
+      "mesafe": "20.9 km"
+    },
+    {
+      "eczaneAdi": "Ahorn-Apotheke",
+      "adres": "Bertha-Schneyer-Str. 2, 99867 Gotha",
+      "telefon": "+49 3621 309810",
+      "enlem": "50.9450798",
+      "boylam": "10.7325137",
+      "mesafe": "22.0 km"
+    },
+    {
+      "eczaneAdi": "Adler-Apotheke",
+      "adres": "Marktplatz 6, 99885 Ohrdruf",
+      "telefon": "+49 3624 312105",
+      "enlem": "50.8280024",
+      "boylam": "10.7329396",
+      "mesafe": "23.0 km"
+    },
+    {
+      "eczaneAdi": "Antonius-Apotheke",
+      "adres": "Hohe Straße 2a, 98693 Ilmenau, OT Unterpörlitz",
+      "telefon": "+49 3677 63435",
+      "enlem": "50.6994714",
+      "boylam": "10.9281279",
+      "mesafe": "23.8 km"
+    }
+  ]
 }
