@@ -1267,7 +1267,7 @@
             "anzahl": 11
         },
         "quota": {
-            "verwendet": "47897"
+            "verwendet": "49485"
         },
         "apotheken": {
             "apotheke": [
@@ -1329,25 +1329,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Spitzweg Apotheke (im Kaufland)",
-                    "kammer": "aknds",
-                    "id": "1684",
-                    "apo_id": "aknds1684",
-                    "strasse": "Stedinger Str. 101",
-                    "plz": "27753",
-                    "ort": "Delmenhorst",
-                    "distanz": "10.20032902012",
-                    "longitude": "8.6305287",
-                    "latitude": "53.0613418",
-                    "telefon": "+49 4221 588225",
-                    "fax": "+49 4221 588224",
-                    "email": [],
-                    "startdatum": "17.12.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "18.12.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Alte Apotheke",
                     "kammer": "aknds",
                     "id": "1368",
@@ -1365,6 +1346,25 @@
                     "startzeit": "09:00",
                     "enddatum": "18.12.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Bahnhof-Apotheke Delcare oHG",
+                    "kammer": "aknds",
+                    "id": "1665",
+                    "apo_id": "aknds1665",
+                    "strasse": "Bahnhofstr. 11 - 13",
+                    "plz": "27749",
+                    "ort": "Delmenhorst",
+                    "distanz": "11.25687064993",
+                    "longitude": "8.6299531",
+                    "latitude": "53.0511638",
+                    "telefon": "+49 4221 14506",
+                    "fax": "+49 4221 18661",
+                    "email": [],
+                    "startdatum": "18.12.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "19.12.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Apotheke Außer der Schleifmühle",
@@ -1424,23 +1424,23 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Kranich Apotheke",
+                    "name": "Alte Raben Apotheke",
                     "kammer": "aknds",
-                    "id": "1265",
-                    "apo_id": "aknds1265",
-                    "strasse": "Amtsdamm 39",
-                    "plz": "27628",
-                    "ort": "Hagen im Bremischen",
-                    "distanz": "23.681015648789998",
-                    "longitude": "8.6430292",
-                    "latitude": "53.3555124",
-                    "telefon": "+49 4746 951060",
-                    "fax": "+49 4746 951061",
+                    "id": "1815",
+                    "apo_id": "aknds1815",
+                    "strasse": "Parkstr. 12",
+                    "plz": "27798",
+                    "ort": "Hude",
+                    "distanz": "16.03848971665",
+                    "longitude": "8.4602241",
+                    "latitude": "53.1112996",
+                    "telefon": "+49 4408 321",
+                    "fax": "+49 4408 60121",
                     "email": [],
-                    "startdatum": "17.12.2025",
+                    "startdatum": "18.12.2025",
                     "startzeit": "08:30",
                     "enddatum": "18.12.2025",
-                    "endzeit": "08:30"
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Alte Apotheke",
@@ -1462,22 +1462,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Linden-Apotheke",
+                    "name": "Mühlen-Apotheke",
                     "kammer": "aknds",
-                    "id": "1794",
-                    "apo_id": "aknds1794",
-                    "strasse": "Lange Straße 13",
+                    "id": "1795",
+                    "apo_id": "aknds1795",
+                    "strasse": "Burgstr. 17",
                     "plz": "27243",
                     "ort": "Harpstedt",
-                    "distanz": "27.27003655484",
-                    "longitude": "8.5873073",
-                    "latitude": "52.9082947",
-                    "telefon": "+49 4244 95144",
-                    "fax": "+49 4244 95146",
+                    "distanz": "27.171589531869998",
+                    "longitude": "8.5871724",
+                    "latitude": "52.909233",
+                    "telefon": "+49 4244 93530",
+                    "fax": "+49 4244 935353",
                     "email": [],
-                    "startdatum": "17.12.2025",
+                    "startdatum": "18.12.2025",
                     "startzeit": "08:30",
-                    "enddatum": "18.12.2025",
+                    "enddatum": "19.12.2025",
                     "endzeit": "08:30"
                 }
             ]
