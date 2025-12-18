@@ -37,46 +37,27 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "51162"
+            "verwendet": "51936"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Apotheke am Wiesenhügel",
+                    "name": "Schwan-Apotheke",
                     "kammer": "lakt",
-                    "id": "4",
-                    "apo_id": "lakt4",
-                    "strasse": "Färberwaidweg 2",
-                    "plz": "99097",
+                    "id": "14",
+                    "apo_id": "lakt14",
+                    "strasse": "Bahnhofstraße 2",
+                    "plz": "99084",
                     "ort": "Erfurt",
-                    "distanz": "5.9326309821",
-                    "longitude": "11.0670379",
-                    "latitude": "50.9514931",
-                    "telefon": "+49 361 414540",
+                    "distanz": "8.2808382495",
+                    "longitude": "11.0348785",
+                    "latitude": "50.9758859",
+                    "telefon": "+49 361 5626425",
                     "fax": [],
                     "email": [],
-                    "startdatum": "17.12.2025",
+                    "startdatum": "18.12.2025",
                     "startzeit": "09:00",
-                    "enddatum": "18.12.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Arnika-Apotheke",
-                    "kammer": "lakt",
-                    "id": "418",
-                    "apo_id": "lakt418",
-                    "strasse": "Blumenstr. 92",
-                    "plz": "99092",
-                    "ort": "Erfurt",
-                    "distanz": "9.18303846778",
-                    "longitude": "11.0178287",
-                    "latitude": "50.9830499",
-                    "telefon": "+49 361 2113290",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "17.12.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "18.12.2025",
+                    "enddatum": "19.12.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -97,6 +78,25 @@
                     "startzeit": "08:00",
                     "enddatum": "19.12.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Sonnen-Apotheke",
+                    "kammer": "lakt",
+                    "id": "436",
+                    "apo_id": "lakt436",
+                    "strasse": "Thomas-Müntzer-Straße 38",
+                    "plz": "99189",
+                    "ort": "Elxleben",
+                    "distanz": "17.304054218140003",
+                    "longitude": "10.94951",
+                    "latitude": "51.04669",
+                    "telefon": "+49 36201 80701",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.12.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "19.12.2025",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Goethe-Apotheke",
