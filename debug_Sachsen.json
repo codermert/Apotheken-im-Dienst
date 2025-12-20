@@ -381,7 +381,7 @@
             "anzahl": 18
         },
         "quota": {
-            "verwendet": "172694"
+            "verwendet": "175613"
         },
         "apotheken": {
             "apotheke": [
@@ -517,6 +517,25 @@
                     "startzeit": "12:00",
                     "enddatum": "20.12.2025",
                     "endzeit": "18:00"
+                },
+                {
+                    "name": "Kronen-Apotheke",
+                    "kammer": "slak",
+                    "id": "373",
+                    "apo_id": "slak373",
+                    "strasse": "Dresdner Straße 60",
+                    "plz": "01640",
+                    "ort": "Coswig",
+                    "distanz": "23.34738864904",
+                    "longitude": "13.5798",
+                    "latitude": "51.12501",
+                    "telefon": "+49 3523 75234",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "20.12.2025",
+                    "startzeit": "16:00",
+                    "enddatum": "21.12.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Saxonia Apotheke - Internationale Apotheke",
@@ -707,25 +726,6 @@
                     "startzeit": "12:00",
                     "enddatum": "20.12.2025",
                     "endzeit": "18:00"
-                },
-                {
-                    "name": "Elbtal-Apotheke",
-                    "kammer": "slak",
-                    "id": "837",
-                    "apo_id": "slak837",
-                    "strasse": "Niederauer Straße 43",
-                    "plz": "01662",
-                    "ort": "Meißen",
-                    "distanz": "26.72724801908",
-                    "longitude": "13.50182",
-                    "latitude": "51.16827",
-                    "telefon": "+49 3521 72030",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "20.12.2025",
-                    "startzeit": "12:00",
-                    "enddatum": "20.12.2025",
-                    "endzeit": "16:00"
                 }
             ]
         }
