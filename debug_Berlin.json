@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 37
+            "anzahl": 39
         },
         "quota": {
-            "verwendet": "97529"
+            "verwendet": "107652"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,6 +5762,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Apotheke im Sonnengarten",
+                    "kammer": "lakbb",
+                    "id": "241",
+                    "apo_id": "lakbb241",
+                    "strasse": "Märkische Allee 76",
+                    "plz": "16548",
+                    "ort": "Glienicke/Nordbahn",
+                    "distanz": "13.48323987355",
+                    "longitude": "13.3230005",
+                    "latitude": "52.6313669",
+                    "telefon": "+49 33056 42996",
+                    "fax": [],
+                    "email": "ais@online.de",
+                    "startdatum": "21.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "22.12.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Apotheke im Wegedorn-Zentrum",
                     "kammer": "akb",
                     "id": "110303",
@@ -5773,25 +5792,6 @@
                     "longitude": "13.5276603",
                     "latitude": "52.4246728",
                     "telefon": "+49 30 67197428",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "20.12.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "21.12.2025",
-                    "endzeit": "08:59"
-                },
-                {
-                    "name": "Schloß-Apotheke",
-                    "kammer": "akb",
-                    "id": "100513",
-                    "apo_id": "akb100513",
-                    "strasse": "Rudower Str. 13",
-                    "plz": "12557",
-                    "ort": "Berlin",
-                    "distanz": "14.58905971125",
-                    "longitude": "13.5672086",
-                    "latitude": "52.4440189",
-                    "telefon": "+49 30 65880970",
                     "fax": [],
                     "email": [],
                     "startdatum": "20.12.2025",
