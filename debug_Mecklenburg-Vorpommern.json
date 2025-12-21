@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "109741"
+            "verwendet": "124398"
         },
         "apotheken": {
             "apotheke": [
@@ -129,6 +129,25 @@
                     "startzeit": "08:00",
                     "enddatum": "22.12.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Salz-Apotheke",
+                    "kammer": "akmv",
+                    "id": "179064",
+                    "apo_id": "akmv179064",
+                    "strasse": "Im Scheunenviertel 1",
+                    "plz": "18334",
+                    "ort": "Bad Sülze",
+                    "distanz": "37.749018374879995",
+                    "longitude": "12.65517",
+                    "latitude": "54.10939",
+                    "telefon": "+49 38229 793836",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "21.12.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "21.12.2025",
+                    "endzeit": "09:30"
                 },
                 {
                     "name": "Apotheke im Globus",
