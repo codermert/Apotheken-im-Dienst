@@ -1267,7 +1267,7 @@
             "anzahl": 10
         },
         "quota": {
-            "verwendet": "50434"
+            "verwendet": "51801"
         },
         "apotheken": {
             "apotheke": [
@@ -1386,25 +1386,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Anker-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1700",
-                    "apo_id": "aknds1700",
-                    "strasse": "Steinstr. 25",
-                    "plz": "26931",
-                    "ort": "Elsfleth",
-                    "distanz": "18.49621829229",
-                    "longitude": "8.4612494",
-                    "latitude": "53.2354695",
-                    "telefon": "+49 4404 2189",
-                    "fax": "+49 4404 1725",
-                    "email": [],
-                    "startdatum": "22.12.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "23.12.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Bremer Schlüssel-Apotheke",
                     "kammer": "akbr",
                     "id": "10027",
@@ -1422,6 +1403,25 @@
                     "startzeit": "09:00",
                     "enddatum": "23.12.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "St. Bernhard-Apotheke",
+                    "kammer": "aknds",
+                    "id": "5989",
+                    "apo_id": "aknds5989",
+                    "strasse": "Claußenstraße 4",
+                    "plz": "26919",
+                    "ort": "Brake",
+                    "distanz": "24.4689226542",
+                    "longitude": "8.4831568",
+                    "latitude": "53.325019",
+                    "telefon": "+49 4401 7057730",
+                    "fax": "+49 4401 7057731",
+                    "email": [],
+                    "startdatum": "23.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "24.12.2025",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Rieder Apotheke",
