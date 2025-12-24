@@ -28,30 +28,49 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 5
+            "anzahl": 4
         },
         "quota": {
-            "verwendet": "83848"
+            "verwendet": "85888"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Storchen-Apotheke",
+                    "name": "Weser-Apotheke",
                     "kammer": "aknds",
-                    "id": "1489",
-                    "apo_id": "aknds1489",
-                    "strasse": "Plattenberg 57",
-                    "plz": "27283",
-                    "ort": "Verden",
-                    "distanz": "14.27567523431",
-                    "longitude": "9.246528",
-                    "latitude": "52.9160608",
-                    "telefon": "+49 4231 5255",
-                    "fax": "+49 4231 81426",
+                    "id": "1121",
+                    "apo_id": "aknds1121",
+                    "strasse": "Verdener Str. 157",
+                    "plz": "28832",
+                    "ort": "Achim",
+                    "distanz": "17.63445844252",
+                    "longitude": "9.080738",
+                    "latitude": "52.9982893",
+                    "telefon": "+49 4202 979197",
+                    "fax": "+49 4202 76104",
                     "email": [],
-                    "startdatum": "23.12.2025",
+                    "startdatum": "24.12.2025",
                     "startzeit": "09:00",
-                    "enddatum": "24.12.2025",
+                    "enddatum": "25.12.2025",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Geest-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1092",
+                    "apo_id": "aknds1092",
+                    "strasse": "Drohmweg 37",
+                    "plz": "28844",
+                    "ort": "Weyhe",
+                    "distanz": "21.82560377043",
+                    "longitude": "8.86201",
+                    "latitude": "52.98729",
+                    "telefon": "+49 4203 81751",
+                    "fax": "+49 4203 81752",
+                    "email": [],
+                    "startdatum": "24.12.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "25.12.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -74,25 +93,6 @@
                     "endzeit": "08:30"
                 },
                 {
-                    "name": "Apotheke 55 im Augenzentrum",
-                    "kammer": "aknds",
-                    "id": "7375",
-                    "apo_id": "aknds7375",
-                    "strasse": "Henry-Wetjen-Platz 3",
-                    "plz": "28844",
-                    "ort": "Weyhe",
-                    "distanz": "23.952950818829997",
-                    "longitude": "8.8169272",
-                    "latitude": "52.9875338",
-                    "telefon": "+49 421 83056800",
-                    "fax": "+49 421 83056801",
-                    "email": [],
-                    "startdatum": "23.12.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "24.12.2025",
-                    "endzeit": "09:00"
-                },
-                {
                     "name": "Leintor Apotheke",
                     "kammer": "aknds",
                     "id": "956",
@@ -110,25 +110,6 @@
                     "startzeit": "08:00",
                     "enddatum": "25.12.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Flora-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1381",
-                    "apo_id": "aknds1381",
-                    "strasse": "Hauptstr. 52",
-                    "plz": "28876",
-                    "ort": "Oyten",
-                    "distanz": "24.84988726887",
-                    "longitude": "9.0226419",
-                    "latitude": "53.0608175",
-                    "telefon": "+49 4207 3003",
-                    "fax": "+49 4207 913220",
-                    "email": [],
-                    "startdatum": "23.12.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "24.12.2025",
-                    "endzeit": "09:00"
                 }
             ]
         }
