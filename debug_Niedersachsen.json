@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "65076"
+            "verwendet": "70142"
         },
         "apotheken": {
             "apotheke": [
@@ -53,25 +53,6 @@
                     "startzeit": "09:00",
                     "enddatum": "24.12.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Hansa Apotheke",
-                    "kammer": "aknds",
-                    "id": "955",
-                    "apo_id": "aknds955",
-                    "strasse": "Hansastr. 3",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "23.14845354176",
-                    "longitude": "9.2148089",
-                    "latitude": "52.6496656",
-                    "telefon": "+49 5021 910266",
-                    "fax": "+49 5021 910277",
-                    "email": [],
-                    "startdatum": "23.12.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "24.12.2025",
-                    "endzeit": "08:00"
                 },
                 {
                     "name": "Stifts-Apotheke",
@@ -112,6 +93,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Leintor Apotheke",
+                    "kammer": "aknds",
+                    "id": "956",
+                    "apo_id": "aknds956",
+                    "strasse": "Hannoversche Str. 12",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "24.42755959594",
+                    "longitude": "9.2117242",
+                    "latitude": "52.6363944",
+                    "telefon": "+49 5021 3250",
+                    "fax": "+49 5021 926200",
+                    "email": [],
+                    "startdatum": "24.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "25.12.2025",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Flora-Apotheke",
                     "kammer": "aknds",
                     "id": "1381",
@@ -129,25 +129,6 @@
                     "startzeit": "09:00",
                     "enddatum": "24.12.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Stern-Apotheke",
-                    "kammer": "aknds",
-                    "id": "938",
-                    "apo_id": "aknds938",
-                    "strasse": "Sternstr. 1 B",
-                    "plz": "31618",
-                    "ort": "Liebenau",
-                    "distanz": "25.9555785569",
-                    "longitude": "9.0897493",
-                    "latitude": "52.6067599",
-                    "telefon": "+49 5023 94444",
-                    "fax": "+49 5023 94446",
-                    "email": [],
-                    "startdatum": "23.12.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "24.12.2025",
-                    "endzeit": "08:00"
                 }
             ]
         }
