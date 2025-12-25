@@ -37,46 +37,27 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "177557"
+            "verwendet": "187248"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Delphin-Apotheke",
+                    "name": "Theater-Apotheke",
                     "kammer": "lakt",
-                    "id": "503",
-                    "apo_id": "lakt503",
-                    "strasse": "Hermsdorfer Straße 4",
-                    "plz": "99099",
-                    "ort": "Erfurt",
-                    "distanz": "7.82386343784",
-                    "longitude": "11.0598792",
-                    "latitude": "50.9704011",
-                    "telefon": "+49 361 3458213",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "24.12.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "25.12.2025",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Bahnhof-Apotheke",
-                    "kammer": "lakt",
-                    "id": "5",
-                    "apo_id": "lakt5",
-                    "strasse": "Bahnhofstraße 40",
+                    "id": "367",
+                    "apo_id": "lakt367",
+                    "strasse": "Dalbergsweg 9",
                     "plz": "99084",
                     "ort": "Erfurt",
-                    "distanz": "8.15849796899",
-                    "longitude": "11.0350444",
-                    "latitude": "50.9747884",
-                    "telefon": "+49 361 555410",
+                    "distanz": "7.81386179811",
+                    "longitude": "11.0228492",
+                    "latitude": "50.9710741",
+                    "telefon": "+49 361 2258820",
                     "fax": [],
                     "email": [],
-                    "startdatum": "24.12.2025",
+                    "startdatum": "25.12.2025",
                     "startzeit": "09:00",
-                    "enddatum": "25.12.2025",
+                    "enddatum": "26.12.2025",
                     "endzeit": "09:00"
                 },
                 {
@@ -97,6 +78,25 @@
                     "startzeit": "08:00",
                     "enddatum": "26.12.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Luther-Apotheke",
+                    "kammer": "lakt",
+                    "id": "481",
+                    "apo_id": "lakt481",
+                    "strasse": "Ammertalweg 15",
+                    "plz": "99086",
+                    "ort": "Erfurt",
+                    "distanz": "10.609739457929999",
+                    "longitude": "11.0289565",
+                    "latitude": "50.9966797",
+                    "telefon": "+49 361 7456176",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "25.12.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "26.12.2025",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Ahorn-Apotheke",
