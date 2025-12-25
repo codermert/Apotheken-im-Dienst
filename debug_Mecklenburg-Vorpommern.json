@@ -31,7 +31,7 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "254637"
+            "verwendet": "360087"
         },
         "apotheken": {
             "apotheke": [
@@ -53,6 +53,25 @@
                     "startzeit": "08:00",
                     "enddatum": "26.12.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Hubertus-Apotheke",
+                    "kammer": "akmv",
+                    "id": "172433",
+                    "apo_id": "akmv172433",
+                    "strasse": "Friedensstr. 29",
+                    "plz": "17179",
+                    "ort": "Gnoien",
+                    "distanz": "23.52636928311",
+                    "longitude": "12.7102512",
+                    "latitude": "53.9693156",
+                    "telefon": "+49 39971 1830",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "25.12.2025",
+                    "startzeit": "11:00",
+                    "enddatum": "25.12.2025",
+                    "endzeit": "12:00"
                 },
                 {
                     "name": "Apotheke am Distelberg",
@@ -110,25 +129,6 @@
                     "startzeit": "08:00",
                     "enddatum": "26.12.2025",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Linden-Apotheke",
-                    "kammer": "akmv",
-                    "id": "172790",
-                    "apo_id": "akmv172790",
-                    "strasse": "Lange Str. 112",
-                    "plz": "19399",
-                    "ort": "Goldberg",
-                    "distanz": "38.323545404949996",
-                    "longitude": "12.0878761",
-                    "latitude": "53.5871235",
-                    "telefon": "+49 38736 40314",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "25.12.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "25.12.2025",
-                    "endzeit": "10:00"
                 },
                 {
                     "name": "Greif-Apotheke",

@@ -188,12 +188,167 @@
   ],
   "Hamburg": [],
   "Baden-Württemberg": [],
-  "Bayern": [],
+  "Bayern": [
+    {
+      "eczaneAdi": "Hollis-Apotheke",
+      "adres": "Krumenauerstr. 38-44, 85049 Ingolstadt",
+      "telefon": "+49 841 8818816",
+      "enlem": "48.7697043",
+      "boylam": "11.38056",
+      "mesafe": "19.8 km"
+    },
+    {
+      "eczaneAdi": "Elisen-Apotheke",
+      "adres": "Ingolstädterstr. 16, 86633 Neuburg a. d. Donau",
+      "telefon": "+49 8431 44882",
+      "enlem": "48.7416585",
+      "boylam": "11.1824781",
+      "mesafe": "28.0 km"
+    },
+    {
+      "eczaneAdi": "Stadt-Apotheke",
+      "adres": "Donaustr. 13a, 93333 Neustadt a. d. Donau",
+      "telefon": "+49 9445 2815",
+      "enlem": "48.8091307",
+      "boylam": "11.7654877",
+      "mesafe": "30.6 km"
+    },
+    {
+      "eczaneAdi": "Burg Apotheke",
+      "adres": "Christoph-Sturm-Str. 2, 91161 Hilpoltstein",
+      "telefon": "+49 9174 1337",
+      "enlem": "49.18895",
+      "boylam": "11.1917914",
+      "mesafe": "31.1 km"
+    },
+    {
+      "eczaneAdi": "Greifen-Apotheke",
+      "adres": "Marktplatz 10, 91781 Weißenburg",
+      "telefon": "+49 9141 2304",
+      "enlem": "49.030442",
+      "boylam": "10.9716603",
+      "mesafe": "33.0 km"
+    },
+    {
+      "eczaneAdi": "Sophien-Apotheke",
+      "adres": "Riedenburger Str. 2, 93309 Kelheim",
+      "telefon": "+49 9441 2266",
+      "enlem": "48.9211124",
+      "boylam": "11.8739268",
+      "mesafe": "34.6 km"
+    },
+    {
+      "eczaneAdi": "easyApotheke",
+      "adres": "Nürnberger Str. 44, 92318 Neumarkt i.d.OPf.",
+      "telefon": "+49 9181 3202832",
+      "enlem": "49.2888081",
+      "boylam": "11.4435747",
+      "mesafe": "38.2 km"
+    },
+    {
+      "eczaneAdi": "Markt-Apotheke",
+      "adres": "Marktplatz 1, 91166 Georgensgmünd",
+      "telefon": "+49 9172 69870",
+      "enlem": "49.1875",
+      "boylam": "11.01497",
+      "mesafe": "39.0 km"
+    }
+  ],
   "Brandenburg": [],
   "Bremen": [],
   "Hessen": [],
-  "Mecklenburg-Vorpommern": [],
-  "Niedersachsen": [],
+  "Mecklenburg-Vorpommern": [
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Marktplatz 4, 17166 Teterow",
+      "telefon": "+49 3996 172041",
+      "enlem": "53.7736844",
+      "boylam": "12.5750741",
+      "mesafe": "0.0 km"
+    },
+    {
+      "eczaneAdi": "Hubertus-Apotheke",
+      "adres": "Friedensstr. 29, 17179 Gnoien",
+      "telefon": "+49 39971 1830",
+      "enlem": "53.9693156",
+      "boylam": "12.7102512",
+      "mesafe": "23.5 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Distelberg",
+      "adres": "Am Eicheneck 6, 18273 Güstrow",
+      "telefon": "+49 3843 212068",
+      "enlem": "53.809078",
+      "boylam": "12.1891445",
+      "mesafe": "25.8 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Papenberg",
+      "adres": "Rosa-Luxemburg-Str. 20b, 17192 Waren",
+      "telefon": "+49 3991 668877",
+      "enlem": "53.50911",
+      "boylam": "12.69992",
+      "mesafe": "30.6 km"
+    },
+    {
+      "eczaneAdi": "Pommern-Apotheke",
+      "adres": "Adolf-Pompe-Str. 24, 17109 Demmin",
+      "telefon": "+49 3998 362366",
+      "enlem": "53.90266",
+      "boylam": "13.04724",
+      "mesafe": "34.2 km"
+    },
+    {
+      "eczaneAdi": "Greif-Apotheke",
+      "adres": "Hannes-Meyer-Platz 25, 18146 Rostock",
+      "telefon": "+49 381 690409",
+      "enlem": "54.1041584",
+      "boylam": "12.1672069",
+      "mesafe": "45.5 km"
+    },
+    {
+      "eczaneAdi": "Apotheke zur Himmelspforte",
+      "adres": "Zur Himmelspforte 1, 18055 Rostock",
+      "telefon": "+49 381 25221842",
+      "enlem": "54.08875",
+      "boylam": "12.13284",
+      "mesafe": "45.6 km"
+    }
+  ],
+  "Niedersachsen": [
+    {
+      "eczaneAdi": "Brunsviga-Apotheke",
+      "adres": "Syker Str. 2, 27321 Thedinghausen",
+      "telefon": "+49 4204 406",
+      "enlem": "52.9621189",
+      "boylam": "9.0206814",
+      "mesafe": "14.1 km"
+    },
+    {
+      "eczaneAdi": "Hache-Apotheke",
+      "adres": "Hauptstr. 56/58, 28857 Syke",
+      "telefon": "+49 4242 933033",
+      "enlem": "52.9144407",
+      "boylam": "8.8175844",
+      "mesafe": "19.3 km"
+    },
+    {
+      "eczaneAdi": "Bahnhof-Apotheke",
+      "adres": "Wilhelmstr. 19, 31582 Nienburg",
+      "telefon": "+49 5021 2232",
+      "enlem": "52.6437781",
+      "boylam": "9.2136038",
+      "mesafe": "23.7 km"
+    },
+    {
+      "eczaneAdi": "Bären-Apotheke",
+      "adres": "Lange Str. 13, 27232 Sulingen",
+      "telefon": "+49 4271 3475",
+      "enlem": "52.6826842",
+      "boylam": "8.81042",
+      "mesafe": "25.0 km"
+    }
+  ],
   "Rheinland-Pfalz": [],
   "Saarland": [],
   "Sachsen": [],
