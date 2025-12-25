@@ -899,7 +899,80 @@
       "mesafe": "25.0 km"
     }
   ],
-  "Rheinland-Pfalz": [],
+  "Rheinland-Pfalz": [
+    {
+      "eczaneAdi": "Kirchspiel Apotheke",
+      "adres": "Hunsrückstr. 34, 56865 Blankenrath",
+      "telefon": "+49 6545 337",
+      "enlem": "50.03703",
+      "boylam": "7.30264",
+      "mesafe": "9.3 km"
+    },
+    {
+      "eczaneAdi": "Adler-Apotheke",
+      "adres": "Hauptstr. 21, 55624 Rhaunen",
+      "telefon": "+49 6544 230",
+      "enlem": "49.8633117",
+      "boylam": "7.3479508",
+      "mesafe": "10.3 km"
+    },
+    {
+      "eczaneAdi": "St. Martin-Apotheke",
+      "adres": "Karrstr. 40, 54516 Wittlich",
+      "telefon": "+49 6571 20060",
+      "enlem": "49.9847698",
+      "boylam": "6.8871433",
+      "mesafe": "30.6 km"
+    },
+    {
+      "eczaneAdi": "Spitzweg-Apotheke",
+      "adres": "Hauptstr. 1, 55768 Hoppstädten-Weiersbach",
+      "telefon": "+49 6782 981270",
+      "enlem": "49.615911",
+      "boylam": "7.1954696",
+      "mesafe": "38.4 km"
+    },
+    {
+      "eczaneAdi": "Einhorn-Apotheke",
+      "adres": "Mannheimer Str. 128, 55543 Bad Kreuznach",
+      "telefon": "+49 671 28743",
+      "enlem": "49.84348",
+      "boylam": "7.85983",
+      "mesafe": "41.3 km"
+    },
+    {
+      "eczaneAdi": "Engel-Apotheke",
+      "adres": "Kapuzinerstr. 26, 55411 Bingen am Rhein",
+      "telefon": "+49 6721 14555",
+      "enlem": "49.9679162",
+      "boylam": "7.8970322",
+      "mesafe": "42.1 km"
+    },
+    {
+      "eczaneAdi": "Reichskronen-Apotheke Dr. Schlags",
+      "adres": "Marktstr. 30, 56727 Mayen",
+      "telefon": "+49 2651 76226",
+      "enlem": "50.32788",
+      "boylam": "7.22035",
+      "mesafe": "42.2 km"
+    },
+    {
+      "eczaneAdi": "Berg-Apotheke",
+      "adres": "Simmerner Str. 88, 56075 Koblenz",
+      "telefon": "+49 261 57239",
+      "enlem": "50.3423",
+      "boylam": "7.57731",
+      "mesafe": "47.3 km"
+    },
+    {
+      "eczaneAdi": "Ostertal-Apotheke",
+      "adres": "Talbrückstraße 1, 66629 Freisen-Oberkirchen",
+      "telefon": "06855/237",
+      "enlem": "49.5253414",
+      "boylam": "7.2621537",
+      "mesafe": "47.7 km"
+    }
+  ],
   "Saarland": [
     {
       "eczaneAdi": "V-PLUS Apotheke",
@@ -1090,48 +1163,7 @@
       "mesafe": "26.9 km"
     }
   ],
-  "Schleswig-Holstein": [
-    {
-      "eczaneAdi": "Mühlen-Apotheke im a&b-Center",
-      "adres": "Baeyerstr. 1, 24536 Neumünster",
-      "telefon": "04321-8400230",
-      "enlem": "54.0999551",
-      "boylam": "9.9763377",
-      "mesafe": "13.9 km"
-    },
-    {
-      "eczaneAdi": "Fockbeker-Apotheke",
-      "adres": "Rendsburger Str. 19, 24787 Fockbek",
-      "telefon": "04331-61404",
-      "enlem": "54.3081568",
-      "boylam": "9.6083364",
-      "mesafe": "19.5 km"
-    },
-    {
-      "eczaneAdi": "Russeer-Apotheke",
-      "adres": "Rutkamp 1, 24111 Kiel",
-      "telefon": "0431-697469",
-      "enlem": "54.30056",
-      "boylam": "10.07698",
-      "mesafe": "21.0 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Brokstedt",
-      "adres": "Dörnbek 34, 24616 Brokstedt",
-      "telefon": "04324-201",
-      "enlem": "53.9931972",
-      "boylam": "9.8217392",
-      "mesafe": "21.4 km"
-    },
-    {
-      "eczaneAdi": "Ansgar-Apotheke",
-      "adres": "Holtenauer Str. 77, 24105 Kiel",
-      "telefon": "0431-565050",
-      "enlem": "54.334704",
-      "boylam": "10.1328341",
-      "mesafe": "26.2 km"
-    }
-  ],
+  "Schleswig-Holstein": [],
   "Thüringen": [
     {
       "eczaneAdi": "Theater-Apotheke",
