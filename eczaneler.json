@@ -2,72 +2,7 @@
   "Berlin": [],
   "Nordrhein-Westfalen": [],
   "Hamburg": [],
-  "Baden-Württemberg": [
-    {
-      "eczaneAdi": "Dr. Linz´sche Apotheke am Marktbrunnen",
-      "adres": "Am Markt 5, 72070 Tübingen",
-      "telefon": "+49 7071 56050",
-      "enlem": "48.5205887",
-      "boylam": "9.053674",
-      "mesafe": "2.1 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Rommelsbach",
-      "adres": "Egertstr. 13, 72768 Reutlingen",
-      "telefon": "+49 7121 96540",
-      "enlem": "48.5316713",
-      "boylam": "9.2007924",
-      "mesafe": "11.8 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Mittelstadt",
-      "adres": "Neckartenzlinger Str. 42, 72766 Reutlingen",
-      "telefon": "+49 7127 71166",
-      "enlem": "48.56412",
-      "boylam": "9.226547",
-      "mesafe": "14.0 km"
-    },
-    {
-      "eczaneAdi": "Apotheke in den Mercaden",
-      "adres": "Wolfgang-Brumme-Allee 27, 71034 Böblingen",
-      "telefon": "+49 7031 4352100",
-      "enlem": "48.6876866",
-      "boylam": "9.0066132",
-      "mesafe": "16.9 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Bonländer Tor",
-      "adres": "Bonländer Hauptstr. 123, 70794 Filderstadt",
-      "telefon": "+49 711 772910",
-      "enlem": "48.6530551",
-      "boylam": "9.2163218",
-      "mesafe": "18.2 km"
-    },
-    {
-      "eczaneAdi": "Graf-Eberhard-Apotheke Grafenau",
-      "adres": "Zum Ulrichstein 1, 71120 Grafenau",
-      "telefon": "+49 7033 45072",
-      "enlem": "48.7159312",
-      "boylam": "8.9103969",
-      "mesafe": "22.0 km"
-    },
-    {
-      "eczaneAdi": "Stadt-Apotheke Nagold",
-      "adres": "Marktstr. 1, 72202 Nagold",
-      "telefon": "+49 7452 5037",
-      "enlem": "48.5502873",
-      "boylam": "8.7242762",
-      "mesafe": "23.4 km"
-    },
-    {
-      "eczaneAdi": "Elsach-Center Apotheke Mache Bad Urach",
-      "adres": "Gebrüder-Gross-Str. 9, 72574 Bad Urach",
-      "telefon": "+49 7125 4482",
-      "enlem": "48.4944982",
-      "boylam": "9.3988204",
-      "mesafe": "26.9 km"
-    }
-  ],
+  "Baden-Württemberg": [],
   "Bayern": [],
   "Brandenburg": [],
   "Bremen": [],
@@ -79,54 +14,5 @@
   "Sachsen": [],
   "Sachsen-Anhalt": [],
   "Schleswig-Holstein": [],
-  "Thüringen": [
-    {
-      "eczaneAdi": "Theater-Apotheke",
-      "adres": "Dalbergsweg 9, 99084 Erfurt",
-      "telefon": "+49 361 2258820",
-      "enlem": "50.9710741",
-      "boylam": "11.0228492",
-      "mesafe": "7.8 km"
-    },
-    {
-      "eczaneAdi": "Rosen-Apotheke im IlmkreisCenter",
-      "adres": "Stadtilmerstraße 100, 99310 Arnstadt",
-      "telefon": "+49 3628 663651",
-      "enlem": "50.8299085",
-      "boylam": "10.9678047",
-      "mesafe": "9.4 km"
-    },
-    {
-      "eczaneAdi": "Luther-Apotheke",
-      "adres": "Ammertalweg 15, 99086 Erfurt",
-      "telefon": "+49 361 7456176",
-      "enlem": "50.9966797",
-      "boylam": "11.0289565",
-      "mesafe": "10.6 km"
-    },
-    {
-      "eczaneAdi": "Ahorn-Apotheke",
-      "adres": "Bertha-Schneyer-Str. 2, 99867 Gotha",
-      "telefon": "+49 3621 309810",
-      "enlem": "50.9450798",
-      "boylam": "10.7325137",
-      "mesafe": "22.0 km"
-    },
-    {
-      "eczaneAdi": "Apotheke am Jakobstor",
-      "adres": "Friedensstraße 2, 99423 Weimar",
-      "telefon": "+49 3643 850800",
-      "enlem": "50.9840253",
-      "boylam": "11.3261909",
-      "mesafe": "22.3 km"
-    },
-    {
-      "eczaneAdi": "Antonius-Apotheke",
-      "adres": "Hohe Straße 2a, 98693 Ilmenau, OT Unterpörlitz",
-      "telefon": "+49 3677 63435",
-      "enlem": "50.6994714",
-      "boylam": "10.9281279",
-      "mesafe": "23.8 km"
-    }
-  ]
+  "Thüringen": []
 }
