@@ -3194,7 +3194,7 @@
             "anzahl": 17
         },
         "quota": {
-            "verwendet": "131711"
+            "verwendet": "150405"
         },
         "apotheken": {
             "apotheke": [
@@ -3311,6 +3311,25 @@
                     "startzeit": "09:00",
                     "enddatum": "25.12.2025",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Niedersachsen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1419",
+                    "apo_id": "aknds1419",
+                    "strasse": "Kürbsweg 8",
+                    "plz": "21217",
+                    "ort": "Seevetal",
+                    "distanz": "14.39666943502",
+                    "longitude": "10.0228494",
+                    "latitude": "53.4216647",
+                    "telefon": "+49 40 7686722",
+                    "fax": "+49 40 7685173",
+                    "email": [],
+                    "startdatum": "25.12.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "26.12.2025",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "CCB-Apotheke",
@@ -3501,25 +3520,6 @@
                     "startzeit": "09:00",
                     "enddatum": "25.12.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Apotheke an der Stadthalle",
-                    "kammer": "aknds",
-                    "id": "1513",
-                    "apo_id": "aknds1513",
-                    "strasse": "Luhdorfer Str. 28",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "25.99575978553",
-                    "longitude": "10.2070035",
-                    "latitude": "53.3518837",
-                    "telefon": "+49 4171 783900",
-                    "fax": "+49 4171 7839020",
-                    "email": [],
-                    "startdatum": "24.12.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "25.12.2025",
-                    "endzeit": "08:30"
                 }
             ]
         }
