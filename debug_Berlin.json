@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 37
+            "anzahl": 33
         },
         "quota": {
-            "verwendet": "103296"
+            "verwendet": "125966"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,25 +5762,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Steinbock Apotheke",
-                    "kammer": "lakbb",
-                    "id": "653",
-                    "apo_id": "lakbb653",
-                    "strasse": "Bahnhofstraße 5 B",
-                    "plz": "16552",
-                    "ort": "Mühlenbecker Land - OT Schildow",
-                    "distanz": "13.35524852805",
-                    "longitude": "13.3749982",
-                    "latitude": "52.6367557",
-                    "telefon": "+49 33056 270004",
-                    "fax": "+49 33056 270641",
-                    "email": "info@steinbockapothekeschildow.com",
-                    "startdatum": "25.12.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "26.12.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Marien-Apotheke",
                     "kammer": "akb",
                     "id": "100579",
@@ -5792,6 +5773,25 @@
                     "longitude": "13.1834028",
                     "latitude": "52.5128679",
                     "telefon": "+49 30 3616707",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "25.12.2025",
+                    "startzeit": "09:00",
+                    "enddatum": "26.12.2025",
+                    "endzeit": "08:59"
+                },
+                {
+                    "name": "Dr. Rothes Apotheke",
+                    "kammer": "akb",
+                    "id": "100404",
+                    "apo_id": "akb100404",
+                    "strasse": "Bahnhofstr. 10",
+                    "plz": "12555",
+                    "ort": "Berlin",
+                    "distanz": "14.513538287220001",
+                    "longitude": "13.5770394",
+                    "latitude": "52.4552771",
+                    "telefon": "+49 30 6572151",
                     "fax": [],
                     "email": [],
                     "startdatum": "25.12.2025",
