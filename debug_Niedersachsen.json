@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 15
+            "anzahl": 14
         },
         "quota": {
-            "verwendet": "45295"
+            "verwendet": "47854"
         },
         "apotheken": {
             "apotheke": [
@@ -112,25 +112,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Hirsch-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1069",
-                    "apo_id": "aknds1069",
-                    "strasse": "Große Str. 32",
-                    "plz": "27239",
-                    "ort": "Twistringen",
-                    "distanz": "29.82473494903",
-                    "longitude": "8.6385506",
-                    "latitude": "52.7997329",
-                    "telefon": "+49 4243 92980",
-                    "fax": "+49 4243 929820",
-                    "email": [],
-                    "startdatum": "26.12.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "27.12.2025",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Bären-Apotheke",
                     "kammer": "aknds",
                     "id": "1047",
@@ -188,6 +169,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Mühlen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1795",
+                    "apo_id": "aknds1795",
+                    "strasse": "Burgstr. 17",
+                    "plz": "27243",
+                    "ort": "Harpstedt",
+                    "distanz": "33.80446854989",
+                    "longitude": "8.5871724",
+                    "latitude": "52.909233",
+                    "telefon": "+49 4244 93530",
+                    "fax": "+49 4244 935353",
+                    "email": [],
+                    "startdatum": "27.12.2025",
+                    "startzeit": "08:30",
+                    "enddatum": "28.12.2025",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Burg-Apotheke",
                     "kammer": "aknds",
                     "id": "1391",
@@ -207,22 +207,22 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Anker Apotheke",
+                    "name": "Rosen-Apotheke",
                     "kammer": "aknds",
-                    "id": "1664",
-                    "apo_id": "aknds1664",
-                    "strasse": "Mühlenstr. 31",
-                    "plz": "27753",
+                    "id": "1676",
+                    "apo_id": "aknds1676",
+                    "strasse": "Cramerstr. 15",
+                    "plz": "27749",
                     "ort": "Delmenhorst",
-                    "distanz": "38.69695382376",
-                    "longitude": "8.6236758",
-                    "latitude": "53.0549856",
-                    "telefon": "+49 4221 14489",
-                    "fax": "+49 4221 14907",
+                    "distanz": "37.60534810497",
+                    "longitude": "8.6348904",
+                    "latitude": "53.0476985",
+                    "telefon": "+49 4221 93590",
+                    "fax": "+49 4221 935935",
                     "email": [],
-                    "startdatum": "26.12.2025",
+                    "startdatum": "27.12.2025",
                     "startzeit": "08:30",
-                    "enddatum": "27.12.2025",
+                    "enddatum": "28.12.2025",
                     "endzeit": "08:30"
                 },
                 {
@@ -262,25 +262,6 @@
                     "startzeit": "09:00",
                     "enddatum": "27.12.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Ring-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1749",
-                    "apo_id": "aknds1749",
-                    "strasse": "Ring 26",
-                    "plz": "27777",
-                    "ort": "Ganderkesee",
-                    "distanz": "41.495270741220004",
-                    "longitude": "8.5473054",
-                    "latitude": "53.03225",
-                    "telefon": "+49 4222 950288",
-                    "fax": "+49 4222 950290",
-                    "email": [],
-                    "startdatum": "26.12.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "27.12.2025",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Apotheke am Bahnhof",
