@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "241678"
+            "verwendet": "245534"
         },
         "apotheken": {
             "apotheke": [
@@ -110,6 +110,63 @@
                     "startzeit": "08:00",
                     "enddatum": "28.12.2025",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Rosenhof-Apotheke",
+                    "kammer": "akmv",
+                    "id": "174320",
+                    "apo_id": "akmv174320",
+                    "strasse": "Stavenhagener  Str. 25",
+                    "plz": "17091",
+                    "ort": "Rosenow",
+                    "distanz": "34.43305968765",
+                    "longitude": "13.0355102",
+                    "latitude": "53.6278546",
+                    "telefon": "+49 39602 20480",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "27.12.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "27.12.2025",
+                    "endzeit": "18:00"
+                },
+                {
+                    "name": "Buchen-Apotheke",
+                    "kammer": "akmv",
+                    "id": "178298",
+                    "apo_id": "akmv178298",
+                    "strasse": "Friedrich-von-Flotow-Ring 15",
+                    "plz": "18190",
+                    "ort": "Sanitz",
+                    "distanz": "36.15413585038",
+                    "longitude": "12.3834443",
+                    "latitude": "54.0779007",
+                    "telefon": "+49 38209 490016",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "27.12.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "27.12.2025",
+                    "endzeit": "18:00"
+                },
+                {
+                    "name": "Müritz-Apotheke",
+                    "kammer": "akmv",
+                    "id": "174048",
+                    "apo_id": "akmv174048",
+                    "strasse": "Hohe Straße 36",
+                    "plz": "17207",
+                    "ort": "Röbel",
+                    "distanz": "44.50407116596",
+                    "longitude": "12.6052544",
+                    "latitude": "53.37403",
+                    "telefon": "+49 39931 50133",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "27.12.2025",
+                    "startzeit": "17:00",
+                    "enddatum": "27.12.2025",
+                    "endzeit": "18:00"
                 },
                 {
                     "name": "Augusten-Apotheke",
