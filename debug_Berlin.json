@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 36
+            "anzahl": 34
         },
         "quota": {
-            "verwendet": "74582"
+            "verwendet": "79567"
         },
         "apotheken": {
             "apotheke": [
@@ -5743,25 +5743,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Dorf-Apotheke",
-                    "kammer": "lakbb",
-                    "id": "446",
-                    "apo_id": "lakbb446",
-                    "strasse": "Dorfstraße 17",
-                    "plz": "16356",
-                    "ort": "Ahrensfelde",
-                    "distanz": "14.103945313390001",
-                    "longitude": "13.5740345",
-                    "latitude": "52.5746579",
-                    "telefon": "+49 30 93772171",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "27.12.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "28.12.2025",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Mariannen-Apotheke",
                     "kammer": "akb",
                     "id": "100657",
@@ -5781,23 +5762,42 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Apotheke am Rathausmarkt",
+                    "name": "Heine-Apotheke",
                     "kammer": "lakbb",
-                    "id": "522",
-                    "apo_id": "lakbb522",
-                    "strasse": "Förster-Funke-Allee 104",
-                    "plz": "14532",
-                    "ort": "Kleinmachnow",
-                    "distanz": "17.013397893180002",
-                    "longitude": "13.21942",
-                    "latitude": "52.4045",
-                    "telefon": "+49 33203 77994",
+                    "id": "385",
+                    "apo_id": "lakbb385",
+                    "strasse": "Bahnhofstraße 83",
+                    "plz": "16341",
+                    "ort": "Panketal",
+                    "distanz": "17.117794892499997",
+                    "longitude": "13.5165561",
+                    "latitude": "52.6497512",
+                    "telefon": "+49 30 94417813",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "28.12.2025",
+                    "startzeit": "08:00",
+                    "enddatum": "29.12.2025",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Rathaus-Apotheke",
+                    "kammer": "akb",
+                    "id": "100498",
+                    "apo_id": "akb100498",
+                    "strasse": "Bölschestr. 59",
+                    "plz": "12587",
+                    "ort": "Berlin",
+                    "distanz": "17.52011942899",
+                    "longitude": "13.6255532",
+                    "latitude": "52.4545049",
+                    "telefon": "+49 30 6455281",
                     "fax": [],
                     "email": [],
                     "startdatum": "27.12.2025",
-                    "startzeit": "08:00",
+                    "startzeit": "09:00",
                     "enddatum": "28.12.2025",
-                    "endzeit": "08:00"
+                    "endzeit": "08:59"
                 }
             ]
         }
