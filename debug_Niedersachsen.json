@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 6
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "50190"
+            "verwendet": "52049"
         },
         "apotheken": {
             "apotheke": [
@@ -74,22 +74,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke am Goetheplatz",
+                    "name": "Eichen-Apotheke",
                     "kammer": "aknds",
-                    "id": "961",
-                    "apo_id": "aknds961",
-                    "strasse": "Goetheplatz 6",
+                    "id": "954",
+                    "apo_id": "aknds954",
+                    "strasse": "Verdener Landstr. 134",
                     "plz": "31582",
                     "ort": "Nienburg",
-                    "distanz": "23.774463096319998",
-                    "longitude": "9.2096738",
-                    "latitude": "52.6422229",
-                    "telefon": "+49 5021 13100",
-                    "fax": "+49 5021 910919",
+                    "distanz": "22.105350231280003",
+                    "longitude": "9.2215718",
+                    "latitude": "52.66194",
+                    "telefon": "+49 5021 18831",
+                    "fax": "+49 5021 64644",
                     "email": [],
-                    "startdatum": "29.12.2025",
+                    "startdatum": "30.12.2025",
                     "startzeit": "08:00",
-                    "enddatum": "30.12.2025",
+                    "enddatum": "31.12.2025",
                     "endzeit": "08:00"
                 },
                 {
@@ -110,25 +110,6 @@
                     "startzeit": "09:00",
                     "enddatum": "30.12.2025",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Sule-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1063",
-                    "apo_id": "aknds1063",
-                    "strasse": "Lange Straße 25-27",
-                    "plz": "27232",
-                    "ort": "Sulingen",
-                    "distanz": "25.88536813323",
-                    "longitude": "8.7957161",
-                    "latitude": "52.6810922",
-                    "telefon": "+49 4271 2958",
-                    "fax": "+49 4271 4779",
-                    "email": [],
-                    "startdatum": "29.12.2025",
-                    "startzeit": "08:00",
-                    "enddatum": "30.12.2025",
-                    "endzeit": "08:00"
                 },
                 {
                     "name": "Arsterdamm-Apotheke",
