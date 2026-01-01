@@ -3194,7 +3194,7 @@
             "anzahl": 16
         },
         "quota": {
-            "verwendet": "98640"
+            "verwendet": "106945"
         },
         "apotheken": {
             "apotheke": [
@@ -3408,25 +3408,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Apotheke Mitten im Leben",
-                    "kammer": "aknds",
-                    "id": "5859",
-                    "apo_id": "aknds5859",
-                    "strasse": "Am Saal 16",
-                    "plz": "21217",
-                    "ort": "Seevetal",
-                    "distanz": "14.65357934397",
-                    "longitude": "10.0197091",
-                    "latitude": "53.4191686",
-                    "telefon": "+49 40 70108642",
-                    "fax": "+49 40 70108703",
-                    "email": [],
-                    "startdatum": "31.12.2025",
-                    "startzeit": "08:30",
-                    "enddatum": "01.01.2026",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Holthof-Apotheke",
                     "kammer": "akh",
                     "id": "10402",
@@ -3463,6 +3444,25 @@
                     "startzeit": "08:00",
                     "enddatum": "02.01.2026",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Luhe-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1510",
+                    "apo_id": "aknds1510",
+                    "strasse": "Bahnhofstr. 1",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "25.17002885461",
+                    "longitude": "10.2060052",
+                    "latitude": "53.3602785",
+                    "telefon": "+49 4171 4055",
+                    "fax": "+49 4171 64814",
+                    "email": [],
+                    "startdatum": "01.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "02.01.2026",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Löns-Apotheke",
