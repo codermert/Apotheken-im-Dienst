@@ -37,27 +37,46 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "114091"
+            "verwendet": "117660"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Neue MARIEN APOTHEKE im Facharztzentrum Angerbrunnen",
+                    "name": "Beethoven-Apotheke",
                     "kammer": "lakt",
-                    "id": "480",
-                    "apo_id": "lakt480",
-                    "strasse": "Neuwerkstr. 51/Regierungsstr. 3",
-                    "plz": "99084",
+                    "id": "4207",
+                    "apo_id": "lakt4207",
+                    "strasse": "Friedrich-Ebert-Straße 62",
+                    "plz": "99096",
                     "ort": "Erfurt",
-                    "distanz": "8.12249611308",
-                    "longitude": "11.0302266",
-                    "latitude": "50.9743289",
-                    "telefon": "+49 361 6442674",
+                    "distanz": "7.01453847244",
+                    "longitude": "11.04064",
+                    "latitude": "50.9645",
+                    "telefon": "+49 361 3459819",
                     "fax": [],
                     "email": [],
-                    "startdatum": "31.12.2025",
+                    "startdatum": "01.01.2026",
                     "startzeit": "09:00",
-                    "enddatum": "01.01.2026",
+                    "enddatum": "02.01.2026",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Arnika-Apotheke",
+                    "kammer": "lakt",
+                    "id": "418",
+                    "apo_id": "lakt418",
+                    "strasse": "Blumenstr. 92",
+                    "plz": "99092",
+                    "ort": "Erfurt",
+                    "distanz": "9.18303846778",
+                    "longitude": "11.0178287",
+                    "latitude": "50.9830499",
+                    "telefon": "+49 361 2113290",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "01.01.2026",
+                    "startzeit": "09:00",
+                    "enddatum": "02.01.2026",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "02.01.2026",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Bären-Apotheke",
-                    "kammer": "lakt",
-                    "id": "113",
-                    "apo_id": "lakt113",
-                    "strasse": "Erfurter Landstraße 86",
-                    "plz": "99095",
-                    "ort": "Erfurt, OT Stotternheim",
-                    "distanz": "16.80725542248",
-                    "longitude": "11.0433921",
-                    "latitude": "51.05251",
-                    "telefon": "+49 36204 52033",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "31.12.2025",
-                    "startzeit": "09:00",
-                    "enddatum": "01.01.2026",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Liszt-Apotheke",
