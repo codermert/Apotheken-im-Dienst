@@ -28,13 +28,32 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 15
+            "anzahl": 16
         },
         "quota": {
-            "verwendet": "59863"
+            "verwendet": "62151"
         },
         "apotheken": {
             "apotheke": [
+                {
+                    "name": "Domino-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1111",
+                    "apo_id": "aknds1111",
+                    "strasse": "Alter Kirchweg 1",
+                    "plz": "31627",
+                    "ort": "Rohrsen",
+                    "distanz": "18.03914767201",
+                    "longitude": "9.233263",
+                    "latitude": "52.7087912",
+                    "telefon": "+49 5024 765",
+                    "fax": "+49 5024 8303",
+                    "email": [],
+                    "startdatum": "02.01.2026",
+                    "startzeit": "08:00",
+                    "enddatum": "03.01.2026",
+                    "endzeit": "08:00"
+                },
                 {
                     "name": "Rats-Apotheke",
                     "kammer": "aknds",
@@ -53,25 +72,6 @@
                     "startzeit": "09:00",
                     "enddatum": "02.01.2026",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Meerbach-Apotheke",
-                    "kammer": "aknds",
-                    "id": "964",
-                    "apo_id": "aknds964",
-                    "strasse": "Ziegelkampstr. 37",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "24.92702017755",
-                    "longitude": "9.223937",
-                    "latitude": "52.6346479",
-                    "telefon": "+49 5021 888740",
-                    "fax": "+49 5021 888745",
-                    "email": [],
-                    "startdatum": "01.01.2026",
-                    "startzeit": "08:00",
-                    "enddatum": "02.01.2026",
-                    "endzeit": "08:00"
                 },
                 {
                     "name": "Waldecksche Apotheke",
@@ -188,25 +188,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Die Stadt-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1397",
-                    "apo_id": "aknds1397",
-                    "strasse": "Harburger Str. 12",
-                    "plz": "27356",
-                    "ort": "Rotenburg (Wümme)",
-                    "distanz": "37.73201343574",
-                    "longitude": "9.410834",
-                    "latitude": "53.1120661",
-                    "telefon": "+49 4261 960860",
-                    "fax": "+49 4261 960850",
-                    "email": [],
-                    "startdatum": "01.01.2026",
-                    "startzeit": "08:00",
-                    "enddatum": "02.01.2026",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Andreas-Apotheke",
                     "kammer": "aknds",
                     "id": "1663",
@@ -258,9 +239,9 @@
                     "telefon": "+49 5763 96090",
                     "fax": "+49 5763 960923",
                     "email": [],
-                    "startdatum": "01.01.2026",
+                    "startdatum": "02.01.2026",
                     "startzeit": "08:00",
-                    "enddatum": "02.01.2026",
+                    "enddatum": "03.01.2026",
                     "endzeit": "08:00"
                 },
                 {
@@ -300,6 +281,44 @@
                     "startzeit": "08:30",
                     "enddatum": "02.01.2026",
                     "endzeit": "08:30"
+                },
+                {
+                    "name": "Meyerhof-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1402",
+                    "apo_id": "aknds1402",
+                    "strasse": "Am Meyerhof 7",
+                    "plz": "27383",
+                    "ort": "Scheeßel",
+                    "distanz": "45.51131335644",
+                    "longitude": "9.479839",
+                    "latitude": "53.1683217",
+                    "telefon": "+49 4263 93190",
+                    "fax": "+49 4263 93193",
+                    "email": [],
+                    "startdatum": "02.01.2026",
+                    "startzeit": "08:00",
+                    "enddatum": "03.01.2026",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Bären-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1357",
+                    "apo_id": "aknds1357",
+                    "strasse": "Hauptstr. 25",
+                    "plz": "29643",
+                    "ort": "Neuenkirchen",
+                    "distanz": "47.35966386064",
+                    "longitude": "9.7035452",
+                    "latitude": "53.0330937",
+                    "telefon": "+49 5195 5055",
+                    "fax": "+49 5195 5056",
+                    "email": [],
+                    "startdatum": "02.01.2026",
+                    "startzeit": "08:00",
+                    "enddatum": "03.01.2026",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Rehdener Apotheke",
