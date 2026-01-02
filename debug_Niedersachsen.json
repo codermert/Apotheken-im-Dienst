@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 16
+            "anzahl": 15
         },
         "quota": {
-            "verwendet": "62151"
+            "verwendet": "64620"
         },
         "apotheken": {
             "apotheke": [
@@ -150,25 +150,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Mühlen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1795",
-                    "apo_id": "aknds1795",
-                    "strasse": "Burgstr. 17",
-                    "plz": "27243",
-                    "ort": "Harpstedt",
-                    "distanz": "33.80446854989",
-                    "longitude": "8.5871724",
-                    "latitude": "52.909233",
-                    "telefon": "+49 4244 93530",
-                    "fax": "+49 4244 935353",
-                    "email": [],
-                    "startdatum": "01.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "02.01.2026",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Löns-Apotheke",
                     "kammer": "aknds",
                     "id": "1496",
@@ -188,22 +169,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Andreas-Apotheke",
+                    "name": "Mühlenfelder Apotheke",
                     "kammer": "aknds",
-                    "id": "1663",
-                    "apo_id": "aknds1663",
-                    "strasse": "Oldenburger Str. 25",
-                    "plz": "27753",
-                    "ort": "Delmenhorst",
-                    "distanz": "38.4864705236",
-                    "longitude": "8.6205462",
-                    "latitude": "53.0494339",
-                    "telefon": "+49 4221 150990",
-                    "fax": "+49 4221 120711",
+                    "id": "6809",
+                    "apo_id": "aknds6809",
+                    "strasse": "Hagener Straße 29",
+                    "plz": "31535",
+                    "ort": "Neustadt am Rübenberge",
+                    "distanz": "37.92433564807",
+                    "longitude": "9.43077",
+                    "latitude": "52.57584",
+                    "telefon": "+49 5034 9596484",
+                    "fax": "+49 5034 9596485",
                     "email": [],
-                    "startdatum": "01.01.2026",
+                    "startdatum": "02.01.2026",
                     "startzeit": "08:30",
-                    "enddatum": "02.01.2026",
+                    "enddatum": "03.01.2026",
                     "endzeit": "08:30"
                 },
                 {
@@ -226,6 +207,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Anker Apotheke",
+                    "kammer": "aknds",
+                    "id": "1664",
+                    "apo_id": "aknds1664",
+                    "strasse": "Mühlenstr. 31",
+                    "plz": "27753",
+                    "ort": "Delmenhorst",
+                    "distanz": "38.69695382376",
+                    "longitude": "8.6236758",
+                    "latitude": "53.0549856",
+                    "telefon": "+49 4221 14489",
+                    "fax": "+49 4221 14907",
+                    "email": [],
+                    "startdatum": "02.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "03.01.2026",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Rats-Apotheke Uchte",
                     "kammer": "aknds",
                     "id": "1074",
@@ -245,44 +245,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Apotheke am famila",
-                    "kammer": "aknds",
-                    "id": "6801",
-                    "apo_id": "aknds6801",
-                    "strasse": "Markt 5",
-                    "plz": "27777",
-                    "ort": "Ganderkesee",
-                    "distanz": "41.74919125403",
-                    "longitude": "8.54525",
-                    "latitude": "53.03462",
-                    "telefon": "+49 4222 9473270",
-                    "fax": "+49 4222 9473271",
-                    "email": [],
-                    "startdatum": "01.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "02.01.2026",
-                    "endzeit": "08:30"
-                },
-                {
-                    "name": "Redeker´sche Apotheke im MediZentrum",
-                    "kammer": "aknds",
-                    "id": "5847",
-                    "apo_id": "aknds5847",
-                    "strasse": "Wallstr. 8",
-                    "plz": "31535",
-                    "ort": "Neustadt am Rübenberge",
-                    "distanz": "45.30122564235",
-                    "longitude": "9.4595486",
-                    "latitude": "52.5061511",
-                    "telefon": "+49 5032 8940895",
-                    "fax": "+49 5032 8940896",
-                    "email": [],
-                    "startdatum": "01.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "02.01.2026",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Meyerhof-Apotheke",
                     "kammer": "aknds",
                     "id": "1402",
@@ -300,6 +262,25 @@
                     "startzeit": "08:00",
                     "enddatum": "03.01.2026",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke Bookholzberg",
+                    "kammer": "aknds",
+                    "id": "1752",
+                    "apo_id": "aknds1752",
+                    "strasse": "Stedinger Str. 63",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "46.43552509672",
+                    "longitude": "8.530713",
+                    "latitude": "53.0962681",
+                    "telefon": "+49 4223 3070",
+                    "fax": "+49 4223 1332",
+                    "email": [],
+                    "startdatum": "02.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "02.01.2026",
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Bären-Apotheke",

@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 11
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "62032"
+            "verwendet": "64501"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,6 +1310,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Anker Apotheke",
+                    "kammer": "aknds",
+                    "id": "1664",
+                    "apo_id": "aknds1664",
+                    "strasse": "Mühlenstr. 31",
+                    "plz": "27753",
+                    "ort": "Delmenhorst",
+                    "distanz": "11.03481046511",
+                    "longitude": "8.6236758",
+                    "latitude": "53.0549856",
+                    "telefon": "+49 4221 14489",
+                    "fax": "+49 4221 14907",
+                    "email": [],
+                    "startdatum": "02.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "03.01.2026",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Euro-Apotheke",
                     "kammer": "akbr",
                     "id": "10010",
@@ -1327,25 +1346,6 @@
                     "startzeit": "09:00",
                     "enddatum": "02.01.2026",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Andreas-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1663",
-                    "apo_id": "aknds1663",
-                    "strasse": "Oldenburger Str. 25",
-                    "plz": "27753",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.683725943999999",
-                    "longitude": "8.6205462",
-                    "latitude": "53.0494339",
-                    "telefon": "+49 4221 150990",
-                    "fax": "+49 4221 120711",
-                    "email": [],
-                    "startdatum": "01.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "02.01.2026",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Malteser-Apotheke",
@@ -1367,23 +1367,23 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke am famila",
+                    "name": "Apotheke Bookholzberg",
                     "kammer": "aknds",
-                    "id": "6801",
-                    "apo_id": "aknds6801",
-                    "strasse": "Markt 5",
+                    "id": "1752",
+                    "apo_id": "aknds1752",
+                    "strasse": "Stedinger Str. 63",
                     "plz": "27777",
                     "ort": "Ganderkesee",
-                    "distanz": "15.77459148283",
-                    "longitude": "8.54525",
-                    "latitude": "53.03462",
-                    "telefon": "+49 4222 9473270",
-                    "fax": "+49 4222 9473271",
+                    "distanz": "12.15097528613",
+                    "longitude": "8.530713",
+                    "latitude": "53.0962681",
+                    "telefon": "+49 4223 3070",
+                    "fax": "+49 4223 1332",
                     "email": [],
-                    "startdatum": "01.01.2026",
+                    "startdatum": "02.01.2026",
                     "startzeit": "08:30",
                     "enddatum": "02.01.2026",
-                    "endzeit": "08:30"
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Waldecksche Apotheke",
@@ -1424,25 +1424,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Kranich Apotheke",
-                    "kammer": "aknds",
-                    "id": "1265",
-                    "apo_id": "aknds1265",
-                    "strasse": "Amtsdamm 39",
-                    "plz": "27628",
-                    "ort": "Hagen im Bremischen",
-                    "distanz": "23.681015648789998",
-                    "longitude": "8.6430292",
-                    "latitude": "53.3555124",
-                    "telefon": "+49 4746 951060",
-                    "fax": "+49 4746 951061",
-                    "email": [],
-                    "startdatum": "01.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "02.01.2026",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Sonnen-Apotheke",
                     "kammer": "aknds",
                     "id": "1632",
@@ -1460,25 +1441,6 @@
                     "startzeit": "08:00",
                     "enddatum": "03.01.2026",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Mühlen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1795",
-                    "apo_id": "aknds1795",
-                    "strasse": "Burgstr. 17",
-                    "plz": "27243",
-                    "ort": "Harpstedt",
-                    "distanz": "27.171589531869998",
-                    "longitude": "8.5871724",
-                    "latitude": "52.909233",
-                    "telefon": "+49 4244 93530",
-                    "fax": "+49 4244 935353",
-                    "email": [],
-                    "startdatum": "01.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "02.01.2026",
-                    "endzeit": "08:30"
                 }
             ]
         }
