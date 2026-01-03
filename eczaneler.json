@@ -603,72 +603,7 @@
       "mesafe": "27.0 km"
     }
   ],
-  "Bremen": [
-    {
-      "eczaneAdi": "Burg-Apotheke",
-      "adres": "Burger Heerstr. 25, 28719 Bremen",
-      "telefon": "+49 421 6441030",
-      "enlem": "53.15452",
-      "boylam": "8.70491",
-      "mesafe": "1.3 km"
-    },
-    {
-      "eczaneAdi": "AVIE Apotheke OHZ",
-      "adres": "Hördorfer Weg 44 - 50, 27711 Osterholz-Scharmbeck",
-      "telefon": "+49 4791 9652744",
-      "enlem": "53.2330357",
-      "boylam": "8.7540174",
-      "mesafe": "10.6 km"
-    },
-    {
-      "eczaneAdi": "Raths-Apotheke",
-      "adres": "Am Markt 11, 28195 Bremen",
-      "telefon": "+49 421 321033",
-      "enlem": "53.0760376",
-      "boylam": "8.8066213",
-      "mesafe": "10.8 km"
-    },
-    {
-      "eczaneAdi": "Anker Apotheke",
-      "adres": "Mühlenstr. 31, 27753 Delmenhorst",
-      "telefon": "+49 4221 14489",
-      "enlem": "53.0549856",
-      "boylam": "8.6236758",
-      "mesafe": "11.0 km"
-    },
-    {
-      "eczaneAdi": "Ring-Apotheke",
-      "adres": "Schwachhauser Heerstr. 124, 28209 Bremen",
-      "telefon": "+49 421 343686",
-      "enlem": "53.08548",
-      "boylam": "8.8494",
-      "mesafe": "12.4 km"
-    },
-    {
-      "eczaneAdi": "Apotheke Oberneuland",
-      "adres": "Rockwinkeler Heerstr. 19, 28355 Bremen",
-      "telefon": "+49 421 259088",
-      "enlem": "53.0903939",
-      "boylam": "8.9340828",
-      "mesafe": "17.2 km"
-    },
-    {
-      "eczaneAdi": "Apotheke 55 im Rudolf-Virchow-Haus",
-      "adres": "Hauptstr. 55, 28844 Weyhe",
-      "telefon": "+49 4203 6955",
-      "enlem": "52.98363",
-      "boylam": "8.83345",
-      "mesafe": "20.3 km"
-    },
-    {
-      "eczaneAdi": "Sonnen-Apotheke",
-      "adres": "Breite Str. 56, 26919 Brake",
-      "telefon": "+49 4401 4485",
-      "enlem": "53.326394",
-      "boylam": "8.4790649",
-      "mesafe": "24.8 km"
-    }
-  ],
+  "Bremen": [],
   "Hessen": [
     {
       "eczaneAdi": "Park Apotheke",
@@ -1093,5 +1028,62 @@
       "mesafe": "24.8 km"
     }
   ],
-  "Thüringen": []
+  "Thüringen": [
+    {
+      "eczaneAdi": "Lilien-Apotheke",
+      "adres": "Domplatz 6/9, 99084 Erfurt",
+      "telefon": "+49 361 6003742",
+      "enlem": "50.9778817",
+      "boylam": "11.0248279",
+      "mesafe": "8.5 km"
+    },
+    {
+      "eczaneAdi": "Osswaldsche Apotheke",
+      "adres": "Erfurter Straße 15, 99310 Arnstadt",
+      "telefon": "+49 3628 602770",
+      "enlem": "50.83477",
+      "boylam": "10.94764",
+      "mesafe": "9.8 km"
+    },
+    {
+      "eczaneAdi": "Brunnen-Apotheke",
+      "adres": "Erfurter Straße 72, 99095 Erfurt-Mittelhausen",
+      "telefon": "+49 361 2624442",
+      "enlem": "51.03489",
+      "boylam": "11.00229",
+      "mesafe": "15.1 km"
+    },
+    {
+      "eczaneAdi": "Löwen-Apotheke",
+      "adres": "Goetheplatz 1, 99423 Weimar",
+      "telefon": "+49 3643 24760",
+      "enlem": "50.980954",
+      "boylam": "11.3247387",
+      "mesafe": "22.0 km"
+    },
+    {
+      "eczaneAdi": "Linden-Apotheke",
+      "adres": "Liebetraustraße 1, 99867 Gotha",
+      "telefon": "+49 3621 705841",
+      "enlem": "50.9466558",
+      "boylam": "10.6961431",
+      "mesafe": "24.5 km"
+    },
+    {
+      "eczaneAdi": "Waldmeister-Apotheke am Stollen",
+      "adres": "Bergrat-Mahr-Straße 3, 98693 Ilmenau",
+      "telefon": "+49 3677 7613860",
+      "enlem": "50.67833",
+      "boylam": "10.92196",
+      "mesafe": "26.1 km"
+    },
+    {
+      "eczaneAdi": "Park-Apotheke",
+      "adres": "Bahnhofstraße 5, 07426 Königsee",
+      "telefon": "+49 36738 43403",
+      "enlem": "50.66137",
+      "boylam": "11.10045",
+      "mesafe": "27.1 km"
+    }
+  ]
 }
