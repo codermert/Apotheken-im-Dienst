@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 32
+            "anzahl": 34
         },
         "quota": {
-            "verwendet": "58228"
+            "verwendet": "59260"
         },
         "apotheken": {
             "apotheke": [
@@ -5705,6 +5705,25 @@
                     "endzeit": "08:59"
                 },
                 {
+                    "name": "Apotheke im Sonnengarten",
+                    "kammer": "lakbb",
+                    "id": "241",
+                    "apo_id": "lakbb241",
+                    "strasse": "Märkische Allee 76",
+                    "plz": "16548",
+                    "ort": "Glienicke/Nordbahn",
+                    "distanz": "13.48323987355",
+                    "longitude": "13.3230005",
+                    "latitude": "52.6313669",
+                    "telefon": "+49 33056 42996",
+                    "fax": [],
+                    "email": "ais@online.de",
+                    "startdatum": "03.01.2026",
+                    "startzeit": "08:00",
+                    "enddatum": "04.01.2026",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Sonnenhut Apotheke",
                     "kammer": "akb",
                     "id": "100669",
@@ -5743,60 +5762,41 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Christophorus Apotheke im Teltow Karree",
+                    "name": "Apotheke im Gesundheitszentrum Teltow",
                     "kammer": "lakbb",
-                    "id": "571",
-                    "apo_id": "lakbb571",
-                    "strasse": "Potsdamer Straße 12 A",
+                    "id": "230",
+                    "apo_id": "lakbb230",
+                    "strasse": "Potsdamer Straße 7/9",
                     "plz": "14513",
                     "ort": "Teltow",
-                    "distanz": "16.37444421251",
-                    "longitude": "13.24599",
-                    "latitude": "52.39856",
-                    "telefon": "+49 3328 339968",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "02.01.2026",
+                    "distanz": "16.572626795119998",
+                    "longitude": "13.2445256",
+                    "latitude": "52.3970082",
+                    "telefon": "+49 3328 302920",
+                    "fax": "03328 / 302 921  ",
+                    "email": "info@apo-teltow.de",
+                    "startdatum": "03.01.2026",
                     "startzeit": "08:00",
-                    "enddatum": "03.01.2026",
+                    "enddatum": "04.01.2026",
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Adler-Apotheke",
+                    "name": "Alte Stahl Apotheke",
                     "kammer": "lakbb",
-                    "id": "90",
-                    "apo_id": "lakbb90",
-                    "strasse": "Am Bahnhof 3b",
-                    "plz": "15831",
-                    "ort": "Blankenfelde-Mahlow - OT Mahlow",
-                    "distanz": "17.51237957478",
-                    "longitude": "13.4098173",
-                    "latitude": "52.3601802",
-                    "telefon": "03379   / 399 97",
-                    "fax": "03379  / 397 04",
-                    "email": "info@adler-apotheke-mahlow.de",
-                    "startdatum": "02.01.2026",
-                    "startzeit": "08:00",
-                    "enddatum": "03.01.2026",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Löwen-Apotheke",
-                    "kammer": "lakbb",
-                    "id": "265",
-                    "apo_id": "lakbb265",
-                    "strasse": "Rigaer Straße 30 c",
+                    "id": "76",
+                    "apo_id": "lakbb76",
+                    "strasse": "Havelpassage 3",
                     "plz": "16761",
                     "ort": "Hennigsdorf",
-                    "distanz": "20.19971712463",
-                    "longitude": "13.1968546",
-                    "latitude": "52.65587",
-                    "telefon": "03302 / 801440",
-                    "fax": "03302 / 224311",
-                    "email": "loewenapotheke.hennigsdorf@gmx.de",
-                    "startdatum": "02.01.2026",
+                    "distanz": "18.33923240554",
+                    "longitude": "13.203281",
+                    "latitude": "52.6369494",
+                    "telefon": "03302   /868 10",
+                    "fax": "03302   /868 119",
+                    "email": "buero@altestahlapotheke.de",
+                    "startdatum": "03.01.2026",
                     "startzeit": "08:00",
-                    "enddatum": "03.01.2026",
+                    "enddatum": "04.01.2026",
                     "endzeit": "08:00"
                 }
             ]
