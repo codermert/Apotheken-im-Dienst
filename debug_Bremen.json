@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "61578"
+            "verwendet": "62636"
         },
         "apotheken": {
             "apotheke": [
@@ -1289,6 +1289,25 @@
                     "startzeit": "09:00",
                     "enddatum": "03.01.2026",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Spitzweg Apotheke (im Kaufland)",
+                    "kammer": "aknds",
+                    "id": "1684",
+                    "apo_id": "aknds1684",
+                    "strasse": "Stedinger Str. 101",
+                    "plz": "27753",
+                    "ort": "Delmenhorst",
+                    "distanz": "10.20032902012",
+                    "longitude": "8.6305287",
+                    "latitude": "53.0613418",
+                    "telefon": "+49 4221 588225",
+                    "fax": "+49 4221 588224",
+                    "email": [],
+                    "startdatum": "03.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "04.01.2026",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "AVIE Apotheke OHZ",
@@ -1329,25 +1348,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Anker Apotheke",
-                    "kammer": "aknds",
-                    "id": "1664",
-                    "apo_id": "aknds1664",
-                    "strasse": "Mühlenstr. 31",
-                    "plz": "27753",
-                    "ort": "Delmenhorst",
-                    "distanz": "11.03481046511",
-                    "longitude": "8.6236758",
-                    "latitude": "53.0549856",
-                    "telefon": "+49 4221 14489",
-                    "fax": "+49 4221 14907",
-                    "email": [],
-                    "startdatum": "02.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "03.01.2026",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Ring-Apotheke",
                     "kammer": "akbr",
                     "id": "10146",
@@ -1365,6 +1365,25 @@
                     "startzeit": "09:00",
                     "enddatum": "03.01.2026",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Flores-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1817",
+                    "apo_id": "aknds1817",
+                    "strasse": "Parkstr. 47",
+                    "plz": "27798",
+                    "ort": "Hude",
+                    "distanz": "16.22079185705",
+                    "longitude": "8.4566718",
+                    "latitude": "53.1132591",
+                    "telefon": "+49 4408 6363",
+                    "fax": "+49 4408 970631",
+                    "email": [],
+                    "startdatum": "03.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "04.01.2026",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Apotheke Oberneuland",
@@ -1403,6 +1422,25 @@
                     "startzeit": "09:00",
                     "enddatum": "03.01.2026",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Linden-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1794",
+                    "apo_id": "aknds1794",
+                    "strasse": "Lange Straße 13",
+                    "plz": "27243",
+                    "ort": "Harpstedt",
+                    "distanz": "27.27003655484",
+                    "longitude": "8.5873073",
+                    "latitude": "52.9082947",
+                    "telefon": "+49 4244 95144",
+                    "fax": "+49 4244 95146",
+                    "email": [],
+                    "startdatum": "03.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "04.01.2026",
+                    "endzeit": "08:30"
                 }
             ]
         }
