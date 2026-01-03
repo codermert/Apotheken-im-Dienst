@@ -37,27 +37,46 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "64890"
+            "verwendet": "65758"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Lilien-Apotheke",
+                    "name": "Sonnen-Apotheke",
                     "kammer": "lakt",
-                    "id": "3991",
-                    "apo_id": "lakt3991",
-                    "strasse": "Domplatz 6/9",
-                    "plz": "99084",
+                    "id": "3900",
+                    "apo_id": "lakt3900",
+                    "strasse": "Leipziger Straße 78",
+                    "plz": "99085",
                     "ort": "Erfurt",
-                    "distanz": "8.54898929134",
-                    "longitude": "11.0248279",
-                    "latitude": "50.9778817",
-                    "telefon": "+49 361 6003742",
+                    "distanz": "9.71827647149",
+                    "longitude": "11.05341",
+                    "latitude": "50.98827",
+                    "telefon": "+49 361 6020493",
                     "fax": [],
                     "email": [],
-                    "startdatum": "02.01.2026",
+                    "startdatum": "03.01.2026",
                     "startzeit": "09:00",
-                    "enddatum": "03.01.2026",
+                    "enddatum": "04.01.2026",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Adler-Apotheke",
+                    "kammer": "lakt",
+                    "id": "1",
+                    "apo_id": "lakt1",
+                    "strasse": "Magdeburger Allee 122",
+                    "plz": "99086",
+                    "ort": "Erfurt",
+                    "distanz": "10.60366304703",
+                    "longitude": "11.0265967",
+                    "latitude": "50.9965259",
+                    "telefon": "+49 361 7312112",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "03.01.2026",
+                    "startzeit": "09:00",
+                    "enddatum": "04.01.2026",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "04.01.2026",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Brunnen-Apotheke",
-                    "kammer": "lakt",
-                    "id": "3990",
-                    "apo_id": "lakt3990",
-                    "strasse": "Erfurter Straße 72",
-                    "plz": "99095",
-                    "ort": "Erfurt-Mittelhausen",
-                    "distanz": "15.0503896404",
-                    "longitude": "11.00229",
-                    "latitude": "51.03489",
-                    "telefon": "+49 361 2624442",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "02.01.2026",
-                    "startzeit": "09:00",
-                    "enddatum": "03.01.2026",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Atrium-Apotheke",
