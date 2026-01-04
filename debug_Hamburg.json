@@ -3194,7 +3194,7 @@
             "anzahl": 17
         },
         "quota": {
-            "verwendet": "105305"
+            "verwendet": "116256"
         },
         "apotheken": {
             "apotheke": [
@@ -3389,6 +3389,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Fleester Markt-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1422",
+                    "apo_id": "aknds1422",
+                    "strasse": "Fleestedter Ring 3",
+                    "plz": "21217",
+                    "ort": "Seevetal",
+                    "distanz": "15.66174434329",
+                    "longitude": "9.9902759",
+                    "latitude": "53.4097548",
+                    "telefon": "+49 4105 4385",
+                    "fax": "+49 4105 3430",
+                    "email": [],
+                    "startdatum": "04.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "05.01.2026",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Post-Apotheke",
                     "kammer": "aksh",
                     "id": "10660",
@@ -3463,25 +3482,6 @@
                     "startzeit": "08:00",
                     "enddatum": "05.01.2026",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Markt-Apotheke im Schanzenhof",
-                    "kammer": "aknds",
-                    "id": "1514",
-                    "apo_id": "aknds1514",
-                    "strasse": "Schanzenring 6",
-                    "plz": "21423",
-                    "ort": "Winsen (Luhe)",
-                    "distanz": "24.91904319162",
-                    "longitude": "10.2096115",
-                    "latitude": "53.3643894",
-                    "telefon": "+49 4171 653304",
-                    "fax": "+49 4171 653306",
-                    "email": [],
-                    "startdatum": "03.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "04.01.2026",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Engel-Apotheke",
