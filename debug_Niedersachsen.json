@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 14
+            "anzahl": 15
         },
         "quota": {
-            "verwendet": "86770"
+            "verwendet": "95807"
         },
         "apotheken": {
             "apotheke": [
@@ -74,22 +74,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Hansa Apotheke",
+                    "name": "Leintor Apotheke",
                     "kammer": "aknds",
-                    "id": "955",
-                    "apo_id": "aknds955",
-                    "strasse": "Hansastr. 3",
+                    "id": "956",
+                    "apo_id": "aknds956",
+                    "strasse": "Hannoversche Str. 12",
                     "plz": "31582",
                     "ort": "Nienburg",
-                    "distanz": "23.14845354176",
-                    "longitude": "9.2148089",
-                    "latitude": "52.6496656",
-                    "telefon": "+49 5021 910266",
-                    "fax": "+49 5021 910277",
+                    "distanz": "24.42755959594",
+                    "longitude": "9.2117242",
+                    "latitude": "52.6363944",
+                    "telefon": "+49 5021 3250",
+                    "fax": "+49 5021 926200",
                     "email": [],
-                    "startdatum": "03.01.2026",
+                    "startdatum": "04.01.2026",
                     "startzeit": "08:00",
-                    "enddatum": "04.01.2026",
+                    "enddatum": "05.01.2026",
                     "endzeit": "08:00"
                 },
                 {
@@ -188,22 +188,41 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Alte Apotheke",
+                    "name": "Vivas Apotheke Stolzenau",
                     "kammer": "aknds",
-                    "id": "1390",
-                    "apo_id": "aknds1390",
-                    "strasse": "Goethestr. 12",
+                    "id": "1049",
+                    "apo_id": "aknds1049",
+                    "strasse": "Allee 12",
+                    "plz": "31592",
+                    "ort": "Stolzenau",
+                    "distanz": "36.32761752474",
+                    "longitude": "9.0764753",
+                    "latitude": "52.5134014",
+                    "telefon": "+49 5761 9019866",
+                    "fax": "+49 5761 9019867",
+                    "email": [],
+                    "startdatum": "04.01.2026",
+                    "startzeit": "08:00",
+                    "enddatum": "05.01.2026",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Apotheke Große Verdener Straße",
+                    "kammer": "aknds",
+                    "id": "1396",
+                    "apo_id": "aknds1396",
+                    "strasse": "Verdener Str. 5",
                     "plz": "27356",
                     "ort": "Rotenburg (Wümme)",
-                    "distanz": "37.08331827802",
-                    "longitude": "9.4018498",
-                    "latitude": "53.1088163",
-                    "telefon": "+49 4261 2254",
-                    "fax": "+49 4261 3483",
+                    "distanz": "36.36825097564",
+                    "longitude": "9.3965258",
+                    "latitude": "53.103196",
+                    "telefon": "+49 4261 966066",
+                    "fax": "+49 4261 966067",
                     "email": [],
-                    "startdatum": "03.01.2026",
+                    "startdatum": "04.01.2026",
                     "startzeit": "08:00",
-                    "enddatum": "04.01.2026",
+                    "enddatum": "05.01.2026",
                     "endzeit": "08:00"
                 },
                 {
@@ -224,25 +243,6 @@
                     "startzeit": "08:30",
                     "enddatum": "04.01.2026",
                     "endzeit": "08:30"
-                },
-                {
-                    "name": "Marien-Apotheke",
-                    "kammer": "aknds",
-                    "id": "980",
-                    "apo_id": "aknds980",
-                    "strasse": "Loccumer Str. 6",
-                    "plz": "31547",
-                    "ort": "Rehburg-Loccum",
-                    "distanz": "45.01084735111",
-                    "longitude": "9.1854836",
-                    "latitude": "52.440893",
-                    "telefon": "+49 5037 2628",
-                    "fax": "+49 5037 98451",
-                    "email": [],
-                    "startdatum": "03.01.2026",
-                    "startzeit": "08:00",
-                    "enddatum": "04.01.2026",
-                    "endzeit": "08:00"
                 },
                 {
                     "name": "Auburg Apotheke",
@@ -281,6 +281,25 @@
                     "startzeit": "09:00",
                     "enddatum": "04.01.2026",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Geest-Apotheke",
+                    "kammer": "aknds",
+                    "id": "2286",
+                    "apo_id": "aknds2286",
+                    "strasse": "Hauptstr. 20",
+                    "plz": "27801",
+                    "ort": "Dötlingen",
+                    "distanz": "48.039228758099995",
+                    "longitude": "8.3978022",
+                    "latitude": "52.9749282",
+                    "telefon": "+49 4432 94233",
+                    "fax": "+49 4432 94234",
+                    "email": [],
+                    "startdatum": "04.01.2026",
+                    "startzeit": "08:00",
+                    "enddatum": "05.01.2026",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Aesculap Apotheke",
