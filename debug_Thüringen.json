@@ -37,46 +37,27 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "54320"
+            "verwendet": "55628"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Pluspunkt-Apotheke im Anger 1",
+                    "name": "Anger-Vital-Apotheke",
                     "kammer": "lakt",
-                    "id": "602",
-                    "apo_id": "lakt602",
-                    "strasse": "Anger 1",
+                    "id": "613",
+                    "apo_id": "lakt613",
+                    "strasse": "Anger 58",
                     "plz": "99084",
                     "ort": "Erfurt",
-                    "distanz": "8.48630963645",
-                    "longitude": "11.0366094",
-                    "latitude": "50.9777519",
-                    "telefon": "+49 361 2621666",
+                    "distanz": "8.264679781049999",
+                    "longitude": "11.0335363",
+                    "latitude": "50.9757148",
+                    "telefon": "+49 361 5507333",
                     "fax": [],
                     "email": [],
-                    "startdatum": "04.01.2026",
+                    "startdatum": "05.01.2026",
                     "startzeit": "09:00",
-                    "enddatum": "05.01.2026",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Linderbach-Apotheke",
-                    "kammer": "lakt",
-                    "id": "631",
-                    "apo_id": "lakt631",
-                    "strasse": "Weimarische Str. 117",
-                    "plz": "99098",
-                    "ort": "Erfurt-Linderbach",
-                    "distanz": "9.56832827235",
-                    "longitude": "11.1057169",
-                    "latitude": "50.9760061",
-                    "telefon": "+49 361 6539150",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "04.01.2026",
-                    "startzeit": "09:00",
-                    "enddatum": "05.01.2026",
+                    "enddatum": "06.01.2026",
                     "endzeit": "09:00"
                 },
                 {
@@ -116,6 +97,25 @@
                     "startzeit": "08:00",
                     "enddatum": "06.01.2026",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Sonnen-Apotheke",
+                    "kammer": "lakt",
+                    "id": "436",
+                    "apo_id": "lakt436",
+                    "strasse": "Thomas-Müntzer-Straße 38",
+                    "plz": "99189",
+                    "ort": "Elxleben",
+                    "distanz": "17.304054218140003",
+                    "longitude": "10.94951",
+                    "latitude": "51.04669",
+                    "telefon": "+49 36201 80701",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "05.01.2026",
+                    "startzeit": "09:00",
+                    "enddatum": "06.01.2026",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Sonnen-Apotheke",
