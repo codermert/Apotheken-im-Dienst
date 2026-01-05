@@ -3194,7 +3194,7 @@
             "anzahl": 16
         },
         "quota": {
-            "verwendet": "50592"
+            "verwendet": "53755"
         },
         "apotheken": {
             "apotheke": [
@@ -3370,25 +3370,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Fleester Markt-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1422",
-                    "apo_id": "aknds1422",
-                    "strasse": "Fleestedter Ring 3",
-                    "plz": "21217",
-                    "ort": "Seevetal",
-                    "distanz": "15.66174434329",
-                    "longitude": "9.9902759",
-                    "latitude": "53.4097548",
-                    "telefon": "+49 4105 4385",
-                    "fax": "+49 4105 3430",
-                    "email": [],
-                    "startdatum": "04.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "05.01.2026",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Apotheke am Rathaus",
                     "kammer": "akh",
                     "id": "10174",
@@ -3482,6 +3463,25 @@
                     "startzeit": "08:00",
                     "enddatum": "06.01.2026",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "wir leben-Apotheke am Bahnhof",
+                    "kammer": "aknds",
+                    "id": "1509",
+                    "apo_id": "aknds1509",
+                    "strasse": "Bahnhofstr. 67",
+                    "plz": "21423",
+                    "ort": "Winsen (Luhe)",
+                    "distanz": "25.60830350646",
+                    "longitude": "10.2061221",
+                    "latitude": "53.3556573",
+                    "telefon": "+49 4171 71460",
+                    "fax": "+49 4171 75478",
+                    "email": [],
+                    "startdatum": "05.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "06.01.2026",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Reuter-Apotheke",
