@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 8
         },
         "quota": {
-            "verwendet": "56190"
+            "verwendet": "60822"
         },
         "apotheken": {
             "apotheke": [
@@ -1403,6 +1403,25 @@
                     "startzeit": "09:00",
                     "enddatum": "06.01.2026",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Weser-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1634",
+                    "apo_id": "aknds1634",
+                    "strasse": "Bahnhofstr. 89",
+                    "plz": "26919",
+                    "ort": "Brake",
+                    "distanz": "25.43788224811",
+                    "longitude": "8.4778778",
+                    "latitude": "53.3334244",
+                    "telefon": "+49 4401 3595",
+                    "fax": "+49 4401 3091",
+                    "email": [],
+                    "startdatum": "06.01.2026",
+                    "startzeit": "08:00",
+                    "enddatum": "07.01.2026",
+                    "endzeit": "08:00"
                 }
             ]
         }

@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 40
+            "anzahl": 36
         },
         "quota": {
-            "verwendet": "55707"
+            "verwendet": "60252"
         },
         "apotheken": {
             "apotheke": [
@@ -5781,23 +5781,23 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Neue Roland Apotheke",
-                    "kammer": "lakbb",
-                    "id": "537",
-                    "apo_id": "lakbb537",
-                    "strasse": "Oranienburger Chaussee 17",
-                    "plz": "16548",
-                    "ort": "Glienicke/Nordbahn",
-                    "distanz": "14.00161131402",
-                    "longitude": "13.30969",
-                    "latitude": "52.63325",
-                    "telefon": "033056 94500",
-                    "fax": "033056 94501",
-                    "email": "info@neue-roland-apotheke.de",
+                    "name": "Neumann Apotheke",
+                    "kammer": "akb",
+                    "id": "101120",
+                    "apo_id": "akb101120",
+                    "strasse": "Hönower Straße 16",
+                    "plz": "12623",
+                    "ort": "Berlin",
+                    "distanz": "15.26836898577",
+                    "longitude": "13.6130564",
+                    "latitude": "52.5062602",
+                    "telefon": "+49 30 54449100",
+                    "fax": [],
+                    "email": [],
                     "startdatum": "05.01.2026",
-                    "startzeit": "08:00",
+                    "startzeit": "09:00",
                     "enddatum": "06.01.2026",
-                    "endzeit": "08:00"
+                    "endzeit": "08:59"
                 }
             ]
         }
