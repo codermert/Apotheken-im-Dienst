@@ -37,27 +37,46 @@
             "anzahl": 6
         },
         "quota": {
-            "verwendet": "71742"
+            "verwendet": "74126"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Anger-Vital-Apotheke",
+                    "name": "EGA-Apotheke",
                     "kammer": "lakt",
-                    "id": "613",
-                    "apo_id": "lakt613",
-                    "strasse": "Anger 58",
-                    "plz": "99084",
+                    "id": "649",
+                    "apo_id": "lakt649",
+                    "strasse": "Gothaer Straße 22",
+                    "plz": "99094",
                     "ort": "Erfurt",
-                    "distanz": "8.264679781049999",
-                    "longitude": "11.0335363",
-                    "latitude": "50.9757148",
-                    "telefon": "+49 361 5507333",
+                    "distanz": "7.5742521412",
+                    "longitude": "10.9857271",
+                    "latitude": "50.9610823",
+                    "telefon": "+49 361 7893490",
                     "fax": [],
                     "email": [],
-                    "startdatum": "05.01.2026",
+                    "startdatum": "06.01.2026",
                     "startzeit": "09:00",
-                    "enddatum": "06.01.2026",
+                    "enddatum": "07.01.2026",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Bahnhof-Apotheke",
+                    "kammer": "lakt",
+                    "id": "5",
+                    "apo_id": "lakt5",
+                    "strasse": "Bahnhofstraße 40",
+                    "plz": "99084",
+                    "ort": "Erfurt",
+                    "distanz": "8.15849796899",
+                    "longitude": "11.0350444",
+                    "latitude": "50.9747884",
+                    "telefon": "+49 361 555410",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "06.01.2026",
+                    "startzeit": "09:00",
+                    "enddatum": "07.01.2026",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "07.01.2026",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Sonnen-Apotheke",
-                    "kammer": "lakt",
-                    "id": "436",
-                    "apo_id": "lakt436",
-                    "strasse": "Thomas-Müntzer-Straße 38",
-                    "plz": "99189",
-                    "ort": "Elxleben",
-                    "distanz": "17.304054218140003",
-                    "longitude": "10.94951",
-                    "latitude": "51.04669",
-                    "telefon": "+49 36201 80701",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "05.01.2026",
-                    "startzeit": "09:00",
-                    "enddatum": "06.01.2026",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Apotheke am Goetheplatz",
