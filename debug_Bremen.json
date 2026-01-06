@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 8
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "60822"
+            "verwendet": "67088"
         },
         "apotheken": {
             "apotheke": [
@@ -1289,25 +1289,6 @@
                     "startzeit": "09:00",
                     "enddatum": "06.01.2026",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Löwen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1671",
-                    "apo_id": "aknds1671",
-                    "strasse": "Bremer Str. 78-82",
-                    "plz": "27751",
-                    "ort": "Delmenhorst",
-                    "distanz": "10.682793413539999",
-                    "longitude": "8.6466895",
-                    "latitude": "53.0530558",
-                    "telefon": "+49 4221 91280",
-                    "fax": "+49 4221 912820",
-                    "email": [],
-                    "startdatum": "05.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "06.01.2026",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Zentrum-Apotheke",
@@ -1384,6 +1365,44 @@
                     "startzeit": "09:00",
                     "enddatum": "06.01.2026",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Moorkamp-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1673",
+                    "apo_id": "aknds1673",
+                    "strasse": "Brendelweg 5",
+                    "plz": "27755",
+                    "ort": "Delmenhorst",
+                    "distanz": "13.37795548676",
+                    "longitude": "8.6228754",
+                    "latitude": "53.032369",
+                    "telefon": "+49 4221 25055",
+                    "fax": "+49 4221 25056",
+                    "email": [],
+                    "startdatum": "06.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "07.01.2026",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Pelikan-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1748",
+                    "apo_id": "aknds1748",
+                    "strasse": "Grüppenbührener Str. 7",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.632284368570001",
+                    "longitude": "8.5428808",
+                    "latitude": "53.0374524",
+                    "telefon": "+49 4222 5257",
+                    "fax": "+49 4222 6642",
+                    "email": [],
+                    "startdatum": "06.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "06.01.2026",
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Moor Apotheke Hüttenbusch",
