@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 15
+            "anzahl": 17
         },
         "quota": {
-            "verwendet": "48166"
+            "verwendet": "49538"
         },
         "apotheken": {
             "apotheke": [
@@ -150,6 +150,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Linden-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1794",
+                    "apo_id": "aknds1794",
+                    "strasse": "Lange Straße 13",
+                    "plz": "27243",
+                    "ort": "Harpstedt",
+                    "distanz": "33.772269761770005",
+                    "longitude": "8.5873073",
+                    "latitude": "52.9082947",
+                    "telefon": "+49 4244 95144",
+                    "fax": "+49 4244 95146",
+                    "email": [],
+                    "startdatum": "08.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "09.01.2026",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Vitalis-Apotheke",
                     "kammer": "akbr",
                     "id": "10144",
@@ -186,25 +205,6 @@
                     "startzeit": "08:00",
                     "enddatum": "09.01.2026",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Neue Apotheke Heidkrug",
-                    "kammer": "aknds",
-                    "id": "1683",
-                    "apo_id": "aknds1683",
-                    "strasse": "Bremer Str. 323",
-                    "plz": "27751",
-                    "ort": "Delmenhorst",
-                    "distanz": "35.90808111878",
-                    "longitude": "8.6793451",
-                    "latitude": "53.0560112",
-                    "telefon": "+49 4221 8005663",
-                    "fax": "+49 4221 8005664",
-                    "email": [],
-                    "startdatum": "07.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "08.01.2026",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Adler-Apotheke",
@@ -264,6 +264,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Nutzhorn-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1681",
+                    "apo_id": "aknds1681",
+                    "strasse": "Nutzhorner Str. 29",
+                    "plz": "27753",
+                    "ort": "Delmenhorst",
+                    "distanz": "39.57168243666",
+                    "longitude": "8.6179921",
+                    "latitude": "53.0633198",
+                    "telefon": "+49 4221 4901666",
+                    "fax": "+49 4221 4901677",
+                    "email": [],
+                    "startdatum": "08.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "09.01.2026",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Germania-Apotheke",
                     "kammer": "aknds",
                     "id": "1414",
@@ -283,23 +302,42 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Anker-Apotheke Steinhude",
+                    "name": "St. Osdag Apotheke",
                     "kammer": "aknds",
-                    "id": "1099",
-                    "apo_id": "aknds1099",
-                    "strasse": "Großenheidorner Str. 4",
-                    "plz": "31515",
-                    "ort": "Wunstorf",
-                    "distanz": "47.055689804000004",
-                    "longitude": "9.3601123",
-                    "latitude": "52.4539238",
-                    "telefon": "+49 5033 8402",
-                    "fax": "+49 5033 8080",
+                    "id": "949",
+                    "apo_id": "aknds949",
+                    "strasse": "Amedorfer Str. 31",
+                    "plz": "31535",
+                    "ort": "Neustadt am Rübenberge",
+                    "distanz": "42.453301242369996",
+                    "longitude": "9.56487",
+                    "latitude": "52.60025",
+                    "telefon": "+49 5072 92190",
+                    "fax": "+49 5072 92191",
                     "email": [],
-                    "startdatum": "07.01.2026",
+                    "startdatum": "08.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "09.01.2026",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Apotheke Schierbrok",
+                    "kammer": "aknds",
+                    "id": "1753",
+                    "apo_id": "aknds1753",
+                    "strasse": "Bahnhofstr. 49",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "43.130462305250006",
+                    "longitude": "8.5769381",
+                    "latitude": "53.0836028",
+                    "telefon": "+49 4221 89335",
+                    "fax": "+49 4221 88151",
+                    "email": [],
+                    "startdatum": "08.01.2026",
                     "startzeit": "08:30",
                     "enddatum": "08.01.2026",
-                    "endzeit": "08:30"
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Max & Moritz Apotheke",
