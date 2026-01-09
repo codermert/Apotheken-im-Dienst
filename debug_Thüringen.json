@@ -37,46 +37,27 @@
             "anzahl": 9
         },
         "quota": {
-            "verwendet": "52679"
+            "verwendet": "53378"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Apotheke am Wiesenhügel",
+                    "name": "Apotheke im Hauptbahnhof",
                     "kammer": "lakt",
-                    "id": "4",
-                    "apo_id": "lakt4",
-                    "strasse": "Färberwaidweg 2",
-                    "plz": "99097",
-                    "ort": "Erfurt",
-                    "distanz": "5.9326309821",
-                    "longitude": "11.0670379",
-                    "latitude": "50.9514931",
-                    "telefon": "+49 361 414540",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "08.01.2026",
-                    "startzeit": "09:00",
-                    "enddatum": "09.01.2026",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Neue MARIEN APOTHEKE im Facharztzentrum Angerbrunnen",
-                    "kammer": "lakt",
-                    "id": "480",
-                    "apo_id": "lakt480",
-                    "strasse": "Neuwerkstr. 51/Regierungsstr. 3",
+                    "id": "781",
+                    "apo_id": "lakt781",
+                    "strasse": "Willy-Brandt-Platz 12",
                     "plz": "99084",
                     "ort": "Erfurt",
-                    "distanz": "8.12249611308",
-                    "longitude": "11.0302266",
-                    "latitude": "50.9743289",
-                    "telefon": "+49 361 6442674",
+                    "distanz": "7.87878553959",
+                    "longitude": "11.0381159",
+                    "latitude": "50.9722942",
+                    "telefon": "+49 361 3453519",
                     "fax": [],
                     "email": [],
-                    "startdatum": "08.01.2026",
+                    "startdatum": "09.01.2026",
                     "startzeit": "09:00",
-                    "enddatum": "09.01.2026",
+                    "enddatum": "10.01.2026",
                     "endzeit": "09:00"
                 },
                 {
@@ -97,6 +78,25 @@
                     "startzeit": "08:00",
                     "enddatum": "10.01.2026",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Rosen-Apotheke",
+                    "kammer": "lakt",
+                    "id": "405",
+                    "apo_id": "lakt405",
+                    "strasse": "Ringstraße 28",
+                    "plz": "99091",
+                    "ort": "Erfurt-Gispersleben",
+                    "distanz": "13.737095771800002",
+                    "longitude": "10.9932804",
+                    "latitude": "51.0217134",
+                    "telefon": "+49 361 7916096",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "09.01.2026",
+                    "startzeit": "09:00",
+                    "enddatum": "10.01.2026",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Stadt-Apotheke Lattmann Apotheken OHG",
