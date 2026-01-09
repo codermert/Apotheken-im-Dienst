@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 15
+            "anzahl": 13
         },
         "quota": {
-            "verwendet": "49838"
+            "verwendet": "51509"
         },
         "apotheken": {
             "apotheke": [
@@ -169,25 +169,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Linden-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1794",
-                    "apo_id": "aknds1794",
-                    "strasse": "Lange Straße 13",
-                    "plz": "27243",
-                    "ort": "Harpstedt",
-                    "distanz": "33.772269761770005",
-                    "longitude": "8.5873073",
-                    "latitude": "52.9082947",
-                    "telefon": "+49 4244 95144",
-                    "fax": "+49 4244 95146",
-                    "email": [],
-                    "startdatum": "08.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "09.01.2026",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Löwen-Apotheke",
                     "kammer": "aknds",
                     "id": "1542",
@@ -226,22 +207,22 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Nutzhorn-Apotheke",
+                    "name": "Pelikan-Apotheke im Deichhorst-Center",
                     "kammer": "aknds",
-                    "id": "1681",
-                    "apo_id": "aknds1681",
-                    "strasse": "Nutzhorner Str. 29",
+                    "id": "2714",
+                    "apo_id": "aknds2714",
+                    "strasse": "Hannah-Arendt-Str. 7",
                     "plz": "27753",
                     "ort": "Delmenhorst",
-                    "distanz": "39.57168243666",
-                    "longitude": "8.6179921",
-                    "latitude": "53.0633198",
-                    "telefon": "+49 4221 4901666",
-                    "fax": "+49 4221 4901677",
+                    "distanz": "39.345136562369994",
+                    "longitude": "8.5950774",
+                    "latitude": "53.0413565",
+                    "telefon": "+49 4221 7806801",
+                    "fax": "+49 4221 7806802",
                     "email": [],
-                    "startdatum": "08.01.2026",
+                    "startdatum": "09.01.2026",
                     "startzeit": "08:30",
-                    "enddatum": "09.01.2026",
+                    "enddatum": "10.01.2026",
                     "endzeit": "08:30"
                 },
                 {
@@ -262,25 +243,6 @@
                     "startzeit": "08:00",
                     "enddatum": "10.01.2026",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "St. Osdag Apotheke",
-                    "kammer": "aknds",
-                    "id": "949",
-                    "apo_id": "aknds949",
-                    "strasse": "Amedorfer Str. 31",
-                    "plz": "31535",
-                    "ort": "Neustadt am Rübenberge",
-                    "distanz": "42.453301242369996",
-                    "longitude": "9.56487",
-                    "latitude": "52.60025",
-                    "telefon": "+49 5072 92190",
-                    "fax": "+49 5072 92191",
-                    "email": [],
-                    "startdatum": "08.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "09.01.2026",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Alte Apotheke",
