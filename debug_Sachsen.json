@@ -381,7 +381,7 @@
             "anzahl": 18
         },
         "quota": {
-            "verwendet": "171779"
+            "verwendet": "174390"
         },
         "apotheken": {
             "apotheke": [
@@ -633,6 +633,25 @@
                     "endzeit": "08:00"
                 },
                 {
+                    "name": "Stadtwald-Apotheke Meißen",
+                    "kammer": "slak",
+                    "id": "839",
+                    "apo_id": "slak839",
+                    "strasse": "Schützestraße 1",
+                    "plz": "01662",
+                    "ort": "Meißen",
+                    "distanz": "24.52778570876",
+                    "longitude": "13.4582021",
+                    "latitude": "51.1500561",
+                    "telefon": "+49 3521 45000",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "10.01.2026",
+                    "startzeit": "16:00",
+                    "enddatum": "11.01.2026",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "City-Apotheke am Goldenen Reiter",
                     "kammer": "slak",
                     "id": "1195",
@@ -707,25 +726,6 @@
                     "startzeit": "12:00",
                     "enddatum": "10.01.2026",
                     "endzeit": "18:00"
-                },
-                {
-                    "name": "Elbtal-Apotheke",
-                    "kammer": "slak",
-                    "id": "837",
-                    "apo_id": "slak837",
-                    "strasse": "Niederauer Straße 43",
-                    "plz": "01662",
-                    "ort": "Meißen",
-                    "distanz": "26.72724801908",
-                    "longitude": "13.50182",
-                    "latitude": "51.16827",
-                    "telefon": "+49 3521 72030",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "10.01.2026",
-                    "startzeit": "12:00",
-                    "enddatum": "10.01.2026",
-                    "endzeit": "16:00"
                 }
             ]
         }
