@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 37
+            "anzahl": 33
         },
         "quota": {
-            "verwendet": "48714"
+            "verwendet": "49763"
         },
         "apotheken": {
             "apotheke": [
@@ -5724,25 +5724,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Dorf-Apotheke",
-                    "kammer": "lakbb",
-                    "id": "446",
-                    "apo_id": "lakbb446",
-                    "strasse": "Dorfstraße 17",
-                    "plz": "16356",
-                    "ort": "Ahrensfelde",
-                    "distanz": "14.103945313390001",
-                    "longitude": "13.5740345",
-                    "latitude": "52.5746579",
-                    "telefon": "+49 30 93772171",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "09.01.2026",
-                    "startzeit": "08:00",
-                    "enddatum": "10.01.2026",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Gartenstadt-Apotheke-Rudow",
                     "kammer": "akb",
                     "id": "100983",
@@ -5781,22 +5762,41 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Apotheke am Rathausmarkt",
+                    "name": "Heine-Apotheke",
                     "kammer": "lakbb",
-                    "id": "522",
-                    "apo_id": "lakbb522",
-                    "strasse": "Förster-Funke-Allee 104",
-                    "plz": "14532",
-                    "ort": "Kleinmachnow",
-                    "distanz": "17.013397893180002",
-                    "longitude": "13.21942",
-                    "latitude": "52.4045",
-                    "telefon": "+49 33203 77994",
+                    "id": "385",
+                    "apo_id": "lakbb385",
+                    "strasse": "Bahnhofstraße 83",
+                    "plz": "16341",
+                    "ort": "Panketal",
+                    "distanz": "17.117794892499997",
+                    "longitude": "13.5165561",
+                    "latitude": "52.6497512",
+                    "telefon": "+49 30 94417813",
                     "fax": [],
                     "email": [],
-                    "startdatum": "09.01.2026",
+                    "startdatum": "10.01.2026",
                     "startzeit": "08:00",
-                    "enddatum": "10.01.2026",
+                    "enddatum": "11.01.2026",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "avitario-Apotheke",
+                    "kammer": "lakbb",
+                    "id": "622",
+                    "apo_id": "lakbb622",
+                    "strasse": "Neuendorfstraße 22 a",
+                    "plz": "16761",
+                    "ort": "Hennigsdorf",
+                    "distanz": "17.87995052917",
+                    "longitude": "13.20815",
+                    "latitude": "52.63407",
+                    "telefon": "+49 3302 801477",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "10.01.2026",
+                    "startzeit": "08:00",
+                    "enddatum": "11.01.2026",
                     "endzeit": "08:00"
                 }
             ]
