@@ -541,10 +541,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 4
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "118166"
+            "verwendet": "123266"
         },
         "apotheken": {
             "apotheke": [
@@ -623,6 +623,25 @@
                     "startzeit": "08:00",
                     "enddatum": "12.01.2026",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Fleming-Apotheke",
+                    "kammer": "akb",
+                    "id": "100306",
+                    "apo_id": "akb100306",
+                    "strasse": "Zabel-Krüger-Damm 31",
+                    "plz": "13469",
+                    "ort": "Berlin",
+                    "distanz": "26.83707495002",
+                    "longitude": "13.3295342",
+                    "latitude": "52.6097601",
+                    "telefon": "+49 30 4024085",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "11.01.2026",
+                    "startzeit": "09:00",
+                    "enddatum": "12.01.2026",
+                    "endzeit": "08:59"
                 }
             ]
         }
