@@ -31,7 +31,7 @@
             "anzahl": 4
         },
         "quota": {
-            "verwendet": "49193"
+            "verwendet": "51596"
         },
         "apotheken": {
             "apotheke": [
@@ -53,25 +53,6 @@
                     "startzeit": "09:00",
                     "enddatum": "12.01.2026",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Apotheke Erichshagen",
-                    "kammer": "aknds",
-                    "id": "962",
-                    "apo_id": "aknds962",
-                    "strasse": "Celler Str. 62",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "22.87586663499",
-                    "longitude": "9.2267429",
-                    "latitude": "52.6557705",
-                    "telefon": "+49 5021 63938",
-                    "fax": "+49 5021 961008",
-                    "email": [],
-                    "startdatum": "11.01.2026",
-                    "startzeit": "08:00",
-                    "enddatum": "12.01.2026",
-                    "endzeit": "08:00"
                 },
                 {
                     "name": "Apotheke im Gesundheitszentrum",
@@ -110,6 +91,25 @@
                     "startzeit": "09:00",
                     "enddatum": "12.01.2026",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Meerbach-Apotheke",
+                    "kammer": "aknds",
+                    "id": "964",
+                    "apo_id": "aknds964",
+                    "strasse": "Ziegelkampstr. 37",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "24.92702017755",
+                    "longitude": "9.223937",
+                    "latitude": "52.6346479",
+                    "telefon": "+49 5021 888740",
+                    "fax": "+49 5021 888745",
+                    "email": [],
+                    "startdatum": "12.01.2026",
+                    "startzeit": "08:00",
+                    "enddatum": "13.01.2026",
+                    "endzeit": "08:00"
                 }
             ]
         }
