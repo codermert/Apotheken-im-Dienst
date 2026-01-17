@@ -381,7 +381,7 @@
             "anzahl": 18
         },
         "quota": {
-            "verwendet": "153238"
+            "verwendet": "155868"
         },
         "apotheken": {
             "apotheke": [
@@ -690,6 +690,25 @@
                     "endzeit": "18:00"
                 },
                 {
+                    "name": "Sonnen-Apotheke",
+                    "kammer": "slak",
+                    "id": "371",
+                    "apo_id": "slak371",
+                    "strasse": "Neumarkt 5",
+                    "plz": "01662",
+                    "ort": "Meißen",
+                    "distanz": "25.87943505775",
+                    "longitude": "13.4826902",
+                    "latitude": "51.1617056",
+                    "telefon": "+49 3521 732008",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "17.01.2026",
+                    "startzeit": "16:00",
+                    "enddatum": "18.01.2026",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Apotheke im SEC",
                     "kammer": "slak",
                     "id": "827",
@@ -707,25 +726,6 @@
                     "startzeit": "12:00",
                     "enddatum": "17.01.2026",
                     "endzeit": "18:00"
-                },
-                {
-                    "name": "Elbtal-Apotheke",
-                    "kammer": "slak",
-                    "id": "837",
-                    "apo_id": "slak837",
-                    "strasse": "Niederauer Straße 43",
-                    "plz": "01662",
-                    "ort": "Meißen",
-                    "distanz": "26.72724801908",
-                    "longitude": "13.50182",
-                    "latitude": "51.16827",
-                    "telefon": "+49 3521 72030",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "17.01.2026",
-                    "startzeit": "12:00",
-                    "enddatum": "17.01.2026",
-                    "endzeit": "16:00"
                 }
             ]
         }
