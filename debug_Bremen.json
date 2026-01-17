@@ -1267,7 +1267,7 @@
             "anzahl": 9
         },
         "quota": {
-            "verwendet": "51686"
+            "verwendet": "53284"
         },
         "apotheken": {
             "apotheke": [
@@ -1289,6 +1289,25 @@
                     "startzeit": "09:00",
                     "enddatum": "17.01.2026",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Apotheke Schierbrok",
+                    "kammer": "aknds",
+                    "id": "1753",
+                    "apo_id": "aknds1753",
+                    "strasse": "Bahnhofstr. 49",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "10.35027715195",
+                    "longitude": "8.5769381",
+                    "latitude": "53.0836028",
+                    "telefon": "+49 4221 89335",
+                    "fax": "+49 4221 88151",
+                    "email": [],
+                    "startdatum": "17.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "18.01.2026",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Bahnhof-Apotheke",
@@ -1329,22 +1348,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke im Zurbrüggen-Zentrum",
+                    "name": "Andreas-Apotheke",
                     "kammer": "aknds",
-                    "id": "5610",
-                    "apo_id": "aknds5610",
-                    "strasse": "Seestr. 5",
-                    "plz": "27755",
+                    "id": "1663",
+                    "apo_id": "aknds1663",
+                    "strasse": "Oldenburger Str. 25",
+                    "plz": "27753",
                     "ort": "Delmenhorst",
-                    "distanz": "12.902705588209999",
-                    "longitude": "8.66095",
-                    "latitude": "53.03057",
-                    "telefon": "+49 4221 6893551",
-                    "fax": "+49 4221 6893545",
+                    "distanz": "11.683725943999999",
+                    "longitude": "8.6205462",
+                    "latitude": "53.0494339",
+                    "telefon": "+49 4221 150990",
+                    "fax": "+49 4221 120711",
                     "email": [],
-                    "startdatum": "16.01.2026",
+                    "startdatum": "17.01.2026",
                     "startzeit": "08:30",
-                    "enddatum": "17.01.2026",
+                    "enddatum": "18.01.2026",
                     "endzeit": "08:30"
                 },
                 {
@@ -1384,25 +1403,6 @@
                     "startzeit": "09:00",
                     "enddatum": "17.01.2026",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Kranich Apotheke",
-                    "kammer": "aknds",
-                    "id": "1265",
-                    "apo_id": "aknds1265",
-                    "strasse": "Amtsdamm 39",
-                    "plz": "27628",
-                    "ort": "Hagen im Bremischen",
-                    "distanz": "23.681015648789998",
-                    "longitude": "8.6430292",
-                    "latitude": "53.3555124",
-                    "telefon": "+49 4746 951060",
-                    "fax": "+49 4746 951061",
-                    "email": [],
-                    "startdatum": "16.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "17.01.2026",
-                    "endzeit": "08:30"
                 },
                 {
                     "name": "Alte Apotheke",
