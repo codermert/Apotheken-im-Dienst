@@ -37,46 +37,27 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "55047"
+            "verwendet": "55827"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Hufeland-Apotheke",
+                    "name": "Apotheke am Dom",
                     "kammer": "lakt",
-                    "id": "8",
-                    "apo_id": "lakt8",
-                    "strasse": "Blücherstraße 6",
-                    "plz": "99099",
-                    "ort": "Erfurt",
-                    "distanz": "6.459107818700001",
-                    "longitude": "11.062293",
-                    "latitude": "50.957429",
-                    "telefon": "+49 361 412000",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "16.01.2026",
-                    "startzeit": "09:00",
-                    "enddatum": "17.01.2026",
-                    "endzeit": "09:00"
-                },
-                {
-                    "name": "Mohren-Apotheke",
-                    "kammer": "lakt",
-                    "id": "9",
-                    "apo_id": "lakt9",
-                    "strasse": "Schlösserstraße 9",
+                    "id": "520",
+                    "apo_id": "lakt520",
+                    "strasse": "Marktstr. 23-25",
                     "plz": "99084",
                     "ort": "Erfurt",
-                    "distanz": "8.36048529326",
-                    "longitude": "11.032737",
-                    "latitude": "50.9765568",
-                    "telefon": "+49 361 6421500",
+                    "distanz": "8.507781919580001",
+                    "longitude": "11.0251592",
+                    "latitude": "50.9775314",
+                    "telefon": "+49 361 5401673",
                     "fax": [],
                     "email": [],
-                    "startdatum": "16.01.2026",
+                    "startdatum": "17.01.2026",
                     "startzeit": "09:00",
-                    "enddatum": "17.01.2026",
+                    "enddatum": "18.01.2026",
                     "endzeit": "09:00"
                 },
                 {
@@ -97,6 +78,25 @@
                     "startzeit": "08:00",
                     "enddatum": "18.01.2026",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Rieth-Apotheke",
+                    "kammer": "lakt",
+                    "id": "12",
+                    "apo_id": "lakt12",
+                    "strasse": "Mainzer Straße 35",
+                    "plz": "99089",
+                    "ort": "Erfurt",
+                    "distanz": "11.62449364034",
+                    "longitude": "11.0155075",
+                    "latitude": "51.0050127",
+                    "telefon": "+49 361 7922040",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "17.01.2026",
+                    "startzeit": "09:00",
+                    "enddatum": "18.01.2026",
+                    "endzeit": "09:00"
                 },
                 {
                     "name": "Klosterberg-Apotheke",
