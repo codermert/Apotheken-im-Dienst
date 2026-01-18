@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 16
+            "anzahl": 18
         },
         "quota": {
-            "verwendet": "68523"
+            "verwendet": "74730"
         },
         "apotheken": {
             "apotheke": [
@@ -55,25 +55,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Neue Apotheke",
-                    "kammer": "aknds",
-                    "id": "958",
-                    "apo_id": "aknds958",
-                    "strasse": "Lange Straße 81",
-                    "plz": "31582",
-                    "ort": "Nienburg",
-                    "distanz": "23.840288223349997",
-                    "longitude": "9.2066251",
-                    "latitude": "52.6408368",
-                    "telefon": "+49 5021 97680",
-                    "fax": "+49 5021 976820",
-                    "email": [],
-                    "startdatum": "17.01.2026",
-                    "startzeit": "08:00",
-                    "enddatum": "18.01.2026",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Fontane Apotheke",
                     "kammer": "aknds",
                     "id": "1091",
@@ -91,6 +72,44 @@
                     "startzeit": "09:00",
                     "enddatum": "18.01.2026",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Bären-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1060",
+                    "apo_id": "aknds1060",
+                    "strasse": "Lange Str. 13",
+                    "plz": "27232",
+                    "ort": "Sulingen",
+                    "distanz": "25.044733911719998",
+                    "longitude": "8.81042",
+                    "latitude": "52.6826842",
+                    "telefon": "+49 4271 3475",
+                    "fax": "+49 4271 6754",
+                    "email": [],
+                    "startdatum": "18.01.2026",
+                    "startzeit": "08:00",
+                    "enddatum": "19.01.2026",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Mühlen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "957",
+                    "apo_id": "aknds957",
+                    "strasse": "Führser Mühlweg 70",
+                    "plz": "31582",
+                    "ort": "Nienburg",
+                    "distanz": "27.90320142655",
+                    "longitude": "9.2642086",
+                    "latitude": "52.6166658",
+                    "telefon": "+49 5021 97580",
+                    "fax": "+49 5021 975822",
+                    "email": [],
+                    "startdatum": "18.01.2026",
+                    "startzeit": "08:00",
+                    "enddatum": "19.01.2026",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Apotheke Blockdiek",
@@ -188,25 +207,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Adler-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1048",
-                    "apo_id": "aknds1048",
-                    "strasse": "Lange Str. 9",
-                    "plz": "31592",
-                    "ort": "Stolzenau",
-                    "distanz": "36.63212318525",
-                    "longitude": "9.0758098",
-                    "latitude": "52.5106648",
-                    "telefon": "+49 5761 3007",
-                    "fax": "+49 5761 3604",
-                    "email": [],
-                    "startdatum": "17.01.2026",
-                    "startzeit": "08:00",
-                    "enddatum": "18.01.2026",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Birken-Apotheke",
                     "kammer": "akbr",
                     "id": "10024",
@@ -226,22 +226,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Sonnen-Apotheke",
+                    "name": "Die Markt-Apotheke",
                     "kammer": "aknds",
-                    "id": "1395",
-                    "apo_id": "aknds1395",
-                    "strasse": "Große Str. 56",
+                    "id": "1393",
+                    "apo_id": "aknds1393",
+                    "strasse": "Am Neuen Markt 12",
                     "plz": "27356",
                     "ort": "Rotenburg (Wümme)",
-                    "distanz": "37.50173880345",
-                    "longitude": "9.4072547",
-                    "latitude": "53.111089",
-                    "telefon": "+49 4261 3330",
-                    "fax": "+49 4261 3447",
+                    "distanz": "37.550799044179996",
+                    "longitude": "9.4084598",
+                    "latitude": "53.1110998",
+                    "telefon": "+49 4261 3635",
+                    "fax": "+49 4261 960205",
                     "email": [],
-                    "startdatum": "17.01.2026",
+                    "startdatum": "18.01.2026",
                     "startzeit": "08:00",
-                    "enddatum": "18.01.2026",
+                    "enddatum": "19.01.2026",
                     "endzeit": "08:00"
                 },
                 {
@@ -281,6 +281,44 @@
                     "startzeit": "08:30",
                     "enddatum": "18.01.2026",
                     "endzeit": "08:30"
+                },
+                {
+                    "name": "Kronen-Apotheke",
+                    "kammer": "aknds",
+                    "id": "2232",
+                    "apo_id": "aknds2232",
+                    "strasse": "Westerstr. 48",
+                    "plz": "27793",
+                    "ort": "Wildeshausen",
+                    "distanz": "43.646912122399996",
+                    "longitude": "8.4343596",
+                    "latitude": "52.8954059",
+                    "telefon": "+49 4431 93680",
+                    "fax": "+49 4431 936893",
+                    "email": [],
+                    "startdatum": "18.01.2026",
+                    "startzeit": "08:00",
+                    "enddatum": "19.01.2026",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Marien-Apotheke",
+                    "kammer": "aknds",
+                    "id": "980",
+                    "apo_id": "aknds980",
+                    "strasse": "Loccumer Str. 6",
+                    "plz": "31547",
+                    "ort": "Rehburg-Loccum",
+                    "distanz": "45.01084735111",
+                    "longitude": "9.1854836",
+                    "latitude": "52.440893",
+                    "telefon": "+49 5037 2628",
+                    "fax": "+49 5037 98451",
+                    "email": [],
+                    "startdatum": "18.01.2026",
+                    "startzeit": "08:00",
+                    "enddatum": "19.01.2026",
+                    "endzeit": "08:00"
                 },
                 {
                     "name": "Möwen Apotheke",
