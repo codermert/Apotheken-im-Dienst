@@ -37,27 +37,46 @@
             "anzahl": 8
         },
         "quota": {
-            "verwendet": "102246"
+            "verwendet": "106964"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Apotheke am Dom",
+                    "name": "Kranich-Apotheke",
                     "kammer": "lakt",
-                    "id": "520",
-                    "apo_id": "lakt520",
-                    "strasse": "Marktstr. 23-25",
-                    "plz": "99084",
+                    "id": "417",
+                    "apo_id": "lakt417",
+                    "strasse": "Kranichfelder Straße 103",
+                    "plz": "99097",
                     "ort": "Erfurt",
-                    "distanz": "8.507781919580001",
-                    "longitude": "11.0251592",
-                    "latitude": "50.9775314",
-                    "telefon": "+49 361 5401673",
+                    "distanz": "6.40537271737",
+                    "longitude": "11.0694661",
+                    "latitude": "50.9554566",
+                    "telefon": "+49 361 4170056",
                     "fax": [],
                     "email": [],
-                    "startdatum": "17.01.2026",
+                    "startdatum": "18.01.2026",
                     "startzeit": "09:00",
-                    "enddatum": "18.01.2026",
+                    "enddatum": "19.01.2026",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Römer-Apotheke",
+                    "kammer": "lakt",
+                    "id": "373",
+                    "apo_id": "lakt373",
+                    "strasse": "Bonemilchstraße 2",
+                    "plz": "99084",
+                    "ort": "Erfurt",
+                    "distanz": "7.92775100338",
+                    "longitude": "11.014578",
+                    "latitude": "50.9712098",
+                    "telefon": "+49 361 2219075",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.01.2026",
+                    "startzeit": "09:00",
+                    "enddatum": "19.01.2026",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "19.01.2026",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Rieth-Apotheke",
-                    "kammer": "lakt",
-                    "id": "12",
-                    "apo_id": "lakt12",
-                    "strasse": "Mainzer Straße 35",
-                    "plz": "99089",
-                    "ort": "Erfurt",
-                    "distanz": "11.62449364034",
-                    "longitude": "11.0155075",
-                    "latitude": "51.0050127",
-                    "telefon": "+49 361 7922040",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "17.01.2026",
-                    "startzeit": "09:00",
-                    "enddatum": "18.01.2026",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Burgen-Apotheke",
