@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 18
+            "anzahl": 16
         },
         "quota": {
-            "verwendet": "83743"
+            "verwendet": "91263"
         },
         "apotheken": {
             "apotheke": [
@@ -131,25 +131,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Hirsch-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1069",
-                    "apo_id": "aknds1069",
-                    "strasse": "Große Str. 32",
-                    "plz": "27239",
-                    "ort": "Twistringen",
-                    "distanz": "29.82473494903",
-                    "longitude": "8.6385506",
-                    "latitude": "52.7997329",
-                    "telefon": "+49 4243 92980",
-                    "fax": "+49 4243 929820",
-                    "email": [],
-                    "startdatum": "17.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "18.01.2026",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Neue Apotheke Ottersberg",
                     "kammer": "aknds",
                     "id": "5992",
@@ -245,41 +226,22 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Andreas-Apotheke",
+                    "name": "Anker Apotheke",
                     "kammer": "aknds",
-                    "id": "1663",
-                    "apo_id": "aknds1663",
-                    "strasse": "Oldenburger Str. 25",
+                    "id": "1664",
+                    "apo_id": "aknds1664",
+                    "strasse": "Mühlenstr. 31",
                     "plz": "27753",
                     "ort": "Delmenhorst",
-                    "distanz": "38.4864705236",
-                    "longitude": "8.6205462",
-                    "latitude": "53.0494339",
-                    "telefon": "+49 4221 150990",
-                    "fax": "+49 4221 120711",
+                    "distanz": "38.69695382376",
+                    "longitude": "8.6236758",
+                    "latitude": "53.0549856",
+                    "telefon": "+49 4221 14489",
+                    "fax": "+49 4221 14907",
                     "email": [],
-                    "startdatum": "17.01.2026",
+                    "startdatum": "18.01.2026",
                     "startzeit": "08:30",
-                    "enddatum": "18.01.2026",
-                    "endzeit": "08:30"
-                },
-                {
-                    "name": "Apotheke Schierbrok",
-                    "kammer": "aknds",
-                    "id": "1753",
-                    "apo_id": "aknds1753",
-                    "strasse": "Bahnhofstr. 49",
-                    "plz": "27777",
-                    "ort": "Ganderkesee",
-                    "distanz": "43.130462305250006",
-                    "longitude": "8.5769381",
-                    "latitude": "53.0836028",
-                    "telefon": "+49 4221 89335",
-                    "fax": "+49 4221 88151",
-                    "email": [],
-                    "startdatum": "17.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "18.01.2026",
+                    "enddatum": "19.01.2026",
                     "endzeit": "08:30"
                 },
                 {
@@ -321,25 +283,6 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Möwen Apotheke",
-                    "kammer": "aknds",
-                    "id": "1104",
-                    "apo_id": "aknds1104",
-                    "strasse": "An der Friedenseiche 10",
-                    "plz": "31515",
-                    "ort": "Wunstorf",
-                    "distanz": "46.88351743442",
-                    "longitude": "9.3547344",
-                    "latitude": "52.4541649",
-                    "telefon": "+49 5033 8323",
-                    "fax": "+49 5033 5516",
-                    "email": [],
-                    "startdatum": "17.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "18.01.2026",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Koppel-Apotheke",
                     "kammer": "aknds",
                     "id": "2773",
@@ -357,6 +300,25 @@
                     "startzeit": "09:00",
                     "enddatum": "18.01.2026",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Apotheke in Hagenburg",
+                    "kammer": "aknds",
+                    "id": "6955",
+                    "apo_id": "aknds6955",
+                    "strasse": "Lange Straße 22 + 24",
+                    "plz": "31558",
+                    "ort": "Hagenburg",
+                    "distanz": "48.21957151518",
+                    "longitude": "9.32384",
+                    "latitude": "52.43362",
+                    "telefon": "+49 5033 9634349",
+                    "fax": "+49 5033 9634348",
+                    "email": [],
+                    "startdatum": "18.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "19.01.2026",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Bermpohl-Apotheke",
