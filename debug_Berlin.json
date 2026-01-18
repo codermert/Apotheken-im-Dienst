@@ -12,7 +12,7 @@
             "lat": "",
             "lng": "",
             "plzort": "Berlin",
-            "radius": "25",
+            "radius": 45,
             "street": ""
         },
         "token": "216823d96ea25c051509d935955c130fbc72680fc1d3040fe3e8ca0e25f9cd02"
@@ -21,7 +21,7 @@
         "parameter": {
             "plzort": "Berlin",
             "strasse": [],
-            "radius": "25.0",
+            "radius": "45.0",
             "longitude": "13.3888599",
             "latitude": "52.517036499999996",
             "limit": [],
@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 38
+            "anzahl": 45
         },
         "quota": {
-            "verwendet": "463255"
+            "verwendet": "465351"
         },
         "apotheken": {
             "apotheke": [
