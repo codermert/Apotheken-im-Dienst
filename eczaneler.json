@@ -689,10 +689,206 @@
       "mesafe": "49.1 km"
     }
   ],
-  "Brandenburg": [],
-  "Bremen": [],
-  "Hessen": [],
-  "Mecklenburg-Vorpommern": [],
+  "Brandenburg": [
+    {
+      "eczaneAdi": "Luisen-Apotheke",
+      "adres": "Berliner Straße 94, 16515 Oranienburg",
+      "telefon": "03301 / 535 003",
+      "enlem": "52.7434803",
+      "boylam": "13.2388483",
+      "mesafe": "11.4 km"
+    },
+    {
+      "eczaneAdi": "Kloster Apotheke Zehdenick Kloster Apotheke OHG",
+      "adres": "Berliner Straße 39, 16792 Zehdenick",
+      "telefon": "03307   / 3433",
+      "enlem": "52.97877",
+      "boylam": "13.3322095",
+      "mesafe": "15.9 km"
+    },
+    {
+      "eczaneAdi": "Vitalis Apotheke",
+      "adres": "Rosa-Luxemburg-Straße 51, 16727 Velten",
+      "telefon": "+49 3304 505794",
+      "enlem": "52.67962",
+      "boylam": "13.17222",
+      "mesafe": "19.1 km"
+    },
+    {
+      "eczaneAdi": "Sorella Apotheke",
+      "adres": "Berliner Straße 27, 16540 Hohen Neuendorf",
+      "telefon": "+49 3303 2957010",
+      "enlem": "52.66857",
+      "boylam": "13.28191",
+      "mesafe": "19.8 km"
+    },
+    {
+      "eczaneAdi": "Neue Roland Apotheke",
+      "adres": "Oranienburger Chaussee 17, 16548 Glienicke/Nordbahn",
+      "telefon": "033056 94500",
+      "enlem": "52.63325",
+      "boylam": "13.30969",
+      "mesafe": "24.0 km"
+    }
+  ],
+  "Bremen": [
+    {
+      "eczaneAdi": "Kranich-Apotheke",
+      "adres": "Gröpelinger Heerstr. 190-192, 28237 Bremen",
+      "telefon": "+49 421 613046",
+      "enlem": "53.1155787",
+      "boylam": "8.759249",
+      "mesafe": "5.5 km"
+    },
+    {
+      "eczaneAdi": "Anker Apotheke",
+      "adres": "Mühlenstr. 31, 27753 Delmenhorst",
+      "telefon": "+49 4221 14489",
+      "enlem": "53.0549856",
+      "boylam": "8.6236758",
+      "mesafe": "11.0 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Bahnhof",
+      "adres": "Bahnhofstr. 37, 27711 Osterholz-Scharmbeck",
+      "telefon": "+49 4791 502780",
+      "enlem": "53.2242",
+      "boylam": "8.79676",
+      "mesafe": "11.2 km"
+    },
+    {
+      "eczaneAdi": "Nordsee-Apotheke",
+      "adres": "Heinrich-Plett-Allee 78, 28259 Bremen",
+      "telefon": "+49 421 582161",
+      "enlem": "53.04351",
+      "boylam": "8.723",
+      "mesafe": "11.5 km"
+    },
+    {
+      "eczaneAdi": "Weser-Apotheke",
+      "adres": "Rekumer Str. 20, 28777 Bremen",
+      "telefon": "+49 421 682311",
+      "enlem": "53.20836",
+      "boylam": "8.51359",
+      "mesafe": "13.9 km"
+    },
+    {
+      "eczaneAdi": "Kurfürsten Apotheke",
+      "adres": "Sonneberger Str. 2, 28329 Bremen",
+      "telefon": "+49 421 436330",
+      "enlem": "53.0791202",
+      "boylam": "8.8761338",
+      "mesafe": "14.3 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Schützenplatz",
+      "adres": "Schützenstr. 10, 27798 Hude",
+      "telefon": "+49 4408 92110",
+      "enlem": "53.1076988",
+      "boylam": "8.4593608",
+      "mesafe": "16.2 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Markt",
+      "adres": "Weberweg 2, 28844 Weyhe",
+      "telefon": "+49 4203 1300",
+      "enlem": "52.98135",
+      "boylam": "8.84978",
+      "mesafe": "21.0 km"
+    },
+    {
+      "eczaneAdi": "Weser-Apotheke",
+      "adres": "Bahnhofstr. 89, 26919 Brake",
+      "telefon": "+49 4401 3595",
+      "enlem": "53.3334244",
+      "boylam": "8.4778778",
+      "mesafe": "25.4 km"
+    }
+  ],
+  "Hessen": [
+    {
+      "eczaneAdi": "Edertal Apotheke",
+      "adres": "Bahnhofstraße 7 - 9, 35469 Allendorf",
+      "telefon": "+49 6452 1800",
+      "enlem": "50.67744",
+      "boylam": "8.82281",
+      "mesafe": "16.5 km"
+    },
+    {
+      "eczaneAdi": "Schloss-Apotheke",
+      "adres": "Kaiserstraße 2, 35418 Buseck",
+      "telefon": "+49 6408 3003",
+      "enlem": "50.60867",
+      "boylam": "8.78743",
+      "mesafe": "17.1 km"
+    },
+    {
+      "eczaneAdi": "Paracelsus Apotheke",
+      "adres": "Goethestr. 8, 35435 Wettenberg",
+      "telefon": "+49 6406 1783",
+      "enlem": "50.6344367",
+      "boylam": "8.6794173",
+      "mesafe": "24.9 km"
+    },
+    {
+      "eczaneAdi": "Hohhaus Apotheke",
+      "adres": "Eisenbacher Tor 2, 36341 Lauterbach",
+      "telefon": "+49 6641 4545",
+      "enlem": "50.63616",
+      "boylam": "9.3957898",
+      "mesafe": "26.2 km"
+    }
+  ],
+  "Mecklenburg-Vorpommern": [
+    {
+      "eczaneAdi": "Neue Apotheke am Markt",
+      "adres": "Am Markt 6, 17139 Malchin",
+      "telefon": "+49 3994 223412",
+      "enlem": "53.7398283",
+      "boylam": "12.7625912",
+      "mesafe": "12.9 km"
+    },
+    {
+      "eczaneAdi": "Schloss-Apotheke",
+      "adres": "Mühlenstr. 1, 18273 Güstrow",
+      "telefon": "+49 3843 682307",
+      "enlem": "53.7938495",
+      "boylam": "12.1770443",
+      "mesafe": "26.4 km"
+    },
+    {
+      "eczaneAdi": "Pommern-Apotheke",
+      "adres": "Adolf-Pompe-Str. 24, 17109 Demmin",
+      "telefon": "+49 3998 362366",
+      "enlem": "53.90266",
+      "boylam": "13.04724",
+      "mesafe": "34.2 km"
+    },
+    {
+      "eczaneAdi": "Burg-Apotheke",
+      "adres": "Steinstraße 14, 19395 Plau",
+      "telefon": "+49 38735 44595",
+      "enlem": "53.4590066",
+      "boylam": "12.2637501",
+      "mesafe": "40.6 km"
+    },
+    {
+      "eczaneAdi": "Apotheke Offering",
+      "adres": "Hansestraße 37, 18182 Bentwisch",
+      "telefon": "+49 381 2014130",
+      "enlem": "54.1158913",
+      "boylam": "12.1917408",
+      "mesafe": "45.7 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Brink",
+      "adres": "Wismarsche Str. 4, 18057 Rostock",
+      "telefon": "+49 381 3750867",
+      "enlem": "54.0877079",
+      "boylam": "12.1226767",
+      "mesafe": "45.9 km"
+    }
+  ],
   "Niedersachsen": [
     {
       "eczaneAdi": "Rats-Apotheke",
@@ -1063,48 +1259,7 @@
       "mesafe": "27.1 km"
     }
   ],
-  "Schleswig-Holstein": [
-    {
-      "eczaneAdi": "Rathaus-Apotheke",
-      "adres": "Am Markt 13, 24594 Hohenwestedt",
-      "telefon": "04871-4411",
-      "enlem": "54.0893209",
-      "boylam": "9.651362",
-      "mesafe": "15.5 km"
-    },
-    {
-      "eczaneAdi": "Gadeland-Apotheke",
-      "adres": "Segeberger Str. 77, 24539 Neumünster",
-      "telefon": "04321-979410",
-      "enlem": "54.053184",
-      "boylam": "10.0198784",
-      "mesafe": "19.6 km"
-    },
-    {
-      "eczaneAdi": "Brunnen Apotheke",
-      "adres": "Rendsburger Str. 50a, 24787 Fockbek",
-      "telefon": "04331-669906",
-      "enlem": "54.3060073",
-      "boylam": "9.601651",
-      "mesafe": "19.7 km"
-    },
-    {
-      "eczaneAdi": "Apotheke 403",
-      "adres": "Eckernförder Str. 403, 24107 Kiel",
-      "telefon": "0431-313330",
-      "enlem": "54.355016",
-      "boylam": "10.0860541",
-      "mesafe": "25.5 km"
-    },
-    {
-      "eczaneAdi": "Hof-Apotheke C.H.Rüdel e.K.",
-      "adres": "Alter Markt 11, 24103 Kiel",
-      "telefon": "+49 431 974570",
-      "enlem": "54.32373",
-      "boylam": "10.13963",
-      "mesafe": "25.8 km"
-    }
-  ],
+  "Schleswig-Holstein": [],
   "Thüringen": [
     {
       "eczaneAdi": "Kranich-Apotheke",
