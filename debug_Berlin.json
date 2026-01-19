@@ -5317,10 +5317,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 38
+            "anzahl": 34
         },
         "quota": {
-            "verwendet": "34098"
+            "verwendet": "35729"
         },
         "apotheken": {
             "apotheke": [
@@ -5762,25 +5762,6 @@
                     "endzeit": "08:59"
                 },
                 {
-                    "name": "Neue Roland Apotheke",
-                    "kammer": "lakbb",
-                    "id": "537",
-                    "apo_id": "lakbb537",
-                    "strasse": "Oranienburger Chaussee 17",
-                    "plz": "16548",
-                    "ort": "Glienicke/Nordbahn",
-                    "distanz": "14.00161131402",
-                    "longitude": "13.30969",
-                    "latitude": "52.63325",
-                    "telefon": "033056 94500",
-                    "fax": "033056 94501",
-                    "email": "info@neue-roland-apotheke.de",
-                    "startdatum": "18.01.2026",
-                    "startzeit": "08:00",
-                    "enddatum": "19.01.2026",
-                    "endzeit": "08:00"
-                },
-                {
                     "name": "Dr. Rothes Apotheke",
                     "kammer": "akb",
                     "id": "100404",
@@ -5792,6 +5773,25 @@
                     "longitude": "13.5770394",
                     "latitude": "52.4552771",
                     "telefon": "+49 30 6572151",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "18.01.2026",
+                    "startzeit": "09:00",
+                    "enddatum": "19.01.2026",
+                    "endzeit": "08:59"
+                },
+                {
+                    "name": "Troll-Apotheke",
+                    "kammer": "akb",
+                    "id": "100501",
+                    "apo_id": "akb100501",
+                    "strasse": "Schwanebecker Chaussee 50",
+                    "plz": "13125",
+                    "ort": "Berlin",
+                    "distanz": "15.11939939771",
+                    "longitude": "13.5084777",
+                    "latitude": "52.6317089",
+                    "telefon": "+49 30 9410930",
                     "fax": [],
                     "email": [],
                     "startdatum": "18.01.2026",
