@@ -28,30 +28,68 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 4
+            "anzahl": 5
         },
         "quota": {
-            "verwendet": "39183"
+            "verwendet": "39795"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Rats-Apotheke",
+                    "name": "Lindenberg Apotheke",
                     "kammer": "aknds",
-                    "id": "1119",
-                    "apo_id": "aknds1119",
-                    "strasse": "Obernstraße 22",
-                    "plz": "28832",
-                    "ort": "Achim",
-                    "distanz": "18.86855997126",
-                    "longitude": "9.042328",
-                    "latitude": "53.0081822",
-                    "telefon": "+49 4202 8016",
-                    "fax": "+49 4202 8002",
+                    "id": "539",
+                    "apo_id": "aknds539",
+                    "strasse": "Bahnhofstr. 57",
+                    "plz": "27305",
+                    "ort": "Bruchhausen-Vilsen",
+                    "distanz": "6.3638519296",
+                    "longitude": "8.98631",
+                    "latitude": "52.82191",
+                    "telefon": "+49 4252 3434",
+                    "fax": "+49 4252 3437",
                     "email": [],
-                    "startdatum": "18.01.2026",
+                    "startdatum": "19.01.2026",
                     "startzeit": "09:00",
-                    "enddatum": "19.01.2026",
+                    "enddatum": "20.01.2026",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Morsumer Apotheke",
+                    "kammer": "aknds",
+                    "id": "1528",
+                    "apo_id": "aknds1528",
+                    "strasse": "Verdener Str. 19",
+                    "plz": "27321",
+                    "ort": "Thedinghausen",
+                    "distanz": "13.04936147193",
+                    "longitude": "9.0780221",
+                    "latitude": "52.9571079",
+                    "telefon": "+49 4204 1611",
+                    "fax": "+49 4204 69918",
+                    "email": [],
+                    "startdatum": "19.01.2026",
+                    "startzeit": "09:00",
+                    "enddatum": "20.01.2026",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Falken-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1064",
+                    "apo_id": "aknds1064",
+                    "strasse": "Sudweyher Str. 11",
+                    "plz": "28857",
+                    "ort": "Syke",
+                    "distanz": "20.16344270909",
+                    "longitude": "8.8280978",
+                    "latitude": "52.9416158",
+                    "telefon": "+49 4242 70774",
+                    "fax": "+49 4242 7239",
+                    "email": [],
+                    "startdatum": "19.01.2026",
+                    "startzeit": "09:00",
+                    "enddatum": "20.01.2026",
                     "endzeit": "09:00"
                 },
                 {
@@ -72,25 +110,6 @@
                     "startzeit": "08:00",
                     "enddatum": "20.01.2026",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Apotheke am Markt",
-                    "kammer": "aknds",
-                    "id": "1095",
-                    "apo_id": "aknds1095",
-                    "strasse": "Weberweg 2",
-                    "plz": "28844",
-                    "ort": "Weyhe",
-                    "distanz": "21.89733363728",
-                    "longitude": "8.84978",
-                    "latitude": "52.98135",
-                    "telefon": "+49 4203 1300",
-                    "fax": "+49 4203 79896",
-                    "email": [],
-                    "startdatum": "18.01.2026",
-                    "startzeit": "09:00",
-                    "enddatum": "19.01.2026",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Stern-Apotheke",
