@@ -361,46 +361,6 @@
       "enlem": "51.6087",
       "boylam": "7.2193",
       "mesafe": "27.4 km"
-    },
-    {
-      "eczaneAdi": "Andreas-Apotheke",
-      "adres": "Hasenwinkeler Str. 204, 44879 Bochum",
-      "telefon": "0234/492545",
-      "enlem": "51.440749",
-      "boylam": "7.158615",
-      "mesafe": "27.8 km"
-    },
-    {
-      "eczaneAdi": "Panda-Apotheke",
-      "adres": "Edmund-Weber-Str. 196, 44651 Herne",
-      "telefon": "+49 2325 93560",
-      "enlem": "51.513037",
-      "boylam": "7.1567332",
-      "mesafe": "27.9 km"
-    },
-    {
-      "eczaneAdi": "Bahnhof-Apotheke",
-      "adres": "Schulstr. 50, 58332 Schwelm",
-      "telefon": "02336/2131",
-      "enlem": "51.2888204",
-      "boylam": "7.2902",
-      "mesafe": "28.0 km"
-    },
-    {
-      "eczaneAdi": "Stadt-Apotheke",
-      "adres": "Freiheitstr. 14, 58791 Werdohl",
-      "telefon": "+49 2392 913091",
-      "enlem": "51.2584128",
-      "boylam": "7.7630011",
-      "mesafe": "28.5 km"
-    },
-    {
-      "eczaneAdi": "Löwen-Apotheke",
-      "adres": "Theodor-Heuss-Platz 13, 59065 Hamm",
-      "telefon": "02381/24325",
-      "enlem": "51.6777717",
-      "boylam": "7.821853",
-      "mesafe": "28.9 km"
     }
   ],
   "Hamburg": [
@@ -929,7 +889,128 @@
       "mesafe": "45.9 km"
     }
   ],
-  "Niedersachsen": [],
+  "Niedersachsen": [
+    {
+      "eczaneAdi": "Rats-Apotheke",
+      "adres": "Obernstraße 22, 28832 Achim",
+      "telefon": "+49 4202 8016",
+      "enlem": "53.0081822",
+      "boylam": "9.042328",
+      "mesafe": "18.9 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Markt",
+      "adres": "Weberweg 2, 28844 Weyhe",
+      "telefon": "+49 4203 1300",
+      "enlem": "52.98135",
+      "boylam": "8.84978",
+      "mesafe": "21.9 km"
+    },
+    {
+      "eczaneAdi": "Bären-Apotheke",
+      "adres": "Lange Str. 13, 27232 Sulingen",
+      "telefon": "+49 4271 3475",
+      "enlem": "52.6826842",
+      "boylam": "8.81042",
+      "mesafe": "25.0 km"
+    },
+    {
+      "eczaneAdi": "Mühlen-Apotheke",
+      "adres": "Führser Mühlweg 70, 31582 Nienburg",
+      "telefon": "+49 5021 97580",
+      "enlem": "52.6166658",
+      "boylam": "9.2642086",
+      "mesafe": "27.9 km"
+    },
+    {
+      "eczaneAdi": "Kurfürsten Apotheke",
+      "adres": "Sonneberger Str. 2, 28329 Bremen",
+      "telefon": "+49 421 436330",
+      "enlem": "53.0791202",
+      "boylam": "8.8761338",
+      "mesafe": "29.8 km"
+    },
+    {
+      "eczaneAdi": "Nordsee-Apotheke",
+      "adres": "Heinrich-Plett-Allee 78, 28259 Bremen",
+      "telefon": "+49 421 582161",
+      "enlem": "53.04351",
+      "boylam": "8.723",
+      "mesafe": "32.8 km"
+    },
+    {
+      "eczaneAdi": "Kranich-Apotheke",
+      "adres": "Gröpelinger Heerstr. 190-192, 28237 Bremen",
+      "telefon": "+49 421 613046",
+      "enlem": "53.1155787",
+      "boylam": "8.759249",
+      "mesafe": "37.3 km"
+    },
+    {
+      "eczaneAdi": "Neue Apotheke",
+      "adres": "Goethestr. 9, 27374 Visselhövede",
+      "telefon": "+49 4262 94410",
+      "enlem": "52.9848408",
+      "boylam": "9.5790899",
+      "mesafe": "37.5 km"
+    },
+    {
+      "eczaneAdi": "Die Markt-Apotheke",
+      "adres": "Am Neuen Markt 12, 27356 Rotenburg (Wümme)",
+      "telefon": "+49 4261 3635",
+      "enlem": "53.1110998",
+      "boylam": "9.4084598",
+      "mesafe": "37.6 km"
+    },
+    {
+      "eczaneAdi": "Anker Apotheke",
+      "adres": "Mühlenstr. 31, 27753 Delmenhorst",
+      "telefon": "+49 4221 14489",
+      "enlem": "53.0549856",
+      "boylam": "8.6236758",
+      "mesafe": "38.7 km"
+    },
+    {
+      "eczaneAdi": "Heide Apotheke",
+      "adres": "Moorstr. 5, 29690 Schwarmstedt",
+      "telefon": "+49 5071 98190",
+      "enlem": "52.6778317",
+      "boylam": "9.6204299",
+      "mesafe": "40.9 km"
+    },
+    {
+      "eczaneAdi": "Kronen-Apotheke",
+      "adres": "Westerstr. 48, 27793 Wildeshausen",
+      "telefon": "+49 4431 93680",
+      "enlem": "52.8954059",
+      "boylam": "8.4343596",
+      "mesafe": "43.6 km"
+    },
+    {
+      "eczaneAdi": "Marien-Apotheke",
+      "adres": "Loccumer Str. 6, 31547 Rehburg-Loccum",
+      "telefon": "+49 5037 2628",
+      "enlem": "52.440893",
+      "boylam": "9.1854836",
+      "mesafe": "45.0 km"
+    },
+    {
+      "eczaneAdi": "Apotheke am Bahnhof",
+      "adres": "Bahnhofstr. 37, 27711 Osterholz-Scharmbeck",
+      "telefon": "+49 4791 502780",
+      "enlem": "53.2242",
+      "boylam": "8.79676",
+      "mesafe": "46.7 km"
+    },
+    {
+      "eczaneAdi": "Apotheke in Hagenburg",
+      "adres": "Lange Straße 22 + 24, 31558 Hagenburg",
+      "telefon": "+49 5033 9634349",
+      "enlem": "52.43362",
+      "boylam": "9.32384",
+      "mesafe": "48.2 km"
+    }
+  ],
   "Rheinland-Pfalz": [
     {
       "eczaneAdi": "Rats-Apotheke",
