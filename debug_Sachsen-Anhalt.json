@@ -31,7 +31,7 @@
             "anzahl": 8
         },
         "quota": {
-            "verwendet": "70393"
+            "verwendet": "72213"
         },
         "apotheken": {
             "apotheke": [
@@ -47,6 +47,25 @@
                     "longitude": "11.73121",
                     "latitude": "52.01412",
                     "telefon": "+49 3928 421798",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "20.01.2026",
+                    "startzeit": "08:00",
+                    "enddatum": "21.01.2026",
+                    "endzeit": "08:00"
+                },
+                {
+                    "name": "Hopfengarten-Apotheke",
+                    "kammer": "aksa",
+                    "id": "629",
+                    "apo_id": "aksa629",
+                    "strasse": "Hopfenplatz 6",
+                    "plz": "39120",
+                    "ort": "Magdeburg",
+                    "distanz": "10.47990043262",
+                    "longitude": "11.626",
+                    "latitude": "52.09119",
+                    "telefon": "+49 391 6229228",
                     "fax": [],
                     "email": [],
                     "startdatum": "20.01.2026",
@@ -104,25 +123,6 @@
                     "longitude": "11.6013901",
                     "latitude": "52.1105755",
                     "telefon": "+49 391 6059989",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "20.01.2026",
-                    "startzeit": "08:00",
-                    "enddatum": "21.01.2026",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Elfen-Apotheke",
-                    "kammer": "aksa",
-                    "id": "643",
-                    "apo_id": "aksa643",
-                    "strasse": "Große Diesdorfer-Str.186/187",
-                    "plz": "39110",
-                    "ort": "Magdeburg",
-                    "distanz": "14.9983708169",
-                    "longitude": "11.59987",
-                    "latitude": "52.12864",
-                    "telefon": "+49 391 7348968",
                     "fax": [],
                     "email": [],
                     "startdatum": "20.01.2026",
