@@ -1264,10 +1264,10 @@
             ]
         },
         "statistik": {
-            "anzahl": 7
+            "anzahl": 9
         },
         "quota": {
-            "verwendet": "35455"
+            "verwendet": "37431"
         },
         "apotheken": {
             "apotheke": [
@@ -1291,25 +1291,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Spitzweg Apotheke (im Kaufland)",
-                    "kammer": "aknds",
-                    "id": "1684",
-                    "apo_id": "aknds1684",
-                    "strasse": "Stedinger Str. 101",
-                    "plz": "27753",
-                    "ort": "Delmenhorst",
-                    "distanz": "10.20032902012",
-                    "longitude": "8.6305287",
-                    "latitude": "53.0613418",
-                    "telefon": "+49 4221 588225",
-                    "fax": "+49 4221 588224",
-                    "email": [],
-                    "startdatum": "19.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "20.01.2026",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Delme-Apotheke",
                     "kammer": "akbr",
                     "id": "10039",
@@ -1327,6 +1308,44 @@
                     "startzeit": "09:00",
                     "enddatum": "20.01.2026",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Bahnhof-Apotheke Delcare oHG",
+                    "kammer": "aknds",
+                    "id": "1665",
+                    "apo_id": "aknds1665",
+                    "strasse": "Bahnhofstr. 11 - 13",
+                    "plz": "27749",
+                    "ort": "Delmenhorst",
+                    "distanz": "11.25687064993",
+                    "longitude": "8.6299531",
+                    "latitude": "53.0511638",
+                    "telefon": "+49 4221 14506",
+                    "fax": "+49 4221 18661",
+                    "email": [],
+                    "startdatum": "20.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "21.01.2026",
+                    "endzeit": "08:30"
+                },
+                {
+                    "name": "Apotheke Bookholzberg",
+                    "kammer": "aknds",
+                    "id": "1752",
+                    "apo_id": "aknds1752",
+                    "strasse": "Stedinger Str. 63",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "12.15097528613",
+                    "longitude": "8.530713",
+                    "latitude": "53.0962681",
+                    "telefon": "+49 4223 3070",
+                    "fax": "+49 4223 1332",
+                    "email": [],
+                    "startdatum": "20.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "20.01.2026",
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Sanaris-Apotheke",
@@ -1403,6 +1422,25 @@
                     "startzeit": "09:00",
                     "enddatum": "20.01.2026",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Linden-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1794",
+                    "apo_id": "aknds1794",
+                    "strasse": "Lange Straße 13",
+                    "plz": "27243",
+                    "ort": "Harpstedt",
+                    "distanz": "27.27003655484",
+                    "longitude": "8.5873073",
+                    "latitude": "52.9082947",
+                    "telefon": "+49 4244 95144",
+                    "fax": "+49 4244 95146",
+                    "email": [],
+                    "startdatum": "20.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "21.01.2026",
+                    "endzeit": "08:30"
                 }
             ]
         }
