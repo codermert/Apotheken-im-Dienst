@@ -31,7 +31,7 @@
             "anzahl": 13
         },
         "quota": {
-            "verwendet": "33413"
+            "verwendet": "34923"
         },
         "apotheken": {
             "apotheke": [
@@ -55,22 +55,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Apotheke am Goetheplatz",
+                    "name": "Eichen-Apotheke",
                     "kammer": "aknds",
-                    "id": "961",
-                    "apo_id": "aknds961",
-                    "strasse": "Goetheplatz 6",
+                    "id": "954",
+                    "apo_id": "aknds954",
+                    "strasse": "Verdener Landstr. 134",
                     "plz": "31582",
                     "ort": "Nienburg",
-                    "distanz": "23.774463096319998",
-                    "longitude": "9.2096738",
-                    "latitude": "52.6422229",
-                    "telefon": "+49 5021 13100",
-                    "fax": "+49 5021 910919",
+                    "distanz": "22.105350231280003",
+                    "longitude": "9.2215718",
+                    "latitude": "52.66194",
+                    "telefon": "+49 5021 18831",
+                    "fax": "+49 5021 64644",
                     "email": [],
-                    "startdatum": "20.01.2026",
+                    "startdatum": "21.01.2026",
                     "startzeit": "08:00",
-                    "enddatum": "21.01.2026",
+                    "enddatum": "22.01.2026",
                     "endzeit": "08:00"
                 },
                 {
@@ -169,6 +169,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Alte Apotheke",
+                    "kammer": "aknds",
+                    "id": "1390",
+                    "apo_id": "aknds1390",
+                    "strasse": "Goethestr. 12",
+                    "plz": "27356",
+                    "ort": "Rotenburg (Wümme)",
+                    "distanz": "37.08331827802",
+                    "longitude": "9.4018498",
+                    "latitude": "53.1088163",
+                    "telefon": "+49 4261 2254",
+                    "fax": "+49 4261 3483",
+                    "email": [],
+                    "startdatum": "21.01.2026",
+                    "startzeit": "08:00",
+                    "enddatum": "22.01.2026",
+                    "endzeit": "08:00"
+                },
+                {
                     "name": "Bahnhof-Apotheke Delcare oHG",
                     "kammer": "aknds",
                     "id": "1665",
@@ -207,41 +226,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Rats-Apotheke Uchte",
+                    "name": "Kloster-Apotheke Loccum",
                     "kammer": "aknds",
-                    "id": "1074",
-                    "apo_id": "aknds1074",
-                    "strasse": "Mühlenstr. 15",
-                    "plz": "31600",
-                    "ort": "Uchte",
-                    "distanz": "39.65132017848",
-                    "longitude": "8.9061258",
-                    "latitude": "52.4988187",
-                    "telefon": "+49 5763 96090",
-                    "fax": "+49 5763 960923",
+                    "id": "981",
+                    "apo_id": "aknds981",
+                    "strasse": "Leeser Str. 23",
+                    "plz": "31547",
+                    "ort": "Rehburg-Loccum",
+                    "distanz": "42.68960142363",
+                    "longitude": "9.1488433",
+                    "latitude": "52.458798",
+                    "telefon": "+49 5766 93040",
+                    "fax": "+49 5766 93042",
                     "email": [],
-                    "startdatum": "20.01.2026",
+                    "startdatum": "21.01.2026",
                     "startzeit": "08:00",
-                    "enddatum": "21.01.2026",
-                    "endzeit": "08:00"
-                },
-                {
-                    "name": "Meyerhof-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1402",
-                    "apo_id": "aknds1402",
-                    "strasse": "Am Meyerhof 7",
-                    "plz": "27383",
-                    "ort": "Scheeßel",
-                    "distanz": "45.51131335644",
-                    "longitude": "9.479839",
-                    "latitude": "53.1683217",
-                    "telefon": "+49 4263 93190",
-                    "fax": "+49 4263 93193",
-                    "email": [],
-                    "startdatum": "20.01.2026",
-                    "startzeit": "08:00",
-                    "enddatum": "21.01.2026",
+                    "enddatum": "22.01.2026",
                     "endzeit": "08:00"
                 },
                 {
