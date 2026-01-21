@@ -37,27 +37,46 @@
             "anzahl": 7
         },
         "quota": {
-            "verwendet": "37377"
+            "verwendet": "37924"
         },
         "apotheken": {
             "apotheke": [
                 {
-                    "name": "Apotheke am Südpark",
+                    "name": "Beethoven-Apotheke",
                     "kammer": "lakt",
-                    "id": "2064",
-                    "apo_id": "lakt2064",
-                    "strasse": "Melchendorfer Straße 1",
+                    "id": "4207",
+                    "apo_id": "lakt4207",
+                    "strasse": "Friedrich-Ebert-Straße 62",
                     "plz": "99096",
                     "ort": "Erfurt",
-                    "distanz": "7.04095790792",
-                    "longitude": "11.0423574",
-                    "latitude": "50.9646973",
-                    "telefon": "+49 361 6448880",
+                    "distanz": "7.01453847244",
+                    "longitude": "11.04064",
+                    "latitude": "50.9645",
+                    "telefon": "+49 361 3459819",
                     "fax": [],
                     "email": [],
-                    "startdatum": "20.01.2026",
+                    "startdatum": "21.01.2026",
                     "startzeit": "09:00",
-                    "enddatum": "21.01.2026",
+                    "enddatum": "22.01.2026",
+                    "endzeit": "09:00"
+                },
+                {
+                    "name": "Arnika-Apotheke",
+                    "kammer": "lakt",
+                    "id": "418",
+                    "apo_id": "lakt418",
+                    "strasse": "Blumenstr. 92",
+                    "plz": "99092",
+                    "ort": "Erfurt",
+                    "distanz": "9.18303846778",
+                    "longitude": "11.0178287",
+                    "latitude": "50.9830499",
+                    "telefon": "+49 361 2113290",
+                    "fax": [],
+                    "email": [],
+                    "startdatum": "21.01.2026",
+                    "startzeit": "09:00",
+                    "enddatum": "22.01.2026",
                     "endzeit": "09:00"
                 },
                 {
@@ -78,25 +97,6 @@
                     "startzeit": "08:00",
                     "enddatum": "22.01.2026",
                     "endzeit": "08:00"
-                },
-                {
-                    "name": "Arkaden-Apotheke",
-                    "kammer": "lakt",
-                    "id": "504",
-                    "apo_id": "lakt504",
-                    "strasse": "Friedrich-Engels-Straße 63",
-                    "plz": "99086",
-                    "ort": "Erfurt",
-                    "distanz": "9.61309165868",
-                    "longitude": "11.0358571",
-                    "latitude": "50.9878755",
-                    "telefon": "+49 361 5402185",
-                    "fax": [],
-                    "email": [],
-                    "startdatum": "20.01.2026",
-                    "startzeit": "09:00",
-                    "enddatum": "21.01.2026",
-                    "endzeit": "09:00"
                 },
                 {
                     "name": "Apotheke am Klinikum",
