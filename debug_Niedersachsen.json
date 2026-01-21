@@ -28,10 +28,10 @@
             "datum": []
         },
         "statistik": {
-            "anzahl": 13
+            "anzahl": 14
         },
         "quota": {
-            "verwendet": "34923"
+            "verwendet": "36349"
         },
         "apotheken": {
             "apotheke": [
@@ -131,22 +131,22 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Linden-Apotheke",
+                    "name": "Mühlen-Apotheke",
                     "kammer": "aknds",
-                    "id": "1794",
-                    "apo_id": "aknds1794",
-                    "strasse": "Lange Straße 13",
+                    "id": "1795",
+                    "apo_id": "aknds1795",
+                    "strasse": "Burgstr. 17",
                     "plz": "27243",
                     "ort": "Harpstedt",
-                    "distanz": "33.772269761770005",
-                    "longitude": "8.5873073",
-                    "latitude": "52.9082947",
-                    "telefon": "+49 4244 95144",
-                    "fax": "+49 4244 95146",
+                    "distanz": "33.80446854989",
+                    "longitude": "8.5871724",
+                    "latitude": "52.909233",
+                    "telefon": "+49 4244 93530",
+                    "fax": "+49 4244 935353",
                     "email": [],
-                    "startdatum": "20.01.2026",
+                    "startdatum": "21.01.2026",
                     "startzeit": "08:30",
-                    "enddatum": "21.01.2026",
+                    "enddatum": "22.01.2026",
                     "endzeit": "08:30"
                 },
                 {
@@ -188,22 +188,22 @@
                     "endzeit": "08:00"
                 },
                 {
-                    "name": "Bahnhof-Apotheke Delcare oHG",
+                    "name": "Löwen-Apotheke",
                     "kammer": "aknds",
-                    "id": "1665",
-                    "apo_id": "aknds1665",
-                    "strasse": "Bahnhofstr. 11 - 13",
-                    "plz": "27749",
+                    "id": "1671",
+                    "apo_id": "aknds1671",
+                    "strasse": "Bremer Str. 78-82",
+                    "plz": "27751",
                     "ort": "Delmenhorst",
-                    "distanz": "38.10342975145",
-                    "longitude": "8.6299531",
-                    "latitude": "53.0511638",
-                    "telefon": "+49 4221 14506",
-                    "fax": "+49 4221 18661",
+                    "distanz": "37.35756011849",
+                    "longitude": "8.6466895",
+                    "latitude": "53.0530558",
+                    "telefon": "+49 4221 91280",
+                    "fax": "+49 4221 912820",
                     "email": [],
-                    "startdatum": "20.01.2026",
+                    "startdatum": "21.01.2026",
                     "startzeit": "08:30",
-                    "enddatum": "21.01.2026",
+                    "enddatum": "22.01.2026",
                     "endzeit": "08:30"
                 },
                 {
@@ -243,6 +243,25 @@
                     "startzeit": "08:00",
                     "enddatum": "22.01.2026",
                     "endzeit": "08:00"
+                },
+                {
+                    "name": "Königs-Apotheke",
+                    "kammer": "aknds",
+                    "id": "952",
+                    "apo_id": "aknds952",
+                    "strasse": "Königsberger Str. 43",
+                    "plz": "31535",
+                    "ort": "Neustadt am Rübenberge",
+                    "distanz": "44.5150704332",
+                    "longitude": "9.4498306",
+                    "latitude": "52.5106419",
+                    "telefon": "+49 5032 894517",
+                    "fax": "+49 5032 894518",
+                    "email": [],
+                    "startdatum": "21.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "22.01.2026",
+                    "endzeit": "08:30"
                 },
                 {
                     "name": "Kronen Apotheke",
