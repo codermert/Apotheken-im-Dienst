@@ -1267,7 +1267,7 @@
             "anzahl": 9
         },
         "quota": {
-            "verwendet": "42537"
+            "verwendet": "44872"
         },
         "apotheken": {
             "apotheke": [
@@ -1310,25 +1310,6 @@
                     "endzeit": "09:00"
                 },
                 {
-                    "name": "Löwen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1671",
-                    "apo_id": "aknds1671",
-                    "strasse": "Bremer Str. 78-82",
-                    "plz": "27751",
-                    "ort": "Delmenhorst",
-                    "distanz": "10.682793413539999",
-                    "longitude": "8.6466895",
-                    "latitude": "53.0530558",
-                    "telefon": "+49 4221 91280",
-                    "fax": "+49 4221 912820",
-                    "email": [],
-                    "startdatum": "21.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "22.01.2026",
-                    "endzeit": "08:30"
-                },
-                {
                     "name": "Stern-Apotheke",
                     "kammer": "aknds",
                     "id": "1373",
@@ -1348,6 +1329,25 @@
                     "endzeit": "09:00"
                 },
                 {
+                    "name": "Moorkamp-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1673",
+                    "apo_id": "aknds1673",
+                    "strasse": "Brendelweg 5",
+                    "plz": "27755",
+                    "ort": "Delmenhorst",
+                    "distanz": "13.37795548676",
+                    "longitude": "8.6228754",
+                    "latitude": "53.032369",
+                    "telefon": "+49 4221 25055",
+                    "fax": "+49 4221 25056",
+                    "email": [],
+                    "startdatum": "22.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "23.01.2026",
+                    "endzeit": "08:30"
+                },
+                {
                     "name": "Hohwisch-Apotheke",
                     "kammer": "akbr",
                     "id": "10082",
@@ -1365,6 +1365,25 @@
                     "startzeit": "09:00",
                     "enddatum": "22.01.2026",
                     "endzeit": "09:00"
+                },
+                {
+                    "name": "Ring-Apotheke",
+                    "kammer": "aknds",
+                    "id": "1749",
+                    "apo_id": "aknds1749",
+                    "strasse": "Ring 26",
+                    "plz": "27777",
+                    "ort": "Ganderkesee",
+                    "distanz": "15.89569036873",
+                    "longitude": "8.5473054",
+                    "latitude": "53.03225",
+                    "telefon": "+49 4222 950288",
+                    "fax": "+49 4222 950290",
+                    "email": [],
+                    "startdatum": "22.01.2026",
+                    "startzeit": "08:30",
+                    "enddatum": "22.01.2026",
+                    "endzeit": "20:00"
                 },
                 {
                     "name": "Deich-Apotheke",
@@ -1422,25 +1441,6 @@
                     "startzeit": "09:00",
                     "enddatum": "22.01.2026",
                     "endzeit": "09:00"
-                },
-                {
-                    "name": "Mühlen-Apotheke",
-                    "kammer": "aknds",
-                    "id": "1795",
-                    "apo_id": "aknds1795",
-                    "strasse": "Burgstr. 17",
-                    "plz": "27243",
-                    "ort": "Harpstedt",
-                    "distanz": "27.171589531869998",
-                    "longitude": "8.5871724",
-                    "latitude": "52.909233",
-                    "telefon": "+49 4244 93530",
-                    "fax": "+49 4244 935353",
-                    "email": [],
-                    "startdatum": "21.01.2026",
-                    "startzeit": "08:30",
-                    "enddatum": "22.01.2026",
-                    "endzeit": "08:30"
                 }
             ]
         }
